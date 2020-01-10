@@ -1,0 +1,140 @@
+__NOTITLE__
+__NOEDITSECTION__
+{| width="100%" <!-- border="1px" <!--for Testing -->
+! style="width:90%;" colspan="3"  align="center" | <center> [[Image:rimworldlogo.png|link=Main Page|600px]]</center>
+! style="width:10%;" rowspan="2" | <!--buffer, do not remove -->
+|-
+| style="width:46%;" |
+'''[http://rimworldgame.com RimWorld]''' 是一个太空殖民地管理游戏，由[http://ludeon.com/blog/studio/ '''Ludeon&nbsp;Studios''']开发。其为[http://tynansylvester.com/ '''Tynan&nbsp;Sylvester''']在蒙特利尔创建的工作室。
+
+最新的稳定版本是{{:Version/Current version}}。关于所有版本的信息，详见[http://ludeon.com Ludeon development blog]。
+
+我们当前共有[[Special:Statistics|{{NUMBEROFARTICLES}} 页]].<br>
+
+
+{| width="100%" <!-- border="1px" <--for Testing -->
+! class="text-center" colspan="2" width="45%" | 
+== 游戏基础及概念 ==
+! class="text-center" colspan="2" width="45%" |
+== 游戏物品 ==
+! class="text-center" rowspan="2" width="10%" | <!--buffer, do not remove -->
+|- 
+| class="text-top" width="23%"| 
+<div class="text-left">
+'''[[Basics|基本概念]]'''
+:&#9642; [[Controls|游戏操作]]
+:&#9642; [[Modding|MOD]]
+:&#9642; [[Save file|存档]]
+:&#9642; [[User interface|用户界面]]
+:&#9642; [[Version|版本]]
+:&#9642; [[Learning helper|教程助手]]
+:&#9642; [[Guides|指南]]
+::&#9642; [[Colony Building Guide|殖民地建筑指南]]
+::&#9642; [[Quickstart Guides|上手指南]]
+
+[[Game Creation|'''创建游戏''']]
+:&#9642; [[Scenario system|剧本系统]]	
+:&#9642; [[AI Storytellers|AI故事叙述者]]
+::&#9642; [[Cassandra Classic|“经典的”卡桑德拉]]
+::&#9642; [[Phoebe Chillax|“建筑师”菲比]]
+::&#9642; [[Randy Random|“随机的”兰迪]]
+:&#9642; [[World generation|生成世界]]	
+:&#9642; [[Biomes|生态群落]]
+
+[[Characters|'''角色属性''']]
+:&#9642; [[Backstories|背景故事]]
+:&#9642; [[Health|健康]]
+:&#9642; [[Needs|需求]]
+:&#9642; [[Mood|情绪]]
+:&#9642; [[Thoughts|想法]]
+:&#9642; [[Skills|技能]]
+:&#9642; [[Traits|特性]]
+:&#9642; [[Social|社交]]
+</div>
+| class="text-top mpbr" width="22%"|
+<div class="text-left margin-lr">
+'''[[Menus|菜单选项]]'''
+:&#9642; [[Menus#建筑规划|建筑规划]]
+:&#9642; [[Menus#工作|工作]]
+:&#9642; [[Menus#方案|方案]]
+:&#9642; [[Menus#派系|派系]]
+:&#9642; [[Menus#历史|历史]]
+:&#9642; [[Menus#菜单|菜单]]
+:&#9642; [[Menus#研究|研究]]
+:&#9642; [[Menus#管制|管制]]
+:&#9642; [[Menus#野生动物|野生动物]]
+:&#9642; [[Menus#世界|世界]]
+:&#9642; [[Development mode|开发者模式]]
+
+'''[[Gameplay|游戏机制]]'''
+:&#9642; [[Caravan|远行队]]
+:&#9642; [[Combat|战斗]]
+:&#9642; [[Cover|掩护]]
+:&#9642; [[Defense|防御]]
+:&#9642; [[Drafting|征召]]
+:&#9642; [[Events|特殊事件]]
+:&#9642; [[Factions|派系]]
+:&#9642; [[Firefighting|灭火]]
+:&#9642; [[Research|研究]]
+:&#9642; [[Time|时间]]
+:&#9642; [[Trade|贸易]]
+:&#9642; [[Environment|环境]]
+
+
+'''[[Mods]]'''
+:&#9642;&nbsp;[[MOD列表]]
+:&#9642;&nbsp;[[Modding&nbsp;Tutorials|MOD教程]]
+
+</div>
+| class="text-top" width="23%"|
+<div class="text-left margin-lr">
+'''[[Architect|建筑规划]]'''
+:&#9642; [[Orders|命令]]
+:&#9642; [[Zone|区域]]
+:&#9642; [[Structure|结构]]
+:&#9642; [[Production|生产]]
+:&#9642; [[Furniture|家具]]
+:&#9642; [[Power|电力]]
+:&#9642; [[Security|范围]]
+:&#9642; [[Misc|杂项]]
+:&#9642; [[Floors|地板]]
+:&#9642; [[Recreation|娱乐]]
+:&#9642; [[Ship|飞船]]
+:&#9642;&nbsp;[[Temperature|温度]]
+
+'''[[Plants|种植]]'''
+:&#9642; [[Decorative plants|装饰性植物]]
+:&#9642;&nbsp;[[Domesticated plants|可种植植物]]
+:&#9642; [[Trees|树木]]
+:&#9642; [[Wild plants|野生植物]]
+</div>
+
+| class="text-top" width="22%"|
+<div class="text-left margin-lr">
+'''[[Character Types|生物]]'''
+:&#9642; [[Animals|动物]]
+:&#9642; [[Colonist|殖民者]]
+:&#9642; [[Mechanoid|机械体]]
+:&#9642; [[Prisoners|囚犯]]
+:&#9642; [[Raider|掠夺者]]
+:&#9642; [[Character Types#访客|访客]]
+
+'''[[Resources|资源]]'''
+:&#9642; [[Drugs|毒品]]
+:&#9642; [[Food|食物]]
+:&#9642; [[Medicines|药物]]
+:&#9642; [[Materials|材料]]
+:&#9642; [[Textiles|布草]]
+
+'''[[Gear|装备]]'''
+:&#9642; [[Armor|护甲]]
+:&#9642; [[Clothing|衣物]]
+:&#9642; [[Weapons|武器]]
+::&#9642;&nbsp;[[Neolithic Weapons|冷兵器]] 
+::&#9642;&nbsp;[[Modern Weapons|现代兵器]]  
+::&#9642;&nbsp;[[Advanced Weapons|高级武器]] 
+::&#9642;&nbsp;[[Mechanoid Weapons|未来武器]]
+
+</div>
+
+|}

@@ -1,0 +1,9 @@
+
+{{ VersionFrame | Version = 1.0.2282 | Description = '''Release 1.0 - 1.0.2282 稳定版'''于2019年5月31日发布
+| Body =
+*优化游戏的加载过程，尤其是mod部分。你可以明显感觉到加载速度变快。
+*角色创建内容升级。
+*本地化工作升级。
+}}
+<noinclude>{{VersionNavbox}}</noinclude>
+<noinclude>[[Category:Current version]][[Category:Version_1_0]]</noinclude>

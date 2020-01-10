@@ -1,0 +1,534 @@
+{{Image wanted}}
+{{TOCright}}
+
+This guide is the ultimate go-to guide to building your [[colony]], for all stages of the game.
+
+== General colony design principles ==
+
+An efficient base allows your colonists to ''get stuff done'' and ''stay happy''.  They must be able to reach their assigned jobs in time, and the base needs to be pleasing and comfortable to work and live in.  The base should also be ''secure'', but that is probably the easiest part.
+
+=== Getting stuff done: lowering foot traffic ===
+It is not possible to make all places easily accessible, so you need to decide what spots are more important, and lay out the base accordingly.
+
+The most important principle here is to '''not put the living quarters in the center of the base'''.  Bedrooms should be at the edge of the colony: they are not needed during the day and will be an obstacle.
+
+Also, it is difficult to plan ahead how many beds you will need, unless you make a hard commitment to limit the head count of your colony (and to kill or sell everybody else...).  If your living quarters have other buildings surrounding them, it becomes impossible to add more beds without creating an entirely new housing zone.  This quickly leads to a cluttered base layout that is difficult to defend.
+
+The recreation and dining area should also be off center, probably close to the sleeping area.  Recreation and eating happens mostly in the morning and evening (before and after night time).  Colonists visit this place only very sparingly during the day.
+
+This principle does, however, not apply to every room that happens to have beds in it ®C the hospital and prison can, and should, be more centrally placed.  Hospitals and prisons require frequent visits, to tend to and feed patients and "guests".  Prison breaks are more easily contained if the fugitive is in the middle of your base.
+
+Make sure that related areas are close: kitchen, freezer, warehouse and factory floor.  Some rooms are ''very'' frequently accessed from the outside (the freezer is one example).  Provide short walkways to these places.
+
+=== Make it pretty ===
+
+Colonists do not like to exist in a cluttered and ugly environment.  They do not want to walk through disgusting places all the time.  For example, do not put a dumping stockpile next to a Geothermal generator next to the main walkway of the colony.
+
+Ugliness that is unavoidable can be countered with ''decor bombing''.  Make some really expressive sculptures, and put them right into the mess.  You can spread a few ''large sculptures'' throughout your main stockpile, for example.  This will make it beauty-neutral or even "beautiful".  Like all furniture, sculptures do not have to be kept roofed or indoors, so they can be placed anywhere.  Smoothed floors and walls, as well as carpets, are an effective source of beauty (+2 beauty per tile), but somewhat work and resource intensive to make.
+
+Comfortable furniture is very important.  Keep a good carpenter (with high "construction" skill), and have them craft all the furniture in the base (especially the beds and chairs).  Put dining chairs in front of all workstations (they are both "beautiful" ''and'' "comfortable"); they will not make anyone work faster, but they give a mood bonus while anybody is using them.
+
+With regards to construction work, it is best to let your most capable constructors prioritize on the "artisan work", ie furniture with a quality rating that matters.  The second league of constructors can do things like lay carpets, smooth floors and build walls.  These structures do not have a quality rating ®C the contruction skill only influences success chance and work speed.  Sadly it is difficult to impossible without the [https://steamcommunity.com/sharedfiles/filedetails/?id=725219116 requisite mods] to direct your colonists in the required way.
+
+=== Safety first ===
+
+Securing the base is not difficult, as long as your floor plan is compact.  You can simply surround the entire complex with walls, keeping a deliberate weak spot that enemies will most probably attack from.  If you give enemies the opportunity to enter your base, they will take it, even if tactically unsound.  If there are long hallways, you can use the doorways as natural cover, by having one shooter stand in each doorway and shoot down the hall at incoming attackers.  This is an effective maneuver that can contain even mid-size raids and does not require any purpose-built defenses.
+
+On higher difficulties, advanced tactics like "killboxes" and turret spam might be in order.
+
+In general you want the attackers come ''to you'', and not fight them outside of your base in the open.  Siege crews and lone pyromaniacs should be lured close to your base before engaging them.
+
+== Base Types ==
+
+There are different ways to build your base.
+
+{| class="wikitable"
+!  
+! Superstructure base
+! Town-like settlement
+! Mountain base
+|-
+! Description
+| Put everything in one large building.
+|| Build everything in separated buildings, just like a small town.
+|| In mountainous maps, dig inside the mountains.
+|-
+! Pros
+|
+*Convenient
+*Saves building materials and some space
+*More resistant against [[Events#Toxic Fallout|toxic fallout]]
+*Improved temperature control
+*Shortest walking paths
+||
+*Very flexible
+*Does not require large patches of continuous land
+*Best satisfies Outdoors need
+||
+*Best temperature control
+*Easy to defend
+*Immune to mortar strikes
+*Leaves more soil available for farming
+*Saves most building materials
+*Most resistant against [[Events#Toxic Fallout|toxic fallout]]
+
+|-
+! Cons
+|
+*Fires can spread all over the base if flammable materials are used
+*Requires a large, continuous area of buildable land, making it not ideal for swamp [[biomes]]
+*Less flexible
+*Less able to satisfy Outdoors need
+||
+*Requires most space and building materials overall
+*Requires more planning to defend
+*Worst temperature control
+*Longest walking paths
+||
+*'''Infestations can happen within base'''
+*Least flexible
+*It takes a '''lot''' of time to mine out separate rooms and clear stone chunks
+*Least able to satisfy Outdoors need
+|}
+
+[[File:Example base layout.png|frame|left|Example floor plan for a "superstructure" base with an efficient layout of zones to keep walking distances short.  Arrows indicate where items are commonly transported.  Room sizes are not necessarily to scale, and many variations of this layout are reasonable.  The "killbox" is not mandatory; with a layout like this, enemies can also be lured into the long corridors and shot at from the doorways.  The "clean room" would include hospital beds and a kitchen.]]
+{{clr}}
+
+== Base Structures ==
+
+Different structures suit the different needs of your colony. The maps generate with old structures around, sometimes just walls and others are squares/rectangles just missing some sections. If conveniently located, these can work perfectly as starting points, reducing considerably the initial workload of characters with low-level skills and reducing the beginning stresses when you still have nothing.
+
+=== Storage ===
+
+Currently, the first room we need to build is a storeroom, as items deteriorate if left outdoors or exposed.  Place a stockpile zone covering most of the room except for the tiles adjacent to the doors as sometimes pawns may accidentally drop an item in the doorway, leaving it open and insecure. You can have multiple smaller stockpile zones set to allow specific different items to better organize them.  Your storeroom should be built close to the workshop to minimize travel times for raw materials.
+
+Give special consideration toward explosive items such as [[chemfuel]] or [[mortar shell]]s as they may blow up and set ablaze your entire stock. Place them separate in a stone made compartment and far from the exterior of the base to prevent [[doomsday rocket launcher]]s from hitting the items as they can pierce through walls.  Place a [[firefoam popper]] here to protect against fires igniting your munitions.
+
+In mid-game, you can add orbital trade beacons to sell your stuff to trade ships.
+
+=== Barracks ===
+
+The barracks is a room where multiple pawns share a single sleeping space. This is easy to host your colonists early in the game, but it proves inconvenient as walking pawns will disturb the sleep of other occupants, and non-lover pawns dislike sharing a room. Furniture such as bedrolls or beds improve their comfort.  The better the furniture, the faster they wake up and become more productive during their schedules. You should upgrade your colony to provide private bedrooms once the basics are covered, and you can convert the barracks into something else such as a hospital or prison barracks.
+
+You can upgrade a barracks with positive mood modifiers by placing sculptures, nice flooring, temperature control utilities and high-quality furniture like dressers and end tables which increase the comfort of many beds at once.
+
+Colonists like to eat as soon as they wake up. You may place a table and chairs inside at the beginning, but try to reinstall them elsewhere when you can as colonists entering to eat will disturb the sleep of others. Build the dining room close to the barracks once the sleeping quarters are done.
+
+=== Bedrooms ===
+{{see also|Space}}
+
+[[File:Bedroom.png|thumb|right|General purpose bedroom, suitable for all phases of the game. Temperature is equalized with a hallway to the right.  The room has enough space for a temporary production building.]]
+
+Bedrooms are private sleeping spaces which removes the "disturbed sleep" mood penalty caused by other pawns, and provides better mood bonuses than a barracks. Couples will want to sleep together and won't disturb the sleep of their partners.  However, they will need a double bed.
+
+As you expand, you would want to upgrade your bedrooms in this way:
+* To increase comfort, give the bed an [[end table]], and put a [[dresser]] in the room. Higher quality furniture provides better comfort, while higher quality beds increase the ''rest effectiveness''. Have your most capable builder furnish the bedrooms.
+** Around 25 tiles of floor space, this leaves enough room to put temporary production buildings in the bedroom, useful during base expansion. Any bigger is less efficient because it increases cost of flooring.
+** Standing lamp
+** Beauty items, such as flower pot or sculpture; more is better, but do not go overboard.
+** High quality flooring, such as carpets. This increases beauty. If you can smooth the floors (and walls), usually in a mountain base, this is always preferable to carpet flooring: it gives the same beauty value, but is not flammable and much cheaper to build. You need a good constructor, because smoothing floors takes a lot of work.
+** Heating and/or cooling; it is far easier to heat or cool the hallways instead, and use [[vent]]s to equalize the temperature with the bedrooms.
+
+Colonists often carry a meal with them, and without a table, they will resort to eating their breakfast on the floor and receive a mood debuff. Depending on your base overall layout, you may:
+* Build the Dining room close.
+* Build one set of table and chairs outdoors near many bedrooms.
+* Place tables and chairs inside. However, make sure to turn off the "Gathering Spot" option of tables, as others seeking [[recreation]] may enter someone else's bedroom and disturb their sleep.
+
+==== Special cases ====
+
+"Ascetic" colonists want an unimpressive bedroom.  The best way to achieve this is to have no flooring or beauty items, and make the room smaller.  You should still provide end tables and dressers for them, because even ascetics like to sleep comfortably. A hardcore method could be to leave a desiccated animal corpse inside, dropping impressiveness by a huge amount.
+
+"Greedy" colonists are initially harder to please, though as you expand and become richer providing impressive bedrooms should be no problem.
+
+"Jealous" colonists are the hardest to manage, especially if you have more than one. Using only standard bedrooms of equal quality is the best approach to eventually make everybody happy in this situation.
+
+{{clear}}
+
+=== Conjoined facilities ===
+
+The Freezer, Kitchen, Dining Room and Recreation Room are often adjacent to one another. The kitchen should be isolated from the other rooms to reduce dirt caused by walking in. The dining room and kitchen should be attached to the freezer so it isn't necessary to have to pass through the kitchen to get a meal.
+
+Parties and wedding ceremonies take place at Gathering Spots where chairs are detected, and since pawns don't eat during these times, their proximity to the freezer is convenient to go get a meal and come back to the tables.
+
+==== Freezer ====
+
+[[File:Freezer coolers placement.png|thumb|right|400px|Simple freezer built along a mountain, with coolers inside.]]
+
+[[File:Special freezer.png|thumb|right|This freezing room has the coolers placed in the center instead of at the edges.  Only the center tile is unroofed.  The green area shows the roof, this is also the "cold" area of the freezer room.  The center, unroofed, tile is at outdoors temperature.]]
+
+The Freezer is a stockpile room to preserve [[raw food]], plant matter and fresh animal corpses. Across all stages, the freezer is an indispensable facility, because meat and prepared meals spoil very quickly, and it is impossible to keep a fresh food stockpile without a controlled freezing area.
+
+In most places, this is accomplished with the addition of [[cooler]]s set to freezing temperatures. Even though food freezes at {{Temperature|0}} you should have your freezer at least set at {{Temperature|-5}} since it will gain heat whenever a colonist comes in. In cold places, on the other hand, you may choose to save power by disabling the coolers, and instead let cold air inside through vents. 
+
+It is viable for [[butcher spot]]s or [[butcher table]]s to be placed inside the freezer, as butchering is a short, intermittent activity for your cook, so the work speed penalty is not very impactful. Other workstations, such as [[crafting spot]]s should be placed right outside to avoid the work penalty while benefiting from the proximity of the ingredients. <br>
+In any case, do '''not''' put your kitchen stove in this room. Besides the work speed penalty, the cooking stove needs to be in a clean environment which the freezer does not have, due to heavy foot traffic and blood stains from dead animal bodies.
+
+Consider making an exclusive stockpile with high priority at the front of your freezer which only allows [[meal]]s, so that cooks will always store them closer to ease retrieval. The same planning can be applied for two more stockpiles at the front of your freezer for meat and veggies, to speed up ingredient pick-ups (colonists assigned to hauling and trained animals will move ingredients from the back of the freezer to the front).
+
+[[Nutrient paste dispenser]]s act as walls. They are usually placed with their hoppers in the freezer and activation spot in the dining room.
+
+Cooler placement is of crucial importance, as these devices have a very low 100HP, making them the weakest point in a wall from where raiders can break in easily and most likely ignite your food supply. Because of this, one of the best ways to protect your coolers is to place them facing a mountain, if there is one nearby, or to build a wall around their hot side. In both cases, make sure to remove any roofs.  If your base is in a cold biome, another option is to direct their hot sides into your living space to help heat it. It is common to make the freezer with double walls to increase insulation. The freezer is vulnerable to [[Events#Solar Flare|solar flares]].  In freezing biomes, food still needs to be kept from spoilage to exposure.  In which case, wall it off and add [[vent]]s to the exterior to let in the cold air.
+
+It is common to make airlocks(a door, a short space, and then another door leading to the freezer itself)in the entrance of the freezer to reduce temperature exchange. Since colonists and haulers will enter this room quite often, build [[autodoor]]s once available to both speed up entry/exit and minimize temperature change.
+
+===== Positioning =====
+
+Because the freezer is a special kind of stockpile area, and relies on coolers, which are somewhat fixed installations, it is not easily moved in your base.  This means you need to plan carefully where you put it.
+
+The freezer needs three main entrances: 
+* One leading directly outdoors, or with a short outdoors connection.  Dead animal bodies and produce from your farm fields and pasture will be delivered this way.
+* One leading to the kitchen.  It should probably be right next door.
+* One leading to the main warehouse.  This is to take leather from butchered animals into storage, as well as moving slow spoiling stuff such as corn, smokeleaf and healroot between the freezer and warehouse.
+
+In addition, the freezer will need to be expanded as population increases, meaning that you should leave one of its sides unoccupied by other structures so that in the future you can increase the size of it without needing to deconstruct other rooms. The freezer should not be too large, because that will require more coolers, and also increase the walking distance to gather and redistribute supplies.
+
+This practically demands that the freezer is at the periphery of your base.  If you place it there, you can also increase the floor space when your colony grows. Because you will be storing your harvests here, it is also wise to position this room in close proximity to your fields to shorten hauling jobs, with doors also pointing towards your growing zones. 
+
+Note that however, the freezer does not need direct access to the perimeter of your base! A single unroofed tile is enough to vent the exhaust from up to four coolers (it counts as an outdoors tile as far as the game is concerned, if the four tiles perpendicular to it are walls, or wall-like tiles).  Only in a mountain base you need to consider the exhaust spots of the freezer room more carefully.
+
+Be very careful when you dig or build in or around this room.  Leaving even a single gap in a room wall will raise the temperature well above the freezing point, and this is easily missed because there is no direct visual indication of the room temperature.  It can lead to massive amounts of food spoiling if undetected.
+
+It is tempting to dig into a mountain to create a freezing room, but keep in mind that [[infestation]]s can then spawn in this room.  This can actually be a good thing, because eradicating an infestation right inside the freezer room is tactically easy, and it will leave all the filth and dead insects in probably the best location in your base.  Your food supply will, however, be temporarily disrupted in such a scenario.
+
+==== Kitchen ====
+
+[[File:Kitchen area.png|thumb|right|Kitchen area with short walkways for the colonists and separate meal freezer.  Autodoors are used in chokepoints.  The meal freezer and dining room could, and probably would, be more distant in the base.  This layout tries to minimize foot traffic in the kitchen, but it is difficult to avoid.]]
+
+The kitchen is where your colonists cook raw food into [[meals]] to improve colony life. The kitchen should be clean to avoid [[ailments#food poisoning|food poisoning]], which can be attained by the following means:
+* Zone out colony animals.
+* [[Sterile tile]]s for flooring.
+* Place your doors so that your dining room has a shorter path to the freezer than walking through the kitchen
+
+You should build your kitchen right next to your Freezer.
+
+The [[butcher table]] is better placed elsewhere, due to its inherent uncleanliness added with the filth created by butchering. However, it should be placed near the freezer, preferably in a spot in the warehouse right next to it, as both ingredients (dead animals) and products (meats) need to be stored inside the freezer, having the butcher work there greatly reduces travel time. If you plan to make a lot of [[Kibble]], create an extra butcher table outside of the freezer for that task, to avoid the work speed penalty from the cold.
+
+[[Shelf|Shelves]] or small stockpiles can really improve cooking efficiency when placed right next to your stoves. Set one to accept berries and vegetables only, and another to accept meats which would usually be cooked before they spoil. Put those shelves on high priority, so they will be replenished by your haulers and saving time for the cook.  If you take this approach, set up the bills on the stove so that the products (meals) are ''dropped on the floor'' by the cook, and not delivered to a stockpile immediately.  Prepared meals will stack next to the stove and can then be delivered in bulk to the freezer or fridge, close to the dining hall.
+
+It is usually a good idea to add a little art since colonists tend to stay there for a long time. It should be temperature controlled for better working speed.
+
+Since the kitchen is placed near the freezer, some crafting stations which include plants ingredients may be also placed in here. The [[brewery]] and [[drug lab]] are good choices. Also, if you making [[chemfuel]] with food you may place the [[biofuel refinery]] here.
+
+==== Dining room ====
+
+Dining rooms, at their simplest, are simply rooms where you put tables and chairs for colonists to dine in.  Still, tables are marked as Gather Spots by default.  Colonists will hang out here to relax and also hold their parties and weddings here.  Expect your dining room to be pretty crowded during meal times, especially after a party or marriage ceremony, so have enough chairs for at least half your colony.
+
+Colonists, as well as visitors, will search in a 20 tile radius for a table to eat at.  For this reason, a dining room should be built as close as possible to the freezer/food storage so that your colonists will actually use the dining room, instead of eating on the floor of the storage, giving them a -3 mood debuff. This is especially true for larger freezers, in which colonists retrieving food from the far end may simply give up searching for a table and eat on the floor.
+
+Since colonists spend a lot of time here, increase their mood by decorating your dining room with [[sculptures]], [[plant pot]]s or quality furniture. Having an impressive dining room also provides a small mood bonus to colonists who eat there.
+
+==== Rec room ====
+
+You should have a wide variety of [[recreation]] sources so your colonists don't get bored repeatedly throwing horseshoes at a pin, or wandering around aimlessly. Putting all of them in a room also provides a mood bonus after a colonist uses the facilities inside, depending on the impressiveness of the room.
+
+In the early game, all you'll need is a horseshoes pin somewhere in the colony, and colonists will proceed to use it when they are bored.
+
+Once you reach midgame, you can afford more recreation facilities such as chess tables or billiards tables, or [[Tube television]]s, which provide different kinds of recreation for additional variety. In addition, you can also obtain additional recreation sources from exotic goods traders, such as [[telescope]]s or [[Megascreen television|megascreen]] televisions, which offers more recreation than the craftable tube and flatscreen televisions.
+
+Similarly to the dining room, decorating it can improve the mood bonus from using the room.
+
+=== Courtyard ===
+
+[[File:Courtyard.png|400px|thumb|right|Small courtyard that serves both as a dining room and recreation room.]]
+
+Most colonists like getting outside once in a while.  In superstructure bases, you may consider building an unroofed courtyard where colonists can get some fresh air.
+
+You can use it as a common area, putting recreation items and dining tables for colonists to use, making the courtyard behave exactly the same as an unroofed dining/recreation room. Alternatively, it may also be used as a place to put your [[mortar]]s as putting them in the middle helps reduce the impact of their minimum range blind spot. Also consider keeping [[transport pod]]s here, but place them in a separate unroofed area as they are not beautiful to look at.
+
+{{clr}}
+
+=== Laboratory ===
+
+You may want to have a room dedicated to research, with [[hi-tech research bench]]es, [[multi-analyzer]]s to increase research speed and unlock new research.  Room cleanliness affects research speed, so place sterile tiles to keep the room clean. For even better cleanliness, restrict the lab to your researchers and janitors only, reducing traffic and hence the amount of dirt in the room.  Also consider placing some art here and building a comfortable chair, as your researcher will be spending a lot of time here.
+
+=== Workshop ===
+
+Workshops are places where you put all your crafting stations and benches. You should put them near your warehouse so your colonists can spend less time hauling the needed resources to the workshop for crafting, while keeping them separate due to the beauty penalty of raw materials. Also remember to put chairs of any sort at the interaction spot so your colonists won't have to keep standing while crafting.
+
+The [[tool cabinet]] is handy for increasing productivity of your craftsmen. The work speed bonus is quite valuable, and each bench may benefit from two tool cabinets.
+
+It is an excellent idea to '''put decorations such as sculptures inside the workshop''', as a beautiful environment gives up to +15 mood, improving colonists' productivity and even allowing for the occasional mental inspiration.
+
+=== Armory ===
+
+You can choose to have a dedicated area to store your weapons and armor. If so, put it far away from your prison so that prisoners do not have ready access to dangerous weapons during prison breaks.  Place it near your entrance so that colonists can equip themselves on the way to defend your base.
+
+Ammunition, on the other hand, is best stored deeper in the base, preferably far from anywhere else in case of unexpected events such as fires.
+
+=== Hospital ===
+[[File:Hospital_example_midgame.png|400px|thumb|right|Hospital with sterile tiles, hospital beds with vital monitors, decorations and megascreen TVs facing the beds.]]
+
+[[File:Compact hospital layout.png|thumb|right|An efficient hospital layout.  Dresser and end tables provide maximum comfort.  Two vitals monitors cover all 8 beds.  Flatscreen TVs provide extra recreation for the patients. Medical supplies are close by, the room is well lit and accessible from all sides. The vents equalize room temperature with the hallway. Up to six more beds could be installed here rather easily: four in place of the end tables, and one each to the left and right of the vitals monitors; all beds will have dresser, TV and monitor coverage.]]
+
+Dedicated hospitals are more of a mid-game thing when you have enough resources to build the specialized equipment used in them. [[Hospital bed]]s provide a boost to treatment quality, immunity gain speed, and healing speed, meaning colonists will recover faster from illnesses and injuries, making them the choice for hospitals. The [[vitals monitor]] brings even better boosts to treatment and immunity gain, so when available it's recommended that you put them down near your hospital beds.
+
+Hospitals should be built somewhere where colonists can quickly bring their downed comrades to treat them. Keep doors open, or use [[autodoor]]s so they don't obstruct colonists' access. If you need to, you can build more elsewhere in the base.
+
+Hospitals should have [[sterile tile]]s as flooring as they provide a slight cleanliness buff that can increase surgery success chance and reduce wound infection chance.  Keep in mind that wounded colonists will bleed out considerably, so you may want to assign another colonist to specifically clean the hospital to improve their treatment chances.
+
+Store your medicine in or near your hospital using [[shelf|shelves]] so your doctors can quickly grab them to patch up colonists before they bleed to death. Sometimes just that little distance can make the difference between life and death.
+
+[[Dresser]] and [[end table]]s ''do increase'' the comfort of the hospital bed.  The furniture does not affect medical treatment, but improves the mood of the colonists while they are recovering.  The downside is that each end table blocks a spot with vitals monitor coverage, but this is not a problem until one needs to squeeze the absolute maximum number of beds into the hospital.
+
+Decorating hospitals to make them beautiful can give colonists inside a great mood boost (max +15, plus impressive room stats). This is good, especially considering that some colonists will stay in the hospital for some time, such as the severely injured, incapacitated or sick.
+
+To provide recreation, you may also install televisions into your hospitals. Patients lying in hospital beds within the viewing area will watch TV to entertain themselves when they are bored, and you won't need colonists coming to cheer them up as their only recreation source.
+
+==== Patient rooms ====
+
+If you have even more resources and space, for example in lategame, you can build a separate room for each colonist. While they don't mind sleeping with others in a hospital, they do get disturbed by them walking around, and dirt can more easily affect cleanliness as well.
+
+==== Operating theater ====
+
+You can build a separate room to accommodate colonists who will undergo surgery, to make sure that colonists undergo medical operations in the cleanest of places.
+
+Your operating theater should be forbidden at all times except when someone is about to have surgery. This prevents colonists from tracking dirt or blood into it, staining it.
+
+==== Vet area ====
+
+Consider building animal sleeping spots with their own animal area near your medicine stockpile that you can restrict wounded animals to.  That way, they can be treated as fast as possible.
+
+Medical treatment for animals benefits from cleanliness as well, but not proper hospital beds (and in turn, vitals monitors). Once you enter midgame, sterile flooring should be easy enough to get.
+
+=== Prison ===
+
+[[File:Prison_example_midgame.png|400px|thumb|right|Mid-late game prison blocks from A17, partially filled. Each cell has a table with a chair, a bed, decorations and a chess table with a chair (for decoration). Generosity like this is well-appreciated and rewarded with prisoners joining your colony. Note that the doors open towards the rest of the base (downwards).]]
+
+==== Prison barracks ====
+
+In the early game you can simply convert any existing ruins into a makeshift prison barracks or build a simple prison hut which holds all the prisoners you capture. Try not to build it too far away from your main structures, otherwise it becomes harder to catch escaping prisoners.  Another option is to mark one of your colonist's bedrooms as a temporary prison while you build another bedroom or a proper prison.
+
+You should include tables and chairs for prisoners to use.  This will improve their mood, which by extension lowers their chances of mental breaks and improves their recruitment speed.
+
+==== Prison cells ====
+
+Like colonists, [[prisoner]]s will also suffer from the mood penalties associated with being kept together in a prison barracks. In addition, prison breaks are more serious should they happen, for every prisoner locked up in the same room will simultaneously break out, while prisoners in different cells may choose not to join. Thus, you should keep them separated.
+
+Each cell should have a table with a chair, a bed, and a light source. This is the bare minimum you need for a prisoner to be decently kept. Decorating the cell and making them bigger also increases mood bonuses for easier recruitment. They can't use any recreation items put in the cell, nor do they have a recreation need, so don't bother with recreational items other than for room impressiveness.
+
+Prisons should have doors facing towards your base, so escaping prisoners will go towards your base instead of away, giving your wardens more time to deal with a break.
+
+==== Holding cell ====
+
+A larger cell with more beds. It should be only be used when your prison cells are overflowing. Put your less important prisoners inside them while assigning your more valuable prisoners into the cells.
+
+=== Multipurpose rooms ===
+
+These are more of an early to early-midgame thing that you can use before you get dedicated structures erected, such as hospitals or bigger prisons. Yet, these can still prove useful sometimes, like when your freezers or warehouses overflow, or you need somewhere to house an influx of injured or sick colonists.
+
+This is rather simple; just make an empty room, along with suitable temperature control. You can add beds if you intend on someone living in it (be it colonists or prisoners), which you can uninstall and tuck away in a corner when unused.
+
+=== Backup ===
+
+There are many types of ways you can set up buildings on your map to possibly save your colonists' lives in dire situations:
+*'''Shelters:''' Building small rooms with emergency supplies can save your colonists from enraged animals. Thick enough walls (at least 4 layers) can stop raiders from killing your colonists hiding inside.
+*'''[[Nutrient paste dispenser]]s''': When food is running low or you forecast that it will, a paste dispenser can significantly slow down food consumption by efficiently converting raw foods into nutrient paste.
+* Strategically placed stockpiles of wood can provide heating, for example during a solar flare or cold snap.  Mark these wood stacks "forbidden", so your colonists will not use them during regular operation.
+
+== Production ==
+
+You will also need various buildings to produce or manufacture the stuff that your colonists need.
+
+=== Crops ===
+
+[[File:SunlampHydroponics.png|thumb|300px|right|Sun lamp illuminating crops grown in hydroponics basins. With this configuration you can fit 24 basins under 1 sun lamp for a total of 96 plants grown.]]
+
+{{See also|Food production}}
+
+==== Crop fields ====
+
+Crop fields are rather simple. Just set up a growing zone, designate the desired plant type and growers will automatically go and grow the plants.
+
+You need to carefully check the soil fertility before marking out your areas. 
+*Stony soil looks quite similar to dirt at first glance, but has a greatly reduced fertility, reducing the growing speed of plants.
+*Rich soil on the other hand, is visibly darker and has improved fertility, making it suitable for slow growing plants such as [[devilstrand]].
+
+You will need to keep most animals from eating your crops.  You can zone out the area from your tamed animals, but you will need to build walls to keep out wild animals.  If you're not building a greenhouse, then watch out for your builders automatically roofing this "room".
+
+==== Greenhouses ====
+
+Enclosed areas that grow crops with the aid of temperature control, [[sun lamp]]s and possibly [[hydroponics basin]]s. They allow you to continue growing crops regardless of soil or weather conditions.  Note that greenhouses are subject to power draining events like [[Events#Solar Flare|solar flares]], knocking out lamps, heaters and hydroponics. All plants in a basin without power will slowly take damage until they are destroyed. So beware, solar flares or damage to the power grid can destroy whole hydroponics crops.
+
+=== Mining ===
+
+In early-midgame you just need to select mineral outcrops and designate them, and miners will proceed to dig out the minerals.
+
+Once all visible mineral outcrops are mined, you can continue to mine resources in a couple ways. 
+
+==== Strip mining ====
+
+If you have more mountains or rocks which you can mine, you can strip mine them by mining out long tunnels with 2 tiles between each other. This allows you to see all tiles in the mountain. Hopefully, you will hit a mineral deposit.
+
+Covering up your mine to prevent infestations is a good idea, using cheap materials such as [[wood]] it is possible to completely seal up the mines at a low cost. Alternatively, set up defenses at the mine entrance and just farm the insects.
+
+==== Deep drills ====
+
+After research you will unlock the [[deep drill]] and the [[ground-penetrating scanner]] for use.
+
+It is not recommended to start deep drilling without an active scanner as you cannot see the locations of mineral locations.
+
+Some deposits will be directly underneath your base. You can deconstruct or relocate buildings to give access to your drills. Be careful when you mine in colonists' bedrooms as they can easily disturb sleep. Turn off the mineral scanner when you aren't placing new drills, and beware that bugs can be attracted by the drills. Be prepared to deal with infestations near or close to the drill.
+
+=== Animals ===
+
+[[Animals]] are an extremely useful asset to the colony. They provide a variety of products, from raw food materials (meat, eggs or milk), to wool, which is an excellent insulator against both heat and cold. Moreover, they can be used in combat or as pack animals in a [[caravan]]. In fact, some larger and more intelligent animals can be trained as haulers, such as dogs, freeing up colonists for other tasks.
+
+==== Barn ====
+
+Animals are happy to sleep anywhere as long as it's not too hot or cold.  Otherwise, a temperature-controlled barn with animal sleeping spots is necessary to keep the animals comfy.
+
+Building [[animal sleeping box]]es or [[animal bed]]s can help animals rest faster, though this doesn't really do much and is not cost efficient.
+
+==== Chemfuel farming ====
+
+[[Boomalope]]s are unique in the fact that they can produce [[chemfuel]]. This can be used to power generators, used as [[transport pod]] fuel or made into [[mortar shell]]s.
+
+Due to their explosive nature, they won't be attacked by predators, so you can let them roam freely without much danger. Keeping them confined is dangerous as the death of one boomalope can injure others, and if you don't intervene the other boomalopes will die, exploding and causing a chain reaction.
+
+== Power ==
+
+=== Solar power ===
+
+[[File:Solar wind setup.png|thumb|420px|right|Wind turbines with solar generators packed underneath the exclusion zones.]]
+
+[[Solar generator]]s provide power only during the day except during eclipses. It provides a constant 1700W, quite a decent figure, but still shouldn't be fully relied on.
+
+=== Wind power ===
+
+[[Wind turbine]]s provide unstable power day and night. It can provide up to 3450W or nothing at all, and rarely hits its peak production.
+
+It requires plenty of open space for maximum efficiency, and any obstacles in its area reduce efficiency. To prevent trees from growing and obstructing the turbines, put down floors, grow crops underneath the turbines or fill in the gaps with solar generators.
+
+=== Fueled generation ===
+{{main|Chemfuel powered generator}}
+
+You can build the [[wood-fired generator]] which runs on wood, or the [[chemfuel powered generator]] which runs on [[chemfuel]], constantly providing 1000W of power. It is a good idea to have some of these as a backup power source, or even as your main source in biomes that are loaded with forests that will replenish themselves, such as in the tropics or temperate forests.
+
+If the biome provides enough wood, the ''wood-fired generator'' is an excellent choice for establishing a colony.  The wood from about two trees will power the generator for three days, giving the colony uninterrupted power to run all important early-game facilities (freezer, lamps and some work tables).
+
+Chemfuel is significantly more efficient than wood, so once you research the [[refinery]] it becomes better to refine wood into chemfuel before usage as fuel.
+
+Both fueled generators will burn fuel at the full rate, even if no power is consumed.  Catching the excess power with batteries, and disabling the generators while the batteries are charged, will make them more fuel-efficient.
+
+==== Boomalope setup ====
+
+Boomalopes generate enough chemfuel to run 1 generator.
+
+3 boomalopes give enough fuel to continuously power 4 generators for a total of 4000W. This is not taking into account any energy costs from growing food for use by the boomalopes.
+
+If the animals have to be fed with grown food for more than a few days during the year, it is more efficient to convert the food straight into chemfuel (in a refinery), instead of feeding it to boomalopes.  On the other hand, if the biome allows the boomalopes to graze for most of the year, this makes them a free source of energy (if you can keep them safe).
+
+==== Greenhouse setup ====
+
+A hydroponic greenhouse will produce far more chemfuel than necessary to power the greenhouse and the required refinery.  This translates into a very high surplus of power (if you build additional generators), or you can use the surplus to grow food or drugs for the colony.  Even a single greenhouse can easily cover the food and energy needs of a mid-sized colony, without having to rely on any other power source.
+
+==== Infinite chemreactor setup ====
+
+[[Infinite chemreactor]]s generate enough chemfuel to run a generator, which in turn generates more than enough power to run the chemreactor.
+
+3 infinite chemreactors can generate enough fuel to power 5 generators, for a total surplus power of 4100W.
+
+Because the ''infinite chemreactor'' is a rare quest reward, it is unlikely that you will be able to create a setup that produces enough power for the entire colony.
+
+=== Geothermal power ===
+
+[[Geothermal generator]]s constantly give 3600W of power after being built on a steam geyser, without requiring fuel. It is an important source of power from mid-game onward, as it is constant and high-powered. A basic mid-sized colony can be sustained using 5 generators, around the usual number of geysers found on the map. 
+
+Research is required to unlock it. The generator itself is quite costly so it's best left to midgame. It is possible to rush the research for geothermal power, though you should be careful not to neglect other more important research projects. However, once researched and built you can have a constant power supply.
+
+Make sure your geothermal generators and their connecting conduits are well-protected as they often have to be placed far from base. Walling the generators helps protect them against raiders, but walling the conduits isn't recommended due to the cost and its hindrance on colonist field work. 
+
+Be aware of the heat that the geysers release. If you closely wall and roof in a geothermal generator, the temperature inside will be quite high, enough to set combustibles on fire (including the generator itself). It is thus necessary to remove the roofs on such buildings. However, if the vent is close to your base in a cold biome, consider attaching it to your own base to help heat it.
+
+=== Power storage ===
+
+[[Battery|Batteries]] store electricity during times of excess and release it during times when demand exceeds supply. You will need batteries to store power if you're using unstable power supplies such as wind or solar power. Batteries must be kept under a roof to prevent short circuits. They should also be protected from external threats as losing batteries to raiders or mortars can cripple your power supply.
+
+=== Emergency power ===
+ 
+Some events will cause you to lose power if you are unprepared. Some colonies rely on wind or solar power to power everything.  Eventually, every colony with electricity will suffer from a [[Events#Zzztt...|conduit explosion]]. Since you will be relying on batteries to store your power, this can cause a lot of disruption if the renewable energy isn't enough to power your base while your now empty batteries recharge. Raiders attacking and destroying power conduits connected to power generators can sever power from the colony, reducing the power available.  In all these circumstances, this can leave you without enough power for your freezers, production, hydroponics, temperature control or even your turrets.  However, it can be mitigated:
+*'''Backup batteries''': Always have spare power stores, such as separate battery systems with switches. Once charged, flick the switch to isolate them from the rest of the power grid. Only reconnect it when your main grid has run out or the reserves need charging.
+*'''Backup generators''': Have some fueled generators that you bring online only if there's not enough power in the colony. This can allow your backup batteries to discharge slower or even recharge. If they are turned off they will not consume fuel.
+
+=== Vanometric power cell ===
+
+A [[vanometric power cell]] constantly provides 1000 W of power, out of thin air.  It handles like a battery, and can be reinstalled at will.  It is the best portable power source in the game, very useful on mining caravans, and if you want to take your entire colony on the long trip to the event spaceship.
+
+Unfortunately, the Vanometric Power Cell is a rare quest reward, and there is no guarantee to obtain one during the course of a game.
+
+If the additional 1000 W from the VPC is not needed in your colony, it can be used as a risk-free way to keep any number of batteries at full charge, indefinitely.  Place the battery array directly adjacent to the VPC; this will keep it charged without the possibility of short-circuiting, since no power conduits are used.  Do not connect this installation to the rest of your power grid.
+
+=== Power network ===
+
+It's not a good idea to have just 1 conduit spanning the entirety of your base.  While it saves materials, short circuits or other events can cripple your power supply to parts of your base.  Instead, build a network with redundant pathways so that the grid will continue to function even if there is a break somewhere in the network.  Consider using doors to cover up the beauty penalty for exposed conduit indoors.
+
+Since geothermal generators must be built on top of existing geysers, they are often located far from your base. It is best to connect geothermal generators to other geothermal generators so that events such as wildfires and raider attacks won't easily disconnect them from your power network, causing severe power shortages.
+
+== Defenses ==
+{{main|Defense structures}}
+{{see also|Defense tactics}}
+
+Unless you're playing on Peaceful difficulty, you will eventually encounter major threats, so you will need to prepare defenses for that.
+
+Preparation is a huge advantage that you have. You can fortify your defenses to make the most out of your defending colonists, and tilt the field towards your favor.
+
+*Cover is a major aspect in defense. While enemies are hiding behind rock chunks, you have [[sandbags]] and walls on your side, giving you a significant upper hand. You can even clear the rock chunks to force enemies behind trees which are less optimal a cover choice, widening the advantage.
+*You get to choose where the enemy attacks (unless they use sappers to tunnel in). It is a good idea to only have one or two entrances with lots of defenses and traps to repel attacks. 
+*You can choose to build [[turret]]s if you have unlocked them. They are essential if you don't have enough colonists to defend against raids, either the start of the Rich Explorer scenario or lategame when you have a lot of wealth that will attract an army of raiders.
+
+== Temperature control ==
+
+Room should have its temperature regulated by some method or another, so as to keep a comfortable temperature for colonists to live in, and protect them from extreme temperature conditions such as heat waves, cold snaps or simply the ambient temperature outdoors.
+
+Large rooms such as your dining room or rec room should have their own [[heater]]s and [[cooler]]s. If they are interconnected you may want to open doors for faster colonist access and temperature exchange. If you choose to do so, remember to close doors if a fire breaks out in the room.
+
+Colonists will complain if sleeping in the extreme heat or cold. Bedrooms and other smaller rooms should be thermally connected to a larger central space via [[vent]]s. Your heaters and coolers should be all placed outside the bedrooms. This reduces the number of heaters and coolers you need to build while keeping your bedrooms at a comfy temperature at the same time.
+
+Keep in mind that you will also need to be prepared in case of a freak temperature event such as heat waves or cold snaps. Without enough temperature devices rooms can get uncomfortably cold or hot, and in severe cases begin to cause hypothermia or heatstroke.
+
+=== Cooler gap prevention ===
+
+As coolers need to be built as part of a wall, the process of building a cooler involves tearing down the original wall, then putting the cooler in place. This short interval allows temperature to go freely through the gap, which isn't something you want.
+
+To fix this, you can plug the gap by building a cheap wooden wall in front of or behind the cooler blueprint, then starting work on the cooler. The wooden wall will prevent temperatures from equalizing easily. Remember to deconstruct the wall after the cooler is done.
+
+=== Protected coolers ===
+
+Coolers are very fragile and must be placed in a wall, so a single explosion or dedicated effort from melee attackers can easily break them down. Protecting the coolers helps fortify your base against enemy raids by eliminating the weak points in your walls.  This is done by walling the coolers off while giving it unroofed space in front of the hot end to vent away heat.
+
+If your colony is in a cold but not quite freezing biome, consider venting the heat from the coolers for your freezer into your living spaces instead.
+
+==== Cooler column ====
+
+Place several coolers in line with the hot end facing an unroofed area where the heat vents out into the open. That unroofed area can be placed within an existing structure, such as inside the freezer. For maximum spatial efficiency, the strips of unroofed area should be 1 tile wide, surrounded by coolers.  This method is best used for freezers to keep cool as most cases don't call for many coolers.
+
+=== Temporary temperature control ===
+
+If your regular heaters or coolers aren't doing the trick, there's a temporary power outage, or you're a tribe without the ability to harness electricity yet, you can use [[campfire]]s or [[passive cooler]]s to heat or cool down your base respectively. Campfires can't heat above 30°„C while passive coolers can't cool below 15°„C.  Also, their temperature effect is full and cannot be throttled. Depending on what gear your colonists are wearing, it's possible for them to be in a room being heated with campfires and complain about it being too hot.
+
+These are best used to keep colonists comfortable during heat waves or cold snaps. If you always encounter uncomfortable temperatures during summer or winter, then it's time to upgrade your heaters or cooler system.
+
+== Miscellaneous ==
+
+=== Dirt floors ===
+
+Until you have enough manpower to spare for cleaning jobs, use the terrain directly instead of building any floors. Dirt trailed on constructed floors makes for a much worse beauty and cleanliness penalty than using dirt floors, so this can actually make your rooms look better and be 'cleaner'.
+
+For places like hospitals however, it's better to use sterile tiles and manually clean them instead.
+
+=== Flooring outside ===
+
+To reduce the amount of dirt inside your colony buildings, put any kind of flooring covering places where colonists and animals frequently walk. This reduces the amount of dirt formed as well as causes dirt to be left outside where it does not look as bad. 
+
+This should obviously be done only if you have enough janitors, otherwise it's better to just not build any floors (see above).
+
+=== Bridges ===
+
+[[Bridge]]s allow for fast movement and some building on shallow sections of rivers and marshy terrain types.  They're great for allowing colonies to span rivers, as well as making building in swampy biomes a bit easier.  Note that some objects cannot be built or placed on bridges.
+
+=== Moisture pumps ===
+
+[[Moisture pump]]s clear out moisture from the ground around them, making solid land that is suitable for construction and in most cases, agriculture.  They are excellent in swamp biomes for clearing out shallow water, marshy soil and mud in order to build structures.  Their effect is permanent, so they can safely be deconstructed once the land you want to use is dry.
+
+{{nav/guides}}
+[[Category:Guides]]
