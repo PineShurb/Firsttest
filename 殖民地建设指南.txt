@@ -3,7 +3,7 @@
 
 This guide is the ultimate go-to guide to building your [[colony]], for all stages of the game.
 
-== General colony design principles ==
+== ?????????? ==
 
 An efficient base allows your colonists to ''get stuff done'' and ''stay happy''.  They must be able to reach their assigned jobs in time, and the base needs to be pleasing and comfortable to work and live in.  The base should also be ''secure'', but that is probably the easiest part.
 
