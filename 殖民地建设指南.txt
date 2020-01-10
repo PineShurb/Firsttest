@@ -3,7 +3,7 @@
 
 This guide is the ultimate go-to guide to building your [[colony]], for all stages of the game.
 
-== ?????????? ==
+== 殖民地建设的一般原则  ==
 
 An efficient base allows your colonists to ''get stuff done'' and ''stay happy''.  They must be able to reach their assigned jobs in time, and the base needs to be pleasing and comfortable to work and live in.  The base should also be ''secure'', but that is probably the easiest part.
 
@@ -16,7 +16,7 @@ Also, it is difficult to plan ahead how many beds you will need, unless you make
 
 The recreation and dining area should also be off center, probably close to the sleeping area.  Recreation and eating happens mostly in the morning and evening (before and after night time).  Colonists visit this place only very sparingly during the day.
 
-This principle does, however, not apply to every room that happens to have beds in it �C the hospital and prison can, and should, be more centrally placed.  Hospitals and prisons require frequent visits, to tend to and feed patients and "guests".  Prison breaks are more easily contained if the fugitive is in the middle of your base.
+This principle does, however, not apply to every room that happens to have beds in it иC the hospital and prison can, and should, be more centrally placed.  Hospitals and prisons require frequent visits, to tend to and feed patients and "guests".  Prison breaks are more easily contained if the fugitive is in the middle of your base.
 
 Make sure that related areas are close: kitchen, freezer, warehouse and factory floor.  Some rooms are ''very'' frequently accessed from the outside (the freezer is one example).  Provide short walkways to these places.
 
@@ -28,7 +28,7 @@ Ugliness that is unavoidable can be countered with ''decor bombing''.  Make some
 
 Comfortable furniture is very important.  Keep a good carpenter (with high "construction" skill), and have them craft all the furniture in the base (especially the beds and chairs).  Put dining chairs in front of all workstations (they are both "beautiful" ''and'' "comfortable"); they will not make anyone work faster, but they give a mood bonus while anybody is using them.
 
-With regards to construction work, it is best to let your most capable constructors prioritize on the "artisan work", ie furniture with a quality rating that matters.  The second league of constructors can do things like lay carpets, smooth floors and build walls.  These structures do not have a quality rating �C the contruction skill only influences success chance and work speed.  Sadly it is difficult to impossible without the [https://steamcommunity.com/sharedfiles/filedetails/?id=725219116 requisite mods] to direct your colonists in the required way.
+With regards to construction work, it is best to let your most capable constructors prioritize on the "artisan work", ie furniture with a quality rating that matters.  The second league of constructors can do things like lay carpets, smooth floors and build walls.  These structures do not have a quality rating иC the contruction skill only influences success chance and work speed.  Sadly it is difficult to impossible without the [https://steamcommunity.com/sharedfiles/filedetails/?id=725219116 requisite mods] to direct your colonists in the required way.
 
 === Safety first ===
 
@@ -504,7 +504,7 @@ Place several coolers in line with the hot end facing an unroofed area where the
 
 === Temporary temperature control ===
 
-If your regular heaters or coolers aren't doing the trick, there's a temporary power outage, or you're a tribe without the ability to harness electricity yet, you can use [[campfire]]s or [[passive cooler]]s to heat or cool down your base respectively. Campfires can't heat above 30��C while passive coolers can't cool below 15��C.  Also, their temperature effect is full and cannot be throttled. Depending on what gear your colonists are wearing, it's possible for them to be in a room being heated with campfires and complain about it being too hot.
+If your regular heaters or coolers aren't doing the trick, there's a temporary power outage, or you're a tribe without the ability to harness electricity yet, you can use [[campfire]]s or [[passive cooler]]s to heat or cool down your base respectively. Campfires can't heat above 30буC while passive coolers can't cool below 15буC.  Also, their temperature effect is full and cannot be throttled. Depending on what gear your colonists are wearing, it's possible for them to be in a room being heated with campfires and complain about it being too hot.
 
 These are best used to keep colonists comfortable during heat waves or cold snaps. If you always encounter uncomfortable temperatures during summer or winter, then it's time to upgrade your heaters or cooler system.
 
