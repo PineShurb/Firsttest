@@ -156,15 +156,15 @@
 
 [[File:Special freezer.png|thumb|right|该冷藏室的制冷机位于中央而不是边缘。只有中央的方格未盖屋顶。绿色区域代表屋顶，这也是冷冻室的“冷”区域。中心的无屋顶方格为室外温度。]]
 
-冷藏室一般用来存放[[raw food|生食]]、植物和新鲜的尸体。无论任何阶段，冷藏室都必不可少，因为肉和制作出的食物会很快变质。同样，如果没有受掌控的冷藏室，就无法保证新鲜食物的储备。
+冷藏室一般用来存放[[raw food|生食]]、植物和新鲜的尸体。无论任何阶段，冷藏室都必不可少，因为肉和制作出的烹饪食品会很快变质。同样，如果没有受掌控的冷藏室，就无法保证新鲜食物的储备。
 
-在大部分地区，可以使用[[cooler|制冷机]]创建冷藏室。虽然食物在零度以下即会冻结，但冷藏室的[[温]]度仍然应当设置为-5摄氏度以下。因为每当殖民者进出冷藏室时，它的温度都会变化。另一方面，在寒冷地区就可以不使用制冷机，因为室外温度已经够低，只要使用通风孔就够了。
+在大部分地区，可以使用[[cooler|制冷机]]创建冷藏室。虽然食物在零度以下即会冻结，但冷藏室的[[温度]]仍然应当设置为-5摄氏度以下。因为每当殖民者进出冷藏室时，它的温度都会变化。另一方面，在寒冷地区就可以不使用制冷机，因为室外温度已经够低，只要使用通风孔就够了。
 
 可以将[[butcher spot|屠宰点]]和[[butcher table|屠宰台]]放在冷藏室内。这是因为屠宰是一个间断、快速的工作，可以承担一些工作速度损失。其他工作点，如[[crafting spot|手工加工点]]，应放置在冷藏室外。这样即可以避免工作速度损失，也可以更靠近其原材料。
 
 无论如何，都'''不要'''把炉灶放在冷藏室。除了工作速度损失之外，炉灶需要干净的环境，而冷藏室由于人流量大和动物尸体造成大量血迹，无法满足这个要求。
 
-建议在冷藏室靠近门处建立一个高优先级、只允许[[meal|食品]]的存储区。这样厨师就可以更快的将食品放在这里，节约路上的时间。同样可以在冷藏室内设置肉和植物的存储区。当高优先级的存储区中出现空位时，负责搬运的殖民者和动物会将低优先级存储区中的合适物品搬过去。
+建议在冷藏室靠近门处建立一个高优先级、只允许[[meals|烹饪食品]]的存储区。这样厨师就可以更快的将食品放在这里，节约路上的时间。同样可以在冷藏室内设置肉和植物的存储区。当高优先级的存储区中出现空位时，负责搬运的殖民者和动物会将低优先级存储区中的合适物品搬过去。
 
 [[Nutrient paste dispenser|营养膏合成机]]可以被当做墙壁。通常将其主体与进料口放在冷藏室中，激活点朝向餐厅。
 
@@ -186,80 +186,79 @@
 
 实际上，这就要求冷藏室不要建在基地中心。如果这样做，就可以在基地扩张的同时扩建冷藏室。因为要将农产品储存在冷藏室内，所以明智的做法是将其建在种植区附近，并将一个门朝向种植区。这样可以缩短收获后的运输距离。
 
-但是注意，冷藏室并不需要建在基地边缘！一块无屋顶的方块足以排放四个制冷机的废气(在游戏中，如果垂直相连的四个方格是墙或墙类方格，那么该方格算作户外)。只建在山中的基地更应仔细考虑制冷机的排气点。
-Be very careful when you dig or build in or around this room.  Leaving even a single gap in a room wall will raise the temperature well above the freezing point, and this is easily missed because there is no direct visual indication of the room temperature.  It can lead to massive amounts of food spoiling if undetected.
+搭建与扩张冷藏室的时候要细心一点，因为即使一个缝隙也会使其室内温度飙升。鉴于没有直观的温度显示功能，很容易使房间的温度脱离控制。一旦冷藏室漏气，会有大量的食物很快变质。
 
-It is tempting to dig into a mountain to create a freezing room, but keep in mind that [[infestation]]s can then spawn in this room.  This can actually be a good thing, because eradicating an infestation right inside the freezer room is tactically easy, and it will leave all the filth and dead insects in probably the best location in your base.  Your food supply will, however, be temporarily disrupted in such a scenario.
+在山里挖出一个冷藏室是一个很诱人的想法，但是这样的房间有可能发生[[虫害]]。但这可能是件好事，因为战略上讲，在冷藏室消灭害虫是件容易的事情。而且由此事产生的污秽和虫子尸体都留在了最适合它们的地方——冷藏室。只是要记得，这会短暂中止食物供应。
 
-==== Kitchen ====
+==== 厨房 ====
 
 [[File:Kitchen area.png|thumb|right|Kitchen area with short walkways for the colonists and separate meal freezer.  Autodoors are used in chokepoints.  The meal freezer and dining room could, and probably would, be more distant in the base.  This layout tries to minimize foot traffic in the kitchen, but it is difficult to avoid.]]
 
-The kitchen is where your colonists cook raw food into [[meals]] to improve colony life. The kitchen should be clean to avoid [[ailments#food poisoning|food poisoning]], which can be attained by the following means:
-* Zone out colony animals.
-* [[Sterile tile]]s for flooring.
-* Place your doors so that your dining room has a shorter path to the freezer than walking through the kitchen
+厨房是殖民者将生食加工为[[meals|烹饪食品]]的场所。烹饪食品可以改善殖民地生活。厨房应当整洁以避免[[ailments#食物中毒|食物中毒]]。以下是保持整洁的方法：
+* 将其划出动物活动区
+* 铺设[[Sterile tile|无菌地板]]
+* 合理规划，使殖民者无需穿过厨房即可取得食物。
 
-You should build your kitchen right next to your Freezer.
+应当将厨房将在冷藏室旁边。
 
-The [[butcher table]] is better placed elsewhere, due to its inherent uncleanliness added with the filth created by butchering. However, it should be placed near the freezer, preferably in a spot in the warehouse right next to it, as both ingredients (dead animals) and products (meats) need to be stored inside the freezer, having the butcher work there greatly reduces travel time. If you plan to make a lot of [[Kibble]], create an extra butcher table outside of the freezer for that task, to avoid the work speed penalty from the cold.
+屠宰台最好放在其它地方。因为它的屠宰工作必定会带来污染。但是，它应该放在冷藏室附近，最好就放在冷藏室内的存储区旁，因为原料(尸体)和产物(肉)都在这里。如果你打算制作大量的[[Kibble|粗饲料]]或其它产品，可以在冷藏室外设立一个额外的屠宰台，让它专门从事这些工作。这些工作台不会因为寒冷影响工作速度。
 
-[[Shelf|Shelves]] or small stockpiles can really improve cooking efficiency when placed right next to your stoves. Set one to accept berries and vegetables only, and another to accept meats which would usually be cooked before they spoil. Put those shelves on high priority, so they will be replenished by your haulers and saving time for the cook.  If you take this approach, set up the bills on the stove so that the products (meals) are ''dropped on the floor'' by the cook, and not delivered to a stockpile immediately.  Prepared meals will stack next to the stove and can then be delivered in bulk to the freezer or fridge, close to the dining hall.
+[[shelf|物品架]与小型储物区可被放置在炉灶旁边以提高其使用效率。将一个设置为只放置植物，另一个设置为只放置容易变质的肉类(建议使用冰箱)。提高它们的优先级，这样搬运工会及时为其补货，以节省厨师的时间。如果想要进一步提高效率，可以在炉灶的任务清单上，将安放策略设置为''放到地上''，而不是立即放到存储区。做好的食品会堆积在炉灶旁边，在稍后被送到冷藏室或冰箱中。
 
-It is usually a good idea to add a little art since colonists tend to stay there for a long time. It should be temperature controlled for better working speed.
+推荐在厨房内放置一些艺术品，因为殖民者可能在这里呆很久。控制好这里的室内温度也可以提高工作速度。
 
-Since the kitchen is placed near the freezer, some crafting stations which include plants ingredients may be also placed in here. The [[brewery]] and [[drug lab]] are good choices. Also, if you making [[chemfuel]] with food you may place the [[biofuel refinery]] here.
+因为厨房靠近冷藏室，某些以植物为原料的工作台可能也会被放在这里。比较推荐的是[[brewery|酿造台]]和[[drug lab|药物实验台]]。如果要使用食物制作[[chemfuel|化学燃料]]的话，可以在这里放置[[biofuel refinery|精炼设备]]。
 
-==== Dining room ====
+==== 餐厅 ====
 
-Dining rooms, at their simplest, are simply rooms where you put tables and chairs for colonists to dine in.  Still, tables are marked as Gather Spots by default.  Colonists will hang out here to relax and also hold their parties and weddings here.  Expect your dining room to be pretty crowded during meal times, especially after a party or marriage ceremony, so have enough chairs for at least half your colony.
+最简单的餐厅就是只放置了为殖民者就餐准备的座椅的屋子。不过，桌子被默认标记为聚会地点，殖民者会在这里闲逛、放松、聚会和举行婚礼。估计你的餐厅在餐点会变得很拥挤，尤其是在聚会之后。所以最好摆放最少一半殖民者数量的椅子。
 
-Colonists, as well as visitors, will search in a 20 tile radius for a table to eat at.  For this reason, a dining room should be built as close as possible to the freezer/food storage so that your colonists will actually use the dining room, instead of eating on the floor of the storage, giving them a -3 mood debuff. This is especially true for larger freezers, in which colonists retrieving food from the far end may simply give up searching for a table and eat on the floor.
+殖民者与访客会'''在20格内寻找餐桌'''。因此，餐厅应当尽可能建在冷藏室/食物存储区附近(或者在餐厅里放冰箱)，以便殖民者能真正使用餐厅，而不是在地板上吃饭(会导致心情-3)。尤其是在冷藏室过大的时候，殖民者可能觉得桌子太远干脆在地上吃饭。
 
-Since colonists spend a lot of time here, increase their mood by decorating your dining room with [[sculptures]], [[plant pot]]s or quality furniture. Having an impressive dining room also provides a small mood bonus to colonists who eat there.
+殖民者也会在这里花费大量时间。可以通过使用[[sculptures|雕塑]]、[[plant pot|花盆]]和高品质家具来提高它们的心情。此外，拥有一间令人印象深刻的餐厅，也为在此用餐的殖民者提供了一点心情上的加成。
 
-==== Rec room ====
+==== 娱乐室 ====
 
-You should have a wide variety of [[recreation]] sources so your colonists don't get bored repeatedly throwing horseshoes at a pin, or wandering around aimlessly. Putting all of them in a room also provides a mood bonus after a colonist uses the facilities inside, depending on the impressiveness of the room.
+应当为殖民者提供多样的[[recreation|娱乐]]设施，以免它们无聊地反复投掷马蹄铁或漫无目的地游荡。将这些设施都放进一个屋子里也可以为使用这里娱乐设备地殖民者带来心情加成，具体大小取决于该房间留给人的印象。
 
-In the early game, all you'll need is a horseshoes pin somewhere in the colony, and colonists will proceed to use it when they are bored.
+在游戏早期，只需要在基地的某个地方放置马蹄铁，无聊的殖民者就会使用它进行娱乐。
 
-Once you reach midgame, you can afford more recreation facilities such as chess tables or billiards tables, or [[Tube television]]s, which provide different kinds of recreation for additional variety. In addition, you can also obtain additional recreation sources from exotic goods traders, such as [[telescope]]s or [[Megascreen television|megascreen]] televisions, which offers more recreation than the craftable tube and flatscreen televisions.
+游戏中期，你可以添置更多的娱乐设施，如象棋桌和台球桌。它们提供多种种类的娱乐活动以供选择。此外，还可以从商人那里获得其他的娱乐资源。
 
-Similarly to the dining room, decorating it can improve the mood bonus from using the room.
+与餐厅相同，对其装饰可以增加使用该房间者的心情。
 
-=== Courtyard ===
+=== 庭院 ===
 
-[[File:Courtyard.png|400px|thumb|right|Small courtyard that serves both as a dining room and recreation room.]]
+[[File:Courtyard.png|400px|thumb|right|Small 即使餐厅也是娱乐室的小院子]]
 
-Most colonists like getting outside once in a while.  In superstructure bases, you may consider building an unroofed courtyard where colonists can get some fresh air.
+大多数殖民者喜欢偶尔出门呼吸新鲜空气。在超级建筑类基地中，你可以考虑建一个移除屋顶的小院子，殖民者可以在那里透个气。
 
-You can use it as a common area, putting recreation items and dining tables for colonists to use, making the courtyard behave exactly the same as an unroofed dining/recreation room. Alternatively, it may also be used as a place to put your [[mortar]]s as putting them in the middle helps reduce the impact of their minimum range blind spot. Also consider keeping [[transport pod]]s here, but place them in a separate unroofed area as they are not beautiful to look at.
+你可以将它作为一个公共区域，在这里放置娱乐物品和餐桌供殖民者使用。这样的庭院与没有屋顶的餐厅/娱乐室功能完全相同。此外，还可以将[[mortar|迫击炮]]安放在其中心以减少最小射击范围的影响。[[transport pod|运输仓发射器]]也可以建在这里。影响美观度的东西建议放到其它移除屋顶的房间内。
 
 {{clr}}
 
-=== Laboratory ===
+=== 研究室 ===
 
-You may want to have a room dedicated to research, with [[hi-tech research bench]]es, [[multi-analyzer]]s to increase research speed and unlock new research.  Room cleanliness affects research speed, so place sterile tiles to keep the room clean. For even better cleanliness, restrict the lab to your researchers and janitors only, reducing traffic and hence the amount of dirt in the room.  Also consider placing some art here and building a comfortable chair, as your researcher will be spending a lot of time here.
+可以有一个专门的房间用于放置研究设备，为其配置[[hi-tech research bench|高级研究台]]、[[multi-analyzer|多元分析仪]]以加快研究速度并解锁新研究。房间清洁度影响研究速度(ps:存疑)，最好铺设无菌地板并保持房间清洁。研究人员会在这里花费大量时间，为其增加椅子和装饰物吧。
 
-=== Workshop ===
+=== 工作间 ===
 
-Workshops are places where you put all your crafting stations and benches. You should put them near your warehouse so your colonists can spend less time hauling the needed resources to the workshop for crafting, while keeping them separate due to the beauty penalty of raw materials. Also remember to put chairs of any sort at the interaction spot so your colonists won't have to keep standing while crafting.
+工作间用于摆放所有的工作台。它应该建在仓库附件，以减少殖民者拿取原料所消耗的时间。不将原料放在工作间的部分原因是其影响房间的美观度。不要忘记在工作台前放置椅子。
 
-The [[tool cabinet]] is handy for increasing productivity of your craftsmen. The work speed bonus is quite valuable, and each bench may benefit from two tool cabinets.
+[[tool cabinet|工具柜]]可以提高工作者的生产力。它可以提供宝贵的工作速度加成，每个工作台都可以获得两次加成。
 
-It is an excellent idea to '''put decorations such as sculptures inside the workshop''', as a beautiful environment gives up to +15 mood, improving colonists' productivity and even allowing for the occasional mental inspiration.
+可以在工作间放置装饰物。优美的环境可以提供15心情加成，这可以提高殖民者生产力，甚至使其不时产生灵感。
 
-=== Armory ===
+=== 军械库 ===
 
-You can choose to have a dedicated area to store your weapons and armor. If so, put it far away from your prison so that prisoners do not have ready access to dangerous weapons during prison breaks.  Place it near your entrance so that colonists can equip themselves on the way to defend your base.
+可以设立一个专门的区域用于存放武器和防具。这种地方最好远离监狱，以免武器落入越狱的囚犯手中。如果把它放在基地入口处，殖民者就可以在出现袭击时武装自己包围基地。
 
-Ammunition, on the other hand, is best stored deeper in the base, preferably far from anywhere else in case of unexpected events such as fires.
+另一方面，弹药最好存放在基地深处，远离其它区域，以免遇到意外情况，比如火灾。
 
-=== Hospital ===
-[[File:Hospital_example_midgame.png|400px|thumb|right|Hospital with sterile tiles, hospital beds with vital monitors, decorations and megascreen TVs facing the beds.]]
+=== 医务室 ===
+[[File:Hospital_example_midgame.png|400px|thumb|right|医务室 铺设了无菌地板，医疗床旁边配备了生命体征监测仪、装饰品和面向病床的大屏幕电视。]]
 
-[[File:Compact hospital layout.png|thumb|right|An efficient hospital layout.  Dresser and end tables provide maximum comfort.  Two vitals monitors cover all 8 beds.  Flatscreen TVs provide extra recreation for the patients. Medical supplies are close by, the room is well lit and accessible from all sides. The vents equalize room temperature with the hallway. Up to six more beds could be installed here rather easily: four in place of the end tables, and one each to the left and right of the vitals monitors; all beds will have dresser, TV and monitor coverage.]]
+[[File:Compact hospital layout.png|thumb|right|高效的医疗室布局。梳妆台和床头柜可以增加舒适度。两个生命体征监护仪将8个床全部覆盖。平板电视为患者提供娱乐。医疗用品放在附近，室内光线充足，可以从各个方向进入医务室。通风孔可以平衡室内和走廊的温度。可轻易拓展多达6个额外床铺:4个床头柜可以改为医疗床，两边还可以各加一个。所有的床铺都配有梳妆台、电视、检测仪]]
 
 Dedicated hospitals are more of a mid-game thing when you have enough resources to build the specialized equipment used in them. [[Hospital bed]]s provide a boost to treatment quality, immunity gain speed, and healing speed, meaning colonists will recover faster from illnesses and injuries, making them the choice for hospitals. The [[vitals monitor]] brings even better boosts to treatment and immunity gain, so when available it's recommended that you put them down near your hospital beds.
 
