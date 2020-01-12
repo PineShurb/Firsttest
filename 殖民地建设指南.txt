@@ -1,191 +1,192 @@
 {{Image wanted}}
 {{TOCright}}
 
-本文是关于[[colony|殖民地]]建设的终极指南，适用于游戏进行的各个阶段。
+本指南是关于[[colony|殖民地建]]设的终极指南，可用于游戏内任何阶段。
 
-== 殖民地建设的一般原则  ==
+== 殖民地建设的一般原则 ==
 
-An efficient base allows your colonists to ''get stuff done'' and ''stay happy''.  They must be able to reach their assigned jobs in time, and the base needs to be pleasing and comfortable to work and live in.  The base should also be ''secure'', but that is probably the easiest part.
+一个高效的基地可以使殖民者在''完成工作''的同时''保持心情愉悦''。殖民者必须能够及时完成分配给他们的任务，而基地也要使殖民者在工作和生活中感到舒适愉悦。基地也应能保障安全，但这可能是最容易做到的部分。
+一个有效的基地使您的殖民者能够完成工作并且保持快乐。他们必须能够及时完成分配的工作，并且基地必须舒适宜人，才能工作和居住。基地也应足够''安全''，但这可能是最简单的部分。
 
-=== Getting stuff done: lowering foot traffic ===
-It is not possible to make all places easily accessible, so you need to decide what spots are more important, and lay out the base accordingly.
+=== 完成工作：减少路途 ===
 
-The most important principle here is to '''not put the living quarters in the center of the base'''.  Bedrooms should be at the edge of the colony: they are not needed during the day and will be an obstacle.
+由于建筑物和储物区占用一定的空间，殖民者在完成工作的过程中往往要来回奔波。为了尽量减少在路途中消耗的时间，在基地的建设中要首先确定哪些方面更为重要。然后再以其为中心建设基地。
 
-Also, it is difficult to plan ahead how many beds you will need, unless you make a hard commitment to limit the head count of your colony (and to kill or sell everybody else...).  If your living quarters have other buildings surrounding them, it becomes impossible to add more beds without creating an entirely new housing zone.  This quickly leads to a cluttered base layout that is difficult to defend.
+最重要的原则是:'''不要将居住区放在基地的中心'''。卧室应放在殖民地边缘：在不需要睡觉的白天，它们只会碍事。
 
-The recreation and dining area should also be off center, probably close to the sleeping area.  Recreation and eating happens mostly in the morning and evening (before and after night time).  Colonists visit this place only very sparingly during the day.
+此外，很难提前计划出你到底需要几张床，除非你做出来了限制殖民者数量这样艰难的决定(至于其他人是如何被失踪就不用提示了吧)。如果你的生活区被其他建筑包围，那么再想增加床铺就只能另建生活区。长此以往，基地布局会日益混乱，防御也将更加困难。
 
-This principle does, however, not apply to every room that happens to have beds in it иC the hospital and prison can, and should, be more centrally placed.  Hospitals and prisons require frequent visits, to tend to and feed patients and "guests".  Prison breaks are more easily contained if the fugitive is in the middle of your base.
+娱乐室与餐厅也不应建在中心，建议放在卧室附近。娱乐和就餐大多在早晨和傍晚进行。殖民者很少在白天去这些地方。
 
-Make sure that related areas are close: kitchen, freezer, warehouse and factory floor.  Some rooms are ''very'' frequently accessed from the outside (the freezer is one example).  Provide short walkways to these places.
+虽然都是有床的房间，可监狱和医疗室应该放在更靠近中心的位置。医疗室和监狱需要频繁地访问，因为要照顾/喂养病人和"贵客"。如果越狱者位于基地中央，那么越狱事件就更容易处理。
 
-=== Make it pretty ===
+保证有关联的区域相互靠近:厨房、冷藏室、仓库和工作区。某些区域被访问得''非常''频繁，例如冷藏室。缩短进出这些地方的路径。
+=== 漂亮点 ===
 
-Colonists do not like to exist in a cluttered and ugly environment.  They do not want to walk through disgusting places all the time.  For example, do not put a dumping stockpile next to a Geothermal generator next to the main walkway of the colony.
+殖民者不喜欢生活在混乱和肮脏的环境中。他们不想走在令人作呕的地方。例如，请勿将垃圾堆放在殖民地主要走道旁边。
 
-Ugliness that is unavoidable can be countered with ''decor bombing''.  Make some really expressive sculptures, and put them right into the mess.  You can spread a few ''large sculptures'' throughout your main stockpile, for example.  This will make it beauty-neutral or even "beautiful".  Like all furniture, sculptures do not have to be kept roofed or indoors, so they can be placed anywhere.  Smoothed floors and walls, as well as carpets, are an effective source of beauty (+2 beauty per tile), but somewhat work and resource intensive to make.
+无法避免的丑陋区域可以通过放置装饰物来抵消。制作具有高美观度的雕塑物，并将其安放在丑陋环境中。例如，你可以在主要仓库的各个位置放置一些''大雕塑''。这可以使其保持中等美观甚至达到''美丽''。像所有家具一样，雕塑不必非要放在屋顶区和室内，因此可以放置在任何地方。光滑的地板和墙壁以及地毯可以有效提高美观度（每块地板+2美观度），但制作时需要消耗大量的工作时间和资源。
 
-Comfortable furniture is very important.  Keep a good carpenter (with high "construction" skill), and have them craft all the furniture in the base (especially the beds and chairs).  Put dining chairs in front of all workstations (they are both "beautiful" ''and'' "comfortable"); they will not make anyone work faster, but they give a mood bonus while anybody is using them.
+舒适的家具非常重要。拥有一个好木匠（具有很高的“建筑”技能），并让他们在模板上（尤其是床和椅子）上制作所有家具。在所有工作台的前面放置餐椅（它们既“美观”''又'' “舒适”）；它们无法提高工作者的工作速度，但可以使使用者心情更好。
 
-With regards to construction work, it is best to let your most capable constructors prioritize on the "artisan work", ie furniture with a quality rating that matters.  The second league of constructors can do things like lay carpets, smooth floors and build walls.  These structures do not have a quality rating иC the contruction skill only influences success chance and work speed.  Sadly it is difficult to impossible without the [https://steamcommunity.com/sharedfiles/filedetails/?id=725219116 requisite mods] to direct your colonists in the required way.
+在建筑方面，最好让你最优秀的建筑师优先于"艺术性创作"，如家具这类有质量乘数的物品。第二梯队的建筑师可以做些如铺地毯、打磨地板、筑墙之类的工作。这些建筑没有质量乘数，建筑技能只影响建造成功率和工作速度。可惜的是，你几乎只能依靠 [https://steamcommunity.com/sharedfiles/filedetails/?id=725219116  mods] 来实现以上计划。
 
-=== Safety first ===
+=== 安全第一 ===
 
-Securing the base is not difficult, as long as your floor plan is compact.  You can simply surround the entire complex with walls, keeping a deliberate weak spot that enemies will most probably attack from.  If you give enemies the opportunity to enter your base, they will take it, even if tactically unsound.  If there are long hallways, you can use the doorways as natural cover, by having one shooter stand in each doorway and shoot down the hall at incoming attackers.  This is an effective maneuver that can contain even mid-size raids and does not require any purpose-built defenses.
+基地安全不难保障，只要你的平面规划紧凑。有一种简单的战术是用墙围起整个基地，故意留下一个敌人必定会攻击的弱点。如果你给敌人留下了这样一个可以进入你基地的机会，他们即使承受风险也会尽力抓住它。如果有一个长走廊，你可以将它作为天然掩体。方法是在每一个门中安排一个射手，然后向袭来的敌人射击。这是一种有效的防御手段。它甚至可以防御中型袭击同时不需要任何特殊防御建筑。
 
-On higher difficulties, advanced tactics like "killboxes" and turret spam might be in order.
+在高难度下，可能需要更高级的战术如："杀人盒"与自动机枪塔。
 
-In general you want the attackers come ''to you'', and not fight them outside of your base in the open.  Siege crews and lone pyromaniacs should be lured close to your base before engaging them.
+一般而言，我们希望袭击者''找上门''。这样能避免与他们在野外作战。在交战之前，应将围攻部队和纵火狂引诱到基地附近。
 
-== Base Types ==
+== 基地基本类型 ==
 
-There are different ways to build your base.
+以下是构建基地的不同方式。
 
 {| class="wikitable"
 !  
-! Superstructure base
-! Town-like settlement
-! Mountain base
+! 超级建筑类
+! 城镇模式类
+! 山洞蜗居类
 |-
-! Description
-| Put everything in one large building.
-|| Build everything in separated buildings, just like a small town.
-|| In mountainous maps, dig inside the mountains.
+! 描述
+| 将所有东西放入一个大建筑物
+|| 将东西放入分立的建筑中，就像一个城市
+|| 进入山区地图，躲到洞里
 |-
-! Pros
+! 优点
 |
-*Convenient
-*Saves building materials and some space
-*More resistant against [[Events#Toxic Fallout|toxic fallout]]
-*Improved temperature control
-*Shortest walking paths
+*方便
+*节约建筑材料和空间
+*有效抵抗 [[Events#有毒尘埃|有毒尘埃]]
+*温度控制较好
+*步行距离最短
 ||
-*Very flexible
-*Does not require large patches of continuous land
-*Best satisfies Outdoors need
+*非常灵活
+*不需要大片的连续土地
+*最适合户外需求
 ||
-*Best temperature control
-*Easy to defend
-*Immune to mortar strikes
-*Leaves more soil available for farming
-*Saves most building materials
-*Most resistant against [[Events#Toxic Fallout|toxic fallout]]
+*温度控制最好
+*容易防守
+*免疫迫击炮
+*为农业留下更多可用土地
+*最节约建筑材料
+*抵抗 [[Events#有毒尘埃|有毒尘埃]]效果最好
 
 |-
-! Cons
+! 缺点
 |
-*Fires can spread all over the base if flammable materials are used
-*Requires a large, continuous area of buildable land, making it not ideal for swamp [[biomes]]
-*Less flexible
-*Less able to satisfy Outdoors need
+*如果使用了可燃材料，火灾会波及整个基地
+*需要大面积、连续的可建筑土地。因此不适合建在沼泽[[生态区]]
+*不太灵活
+*不太能满足户外需求
 ||
-*Requires most space and building materials overall
-*Requires more planning to defend
-*Worst temperature control
-*Longest walking paths
+*空间与建筑材料的需求量最大
+*要好好思考防御计划
+*温度控制能力差
+*步行距离最长
 ||
-*'''Infestations can happen within base'''
-*Least flexible
-*It takes a '''lot''' of time to mine out separate rooms and clear stone chunks
-*Least able to satisfy Outdoors need
+*'''基地内可能爆发危机'''
+*灵活性最差
+*需要'''大量'''时间来挖开单独的房间并清理石头。
+*最无法满足户外需求。
 |}
 
 [[File:Example base layout.png|frame|left|Example floor plan for a "superstructure" base with an efficient layout of zones to keep walking distances short.  Arrows indicate where items are commonly transported.  Room sizes are not necessarily to scale, and many variations of this layout are reasonable.  The "killbox" is not mandatory; with a layout like this, enemies can also be lured into the long corridors and shot at from the doorways.  The "clean room" would include hospital beds and a kitchen.]]
 {{clr}}
 
-== Base Structures ==
+== 基本结构 ==
 
-Different structures suit the different needs of your colony. The maps generate with old structures around, sometimes just walls and others are squares/rectangles just missing some sections. If conveniently located, these can work perfectly as starting points, reducing considerably the initial workload of characters with low-level skills and reducing the beginning stresses when you still have nothing.
+殖民地中，不同的结构可以满足不同的需求。地图在生成时会产生旧结构。有时它们只是一段墙壁，有时是缺了几段的矩形。如果位置合适，它们很适合作为一个起点。这样可以有效减少游戏开始时的工作量，并降低你一无所有时的生存压力。
 
-=== Storage ===
+=== 存储 ===
 
-Currently, the first room we need to build is a storeroom, as items deteriorate if left outdoors or exposed.  Place a stockpile zone covering most of the room except for the tiles adjacent to the doors as sometimes pawns may accidentally drop an item in the doorway, leaving it open and insecure. You can have multiple smaller stockpile zones set to allow specific different items to better organize them.  Your storeroom should be built close to the workshop to minimize travel times for raw materials.
+现在，我们应当将第一个建好的房间作为储物室。因为放在室外与暴露的物品可能会变质。放置一块覆盖整个房间内大部分区域的存储区，门旁的空间除外。因为有时搬运者可能会意外将物品掉落在门上，从而使其保持打开状态——这样也不安全。您可以设置多个较小的存储区，通过允许不同物品来更好地管理它们。您的储藏室应建在工作区附近，以最大程度地减少原材料的运输时间。
 
-Give special consideration toward explosive items such as [[chemfuel]] or [[mortar shell]]s as they may blow up and set ablaze your entire stock. Place them separate in a stone made compartment and far from the exterior of the base to prevent [[doomsday rocket launcher]]s from hitting the items as they can pierce through walls.  Place a [[firefoam popper]] here to protect against fires igniting your munitions.
+请特别注意易燃物品，例如[[化学燃料]]和[[迫击炮弹]]。因为它们可能会炸毁并烧光您的全部库存。将它们分开并放置在石头制成的隔间中，并远离基地的外部，以防止[[末日火箭发射器]]击中它们。因为这种武器可以炸穿墙壁。在此处放置一个泡沫灭火器，以防止火灾点燃弹药。
 
-In mid-game, you can add orbital trade beacons to sell your stuff to trade ships.
+游戏中期，可以添加贸易信标来与轨道贸易商交易。
 
-=== Barracks ===
+=== 多人宿舍 ===
 
-The barracks is a room where multiple pawns share a single sleeping space. This is easy to host your colonists early in the game, but it proves inconvenient as walking pawns will disturb the sleep of other occupants, and non-lover pawns dislike sharing a room. Furniture such as bedrolls or beds improve their comfort.  The better the furniture, the faster they wake up and become more productive during their schedules. You should upgrade your colony to provide private bedrooms once the basics are covered, and you can convert the barracks into something else such as a hospital or prison barracks.
+多人宿舍是一个由多人共享同一个睡眠空间的屋子。在游戏初期，它让你更容易安排你的殖民者。但它也有不便之处，例如行走的人会打扰到在睡觉的人，单身狗喜欢一个人睡。睡袋和床这类家具可以提高舒适度。这类家具的质量越好，使用者醒的越快。此外还可以提升他们的工作效率。一旦基础设施建好，就应当升级你的殖民地来为殖民者提供私人卧室。你可以将多人宿舍转换为其他区域，如多人监狱与医疗室。
 
-You can upgrade a barracks with positive mood modifiers by placing sculptures, nice flooring, temperature control utilities and high-quality furniture like dressers and end tables which increase the comfort of many beds at once.
+您可以通过使用雕塑、漂亮的地板、温度控制工具和高品质的家具（如梳妆台和床头柜）等方法来升级多人宿舍，使其提供积极的情绪修正。其中床头柜可以一次增加多个床的舒适度。
 
-Colonists like to eat as soon as they wake up. You may place a table and chairs inside at the beginning, but try to reinstall them elsewhere when you can as colonists entering to eat will disturb the sleep of others. Build the dining room close to the barracks once the sleeping quarters are done.
+殖民者喜欢醒来后就吃饭。一开始，您可以在他们的睡眠点旁边放一张桌子和椅子，但是请尽量将它们重新放置在其他地方，因为殖民者进食时会干扰其他在睡觉的人。居住区完工后，在靠近卧室的地方建造餐厅。
 
-=== Bedrooms ===
+=== 卧室 ===
 {{see also|Space}}
 
-[[File:Bedroom.png|thumb|right|General purpose bedroom, suitable for all phases of the game. Temperature is equalized with a hallway to the right.  The room has enough space for a temporary production building.]]
+[[File:Bedroom.png|thumb|right|General 通用卧室，适用于游戏的所有阶段。温度通过右侧的走廊平衡。这个房间有足够的空间用于临时工作台的建设。]]
 
-Bedrooms are private sleeping spaces which removes the "disturbed sleep" mood penalty caused by other pawns, and provides better mood bonuses than a barracks. Couples will want to sleep together and won't disturb the sleep of their partners.  However, they will need a double bed.
+卧室是私人的睡眠空间，可消除其他人员造成的“睡眠被打扰”情绪损失，并提供比多人宿舍更好的情绪奖励。夫妻会希望一起睡，并且不会打扰对方的睡眠。但是，他们需要一张双人床。
 
-As you expand, you would want to upgrade your bedrooms in this way:
-* To increase comfort, give the bed an [[end table]], and put a [[dresser]] in the room. Higher quality furniture provides better comfort, while higher quality beds increase the ''rest effectiveness''. Have your most capable builder furnish the bedrooms.
-** Around 25 tiles of floor space, this leaves enough room to put temporary production buildings in the bedroom, useful during base expansion. Any bigger is less efficient because it increases cost of flooring.
-** Standing lamp
-** Beauty items, such as flower pot or sculpture; more is better, but do not go overboard.
-** High quality flooring, such as carpets. This increases beauty. If you can smooth the floors (and walls), usually in a mountain base, this is always preferable to carpet flooring: it gives the same beauty value, but is not flammable and much cheaper to build. You need a good constructor, because smoothing floors takes a lot of work.
-** Heating and/or cooling; it is far easier to heat or cool the hallways instead, and use [[vent]]s to equalize the temperature with the bedrooms.
+随着基地的扩张，建议你通过以下方式升级你的卧室:
+* 为了增加舒适性，给床添加[[床头柜]]，并把一个[[梳妆台]]在房间里。较高品质的家具可提供更高的舒适度，而较高品质的床则可提高''休息效率''。让你最优秀的建筑师建造家具。
+** 空间设置为25方格，这为在卧室中放置临时工作台留出了足够的空间，在扩展基地时很有用。更大卧室的效率更低，因为增加的墙壁和地板导致成本上升。
+** 落地灯
+** 漂亮的物品，例如花盆和雕塑；越多越好，但不要超过上限。
+** 高品质地板，例如地毯。它可以增加美观度。如果您可以打磨地板（和墙壁）（通常是在山下），那它比地毯更好：它具有相同的美观度，但不易燃且制造成本低得多。您需要一个优秀的建筑师，因为打磨地板需要大量的工作时间。
+** 供暖与制冷；通过通道进行供暖与制冷要容易实现得多。它使用[[通风孔]]使其温度与卧室保持一致。
 
-Colonists often carry a meal with them, and without a table, they will resort to eating their breakfast on the floor and receive a mood debuff. Depending on your base overall layout, you may:
-* Build the Dining room close.
-* Build one set of table and chairs outdoors near many bedrooms.
-* Place tables and chairs inside. However, make sure to turn off the "Gathering Spot" option of tables, as others seeking [[recreation]] may enter someone else's bedroom and disturb their sleep.
+殖民者经常随身携带一份食物。如果没有桌子，它们就会在地板上吃饭，这会造成心情减益。根据基地整体布局，你可以：
+* 就近建设餐厅。
+* 在卧室区附近的户外搭建一套座椅。
+* 将座椅放在卧室内。但是记得关闭桌子的"聚会地点"选项。因为可能有寻求[[娱乐]]的人进入他人的卧室导致睡觉的人被打扰。
 
-==== Special cases ====
+==== 特殊情况 ====
 
-"Ascetic" colonists want an unimpressive bedroom.  The best way to achieve this is to have no flooring or beauty items, and make the room smaller.  You should still provide end tables and dressers for them, because even ascetics like to sleep comfortably. A hardcore method could be to leave a desiccated animal corpse inside, dropping impressiveness by a huge amount.
+"苦行者"想要低美观度的房间。要满足这项需求，最好不要为其安装地板与装饰品，同时缩小房屋面积。但仍然应该为该殖民者提供床头柜和梳妆台，因为即使苦行者也喜欢舒适地入睡。还有一种硬核的方法，就是将风干的动物尸体放到其卧室里，这会使美观度大大降低。
 
-"Greedy" colonists are initially harder to please, though as you expand and become richer providing impressive bedrooms should be no problem.
+游戏初期，很难满足“贪心”殖民者的需求。但随着基地扩张以及日益富有，提供一个令人印象深刻的卧室应该不成问题。
 
-"Jealous" colonists are the hardest to manage, especially if you have more than one. Using only standard bedrooms of equal quality is the best approach to eventually make everybody happy in this situation.
-
+“妒忌”殖民者是最难管理的。特别是当他们不止一个的时候。能最终让所有人都感到开心的最佳方法是仅使用质量相同的标准卧室。
 {{clear}}
 
-=== Conjoined facilities ===
+=== 相邻区域 ===
 
-The Freezer, Kitchen, Dining Room and Recreation Room are often adjacent to one another. The kitchen should be isolated from the other rooms to reduce dirt caused by walking in. The dining room and kitchen should be attached to the freezer so it isn't necessary to have to pass through the kitchen to get a meal.
+冷藏室、厨房、餐厅和娱乐室通常彼此相邻。厨房应该与其他房间隔离开来，以减少走动造成的污垢。餐厅和厨房应当与冷藏室连接，这样吃饭的时候就不必穿过厨房。
 
-Parties and wedding ceremonies take place at Gathering Spots where chairs are detected, and since pawns don't eat during these times, their proximity to the freezer is convenient to go get a meal and come back to the tables.
+如果聚会地点附近有椅子，那么聚会和婚礼就会在这里举行。在此期间殖民者不会吃东西。如果这里靠近冷藏室的话，他们就可以很方便地拿食物到餐桌上吃。
 
-==== Freezer ====
+==== 冷藏室 ====
 
-[[File:Freezer coolers placement.png|thumb|right|400px|Simple freezer built along a mountain, with coolers inside.]]
+[[File:Freezer coolers placement.png|thumb|right|400px|建在山边的简易冷藏室，使用了一个制冷机。]]
 
-[[File:Special freezer.png|thumb|right|This freezing room has the coolers placed in the center instead of at the edges.  Only the center tile is unroofed.  The green area shows the roof, this is also the "cold" area of the freezer room.  The center, unroofed, tile is at outdoors temperature.]]
+[[File:Special freezer.png|thumb|right|该冷藏室的制冷机位于中央而不是边缘。只有中央的方格未盖屋顶。绿色区域代表屋顶，这也是冷冻室的“冷”区域。中心的无屋顶方格为室外温度。]]
 
-The Freezer is a stockpile room to preserve [[raw food]], plant matter and fresh animal corpses. Across all stages, the freezer is an indispensable facility, because meat and prepared meals spoil very quickly, and it is impossible to keep a fresh food stockpile without a controlled freezing area.
+冷藏室一般用来存放[[raw food|生食]]、植物和新鲜的尸体。无论任何阶段，冷藏室都必不可少，因为肉和制作出的食物会很快变质。同样，如果没有受掌控的冷藏室，就无法保证新鲜食物的储备。
 
-In most places, this is accomplished with the addition of [[cooler]]s set to freezing temperatures. Even though food freezes at {{Temperature|0}} you should have your freezer at least set at {{Temperature|-5}} since it will gain heat whenever a colonist comes in. In cold places, on the other hand, you may choose to save power by disabling the coolers, and instead let cold air inside through vents. 
+在大部分地区，可以使用[[cooler|制冷机]]创建冷藏室。虽然食物在零度以下即会冻结，但冷藏室的[[温]]度仍然应当设置为-5摄氏度以下。因为每当殖民者进出冷藏室时，它的温度都会变化。另一方面，在寒冷地区就可以不使用制冷机，因为室外温度已经够低，只要使用通风孔就够了。
 
-It is viable for [[butcher spot]]s or [[butcher table]]s to be placed inside the freezer, as butchering is a short, intermittent activity for your cook, so the work speed penalty is not very impactful. Other workstations, such as [[crafting spot]]s should be placed right outside to avoid the work penalty while benefiting from the proximity of the ingredients. <br>
-In any case, do '''not''' put your kitchen stove in this room. Besides the work speed penalty, the cooking stove needs to be in a clean environment which the freezer does not have, due to heavy foot traffic and blood stains from dead animal bodies.
+可以将[[butcher spot|屠宰点]]和[[butcher table|屠宰台]]放在冷藏室内。这是因为屠宰是一个间断、快速的工作，可以承担一些工作速度损失。其他工作点，如[[crafting spot|手工加工点]]，应放置在冷藏室外。这样即可以避免工作速度损失，也可以更靠近其原材料。
 
-Consider making an exclusive stockpile with high priority at the front of your freezer which only allows [[meal]]s, so that cooks will always store them closer to ease retrieval. The same planning can be applied for two more stockpiles at the front of your freezer for meat and veggies, to speed up ingredient pick-ups (colonists assigned to hauling and trained animals will move ingredients from the back of the freezer to the front).
+无论如何，都'''不要'''把炉灶放在冷藏室。除了工作速度损失之外，炉灶需要干净的环境，而冷藏室由于人流量大和动物尸体造成大量血迹，无法满足这个要求。
 
-[[Nutrient paste dispenser]]s act as walls. They are usually placed with their hoppers in the freezer and activation spot in the dining room.
+建议在冷藏室靠近门处建立一个高优先级、只允许[[meal|食品]]的存储区。这样厨师就可以更快的将食品放在这里，节约路上的时间。同样可以在冷藏室内设置肉和植物的存储区。当高优先级的存储区中出现空位时，负责搬运的殖民者和动物会将低优先级存储区中的合适物品搬过去。
 
-Cooler placement is of crucial importance, as these devices have a very low 100HP, making them the weakest point in a wall from where raiders can break in easily and most likely ignite your food supply. Because of this, one of the best ways to protect your coolers is to place them facing a mountain, if there is one nearby, or to build a wall around their hot side. In both cases, make sure to remove any roofs.  If your base is in a cold biome, another option is to direct their hot sides into your living space to help heat it. It is common to make the freezer with double walls to increase insulation. The freezer is vulnerable to [[Events#Solar Flare|solar flares]].  In freezing biomes, food still needs to be kept from spoilage to exposure.  In which case, wall it off and add [[vent]]s to the exterior to let in the cold air.
+[[Nutrient paste dispenser|营养膏合成机]]可以被当做墙壁。通常将其主体与进料口放在冷藏室中，激活点朝向餐厅。
 
-It is common to make airlocks(a door, a short space, and then another door leading to the freezer itself)in the entrance of the freezer to reduce temperature exchange. Since colonists and haulers will enter this room quite often, build [[autodoor]]s once available to both speed up entry/exit and minimize temperature change.
+制冷机的位置至关重要。因为它们的耐久度非常低，只有100点。这使得它们成为墙壁上最薄弱的点，突袭者很容易从这里突破墙壁并很喜欢点燃你的食物储备。因此，保护制冷机的最好方式之一是将其面朝山壁(如果有山的话) ，或将它的热端用墙围起来。在这两种下，都要将屋顶移除。如果基地位于寒冷地带，可以将制冷机的热端导入居住区，辅助卧室升温。通常将冷藏室的墙壁制成双层以增加隔热性。制冷机容易受到太阳耀斑的影响。在冷冻生态区中，仍然需要防止食物因暴露而变质。在这种情况下，将其围起来并增加[[通风孔]]]，使外部冷空气可以进入。
 
-===== Positioning =====
+通常在冷藏室的入口处形成气闸（一扇门，一小块空间，然后另一扇通往冷藏室的门），以减少温度交换。由于殖民者和搬运工会经常进出这个房间，因此如果建造[[自动门]]，既可以加快进出速度，又可以最大程度地减少温度变化。
 
-Because the freezer is a special kind of stockpile area, and relies on coolers, which are somewhat fixed installations, it is not easily moved in your base.  This means you need to plan carefully where you put it.
+===== 安放位置 =====
 
-The freezer needs three main entrances: 
-* One leading directly outdoors, or with a short outdoors connection.  Dead animal bodies and produce from your farm fields and pasture will be delivered this way.
-* One leading to the kitchen.  It should probably be right next door.
-* One leading to the main warehouse.  This is to take leather from butchered animals into storage, as well as moving slow spoiling stuff such as corn, smokeleaf and healroot between the freezer and warehouse.
+由于冷藏室是一种特殊的存储区域，并且依靠的是固定安装的制冷机，因此不容易在基地中移动。这意味着需要仔细计划它的放置位置。
 
-In addition, the freezer will need to be expanded as population increases, meaning that you should leave one of its sides unoccupied by other structures so that in the future you can increase the size of it without needing to deconstruct other rooms. The freezer should not be too large, because that will require more coolers, and also increase the walking distance to gather and redistribute supplies.
+冷藏室需要三个主要通道：
+* 一条通道直通户外，或尽可能短地通到户外。动物尸体和农产品通过该通道运输。
+* 一条通道连接厨房。冷藏室应建在厨房隔壁。
+* 
+一条通道通往仓库。这是为了将从屠宰动物中获取的皮革存入仓库、在冷藏室和仓库之间移动缓慢变质的东西，例如玉米，烟叶和根茎等。
 
-This practically demands that the freezer is at the periphery of your base.  If you place it there, you can also increase the floor space when your colony grows. Because you will be storing your harvests here, it is also wise to position this room in close proximity to your fields to shorten hauling jobs, with doors also pointing towards your growing zones. 
+此外，随着人口的增加，冷藏室将需要扩展。这意味着应使其一侧不被其他结构所占用，以便将来可以增加其大小而无需破坏其他房间。冷藏室不应太大，因为这将需要更多的制冷机，并且还增加了收集原料及放置成品的步行距离。
 
-Note that however, the freezer does not need direct access to the perimeter of your base! A single unroofed tile is enough to vent the exhaust from up to four coolers (it counts as an outdoors tile as far as the game is concerned, if the four tiles perpendicular to it are walls, or wall-like tiles).  Only in a mountain base you need to consider the exhaust spots of the freezer room more carefully.
+实际上，这就要求冷藏室不要建在基地中心。如果这样做，就可以在基地扩张的同时扩建冷藏室。因为要将农产品储存在冷藏室内，所以明智的做法是将其建在种植区附近，并将一个门朝向种植区。这样可以缩短收获后的运输距离。
 
+但是注意，冷藏室并不需要建在基地边缘！一块无屋顶的方块足以排放四个制冷机的废气(在游戏中，如果垂直相连的四个方格是墙或墙类方格，那么该方格算作户外)。只建在山中的基地更应仔细考虑制冷机的排气点。
 Be very careful when you dig or build in or around this room.  Leaving even a single gap in a room wall will raise the temperature well above the freezing point, and this is easily missed because there is no direct visual indication of the room temperature.  It can lead to massive amounts of food spoiling if undetected.
 
 It is tempting to dig into a mountain to create a freezing room, but keep in mind that [[infestation]]s can then spawn in this room.  This can actually be a good thing, because eradicating an infestation right inside the freezer room is tactically easy, and it will leave all the filth and dead insects in probably the best location in your base.  Your food supply will, however, be temporarily disrupted in such a scenario.

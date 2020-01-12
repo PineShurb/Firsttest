@@ -1,10 +1,9 @@
 {{Image wanted}}
 {{TOCright}}
 
-This guide is the ultimate go-to guide to building your [[colony]], for all stages of the game.
+本文是关于[[colony|殖民地]]建设的终极指南，适用于游戏进行的各个阶段。
 
-殖民地建设的一般原则
-== General colony design principles ==
+== 殖民地建设的一般原则  ==
 
 An efficient base allows your colonists to ''get stuff done'' and ''stay happy''.  They must be able to reach their assigned jobs in time, and the base needs to be pleasing and comfortable to work and live in.  The base should also be ''secure'', but that is probably the easiest part.
 
@@ -17,7 +16,7 @@ Also, it is difficult to plan ahead how many beds you will need, unless you make
 
 The recreation and dining area should also be off center, probably close to the sleeping area.  Recreation and eating happens mostly in the morning and evening (before and after night time).  Colonists visit this place only very sparingly during the day.
 
-This principle does, however, not apply to every room that happens to have beds in it – the hospital and prison can, and should, be more centrally placed.  Hospitals and prisons require frequent visits, to tend to and feed patients and "guests".  Prison breaks are more easily contained if the fugitive is in the middle of your base.
+This principle does, however, not apply to every room that happens to have beds in it иC the hospital and prison can, and should, be more centrally placed.  Hospitals and prisons require frequent visits, to tend to and feed patients and "guests".  Prison breaks are more easily contained if the fugitive is in the middle of your base.
 
 Make sure that related areas are close: kitchen, freezer, warehouse and factory floor.  Some rooms are ''very'' frequently accessed from the outside (the freezer is one example).  Provide short walkways to these places.
 
@@ -29,7 +28,7 @@ Ugliness that is unavoidable can be countered with ''decor bombing''.  Make some
 
 Comfortable furniture is very important.  Keep a good carpenter (with high "construction" skill), and have them craft all the furniture in the base (especially the beds and chairs).  Put dining chairs in front of all workstations (they are both "beautiful" ''and'' "comfortable"); they will not make anyone work faster, but they give a mood bonus while anybody is using them.
 
-With regards to construction work, it is best to let your most capable constructors prioritize on the "artisan work", ie furniture with a quality rating that matters.  The second league of constructors can do things like lay carpets, smooth floors and build walls.  These structures do not have a quality rating – the contruction skill only influences success chance and work speed.  Sadly it is difficult to impossible without the [https://steamcommunity.com/sharedfiles/filedetails/?id=725219116 requisite mods] to direct your colonists in the required way.
+With regards to construction work, it is best to let your most capable constructors prioritize on the "artisan work", ie furniture with a quality rating that matters.  The second league of constructors can do things like lay carpets, smooth floors and build walls.  These structures do not have a quality rating иC the contruction skill only influences success chance and work speed.  Sadly it is difficult to impossible without the [https://steamcommunity.com/sharedfiles/filedetails/?id=725219116 requisite mods] to direct your colonists in the required way.
 
 === Safety first ===
 
@@ -591,7 +590,7 @@ This should obviously be done only if you have enough janitors, otherwise it's b
 最抗毒性
 缺点	
 如果使用易燃材料，火势可能蔓延到整个基地
-需要大面积连续的可建造土地，因此不适合沼泽生物群落
+需要大面积连续的可建造土地，因此不适合沼泽生态区
 不太灵活
 不能满足户外需求
 总体上需要大多数空间和建筑材料
@@ -669,7 +668,7 @@ This should obviously be done only if you have enough janitors, otherwise it's b
 
 营养糊剂分配器充当墙壁。通常将它们和漏斗一起放在冷冻室中，并将激活点放在饭厅中。
 
-冷却器的放置至关重要，因为这些设备的功率很低，只有100HP，这使它们成为墙壁上最薄弱的地方，突袭者很容易闯入墙壁，很可能会点燃您的食物供应。因此，保护??冷却器的最佳方法之一是将冷却器面向山（如果附近有山），或在其高温侧筑墙。在这两种情况下，请确保移除所有屋顶。如果您的基地位于寒冷的生物群落中，则另一种选择是将其热侧引导到您的生活空间中，以帮助对其进行加热。通常将冷冻室制成双壁以增加隔热性。冷冻机容易受到太阳耀斑的影响。在冷冻生物群落中，仍然需要防止食物变质至暴露。在这种情况下，将其围起来并增加通风孔 到外部让冷空气进入。
+冷却器的放置至关重要，因为这些设备的功率很低，只有100HP，这使它们成为墙壁上最薄弱的地方，突袭者很容易闯入墙壁，很可能会点燃您的食物供应。因此，保护??冷却器的最佳方法之一是将冷却器面向山（如果附近有山），或在其高温侧筑墙。在这两种情况下，请确保移除所有屋顶。如果您的基地位于寒冷的生态区中，则另一种选择是将其热侧引导到您的生活空间中，以帮助对其进行加热。通常将冷冻室制成双壁以增加隔热性。冷冻机容易受到太阳耀斑的影响。在冷冻生态区中，仍然需要防止食物变质至暴露。在这种情况下，将其围起来并增加通风孔 到外部让冷空气进入。
 
 通常在冷冻机的入口处形成气闸（一扇门，一小块空间，然后另一扇通往冷冻机的门），以减少温度交换。由于殖民者和运输者会经常进入这个房间，因此一旦建造自动门，既可以加快进出速度，又可以最大程度地减少温度变化。
 
@@ -903,7 +902,7 @@ Boomalope设置
 
 确保地热发生器及其连接导管受到良好的保护，因为它们通常必须远离基座放置。装上发电机有助于保护他们免遭入侵者的侵袭，但不建议装上导管，因为这样做成本高且妨碍了殖民者的野外工作。
 
-注意间歇泉释放的热量。如果将地热发生器的墙壁和屋顶紧密贴合，内部温度将非常高，足以使可燃物着火（包括发生器本身）。因此，有必要去除这种建筑物上的屋顶。但是，如果通风口在寒冷的生物群落中靠近您的基座，请考虑将其连接到自己的基座上以帮助加热。
+注意间歇泉释放的热量。如果将地热发生器的墙壁和屋顶紧密贴合，内部温度将非常高，足以使可燃物着火（包括发生器本身）。因此，有必要去除这种建筑物上的屋顶。但是，如果通风口在寒冷的生态区中靠近您的基座，请考虑将其连接到自己的基座上以帮助加热。
 
 动力储存
 电池在电量过剩时会存储电力，而在需求超过供给时会释放电力。如果您使用不稳定的电源（例如风能或太阳能），则需要电池来存储电力。电池必须放在屋顶下以防止短路。还应保护它们免受外部威胁，因为将电池丢失到突袭者或迫击炮中会损坏您的电源。
@@ -952,7 +951,7 @@ Boomalope设置
 保护冷却器
 冷却器非常脆弱，必须将其放置在墙上，这样，一次爆炸或近战攻击者的专心努力即可轻易将其分解。保护冷却器可以消除墙壁上的薄弱点，从而有助于防御敌人的袭击。这是通过关闭冷却器的壁来完成的，同时在热端的前面留出无屋顶的空间以散发热量。
 
-如果您的菌落处在寒冷但尚未完全冻结的生物群落中，请考虑将冷却器中的热量排放到冰箱中，而不是将其排放到居住空间中。
+如果您的菌落处在寒冷但尚未完全冻结的生态区中，请考虑将冷却器中的热量排放到冰箱中，而不是将其排放到居住空间中。
 
 冷却塔
 将多个冷却器与热端对齐，使热端朝向无屋顶的区域，在该区域中，热量向外排放。该无屋顶区域可以放置在现有结构内，例如在冷冻室内。为了获得最大的空间效率，未屋顶区域的条带应为1瓦宽，并被冷却器包围。此方法最适合冷冻机保持凉爽，因为大多数情况下不需要很多冷冻机。
@@ -974,7 +973,7 @@ Boomalope设置
 显然，只有在有足够的管理员的情况下才应该这样做，否则最好不要建立任何楼层（请参见上文）。
 
 桥梁
-桥梁可以快速移动，并且可以在河流的浅水区和沼泽地类型上建造一些建筑物。它们非常适合让殖民地跨越河流，并使在沼泽生物群落中的建造更加容易。请注意，某些对象无法建立或放置在桥上。
+桥梁可以快速移动，并且可以在河流的浅水区和沼泽地类型上建造一些建筑物。它们非常适合让殖民地跨越河流，并使在沼泽生态区中的建造更加容易。请注意，某些对象无法建立或放置在桥上。
 
 水泵
 水分泵可以清除周围土壤中的水分，从而形成适合于建筑业和大多数情况下农业的坚实土地。它们在沼泽生物群系中非常出色，可以清除浅水，泥泞的土壤和泥土，从而建造建筑物。它们的作用是永久性的，因此一旦要使用的土地干燥，就可以安全地对其进行销毁。
