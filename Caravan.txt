@@ -1,0 +1,712 @@
+{{Tocright}}
+
+'''Caravans''' are a group of one or more colonists who gather together for different purposes. Goods can be carried by animals, colonists or prisoners, to facilitate trading on your own schedule; and a caravan can also act as a raid squad to attack other establishments. Each caravan is represented on the [[Menus#World|world map]] by a yellow icon. Double-clicking a caravan will select all caravans on the screen, allowing them all to be ordered to a single destination.
+
+Sending caravans out from your home, instead of just waiting for other tribes to come to you, helps keep up fluid commerce. It provides a wider selection of goods since friendly outposts have much more inventory than the limited selection traders (who are restricted by carrying capacity) show up with, and you get a 2% price bonus for direct trading. It's also cheaper than requesting traders at the comms console.
+
+== Creation ==
+
+[[File:Form caravan icon.png|right]]
+
+In the World map, select the colony icon and click <tt>'Form caravan'</tt>.  A dialog is shown to assign pawns, animals and items.  You can create multiple caravans.
+
+: <p>'''''Caution:''''' Clicking <tt>'Abandon'</tt> on an unoccupied colony will not prompt for any confirmation before making it an [[:File:Abandoned faction base.png|inaccessible ruins and lost forever]].</p>
+
+=== People and Animals ===
+Choose the colonists who will take part in the convoy, the animals (e.g. [[alpaca]], [[dromedary]] or [[muffalo]]) that will carry the items for sale, and prisoners you want to transport. At least one colonist must be chosen. Make sure to select those whose health are in optimal conditions, as wounded and/or sick colonists slow the caravan down.
+
+There are three different arrangements when forming caravans:
+* A caravan without pack animals forms the fastest, as colonists only need to pack items on their backs and will leave quickly.
+* Caravans with pack animals endure a loading phase where colonists must load the pack animals. This can take a long time if there are lots of stuff to pack and you don't have enough haulers on hand.
+* Caravans already traveling through the globe will reform instantly and not require a hauling phase.
+
+Incapacitated pawns cannot be chosen to be part of the caravan initiation process, but once your caravan is travelling you can pick up incapacitated people to come with you. They will slow down your caravan by a lot, so be warned.
+
+The caravan will take the name of the best negotiator in the caravan.
+
+[[File:Caravan party.png|300px]]
+
+=== Items ===
+Use the Items tab to select supplies.  Only items located in your Stockpiles or Home Area are shown while initially packing; when reforming the caravan you can select any item on the map.
+
+Carrying capacity:
+* Colonists/prisoners: 35 kilograms (kg). This capacity includes clothing, gear and inventory they already have.
+* Muffalo: 73.5 kg
+* Dromedary: 70 kg
+* Alpaca: 35 kg
+* Elephant: 140 kg
+
+Baby or juvenile animals have a reduced carrying capacity.
+
+If the colonist or animal is already carrying something (such as clothes worn) then they will appear to have a reduced carry weight.
+
+The combined carrying capacity and mass of selected items is listed at the top. Buttons are used to select items/amounts. A double arrow [>>] will take the full quantity of an item. The arrow [>M] indicates you cannot carry the full quantity, but it will automatically take the maximum amount. When over capacity, the arrow [M<] will return some or all of those items so that the mass total does not exceed the caravan's carrying capacity.
+
+Modifier keys can be used to change the [>] arrow from +1 to adding more as follows:<br/>
+{{Key|CTRL}}: +10 <br/>{{Key|SHIFT}}: +100 <br/>{{Key|CTRL}}+{{Key|SHIFT}}: +1000. <br/>These keys work similarly for the [<] arrow to subtract.
+
+If a caravan member dies in the close-up view, they will drop their items which must be picked up. If they die on the global map (such as from blood loss), their gear will be lost. If all party members die, the entire caravan disappears and everything is lost.
+
+[[File:Caravan inventory.png|300px]]
+
+==== Food ====
+
+Caravans will feed as needed during the journey, so long as there's enough within the supply. Colonists who are part of a caravan will automatically forage for food while on the way, the speed of which depends on the environment and the colonist's growing skill.
+
+It's vital to bring sufficient food for the journey. If you're bringing pack animals the caravan may be slower so bring more food to compensate.
+
+Food spoils without refrigeration so careful selection is needed:
+
+* [[Simple meal]]s will suffice for short journeys (<2.4 days).
+* [[Berries]] are good for mid-length journeys, despite being less weight-efficient. (<7 days).
+* [[Pemmican]] will be needed for long distance travels (up to 75 days).
+* [[Packaged survival meal]]s will be necessary for extremely long journeys (>75 days).
+
+Supplies that expire soonest will be consumed first.
+
+While traveling, world map events may trigger such as manhunter packs, raids, or other traders crossing paths, which can generate mini-maps. After threats have been eliminated, it's possible to scavenge a bit of food and herbal medicine before the map closes down. It is likely that you will have some items scattered in the mini-map; these must be picked up or chosen to take with your reformed caravan or they'll be lost forever.
+
+=== Formation process ===
+
+Once the order to form the caravan is given, colonists will gather around a [[caravan packing spot]] or a random place within your home area and wait for all members to assemble. Animals will be rounded up by colonists which will then proceed towards the assembly spot, and follow them around when they are loading the caravan.
+
+It's recommended to put the caravan packing spot inside your warehouse to reduce loading time.
+
+After assembly, they will gather any needed supplies, putting them on pack animals if available. When they finish, they will head out to the map edges and wait for the other members to arrive, then exit the colony map and enter the world map.
+
+Haulers not part of the caravan will also help in gathering the supplies.
+
+[[File:Caravan loading.png|500px|thumb|none|Notice the loading process as colonist start to take items towards the animals of burden.]]
+
+Colonists will ignore any needs during the formation, except food (once they're starving they'll take a break to eat if food is available). Should they feel exhausted during the process, they won't rest in their bedrooms but collapse near the caravan packing spot.
+
+They will also override the 'Forbid' command, taking forbidden items. If there is less of an item than ordered (e.g. meals which other colonists ate during the process), members will take what they can and then carry on without stopping.
+
+A pawn can be temporarily interrupted by manually assigning them to do another task. They will resume caravan loading once the task is complete.
+
+Any mental break of its members will pause the process until that member recovers. Downing or killing that member will interrupt the process, causing it to be cancelled.
+
+[[File:The caravan formation process will continue when everyone recovers from a mental break.png|500px|thumb|none|Ufff...]]
+
+If the formation was successful, the character roster on top of the screen will split, showing those who stayed at home and those who left with the caravan by greying them on a different "box".
+
+[[File:Colonist roster of those at home and at caravan.png|500px]]
+
+=== Caravan route & pathing ===
+
+The 'Choose Route' button allows you to decide destinations for your colonists' caravan. Once a path is chosen, colonists will choose an exit direction that can best reduce travel time.
+
+Once items have been loaded, party members will proceed separate ways according to their own classifications made by the player.
+<gallery widths="300px" heights="300px" class="center" mode="nolines">
+File:Caravan pathing.png| '''Caravan clear division between colonist path and muffalos' path.'''
+File:Caravan pathing 2.png| '''The apparent reason behind the animal area drawn is to prevent them from eating your plantations.'''
+</gallery>
+
+=== Tricks ===
+
+* The act of gathering supplies allows a colonist to carry huge stacks of lightweight materials like cloth or food. This can be exploited to perform ''Super Hauling'' by having a colonist pick up all the goods on the map, drafting them into the storage room, and cancelling the caravan to unload. They will have hauled a massive number of supplies in one trip.
+
+== Travelling ==
+Once your caravan enters the world map, you can give it orders.
+
+A caravan can:
+* Move - Right-click to select destination. A line indicates the optimal route (accounting for terrain speed and elevation changes).
+* Settle - Click Settle to create a new colony.
+** You may not settle a new colony when already at maximum. The default maximum is one. This can increased to up to five in Menu - Options. 
+** Settling directly adjacent to your own colony or any other settlement is not allowed.
+* Enter back into the colony - Right-click the colony.
+* Split - Click the Split button. Each caravan must consist of at least one colonist.
+* Merge - Select two or more caravans in the same tile (by dragging a square zone) and click Merge to form a single caravan.
+* Trade - When a caravan has reached a friendly faction outpost, click the trade button to open the trade dialog window. 
+* Attack - A caravan can attack any faction outpost, regardless of relations status, though attacking will worsen relations.
+* Offer gifts - If your relations with a faction are not high enough to trade, you can offer them gifts in an attempt to improve relations.
+
+[[File:Caravan optimal route.png|300px]]
+
+=== Status box ===
+
+Several items are displayed in the status box.
+
+#Movement status:
+#* Traveling - moving to destination.
+#* Resting - caravan automatically stops between hours 22 and 6 to sleep.
+#* Waiting - no destination selected.
+#* Stopped - stopped moving with reason given.
+#Estimated time to destination - time to destination based on the current tile movement time.
+#Days of food - compare this to 'estimated time to destination' to determine if your caravan has enough food for the journey.
+#Base movement time: Movement speed based on the average speed of all the pawns in the caravan.
+#Current tile movement time: Current movement speed based on the terrain, biome, weather (only affected during autumn-winter) or roads. (See table on this page for details.)
+#Stealthiness: How stealthy your caravan is. Stealthier caravans are less prone to being ambushed.
+
+A caravan may stop for various reasons, such as when;
+*Between hours 22 and 6 while the members sleep and rest.
+**They still continue to rest even if all members are fully rested.
+**Colonists who had been assigned to the night shift in the Restrict tab will still follow this schedule.
+*All colonists are downed or having a minor/major mental break.
+*Any member is having an extreme mental break.
+**Nobody will be harmed even if the colonist is going berserk.
+**Minor or major mental breaks won't stop the caravan as long as at least one person is still functional. If a colonist is in the midst of a mental break when you settle or get ambushed, they will still be having it when they appear on the map.
+*The player manually pauses the caravan.
+**While paused caravans forage faster, members can socialize and the caravan is less likely to be attacked.
+
+=== Sustenance ===
+Pawns traveling in a caravan will eat automatically when necessary. Grazing animals, when hungry in a place with grazable plants, will instantly have their hunger bar refilled without any cost. If not, they will proceed to eat food carried in the caravan. Pawns will prioritize food that spoils earlier.
+
+If a colonist has an injury or disease that requires tending, doctors will tend to them as necessary, using medicine if available to them. If self-tend is on they will also tend to themselves.
+
+If you bring [[Beer]] along with you, colonists may drink it during their journey. The mood bonus it provides can help keep them sane when away from the colony for long stretches of time. (They don't appear to consume other recreational foods, such as chocolate or insect jelly. Testing is needed.)
+
+==== Foraging ====
+
+From Beta 19 onwards, every colonist in a caravan can forage for food.
+
+Each colonist can forage 0.09 nutrition per day per level of Growing at a baseline, i.e. in temperate forests or swamps. Given that each colonist consumes 1.6 nutrition per day, this means that a level 9 Growing colonist can break even with food consumption when the caravan is resting, and a level 18 colonist can constantly forage more than he eats.
+
+Foraging is affected by manipulation (50% importance, 100% max) or sight (90% importance), so giving caravanners [[bionic eye]]s or [[archotech eye]]s can help increase forage and hence let your food stocks last longer.
+
+In addition, having a tribal start grants an extra 170% multiplier to foraging, as shown by a "Faction Type: 170%" line in the tooltip. If Tribal colonists with good Growing skills have enough meals or other food to eat during a trip through terrain with good forage, they may return with a nontrivial quantity of berries.
+
+=== Movement Speed ===
+
+Many things can affect the traveling speed of caravans. Clothing, armor, traits, and health conditions all affect a pawn's movement speed. A caravan's movement speed is determined by the average speed of all of the members of the caravan across colonists and animals, followed by the total mass the caravan is carrying. Incapacitated pawns will greatly slow movement.
+
+If inventory mass exceeds carrying capacity the caravan will become immobilized until the mass is reduced, such as by eating food, discarding goods or having another caravan join up to bring capacity above inventory mass.
+
+Some examples of things that may slow you down:
+
+* Clothing and armor (varies; [[flak vest]], [[flak jacket]], [[flak pants]], [[plate armor]] and [[marine armor]] have high movement penalties)
+* Injured or downed colonists and prisoners
+** Downed pawns can significantly slow down caravans, much more than injured ones that are capable of walking.
+* Traits (e.g. Slowpoke)
+* Slower animals, including muffalo, dromedaries or alpacas (the animals that can haul goods in caravans)
+** Animals can be injured too. A muffalo missing a leg or two will slow down your caravan even more.
+** Middle-stage pregnant animals move at 85% speed.
+** Late-stage pregnant animals move at 70% speed.
+** Juvenile animals move at 90% speed.
+** Baby animals move at 50% speed.
+
+Some things that can speed you up:
+*Colonists equipped with [[Bionic leg]]s or high on [[go-juice]] or [[yayo]].
+*Roads halve the time it takes to travel through a tile.
+*Caravans carrying lighter items will move faster.
+
+While the slower Muffalo and Dromedary speeds compared to the human base speed won't significantly affect shorter distances, baby animals and seriously injured colonists can have a significant impact, increasing travel time by 30% or more.
+
+==== Movement Speed Table ====
+
+{{#vardefine: color1 | 66FF33}}
+{{#vardefine: color2 | 55DD33}} <!--E3D933-->
+{{#vardefine: color3 | BBCC22}}
+{{#vardefine: color4 | EE9900}}
+
+'''Note: this chart is outdated as of 1.0.'''
+
+The following table lists the base caravan movement speed in hours per tile for an unencumbered human. Flat terrain is naturally easiest to travel. Hills and mountains will worsen travel speed, while roads speed it up. Biomes with cold winters have reduced movement speed during the winter. It appears to be interpolated based on the current season and temperature with the worst case values listed in the table below.
+
+Note that it is unlikely that your caravan will travel at the speed listed here.
+
+{| {{STDT| wikitable text-center}}
+! Terrain !! Biome !! scope="col" style="width:5em;" | Flat !! Small Hills !! Large Hills || Mountains
+|- style="background-color:#{{#var: color1}}"
+| rowspan="5" | '''Easy''' 
+| style="text-align: left;" | Arid Shrubland      || 0.99 || 1.8 || 3.4 || 13
+|- style="background-color:#{{#var: color1}}"
+| style="text-align: left;" | Desert              || 0.99 || 1.8 || 3.4 || 13
+|- style="background-color:#{{#var: color1}}"
+| style="text-align: left;" | Extreme Desert      || 0.99 || 1.8 || 3.4 || 13
+|- style="background-color:#{{#var: color1}}"
+| style="text-align: left;" | Tundra (summer)     || 0.99 || 1.8 || 3.4 || 13
+|- style="background-color:#{{#var: color1}}"
+| style="text-align: left;" | Tundra (winter)     || 17   || 18  || 19  || 28
+
+|- style="background-color:#{{#var: color2}}"
+| rowspan="4" | '''Moderate'''
+| style="text-align: left;" | Boreal Forest (summer)       || 1.6 || 2.4 || 4  || 14
+|- style="background-color:#{{#var: color2}}"
+| style="text-align: left;" | Boreal Forest (winter)       || 17  || 18  || 19 || 28
+|- style="background-color:#{{#var: color2}}"
+| style="text-align: left;" | Temperate Forest (summer)    || 1.6 || 2.4 || 4  || 14
+|- style="background-color:#{{#var: color2}}"
+| style="text-align: left;" | Temperate Forest (winter)    || 11  || 12  || 13 || 23
+
+|- style="background-color:#{{#var: color3}}"
+| '''Rough'''
+| style="text-align: left;" | Ice Sheet           || 3 || 3.8 || 5.4 || 15
+
+|- style="background-color:#{{#var: color4}}"
+| rowspan="2" | '''Difficult'''
+| style="text-align: left;" | Tropical Rainforest || 5 || 5.8 || 7.4 || 17
+|- style="background-color:#{{#var: color4}}"
+| style="text-align: left;" | Sea Ice             || 5 || --  || --  || --
+|}
+
+=== Tabs ===
+The inspection pane has tabs to manage the caravan and view details.
+
+In the 'Gear' tab, by clicking the red X you can drop items and lose them forever. Dropping items may be necessary if the caravan becomes overburdened and unable to move. 
+
+You can also abandon colonists and prisoners in the 'Social' tab. Items carried by a dismissed pawn will be lost. Abandoning a caravan member will cause their friends and family to have sad thoughts, and if the colonist is unlikely to survive (such as low temperatures) there will be a more severe penalty. Colonists who survive may eventually make their way back to your colony, or return as part of an enemy raid or friendly caravan.
+
+In the 'Gear' tab you can swap gear by dragging and dropping gear onto different colonists, or to and from the caravan inventory.
+
+<gallery>
+File:Caravan gear and inventory from world view.png|Gear & Inventory
+File:Caravan mass carried.png|Mass carried
+File:Caravan needs.png|Status
+File:Caravan health.png|Health
+</gallery>
+
+Once you arrive to the destination, just click the Trade icon to start negotiations.
+[[File:Trade icon.png]]
+
+=== Route planner ===
+[[File:Caravan_planner.png|600px|thumb|rifht|Caravan planner having planned a route based a caravan's speed.]]
+
+There is a route planner that allows you to roughly check the amount of time it takes to reach a destination, allowing you to plan ahead.
+
+When it is opened, you can drop various waypoints around the world map. The game will calculate the time it takes for a 1 tile/h caravan to travel through the planned route. You can also place the starting point on an existing caravan to determine the time taken for a journey based on that caravan's speed.
+
+{{clear}}
+
+=== Returning home ===
+
+After you arrive back to your colony, you will notice two details must be addressed before continuing the game.
+
+* Pack animals may go straight to their animal bed or just wander around still with all your items inside their packing gear. If you happen to need something at the moment, you will have to make them drop it. You may want to restrict them to a roofed zone and wait for them to go there before doing this, so the dropped belongings won't deteriorate due to exposure, or you can wait until night when they are sleeping inside a room. Pack animals who have been trained for Obedience can be assigned to follow their master, who can be drafted to storage areas and wait until the animals follow him/her too to drop the items as well.
+* Prisoners will still be carrying your caravan items too, even armor and weaponry (as odd as it may be). They will not unload their inventory after returning to base unless directed to through the gear tab, and will start to unload only after being recruited.
+<gallery widths="300px" heights="300px" class="center" mode="nolines">
+File:Prisoners keep your caravan items too.png|'''Prisoners keep your caravan items'''
+File:Caravan prisoner unloading inventory.png|'''Prisoner unloading inventory after recruitment'''
+</gallery>
+
+=== Long distance journeys ===
+
+Many basic technology options prove to be very helpful for long distance travel. Make frequent use of [[Campfire]]s, [[Pemmican]], [[Passive cooler]]s and [[Crafting spot]]s to resupply your caravans and keep healthy on the road, instead of one large ride. Take advantage by building settlements whenever you run low on food or resources. Generated maps can have forageable food and animals to hunt or even tame into the convoy. Colonists will also need time off to relax and restore their joy.
+
+=== Multiple colonies and pitstops ===
+
+The game options let you choose how many colonies (up to 5) you can have active on the globe at once. Temporary maps from events do not count towards this limit. In order to build beyond the game menu limits you must abandon an existing colony. 
+
+Should you choose to make multiple settlements, it is not necessary to carry all your raw materials all the way from home base to a new spot. Lighten the load by carrying valuables such as silver, gold, [[drugs]] and then trading them with your new neighbors, or if you settled close enough, use [[transport pod]]s to launch everything over.
+
+While travelling long distances consider bringing valuable items, then bartering for necessary supplies instead of bringing them.
+
+If you know certain resources will be scarce in your new map's biome, or if you want to save time mining, some resources can be [[Advanced_Endgame_Guide#Resource_compression|compressed]] -- that is, built into items with a lower mass than their raw materials.
+
+== Events ==
+
+Caravan events take place on the road, which means that neither side will be engaging with the benefit of a base. The action takes place in the open and the player must take advantage on terrain features to defend themselves. Those who survive will have a 24 hours window to perform vital needs such as doctoring, resting and feeding as well as re-packing. [[:File:Pirate fed to animal.png|Eliminated hostiles can be fed to your animals]].
+
+There are two different ways of re-packing: manually giving cargo animals the selected item to be carried or re-forming the caravan. The first alternative lets you make the most out of the area which may include mining, harvesting and cooking, while the last option will instantly leave the place. Either way, before the countdown timer ends, all items must be put to be carried or they will be '''lost''' once the time runs out.
+
+=== Ambush ===
+Your caravan has been ambushed by an enemy faction. Colonists cannot exit the map until the attackers are defeated (killed, downed, or fled). If all are killed, the caravan is considered destroyed and will disappear along with any carried items.
+
+<gallery mode="packed-hover">
+File:Caravan ambushed right after leaving colony.png|1.- Red envelope alert zooms in to the battle tile.
+File:Caravan ambushed by pirates.png|2.- You can see the incoming attackers from a distance.
+File:Caravan ambushed in World view.png|3.- World view is a red dot.
+File:Caravan ambushed victory.png|4.- Once victorious, you have 24 hours before the caravan automatically reforms to leave.
+File:Capturing prisoners after ambush.png|5.- Make a tiny room enough to capture downed enemies with a sleeping spot each.
+File:Prisoners brought to colony.png|Prisoners arrive to your colony, wandering around.
+</gallery>
+
+# The game notifies you that an ambush is taking place, prompting you to check on your caravan.
+# Pause the game to survey the enemy, and position yourself by taking cover behind terrain features.
+# Check where it's happening. As it is, in this case, right next to the colony, it's possible to quickly send reinforcements. However, you cannot send the back-up caravan right into the battle, but must first move to an adjacent tile before joining your comrades.
+# After an encounter ends, a 24-hour countdown begins so you can recover, pick up items, strip the dead/downed and take care of any other need.
+# To take prisoners, you should build the smallest room possible (remember you are on a countdown) which can just fit the same amount of sleeping spots for each downed enemy. Treat their wounds so they don't die while carrying them to your colony. Finally, reforming the caravan makes captives come with you (you will see them listed).
+# Your prisoners are finally brought to your colony, but you see them wandering around (!!!). Don't worry as they won't attempt to escape. Your characters will proceed to unload their items. Eventually, wardens will come to pick them up and escort them to designated prison cells. Any incapacitated prisoners will remain downed and need to be carried.
+
+==== Manhunter Ambush ====
+
+Same as Ambush except with a manhunter pack. Manhunters won't attempt to flee, and colonists can't, either.
+
+=== Demand ===
+
+Pirates approach your caravan and demand that you give them items and hand over members as slaves. If you don't they will proceed to assault the caravan.
+
+You can see the number of pirates when they are demanding you hand over items, as well as the items they are demanding.
+
+It's nearly always a better choice to fight back as pirates usually come in poor numbers.
+
+=== Encounter ===
+
+Another friendly caravan crosses path with you, opening an opportunity to trade. 
+
+You can attack them if you wish, damaging relations. Your pawns may exit the map while engaging the caravan. Since you will be informed of their party composition but cannot clearly see who is in the caravan, you can decide if they're worth robbing.
+
+Sometimes when attacking them, they may decide to do a 'bloody exit', that is to exit as aggressively as possible.
+
+[[File:Caravan met peacefully.png|400px]]
+
+== Attacking other settlements ==
+
+You may raid other settlements on the world map, much like other factions do to your colony. To do this, all you need is to send a caravan to a site, and select the "Attack" interaction option. Attacking settlements gives you an opportunity to steal valuable goods such as [[glitterworld medicine]], [[luciferium]], [[component]]s, as well as weapons and armor.
+
+'''The below shows bases from Alpha 16. Settlement defenders of later updates are significantly strengthened and are harder to defeat, and are not scaled by difficulty as other raids are.'''
+<gallery mode="packed-hover">
+File:Caravan raiding another settlement.png|1.- Moving towards target settlement for raid
+File:Generating map for new encounter.png|2.- Generating map for new encounter
+File:Attack begun.png|3.- Attack begun
+File:Studying enemies.png|4.- Studying enemies
+File:Enemy base layout.png|5.- Enemy base layout
+File:Enemy base zoomed out.png|6.- Enemy base zoomed out
+File:Enemy positioning and loot.png|7.- Enemy positioning and loot
+File:Stampede 1.png|8.- First stampede
+File:Stampede casualty.png|9.- Stampede casualty
+File:Using their base as your own.png|10.- Using their base as your own
+File:Outpost destroyed 24h countdown.png|11.- Outpost destroyed, 24h countdown before leaving
+File:Resting at enemy base.png|12.- Resting at enemy base
+File:Looting.png|13.- Looting
+File:Caravan back to home.png|14.- Caravan back to home
+File:Unloading inventory.png|15.- Unloading inventory
+File:Work tab order shift.png|16.- Work tab order shift
+</gallery>
+
+=== Walkthrough ===
+
+See [[Offense_tactics|offense tactics]] for specific tips on how to assault outposts and bases.
+
+# Right click to select destination gives approximate travel time and distance.<p>
+# Once your caravan arrives, the game generates a map with an enemy base.</p><p>
+# The "Attack begun" blue envelope opens a message which allows you to see the targeted area.</p><p>
+# You can click on individual enemy members to see their character skills, gear and health. Use this to prioritize your targets.</p><p>
+# Base layout, nothing tricky.</p><p>
+# Enemy base is very simple, nothing too complicated.</p><p>
+# Approaching from the front will make enemies line up facing you right away automatically.</p><p>
+# [[Offense_tactics#Stampede|Stampede]] offense tactic to weaken their defenses. Train your offensive animals to be capable of "Release", leaving pack animals behind</p><p>
+# Stampede casualty with animal wounds.</p><p>
+# Tactics split and kite allows you to enter their base and use choke points, with friendly fire safety ensured. Melee with ranged shooting on his/her shoulder.</p><p>
+# After 8 of 11 enemies were killed, the remaining 3 start to flee and the game considers the outpost destroyed, and a 24-hour countdown timer begins for treating your wounded, looting and resting. You don't need to destroy the base once captured, just claim their doors and they will open as if they were yours from the beginning.</p><p>
+# Since they had two rooms, one can be used as an infirmary and the other as a prison to handle your prisoners.</p><p>
+# You can strip all your killed or downed enemies to take their weapons and armor. Be careful with the deadman's apparel mood penalty if you took them off the dead, though.</p><p>
+# Once those 24 hours had passed, the game automatically kicks you back to the world map at which point you can return home and/or visit friendly outposts as well. If you want you can also choose 'Reform Caravan' which allows you to choose what you want to bring, and leave early.</p><p>
+# Once you arrive back home, characters will start unloading their inventory, sorting items properly.</p><p>
+# The work tab order will shift to a different sequence than the original before leaving. May be a problem, or not.</p>
+
+
+[[Category:Game mechanics]]
+
+大篷车是一个或多个殖民者的集合，他们出于不同的目的而聚集在一起。动物，殖民者或囚犯可以携带货物，以方便按自己的时间表进行交易；大篷车还可以作为突击小队攻击其他场所。每个大篷车在世界地图上均以黄色图标表示。双击商队将选择屏幕上的所有商队，从而将其全部订购到一个目的地。
+
+从您的家中派出大篷车，而不仅仅是等待其他部落来找您，有助于保持顺畅的贸易。它提供了更多的商品选择，因为友好的前哨所拥有的存货要比有限的选择贸易商（受运载能力所限制）要多得多，并且直接交易可获2％的价格优惠。它比在comms控制台上要求交易者便宜。
+
+创建
+形成caravan icon.png
+在世界地图上，选择殖民地图标，然后点击“形成大篷车”。将显示一个对话框，用于分配典当，动物和物品。您可以创建多个旅行车。
+
+注意：在一个空无一人的殖民地上单击 “放弃”将不会提示您进行任何确认，然后再将其设为无法进入的废墟并永远消失。
+
+人与动物
+选择将参加车队的殖民者，携带待售物品的动物（例如羊驼，单峰骆驼或水牛）和您要运输的囚犯。必须至少选择一名殖民者。确保选择健康状况最佳的人，因为受伤和/或生病的殖民者会拖慢大篷车的速度。
+
+形成大篷车时有三种不同的安排：
+
+没有打包动物的旅行车是最快的，因为殖民者只需要将物品打包在他们的背上就可以迅速离开。
+带pack动物的大篷车要承受装载阶段，在那里殖民者必须装载the动物。如果要打包的东西太多，并且手边没有足够的搬运车，这可能会花费很长时间。
+已经在全球范围内旅行的大篷车将立即进行改装，不需要拖拉阶段。
+无法选择无行为能力的典当作为商队启动过程的一部分，但是一旦您的大篷车旅行，您就可以选择无能力的人陪伴您。它们会大大降低您的旅行车旅行速度，因此请注意。
+
+商队将以商队中最好的谈判者的名字命名。
+
+Caravan party.png
+
+物品
+使用项目标签选择耗材。最初包装时，仅显示位于库存或家中区域的物品；改造大篷车时，您可以在地图上选择任何项目。
+
+承载能力：
+
+殖民者/囚犯：35公斤。这种能力包括他们已经拥有的衣服，装备和库存。
+Muffalo：73.5公斤
+单峰驼：70公斤
+羊驼毛：35公斤
+大象：140公斤
+婴儿或幼小的动物的承载能力降低。
+
+如果殖民者或动物已经在搬运某些东西（例如穿的衣服），那么它们的携带重量就会减少。
+
+所选物品的组合承载力和质量在顶部列出。按钮用于选择项目/数量。双箭头[>>]将占用项目的全部数量。箭头[> M]表示您无法携带全部数量，但会自动占用最大数量。超载时，箭头[M <]将返回其中的一些或全部物品，以使总重量不超过大篷车的承受能力。
+
+修改键可用于将[>]箭头从+1更改为添加更多内容，如下所示
+Ctrl：：+10
+? Shift：+100
+Ctrl+ ? Shift：+ 1000。
+这些键的作用类似于[<]箭头相减。
+
+如果商队成员在特写视图中死亡，他们将放下必须拿起的物品。如果他们在全球地图上死亡（例如由于失血），他们的装备将会丢失。如果所有党员死亡，整个商队就会消失，一切都将丢失。
+
+大篷车stock.png
+
+餐饮
+只要供应充足，大篷车将在旅途中根据需要提供食物。属于商队的殖民者将在途中自动觅食，其速度取决于环境和殖民者的成长能力。
+
+旅途中带上足够的食物至关重要。如果您要带动打包的动物，旅行车可能会变慢，所以请带些食物来弥补。
+
+食物变质且未冷藏，因此需要仔细选择：
+
+短途旅行（<2.4天）就可以享用简单的饭菜。
+浆果虽然减肥效果不佳，但对中途旅行很有好处。（<7天）。
+长途旅行（最长75天）将需要Pemmican。
+包装的生存餐对于长途旅行（> 75天）非常必要。
+最快过期的耗材将首先消耗。
+
+在旅行中，世界地图事件可能会触发，例如猎人包，突袭或其他商人穿越路径，这些都会生成迷你地图。消除威胁后，有可能在地图关闭之前清除一些食物和草药。您可能会在迷你地图中散布一些物品；这些必须拿起或选择与您经过改装的大篷车一起携带，否则它们将永远丢失。
+
+形成过程
+一旦形成了商队的命令，殖民者就会聚集在商队的打包地点或您家乡内的随机地点附近，并等待所有成员集结。殖民者将动物围捕起来，然后他们将朝集会地点前进，并在装卸大篷车时跟着他们走。
+
+建议将商队装箱位放在仓库内，以减少装货时间。
+
+组装后，他们将收集所有需要的用品，并将它们放在包装好的动物身上（如果有）。完成后，他们将前往地图边缘并等待其他成员到达，然后退出殖民地地图并进入世界地图。
+
+不属于旅行队的运输车也将有助于收集物资。
+
+
+请注意装载过程，因为殖民者开始将物品运到负担重的动物身上。
+殖民者将忽略编队期间的任何需要，除了食物（一旦他们饿了，如果有食物，他们会休息一下吃东西）。如果他们在此过程中感到精疲力尽，他们不会在卧室休息，而是会在商队装箱位附近倒塌。
+
+它们还将覆盖“禁止”命令，并接收禁止物品。如果一件物品少于订购的数量（例如，在此过程中其他殖民者吃的饭菜），成员将尽其所能，然后继续前进而不会停下来。
+
+通过手动分配典当可以执行其他任务，可以暂时中断它。任务完成后，他们将恢复大篷车的装载。
+
+成员的任何精神中断都会暂停该过程，直到该成员恢复为止。击倒或杀死该成员将中断该过程，导致该过程被取消。
+
+
+f ...
+如果编队成功，则屏幕顶部的角色名册将拆分，从而将留在家里的人和离开大篷车的人显示在另一个“盒子”上，以显示灰色。
+
+在家中和caravan.png上的殖民者名单
+
+大篷车路线与路径
+通过“选择路线”按钮，您可以确定殖民者大篷车的目的地。选择路径后，殖民者将选择最能减少旅行时间的出口方向。
+
+物品装入后，派对成员将根据玩家自己的分类进行单独的处理。
+
+
+大篷车在殖民者之路和穆法洛斯之路之间有明显的区分。
+
+ 
+
+绘制动物区背后的明显原因是为了防止它们吃掉您的种植园。
+
+技巧
+收集物品的行为使殖民者可以携带大量的轻质材料，例如布料或食物。可以让殖民者领取地图上的所有货物，将它们起草到储藏室中，然后取消大篷车来卸载，以此来执行超级牵引。他们将在一次旅行中拖出大量物资。
+出行
+一旦您的旅行车进入世界地图，您就可以下达命令。
+
+大篷车可以：
+
+移动-右键单击以选择目标。一条线表示最佳路线（考虑了地形速度和海拔变化）。
+定居-单击“定居”以创建新的殖民地。
+如果已经达到最大数量，您可能无法安顿新的殖民地。默认最大值为1。在菜单-选项中，最多可以增加五个。
+不允许直接在您自己的殖民地附近定居或进行任何其他定居。
+重新输入殖民地-右键单击殖民地。
+拆分-单击拆分按钮。每个大篷车必须至少由一名殖民者组成。
+合并-在同一图块中选择两个或多个大篷车（通过拖动方形区域），然后单击“合并”以形成一个大篷车。
+贸易-大篷车到达友好派系前哨站时，单击贸易按钮可打开贸易对话框窗口。
+进攻-大篷车可以攻击任何派系前哨基地，而不论关系状况如何，尽管进攻会恶化关系。
+提供礼物-如果您与派系的关系不足以进行交易，则可以向他们提供礼物以改善关系。
+商队最佳route.png
+
+状态框
+状态框中显示几个项目。
+
+运动状态：
+旅行-前往目的地。
+休息-大篷车会在22到6小时之间自动停止睡眠。
+等待中-未选择目的地。
+停止-停止移动并给出原因。
+预计到达目的地的时间-基于当前图块移动时间的到达目的地的时间。
+食物的天数-将其与“预计到达目的地的时间”进行比较，以确定您的旅行车是否有足够的食物来旅行。
+基本移动时间：移动速度基于商队中所有棋子的平均速度。
+当前瓷砖移动时间：根据地形，生物群落，天气（仅在秋冬期间受到影响）或道路的当前移动速度。（有关详细信息，请参阅此页上的表。）
+隐秘：您的旅行车有多隐身。隐形大篷车不易被伏击。
+大篷车可能由于各种原因而停车，例如何时；
+
+在成员睡觉和休息的22至6小时之间。
+即使所有成员都充分休息，他们仍然继续休息。
+在“限制”选项卡中分配给夜班的殖民者仍将遵循此时间表。
+所有殖民者都被打倒或精神或次要/重大休息。
+任何成员都有一个极端的精神休息。
+即使殖民者发狂，也不会伤害任何人。
+只要至少一个人仍能正常工作，轻微或重大的心理休息就不会停止商队。如果定居者在定居或伏击时处于精神中断状态，那么当他们出现在地图上时，他们仍然会处于精神状态。
+玩家手动暂停旅行队。
+虽然暂停的大篷车觅食更快，但成员可以社交，并且大篷车受到攻击的可能性较小。
+维持
+乘大篷车旅行的典当会在必要时自动进食。放牧的动物如果在有可食植物的地方饿了，便会立即免费补充其饥饿的饥饿感。如果没有，他们将继续食用商队携带的食物。典当会优先考虑较早变质的食物。
+
+如果殖民者患有需要照料的伤害或疾病，医生将在必要时照料他们，并在可能的情况下使用药物。如果保持自我倾向，他们也会倾向于自己。
+
+如果您携带啤酒，殖民者可能会在旅途中喝啤酒。它提供的情绪红利可以使他们远离殖民地很长一段时间时保持理智。（他们似乎没有食用其他休闲食品，例如巧克力或果冻。需要进行测试。）
+
+觅食
+从Beta 19开始，商队中的每个殖民者都可以觅食。
+
+每位殖民者每天在基线（即温带森林或沼泽）中每生长水平可饲喂0.09营养。考虑到每个殖民者每天要消耗1.6种营养，这意味着9个正在成长的殖民者在大篷车休息时可以与食物消耗保持平衡，而18级的殖民者可以不断觅食超过他所吃的食物。
+
+觅食受操纵（重要度为50％，最大值为100％）或视线（重要度为90％）的影响，因此，给商队旅行者仿生的眼睛或archotech的眼睛可以帮助增加草料，从而使食物的寿命更长。
+
+此外，进行部落首发会给觅食额外增加170％的乘数，如工具提示中的“阵营类型：170％”行所示。如果具有良好成长技能的部落殖民者在有良好草料的地形旅行期间有足够的饭菜或其他食物可食用，他们可能会带着少量的浆果回来。
+
+移动速度
+许多因素都会影响大篷车的行驶速度。衣服，盔甲，特质和健康状况都会影响棋子的移动速度。商队的移动速度取决于商队中所有成员跨殖民者和动物的平均速度，然后是商队携带的总质量。失去能力的典当将大大减慢运动速度。
+
+如果库存质量超过承载能力，则商队将固定不动，直到质量减轻为止，例如，通过吃食物，丢弃货物或加入另一辆商队以使能力超过库存质量。
+
+可能会使您减速的一些示例：
+
+服装和盔甲（可变；防弹背心，防弹外套，防弹裤，板甲和海军陆战队会受到较高的运动惩罚）
+受伤或倒下的殖民者和囚犯
+倒下的棋子会大大拖延旅行车的行驶速度，远多于能够行走的受伤行车。
+特质（例如S）
+较慢的动物，包括水牛，单峰骆驼或羊驼（可以在大篷车中拖拉货物的动物）
+动物也可能受伤。一只缺少一条或两条腿的水牛，会使您的旅行车更加放慢速度。
+中期怀孕的动物以85％的速度运动。
+晚期妊娠动物以70％的速度运动。
+幼小动物以90％的速度移动。
+小动物以50％的速度移动。
+一些可以使您加速的事情：
+
+殖民者装有仿生腿或高上走，果汁或yayo。
+道路将穿越瓷砖的时间减少了一半。
+携带较轻物品的大篷车移动速度更快。
+虽然Muffalo和Dromedary速度较之人类基本速度慢不会显着影响较短的距离，但婴儿和受重伤的殖民者可能会产生重大影响，将旅行时间增加30％或更多。
+
+移动速度表
+注意：此图表从1.0开始已过时。
+
+下表列出了无障碍人员的基本旅行车移动速度（小时/瓦）。平坦的地形自然是最容易旅行的。丘陵和山脉会恶化行进速度，而道路会加快行进速度。冬季寒冷的生物群落在冬季降低了运动速度。它似乎是根据当前季节和温度插值的，下表列出了最坏的情况。
+
+请注意，您的旅行车不可能以此处列出的速度行驶。
+
+地形	生物群系	平面	小丘陵	大山丘	山脉
+简单	干旱灌木丛	0.99	1.8	3.4	13
+沙漠	0.99	1.8	3.4	13
+极端沙漠	0.99	1.8	3.4	13
+苔原（夏季）	0.99	1.8	3.4	13
+苔原（冬季）	17	18岁	19	28
+中等	北方森林（夏季）	1.6	2.4	4	14
+北方森林（冬季）	17	18岁	19	28
+温带森林（夏季）	1.6	2.4	4	14
+温带森林（冬季）	11	12	13	23
+粗	冰盖	3	3.8	5.4	15
+难	热带雨林	5	5.8	7.4	17
+海冰	5	-	-	-
+标签
+检查窗格具有用于管理大篷车和查看详细信息的选项卡。
+
+在“齿轮”标签中，通过点击红色的X，您可以丢弃并永久丢失它们。如果商队负担过重且无法移动，则可能需要放下物品。
+
+您还可以在“社交”标签中放弃殖民者和囚犯。被解散的典当携带的物品将丢失。遗弃大篷车成员会使他们的朋友和家人产生悲伤的想法，如果殖民者不太可能生存（例如低温），将会受到更严厉的惩罚。幸存下来的殖民者最终可能会回到您的殖民地，或者作为敌人突袭或友好大篷车的一部分返回。
+
+在“齿轮”选项卡中，您可以通过将齿轮拖放到不同的殖民者之间，或往返于大篷车库存来交换齿轮。
+
+
+齿轮与库存
+
+ 
+
+载重
+
+ 
+
+状态
+
+ 
+
+健康
+
+到达目的地后，只需单击“交易”图标即可开始谈判。 交易icon.png
+
+路线规划师
+
+大篷车计划者已根据大篷车的速度计划了路线。
+有一个路线规划器，可以让您大致检查到达目的地所花费的时间，从而可以提前进行规划。
+
+打开后，您可以在世界地图上放置各种航路点。游戏将计算1瓦/小时大篷车穿越计划路线所需的时间。您也可以将起点放在现有的大篷车上，根据该大篷车的速度来确定旅程所需的时间。
+
+回到家
+回到您的殖民地后，您会注意到在继续游戏之前必须解决两个细节。
+
+打包动物可能会直接走到他们的动物床上，或者只是将所有物品放在打包设备中而仍然在周围徘徊。如果您此时恰巧需要某些东西，则必须让他们放弃。您可能希望将它们限制在有屋顶的区域，然后等待它们到达那里，然后再这样做，这样放下的物品不会由于暴露而恶化，或者您可以等到晚上当他们在房间里睡觉。可以指定经过服从训练的打包动物跟从其主人，后者可以被征召到存储区，等到动物也跟着他/她放下物品。
+囚犯也仍然会携带您的旅行车物品，甚至是装甲和武器（可能很奇怪）。他们除非返回装备标签，否则不会在返回基地后卸货，只有在被征募后才开始卸货。
+
+囚犯保留您的旅行车物品
+
+ 
+
+囚犯在招聘后卸货
+
+长途旅行
+事实证明，许多基本技术选项对于长途旅行非常有帮助。经常使用篝火，Pemmican，被动式冷却器和Crafting点来补给您的大篷车，并在旅途中保持健康，而不是大骑车。只要您的食物或资源不足，就可以通过建立定居点来利用。生成的地图可能包含可觅食的食物和动物，以猎杀甚至驯服车队。殖民者也将需要休息时间来放松和恢复他们的喜悦。
+
+多个殖民地和进站
+游戏选项可让您选择一次可以在地球上活跃的殖民地数量（最多5个）。来自事件的临时地图不计入此限制。为了超越游戏菜单限制，您必须放弃现有的殖民地。
+
+如果您选择进行多个定居点，则不必将所有原材料从基地转移到新地点。通过携带诸如银，金，毒品之类的贵重物品，然后与新邻居进行交易来减轻负担，或者，如果您定居的距离足够近，则可以使用运输吊舱将所有物品倒下。
+
+长途旅行时，请考虑携带有价值的物品，然后以物易物的方式购买必要的物品，而不要携带它们。
+
+如果您知道新地图的生物群系中将缺少某些资源，或者想要节省挖掘时间，则可以压缩某些资源-即，将其内置到质量比其原材料低的项目中。
+
+大事记
+大篷车事件在道路上发生，这意味着双方都不会利用基地的利益。动作发生在公开场合，玩家必须利用地形特征来保卫自己。那些存活下来的人将有24小时的时间窗来执行重要的需求，例如刮刀，休息和进食以及重新包装。消除了敌对情绪的动物可以被喂食。
+
+重新包装有两种不同的方法：手动给货物动物选择要携带的物品或重新组装大篷车。第一种选择使您可以充分利用该区域，其中可能包括采矿，收获和烹饪，而最后一种选择将立即离开该位置。无论哪种方式，在倒数计时器结束之前，必须将所有物品都随身携带，否则一旦时间耗尽它们将会丢失。
+
+伏击
+您的商队遭到敌方派系的伏击。除非攻击者被击败（杀死，击倒或逃跑），否则殖民者无法退出地图。如果全部被杀死，商队将被视为已销毁，并将与所有携带物品一起消失。
+
+
+游戏会通知您正在进行伏击，提示您检查大篷车。
+暂停游戏以调查敌人，并通过掩藏地形特征来定位自己。
+检查发生的地方。在这种情况下，就在殖民地旁边，可以迅速派出援军。但是，您不能将后备旅行车直接送入战斗，而必须在加入战友之前先移至相邻的位置。
+遭遇结束后，将开始24小时倒计时，以便您可以恢复，捡起物品，脱下沉没的人/照顾其他任何需要。
+要俘虏囚犯，您应尽可能建造一个最小的房间（记住您正在倒计时），该房间可以容纳每个被打倒的敌人相同数量的睡眠点。对待他们的伤口，使他们在携带到您的殖民地时不会死亡。最后，改造大篷车会使俘虏与您同在（您会看到他们被列出）。
+您的囚犯终于被带到您的殖民地，但是您看到他们在附近徘徊（!!!）。不要担心，因为他们不会尝试逃脱。您的角色将继续卸载他们的物品。最终，看守会来接他们，并护送他们进入指定的牢房。任何无行为能力的囚犯都将被放倒并需要携带。
+追猎者伏击
+除伏击手包外，与伏击相同。猎人也不会企图逃跑，殖民者也不会。
+
+需求
+海盗接近您的商队，要求您给他们物品并以奴隶身份移交给成员。如果您不这样做，他们将继续袭击大篷车。
+
+您可以看到海盗要求您移交物品的数量，以及他们要求的物品。
+
+由于海盗数量很少，因此反击几乎总是一个更好的选择。
+
+遭遇
+另一个友好的旅行车与您同行，为您交易提供了机会。
+
+如果愿意，您可以攻击他们，破坏关系。您的典当在使用大篷车时可能会退出地图。由于您将被告知他们的政党组成，但无法清楚地看到谁在大篷车中，因此您可以决定他们是否值得抢劫。
+
+有时，在攻击他们时，他们可能会决定进行“血腥退出”，即尽可能积极地退出。
+
+大篷车遇见了
+
+攻击其他定居点
+您可能会袭击世界地图上的其他定居点，就像其他派系对您的殖民地所做的一样。为此，您所需要做的就是向站点发送旅行车，然后选择“攻击”交互选项。进攻定居点让您有机会窃取诸如金葱世界药品，萤光素，零件以及武器和盔甲之类的贵重物品。
+
+下图显示了Alpha 16的基础。后期更新的定居防御者得到了显着加强，更难以击败，并且不像其他袭击那样难以扩展。
+
+
+
+演练
+有关如何突击前哨基地的具体提示，请参见进攻战术。
+
+右键单击以选择目的地，以提供大概的旅行时间和距离。
+一旦您的大篷车到达，游戏就会生成带有敌方基地的地图。
+“攻击开始”蓝色信封将打开一条消息，使您可以查看目标区域。
+您可以单击单个敌方成员以查看其角色技能，装备和健康状况。使用它来确定目标的优先级。
+基本布局，没什么棘手的。
+敌人的基础很简单，没有什么太复杂的。
+从前方靠近将使敌人立即自动面对你排成一队。
+踩踏进攻战术削弱了他们的防御能力。训练您的进攻性动物，使其具有“释放”的能力，而将打包的动物抛在后面
+踩踏人员伤亡，身上有动物伤口。
+战术拆分和放风筝使您可以进入其基地并使用扼流圈，并确保了友善的消防安全。近战射击在他/她的肩膀上。
+在11名敌人中有8名被杀死之后，其余3名开始逃跑，游戏认为前哨基地已被摧毁，并且24小时倒数计时器开始处理受伤，抢劫和休息的情况。一旦被占领，您无需销毁基地，只需声称它们的门，它们便会像从一开始一样就属于您。
+由于它们有两个房间，一个可以用作医务室，另一个可以用作监狱来处理您的囚犯。
+您可以剥离所有被杀死或击倒的敌人，以使用他们的武器和装甲。不过，如果您将死者从死者身上带走，请小心死者的服装情绪。
+过去24小时后，游戏会自动将您踢回世界地图，在此您可以返回家园和/或参观友好的前哨站。如果您愿意，还可以选择“ Reform Caravan”，它可以让您选择要携带的物品，并提早离开。
+回到家后，角色将开始卸载库存，对物品进行正确分类。
+离开之前，工作选项卡的顺序将与原始顺序不同。可能是个问题，还是没有。
