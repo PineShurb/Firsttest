@@ -2,31 +2,28 @@
 
 '''远行队'''由一到多名殖民者组成，建立后可达成多种目标。在按计划进行贸易时，动物、殖民者和囚犯都可以携带货物;创建远行队的目的也可以是进攻其它团体。每个远行队都会在[[Menus#World|世界地图]]上以黄色图标显示。双击远行队图标将会显示屏幕上的所有远行队，此时你可以命令他们移动到同一个地区。
 
-Sending 远行队 out from your home, instead of just waiting for other tribes to come to you, helps keep up fluid commerce. It provides a wider selection of goods since friendly outposts have much more inventory than the limited selection traders (who are restricted by carrying capacity) show up with, and you get a 2% price bonus for direct trading. It's also cheaper than requesting traders at the comms console.
+与其等待其它部落的商队来找你，不如组建你自己的远行队来维持贸易线路。友好派系的定居点中有更多的货物可供贸易，价格也比商队优惠2%。商队的贸易品受限于它的运载量。这种贸易也比通讯台贸易更实惠。
 
-== Creation ==
+== 创建远行队 ==
 
-[[File:Form caravan icon.png|right]]
+在世界地图上，选中殖民地图标并点击<tt>'组建远行队'</tt>。 此时弹出一个对话框用于选择殖民者、动物和物品。可以创建多个远行队。
 
-In the World map, select the colony icon and click <tt>'Form caravan'</tt>.  A dialog is shown to assign pawns, animals and items.  You can create multiple 远行队.
+: <p>'''''注意:''''' 在没有殖民者的定居点上点击 <tt>'遗弃'</tt> 按键后，会直接将其设为无法进入的废墟并永远消失，在此期间没有任何确认按键。</p>
 
-: <p>'''''Caution:''''' Clicking <tt>'Abandon'</tt> on an unoccupied colony will not prompt for any confirmation before making it an [[:File:Abandoned faction base.png|inaccessible ruins and lost forever]].</p>
+=== 人与动物 ===
+选择将要加入队伍的殖民者、搬运待售物品的动物(例如[[羊驼]]、[[骆驼]]、[[雪牛]])、需要运输的囚犯。至少需要选择一名囚犯。确保选择的殖民者身体健康，因为受伤或者生病的殖民者会拖慢远行队速度。
 
-=== People and Animals ===
-Choose the colonists who will take part in the convoy, the animals (e.g. [[alpaca]], [[dromedary]] or [[muffalo]]) that will carry the items for sale, and prisoners you want to transport. At least one colonist must be chosen. Make sure to select those whose health are in optimal conditions, as wounded and/or sick colonists slow the caravan down.
+组建远行队的过程主要可以分为三种:
+* 不需要使用驮运动物的远行队组建最快。殖民者只需要携带好物品就可以快速离开。
+* 需要使用驮运动物的远行队必须先转载驮运动物，这需要花费一些时间。如果要装载的东西很多而搬运工很少，那这个时间会很漫长。
+* 正处于旅行状态的远行队可以立刻重组，不需要装载过程。
 
-There are three different arrangements when forming 远行队:
-* A caravan without pack animals forms the fastest, as colonists only need to pack items on their backs and will leave quickly.
-* 远行队 with pack animals endure a loading phase where colonists must load the pack animals. This can take a long time if there are lots of stuff to pack and you don't have enough haulers on hand.
-* 远行队 already traveling through the globe will reform instantly and not require a hauling phase.
+远行队创建过程中，无法选择无行为能力的殖民者。但远行队旅行过程中，可以将这种人带到队伍中。注意，无行为能力者会严重拖慢远行队速度。
 
-Incapacitated pawns cannot be chosen to be part of the caravan initiation process, but once your caravan is travelling you can pick up incapacitated people to come with you. They will slow down your caravan by a lot, so be warned.
+远行队会以队伍中最好的谈判者命名。
 
-The caravan will take the name of the best negotiator in the caravan.
-
-[[File:Caravan party.png|300px]]
-
-=== Items ===
+=== 物品 ===
+Use the Items tab to select supplies.  Only items located in your 储存区 or 居住区 are shown while initially packing; when reforming the caravan you can select any item on the map.
 Use the Items tab to select supplies.  Only items located in your Stockpiles or Home Area are shown while initially packing; when reforming the caravan you can select any item on the map.
 
 Carrying capacity:
