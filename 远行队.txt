@@ -1,24 +1,24 @@
 {{Tocright}}
 
-'''Caravans''' are a group of one or more colonists who gather together for different purposes. Goods can be carried by animals, colonists or prisoners, to facilitate trading on your own schedule; and a caravan can also act as a raid squad to attack other establishments. Each caravan is represented on the [[Menus#World|world map]] by a yellow icon. Double-clicking a caravan will select all caravans on the screen, allowing them all to be ordered to a single destination.
+'''远行队'''由一到多名殖民者组成，建立后可达成多种目标。在按计划进行贸易时，动物、殖民者和囚犯都可以携带货物;创建远行队的目的也可以是进攻其它团体。每个远行队都会在[[Menus#World|世界地图]]上以黄色图标显示。双击远行队图标将会显示屏幕上的所有远行队，此时你可以命令他们移动到同一个地区。
 
-Sending caravans out from your home, instead of just waiting for other tribes to come to you, helps keep up fluid commerce. It provides a wider selection of goods since friendly outposts have much more inventory than the limited selection traders (who are restricted by carrying capacity) show up with, and you get a 2% price bonus for direct trading. It's also cheaper than requesting traders at the comms console.
+Sending 远行队 out from your home, instead of just waiting for other tribes to come to you, helps keep up fluid commerce. It provides a wider selection of goods since friendly outposts have much more inventory than the limited selection traders (who are restricted by carrying capacity) show up with, and you get a 2% price bonus for direct trading. It's also cheaper than requesting traders at the comms console.
 
 == Creation ==
 
 [[File:Form caravan icon.png|right]]
 
-In the World map, select the colony icon and click <tt>'Form caravan'</tt>.  A dialog is shown to assign pawns, animals and items.  You can create multiple caravans.
+In the World map, select the colony icon and click <tt>'Form caravan'</tt>.  A dialog is shown to assign pawns, animals and items.  You can create multiple 远行队.
 
 : <p>'''''Caution:''''' Clicking <tt>'Abandon'</tt> on an unoccupied colony will not prompt for any confirmation before making it an [[:File:Abandoned faction base.png|inaccessible ruins and lost forever]].</p>
 
 === People and Animals ===
 Choose the colonists who will take part in the convoy, the animals (e.g. [[alpaca]], [[dromedary]] or [[muffalo]]) that will carry the items for sale, and prisoners you want to transport. At least one colonist must be chosen. Make sure to select those whose health are in optimal conditions, as wounded and/or sick colonists slow the caravan down.
 
-There are three different arrangements when forming caravans:
+There are three different arrangements when forming 远行队:
 * A caravan without pack animals forms the fastest, as colonists only need to pack items on their backs and will leave quickly.
-* Caravans with pack animals endure a loading phase where colonists must load the pack animals. This can take a long time if there are lots of stuff to pack and you don't have enough haulers on hand.
-* Caravans already traveling through the globe will reform instantly and not require a hauling phase.
+* 远行队 with pack animals endure a loading phase where colonists must load the pack animals. This can take a long time if there are lots of stuff to pack and you don't have enough haulers on hand.
+* 远行队 already traveling through the globe will reform instantly and not require a hauling phase.
 
 Incapacitated pawns cannot be chosen to be part of the caravan initiation process, but once your caravan is travelling you can pick up incapacitated people to come with you. They will slow down your caravan by a lot, so be warned.
 
@@ -51,7 +51,7 @@ If a caravan member dies in the close-up view, they will drop their items which 
 
 ==== Food ====
 
-Caravans will feed as needed during the journey, so long as there's enough within the supply. Colonists who are part of a caravan will automatically forage for food while on the way, the speed of which depends on the environment and the colonist's growing skill.
+远行队 will feed as needed during the journey, so long as there's enough within the supply. Colonists who are part of a caravan will automatically forage for food while on the way, the speed of which depends on the environment and the colonist's growing skill.
 
 It's vital to bring sufficient food for the journey. If you're bringing pack animals the caravan may be slower so bring more food to compensate.
 
@@ -116,7 +116,7 @@ A caravan can:
 ** Settling directly adjacent to your own colony or any other settlement is not allowed.
 * Enter back into the colony - Right-click the colony.
 * Split - Click the Split button. Each caravan must consist of at least one colonist.
-* Merge - Select two or more caravans in the same tile (by dragging a square zone) and click Merge to form a single caravan.
+* Merge - Select two or more 远行队 in the same tile (by dragging a square zone) and click Merge to form a single caravan.
 * Trade - When a caravan has reached a friendly faction outpost, click the trade button to open the trade dialog window. 
 * Attack - A caravan can attack any faction outpost, regardless of relations status, though attacking will worsen relations.
 * Offer gifts - If your relations with a faction are not high enough to trade, you can offer them gifts in an attempt to improve relations.
@@ -136,7 +136,7 @@ Several items are displayed in the status box.
 #Days of food - compare this to 'estimated time to destination' to determine if your caravan has enough food for the journey.
 #Base movement time: Movement speed based on the average speed of all the pawns in the caravan.
 #Current tile movement time: Current movement speed based on the terrain, biome, weather (only affected during autumn-winter) or roads. (See table on this page for details.)
-#Stealthiness: How stealthy your caravan is. Stealthier caravans are less prone to being ambushed.
+#Stealthiness: How stealthy your caravan is. Stealthier 远行队 are less prone to being ambushed.
 
 A caravan may stop for various reasons, such as when;
 *Between hours 22 and 6 while the members sleep and rest.
@@ -147,7 +147,7 @@ A caravan may stop for various reasons, such as when;
 **Nobody will be harmed even if the colonist is going berserk.
 **Minor or major mental breaks won't stop the caravan as long as at least one person is still functional. If a colonist is in the midst of a mental break when you settle or get ambushed, they will still be having it when they appear on the map.
 *The player manually pauses the caravan.
-**While paused caravans forage faster, members can socialize and the caravan is less likely to be attacked.
+**While paused 远行队 forage faster, members can socialize and the caravan is less likely to be attacked.
 
 === Sustenance ===
 Pawns traveling in a caravan will eat automatically when necessary. Grazing animals, when hungry in a place with grazable plants, will instantly have their hunger bar refilled without any cost. If not, they will proceed to eat food carried in the caravan. Pawns will prioritize food that spoils earlier.
@@ -168,7 +168,7 @@ In addition, having a tribal start grants an extra 170% multiplier to foraging, 
 
 === Movement Speed ===
 
-Many things can affect the traveling speed of caravans. Clothing, armor, traits, and health conditions all affect a pawn's movement speed. A caravan's movement speed is determined by the average speed of all of the members of the caravan across colonists and animals, followed by the total mass the caravan is carrying. Incapacitated pawns will greatly slow movement.
+Many things can affect the traveling speed of 远行队. Clothing, armor, traits, and health conditions all affect a pawn's movement speed. A caravan's movement speed is determined by the average speed of all of the members of the caravan across colonists and animals, followed by the total mass the caravan is carrying. Incapacitated pawns will greatly slow movement.
 
 If inventory mass exceeds carrying capacity the caravan will become immobilized until the mass is reduced, such as by eating food, discarding goods or having another caravan join up to bring capacity above inventory mass.
 
@@ -176,9 +176,9 @@ Some examples of things that may slow you down:
 
 * Clothing and armor (varies; [[flak vest]], [[flak jacket]], [[flak pants]], [[plate armor]] and [[marine armor]] have high movement penalties)
 * Injured or downed colonists and prisoners
-** Downed pawns can significantly slow down caravans, much more than injured ones that are capable of walking.
+** Downed pawns can significantly slow down 远行队, much more than injured ones that are capable of walking.
 * Traits (e.g. Slowpoke)
-* Slower animals, including muffalo, dromedaries or alpacas (the animals that can haul goods in caravans)
+* Slower animals, including muffalo, dromedaries or alpacas (the animals that can haul goods in 远行队)
 ** Animals can be injured too. A muffalo missing a leg or two will slow down your caravan even more.
 ** Middle-stage pregnant animals move at 85% speed.
 ** Late-stage pregnant animals move at 70% speed.
@@ -188,7 +188,7 @@ Some examples of things that may slow you down:
 Some things that can speed you up:
 *Colonists equipped with [[Bionic leg]]s or high on [[go-juice]] or [[yayo]].
 *Roads halve the time it takes to travel through a tile.
-*Caravans carrying lighter items will move faster.
+*远行队 carrying lighter items will move faster.
 
 While the slower Muffalo and Dromedary speeds compared to the human base speed won't significantly affect shorter distances, baby animals and seriously injured colonists can have a significant impact, increasing travel time by 30% or more.
 
@@ -281,7 +281,7 @@ File:Caravan prisoner unloading inventory.png|'''Prisoner unloading inventory af
 
 === Long distance journeys ===
 
-Many basic technology options prove to be very helpful for long distance travel. Make frequent use of [[Campfire]]s, [[Pemmican]], [[Passive cooler]]s and [[Crafting spot]]s to resupply your caravans and keep healthy on the road, instead of one large ride. Take advantage by building settlements whenever you run low on food or resources. Generated maps can have forageable food and animals to hunt or even tame into the convoy. Colonists will also need time off to relax and restore their joy.
+Many basic technology options prove to be very helpful for long distance travel. Make frequent use of [[Campfire]]s, [[Pemmican]], [[Passive cooler]]s and [[Crafting spot]]s to resupply your 远行队 and keep healthy on the road, instead of one large ride. Take advantage by building settlements whenever you run low on food or resources. Generated maps can have forageable food and animals to hunt or even tame into the convoy. Colonists will also need time off to relax and restore their joy.
 
 === Multiple colonies and pitstops ===
 
