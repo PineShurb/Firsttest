@@ -23,31 +23,38 @@
 远行队会以队伍中最好的谈判者命名。
 
 === 物品 ===
-Use the Items tab to select supplies.  Only items located in your 储存区 or 居住区 are shown while initially packing; when reforming the caravan you can select any item on the map.
-Use the Items tab to select supplies.  Only items located in your Stockpiles or Home Area are shown while initially packing; when reforming the caravan you can select any item on the map.
 
+利用物品表选择远行货物。选择打包物品时，只能选择位于居住区或存储区的物品。但在重组远行队时，可以在整个地图中选择物品。
+Use the Items tab to select supplies.  Only items located in your 储存区 or 居住区 are shown while initially packing; when reforming the caravan you can select any item on the map.
+
+携带容量
 Carrying capacity:
+殖民者：35千克。这个容量包括了服装 工具 和已经携带的物品
 * Colonists/prisoners: 35 kilograms (kg). This capacity includes clothing, gear and inventory they already have.
 * Muffalo: 73.5 kg
 * Dromedary: 70 kg
 * Alpaca: 35 kg
 * Elephant: 140 kg
 
+没有成年的动物携带容量更小。
 Baby or juvenile animals have a reduced carrying capacity.
 
+如果殖民者或动物已经携带了某些物品，他们的携带容量会自动去除这些东西的质量。
 If the colonist or animal is already carrying something (such as clothes worn) then they will appear to have a reduced carry weight.
 
+累计可携带容量和已选物品质量列在顶端。可以使用按键来切换物品 总重。 双箭头会选择物品的最大数量。箭头 表示你不能拿完全部物品，但是会自动帮你选中可以携带的最大数量。当携带重量过多时， 会退回部分或全部此物品，以尽量保证总质量不超过远行队可携带重量。
 The combined carrying capacity and mass of selected items is listed at the top. Buttons are used to select items/amounts. A double arrow [>>] will take the full quantity of an item. The arrow [>M] indicates you cannot carry the full quantity, but it will automatically take the maximum amount. When over capacity, the arrow [M<] will return some or all of those items so that the mass total does not exceed the caravan's carrying capacity.
 
+可以使用如下快捷键快速修改选择数量
 Modifier keys can be used to change the [>] arrow from +1 to adding more as follows:<br/>
 {{Key|CTRL}}: +10 <br/>{{Key|SHIFT}}: +100 <br/>{{Key|CTRL}}+{{Key|SHIFT}}: +1000. <br/>These keys work similarly for the [<] arrow to subtract.
 
+如果远行队成员死时，处于可视画面，他们的物品会掉落，当然，可以被捡起来。如果死于世界地图，由于失血等原因，他们的携带物会丢失。如果所有的成员都死了，整个远行队都会消失，所有的物品都会丢失。
 If a caravan member dies in the close-up view, they will drop their items which must be picked up. If they die on the global map (such as from blood loss), their gear will be lost. If all party members die, the entire caravan disappears and everything is lost.
 
-[[File:Caravan inventory.png|300px]]
+==== 食物 ====
 
-==== Food ====
-
+只要条件允许，远行队在旅行期间会按需进食。
 远行队 will feed as needed during the journey, so long as there's enough within the supply. Colonists who are part of a caravan will automatically forage for food while on the way, the speed of which depends on the environment and the colonist's growing skill.
 
 It's vital to bring sufficient food for the journey. If you're bringing pack animals the caravan may be slower so bring more food to compensate.
