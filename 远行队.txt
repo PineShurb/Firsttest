@@ -24,63 +24,53 @@
 
 === 物品 ===
 
-利用物品表选择远行货物。选择打包物品时，只能选择位于居住区或存储区的物品。但在重组远行队时，可以在整个地图中选择物品。
-Use the Items tab to select supplies.  Only items located in your 储存区 or 居住区 are shown while initially packing; when reforming the caravan you can select any item on the map.
+在「物品」选项卡中选择远行货物。在打包物品时，只能选择位于居住区或存储区的物品。但在重组远行队时，可以选择整个地图中的物品。
 
-携带容量
-Carrying capacity:
-殖民者：35千克。这个容量包括了服装 工具 和已经携带的物品
-* Colonists/prisoners: 35 kilograms (kg). This capacity includes clothing, gear and inventory they already have.
-* Muffalo: 73.5 kg
-* Dromedary: 70 kg
-* Alpaca: 35 kg
-* Elephant: 140 kg
+携带能力:
 
-没有成年的动物携带容量更小。
-Baby or juvenile animals have a reduced carrying capacity.
+* 殖民者/囚犯：35千克。这个大小包括了服装、工具和已经携带的物品。
+* 雪牛: 73.5 千克
+* 单峰骆驼: 70 千克
+* 羊驼: 35 千克
+* 象: 140 千克
 
-如果殖民者或动物已经携带了某些物品，他们的携带容量会自动去除这些东西的质量。
-If the colonist or animal is already carrying something (such as clothes worn) then they will appear to have a reduced carry weight.
+没有成年的动物携带能力更弱。
 
-累计可携带容量和已选物品质量列在顶端。可以使用按键来切换物品 总重。 双箭头会选择物品的最大数量。箭头 表示你不能拿完全部物品，但是会自动帮你选中可以携带的最大数量。当携带重量过多时， 会退回部分或全部此物品，以尽量保证总质量不超过远行队可携带重量。
-The combined carrying capacity and mass of selected items is listed at the top. Buttons are used to select items/amounts. A double arrow [>>] will take the full quantity of an item. The arrow [>M] indicates you cannot carry the full quantity, but it will automatically take the maximum amount. When over capacity, the arrow [M<] will return some or all of those items so that the mass total does not exceed the caravan's carrying capacity.
+如果殖民者或动物已经携带了某些物品(例如穿着的衣物)，他们的携带能力会自动扣除这些东西的重量。
 
-可以使用如下快捷键快速修改选择数量
-Modifier keys can be used to change the [>] arrow from +1 to adding more as follows:<br/>
-{{Key|CTRL}}: +10 <br/>{{Key|SHIFT}}: +100 <br/>{{Key|CTRL}}+{{Key|SHIFT}}: +1000. <br/>These keys work similarly for the [<] arrow to subtract.
+累计可携带容量和已选物品质量列在顶端。可以使用按键来切换物品/总重。 双箭头[>>]会选择物品的最大数量。箭头[>M]表示你不能拿完全部物品，但是会自动帮你选中可以携带的最大数量。当携带重量过多时，[M<]会退回部分或全部此物品，以尽量保证总质量不超过远行队可携带重量。
 
-如果远行队成员死时，处于可视画面，他们的物品会掉落，当然，可以被捡起来。如果死于世界地图，由于失血等原因，他们的携带物会丢失。如果所有的成员都死了，整个远行队都会消失，所有的物品都会丢失。
-If a caravan member dies in the close-up view, they will drop their items which must be picked up. If they die on the global map (such as from blood loss), their gear will be lost. If all party members die, the entire caravan disappears and everything is lost.
+可以使用如下快捷键快速修改[>]所调整数量:<br/>
+{{Key|CTRL}}: +10 <br/>{{Key|SHIFT}}: +100 <br/>{{Key|CTRL}}+{{Key|SHIFT}}: +1000. <br/>该快捷方式同样适用于[<] 箭头。
+
+如果远行队成员死时，处于可视画面，他们的物品会掉落。当然，这些物品可以被捡起来。如果死于世界地图（由于失血等原因），他们的携带物会丢失。如果所有的成员都死了，整个远行队都会消失，所有的物品都会丢失。
 
 ==== 食物 ====
 
-只要条件允许，远行队在旅行期间会按需进食。
-远行队 will feed as needed during the journey, so long as there's enough within the supply. Colonists who are part of a caravan will automatically forage for food while on the way, the speed of which depends on the environment and the colonist's growing skill.
+只要条件允许，远行队在旅行期间会按需进食。旅途中，远行队中的殖民者会自动采集食物，采集速度由环境和殖民者种植技能决定。
 
-It's vital to bring sufficient food for the journey. If you're bringing pack animals the caravan may be slower so bring more food to compensate.
+旅途中一定要带够充足的食物。如果使用动物进行驮运，远行队的速度很可能会变慢，这就需要更多的食物。
 
-Food spoils without refrigeration so careful selection is needed:
+未冷藏的食物很容易腐坏，需要仔细挑选:
 
-* [[Simple meal]]s will suffice for short journeys (<2.4 days).
-* [[Berries]] are good for mid-length journeys, despite being less weight-efficient. (<7 days).
-* [[Pemmican]] will be needed for long distance travels (up to 75 days).
-* [[Packaged survival meal]]s will be necessary for extremely long journeys (>75 days).
+* [[简单的食物]]适用于短途旅行 (<2.4 天).
+* [[莓果]]适用于中等长度旅行, 但是重量略高 (<7 天).
+* [[干肉饼]]适用于长途旅行 (少于75 天).
+* [[包装生存食品]]超长期旅行必备食品 (>75 天).
 
-Supplies that expire soonest will be consumed first.
+自动优先消耗最易腐坏的食品。
 
-While traveling, world map events may trigger such as manhunter packs, raids, or other traders crossing paths, which can generate mini-maps. After threats have been eliminated, it's possible to scavenge a bit of food and herbal medicine before the map closes down. It is likely that you will have some items scattered in the mini-map; these must be picked up or chosen to take with your reformed caravan or they'll be lost forever.
+旅途中，可能会触发世界地图事件，如猎杀人类、袭击、偶遇商队等，这些都会生成小地图。当威胁被消除后，有可能在地图关闭前缴获一些食物和草药。也许你的一些东西会散落在小地图上，记得把它们捡起来或在远行队重组界面选中，否则这些东西就再也找不到了。
 
-=== Formation process ===
+=== 组建过程 ===
 
-Once the order to form the caravan is given, colonists will gather around a [[caravan packing spot]] or a random place within your home area and wait for all members to assemble. Animals will be rounded up by colonists which will then proceed towards the assembly spot, and follow them around when they are loading the caravan.
+一旦下达组建远行队的命令，殖民者会聚集在[[远行队打包点]]或居住区内任意地点，然后等到所有殖民者集合。殖民者会见动物带到集合点，此后动物会在殖民者打包时围绕在他们周围。
 
-It's recommended to put the caravan packing spot inside your warehouse to reduce loading time.
+推荐将远行队打包点放到仓库区内以减少打包时间。
 
 After assembly, they will gather any needed supplies, putting them on pack animals if available. When they finish, they will head out to the map edges and wait for the other members to arrive, then exit the colony map and enter the world map.
 
 Haulers not part of the caravan will also help in gathering the supplies.
-
-[[File:Caravan loading.png|500px|thumb|none|Notice the loading process as colonist start to take items towards the animals of burden.]]
 
 Colonists will ignore any needs during the formation, except food (once they're starving they'll take a break to eat if food is available). Should they feel exhausted during the process, they won't rest in their bedrooms but collapse near the caravan packing spot.
 
