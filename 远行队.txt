@@ -68,51 +68,66 @@
 
 推荐将远行队打包点放到仓库区内以减少打包时间。
 
+集结后，他们会拿取所有需要的物品并尽可能将其打包到动物身上。打包结束后，他们会前往地图边缘，等待其他远行队成员的到来。全员到齐后，一起离开当前殖民地进入世界地图。
 After assembly, they will gather any needed supplies, putting them on pack animals if available. When they finish, they will head out to the map edges and wait for the other members to arrive, then exit the colony map and enter the world map.
 
+搬运工即使不属于远行队，也会帮助他们搬运物品。
 Haulers not part of the caravan will also help in gathering the supplies.
 
+在组建远行队的过程中，殖民者会忽视除饮食外的其他需求。在这个过程中，当殖民者感到饥饿时，只要条件允许就会暂时中断组建过程开始进食。同样在此期间，他们可能会觉得疲劳，但即使累垮在远行队打包点附近，也不会回床上休息。
 Colonists will ignore any needs during the formation, except food (once they're starving they'll take a break to eat if food is available). Should they feel exhausted during the process, they won't rest in their bedrooms but collapse near the caravan packing spot.
 
+殖民者会忽视禁止命令，搬运被禁止的物品。如果物品数量少于要搬运的数量(例如在搬运过程中有些食物被其他殖民者吃掉)，殖民者会尽可能装载物品并继续前进。
 They will also override the 'Forbid' command, taking forbidden items. If there is less of an item than ordered (e.g. meals which other colonists ate during the process), members will take what they can and then carry on without stopping.
 
+可以通过手动指派殖民者进行其他任务来临时中断进程。任务结束后，他们会继续远行队组建进程。
 A pawn can be temporarily interrupted by manually assigning them to do another task. They will resume caravan loading once the task is complete.
 
+成员精神崩溃会导致进程中断，该成员恢复后才可以继续进程。成员被囚禁或杀害会导致进程取消。
 Any mental break of its members will pause the process until that member recovers. Downing or killing that member will interrupt the process, causing it to be cancelled.
 
-[[File:The caravan formation process will continue when everyone recovers from a mental break.png|500px|thumb|none|Ufff...]]
-
+远行队组建成功后，位于屏幕顶端的角色图标会进行调整。留在基地的分在一起，离开基地加入远行队的角色头像分入一个灰色的盒子中。
 If the formation was successful, the character roster on top of the screen will split, showing those who stayed at home and those who left with the caravan by greying them on a different "box".
 
-[[File:Colonist roster of those at home and at caravan.png|500px]]
+=== 远行队路线和旅途 ===
 
-=== Caravan route & pathing ===
-
+选择路线按键可以用来选择远行队的目的地。路线确定后，殖民者会选择一个最佳出行方向，以尽量减少旅行时间。
 The 'Choose Route' button allows you to decide destinations for your colonists' caravan. Once a path is chosen, colonists will choose an exit direction that can best reduce travel time.
 
+物品打包完毕后，队员会按照自己的策略将其分开搬运。
 Once items have been loaded, party members will proceed separate ways according to their own classifications made by the player.
-<gallery widths="300px" heights="300px" class="center" mode="nolines">
-File:Caravan pathing.png| '''Caravan clear division between colonist path and muffalos' path.'''
-File:Caravan pathing 2.png| '''The apparent reason behind the animal area drawn is to prevent them from eating your plantations.'''
-</gallery>
 
-=== Tricks ===
+=== 技巧 ===
 
+可以利用殖民者这种可以携带大量较轻物品的能力。，例如衣服和食物。利用这种方法，可以获得超级搬运者。指派一名殖民者拿起地图上所有食品，然后将其移动到储藏室并取消远行队，使其将物品卸载。这样，殖民者就能一次搬运大量物品。
 * The act of gathering supplies allows a colonist to carry huge stacks of lightweight materials like cloth or food. This can be exploited to perform ''Super Hauling'' by having a colonist pick up all the goods on the map, drafting them into the storage room, and cancelling the caravan to unload. They will have hauled a massive number of supplies in one trip.
 
+旅途
 == Travelling ==
+当远行队进入世界地图后，可以向其下达命令。
 Once your caravan enters the world map, you can give it orders.
 
+远行队的可用操作
 A caravan can:
+移动 右击可选择目的地。在远行队与目的地之间会显示一条白线，用以显示最佳路线 由地形和海拔决定。
 * Move - Right-click to select destination. A line indicates the optimal route (accounting for terrain speed and elevation changes).
+定居 通过点击定居按键以创建新殖民地。
 * Settle - Click Settle to create a new colony.
+达到殖民地上限后，无法创建新殖民地。默认上限为1。可以在 选项 菜单 中将其调整到最高为5。
 ** You may not settle a new colony when already at maximum. The default maximum is one. This can increased to up to five in Menu - Options. 
+不允许在已有殖民地或其他定居点附近定居。
 ** Settling directly adjacent to your own colony or any other settlement is not allowed.
+返回殖民地 在殖民地上右击。
 * Enter back into the colony - Right-click the colony.
+拆分 点击拆分按键。每个远行队都必须有至少一名殖民者。
 * Split - Click the Split button. Each caravan must consist of at least one colonist.
+整合 通过拖出方框，选中一个地块内的多个远行队，然后点击整合将其重组为一个远行队。
 * Merge - Select two or more 远行队 in the same tile (by dragging a square zone) and click Merge to form a single caravan.
+贸易 当远行队到达友好派系的前哨站时，点击贸易按键可以打开贸易界面。
 * Trade - When a caravan has reached a friendly faction outpost, click the trade button to open the trade dialog window. 
+攻击 远行队可以无视派系关系袭击任何派系的前哨站。袭击会降低派系好感。
 * Attack - A caravan can attack any faction outpost, regardless of relations status, though attacking will worsen relations.
+提供礼物 
 * Offer gifts - If your relations with a faction are not high enough to trade, you can offer them gifts in an attempt to improve relations.
 
 [[File:Caravan optimal route.png|300px]]
