@@ -107,61 +107,62 @@
 * 攻击 - 远行队可以无视派系关系袭击任何派系的哨所。袭击会降低派系好感。
 * 提供礼物 - 与其它派系的好感度越高，就能与其进行更多互动。提供礼物是最直接提升好感的方式。
 
-=== Status box ===
+=== 状态栏 ===
 
-Several items are displayed in the status box.
+状态栏中显示了多种项目。
 
-#Movement status:
-#* Traveling - moving to destination.
-#* Resting - caravan automatically stops between hours 22 and 6 to sleep.
-#* Waiting - no destination selected.
-#* Stopped - stopped moving with reason given.
-#Estimated time to destination - time to destination based on the current tile movement time.
-#Days of food - compare this to 'estimated time to destination' to determine if your caravan has enough food for the journey.
-#Base movement time: Movement speed based on the average speed of all the pawns in the caravan.
-#Current tile movement time: Current movement speed based on the terrain, biome, weather (only affected during autumn-winter) or roads. (See table on this page for details.)
-#Stealthiness: How stealthy your caravan is. Stealthier 远行队 are less prone to being ambushed.
+#移动状态:
+#* 旅行 - 向目的地移动。
+#* 休息 - 为了睡觉，远行队会在22点到6点自动停止。
+#* 等待 - 没有选择目的地。
+#* 停止 - 由于各种原因停止移动。
+#预计抵达耗时 - 基于当前地图格计算的到达目的地所需时间。
+#给养天数 - 将该值与'预计抵达耗时'进行比较，以确定远行队在旅途中是否有足够的食物。
+#基础移动时间: 基于远行队所有成员的平均速度计算。
+#当前地图格移动耗时: 当前移动速度 基于地形、生态、季节(只在夏冬有影响)和道路。(具体见本页详细列表)。
+#隐蔽率: 远行队的隐蔽率。隐藏起来的远行队更不易遭到伏击。
 
-A caravan may stop for various reasons, such as when;
-*Between hours 22 and 6 while the members sleep and rest.
-**They still continue to rest even if all members are fully rested.
-**Colonists who had been assigned to the night shift in the Restrict tab will still follow this schedule.
-*All colonists are downed or having a minor/major mental break.
-*Any member is having an extreme mental break.
-**Nobody will be harmed even if the colonist is going berserk.
-**Minor or major mental breaks won't stop the caravan as long as at least one person is still functional. If a colonist is in the midst of a mental break when you settle or get ambushed, they will still be having it when they appear on the map.
-*The player manually pauses the caravan.
-**While paused 远行队 forage faster, members can socialize and the caravan is less likely to be attacked.
+可能导致远行队停止的原因有很多，例如：
+*在22点到6点之间，成员需要睡眠与休息。
+**即使已经完全恢复精力，他们仍然会继续休息。
+**在「管制」标签中分配到夜间工作的殖民者也要遵守该原则。
+*所有的殖民者都被击倒或出现轻度/中度精神崩溃。
+*任何成员出现严重精神崩溃。
+**即使殖民者陷入狂暴也不会有人受伤。
+**只要有至少一个人还可以正常工作，轻度/中度精神崩溃并不会导致远行队停止。如果在遇伏或定居期间，有殖民者出现精神崩溃，那么这个状况会延续到新地图上。
+*玩家手动使远行队停止。
+**当远行队暂停时，采集速度提高、成员间进行社交活动、遇伏概率降低。
 
-=== Sustenance ===
-Pawns traveling in a caravan will eat automatically when necessary. Grazing animals, when hungry in a place with grazable plants, will instantly have their hunger bar refilled without any cost. If not, they will proceed to eat food carried in the caravan. Pawns will prioritize food that spoils earlier.
+=== 食物 ===
 
-If a colonist has an injury or disease that requires tending, doctors will tend to them as necessary, using medicine if available to them. If self-tend is on they will also tend to themselves.
+在远行队中旅行的角色会按需进食。牧畜饥饿时如果处在可放牧的地点，动物不需要消耗食物就可以填充饥饿条。否则，他们会食用远行队携带的食物。远行队成员优先食用易腐烂的食物。
 
-If you bring [[Beer]] along with you, colonists may drink it during their journey. The mood bonus it provides can help keep them sane when away from the colony for long stretches of time. (They don't appear to consume other recreational foods, such as chocolate or insect jelly. Testing is needed.)
+如果殖民者受伤/生病且需要护理，医生会使用可用的药物以适当的方式照看他们。如果开启了自我治疗，他们也会照顾自己。
 
-==== Foraging ====
+如果带了[[啤酒]]，殖民者有可能在旅途中饮用它们。由此提供的情绪加成可以在长期的旅行中稳定他们的精神。(他们似乎无法使用其它娱乐食品，如巧克力和虫胶。有待测试。)
 
-From Beta 19 onwards, every colonist in a caravan can forage for food.
+==== 采集 ====
 
-Each colonist can forage 0.09 nutrition per day per level of Growing at a baseline, i.e. in temperate forests or swamps. Given that each colonist consumes 1.6 nutrition per day, this means that a level 9 Growing colonist can break even with food consumption when the caravan is resting, and a level 18 colonist can constantly forage more than he eats.
+从 Beta 19 开始，远行队中的每个殖民者都可以采集食物。
 
-Foraging is affected by manipulation (50% importance, 100% max) or sight (90% importance), so giving caravanners [[bionic eye]]s or [[archotech eye]]s can help increase forage and hence let your food stocks last longer.
+每个殖民者都可以以0.09营养/天*每级种植技能的基准速度(位于温带森林或沼泽时)进行采集。每个殖民者每天消耗1.6营养，这意味着一个9级种植的殖民者在远行队休息时可以实现食物平衡，18级种植的殖民者可以始终采集超过自己所需的食物。
 
-In addition, having a tribal start grants an extra 170% multiplier to foraging, as shown by a "Faction Type: 170%" line in the tooltip. If Tribal colonists with good Growing skills have enough meals or other food to eat during a trip through terrain with good forage, they may return with a nontrivial quantity of berries.
+采集受 操作能力 (50% 重要性, 不超过100% ) 和 视觉能力 (90% 重要性)的影响，所以给远行队员安装 [[仿生眼]] 或 [[远古仿生眼]] 可以增加其采集量，增加食物供给时间。
 
-=== Movement Speed ===
+此外，部落开局可以增加额外 170% 倍率的采集速度。可以在有关"派系类型"的提示中看到。当采集能力由种植技能等级、部落特性等因素叠加到一定程度时，殖民者在合适地形上远行结束后可能带回来少量浆果。
 
-Many things can affect the traveling speed of 远行队. Clothing, armor, traits, and health conditions all affect a pawn's movement speed. A caravan's movement speed is determined by the average speed of all of the members of the caravan across colonists and animals, followed by the total mass the caravan is carrying. Incapacitated pawns will greatly slow movement.
+=== 移动速度 ===
 
-If inventory mass exceeds carrying capacity the caravan will become immobilized until the mass is reduced, such as by eating food, discarding goods or having another caravan join up to bring capacity above inventory mass.
+远行队移动速度受到很多因素影响。衣物、武器、特性和健康状态都会影响一名角色的移动速度。移动速度首先由 远行队内包括殖民者与动物在内所有成员的平均速度 决定，同时受远行队携带物品总质量的影响。无法行动的角色会大幅降低速度。
 
-Some examples of things that may slow you down:
+如果货物携带物品质量超过携带容量，在质量降低之前，远行队将无法移动。解决方案有吃掉食物、抛弃物品、使其它远行队加入以提高携带容量。
 
-* Clothing and armor (varies; [[flak vest]], [[flak jacket]], [[flak pants]], [[plate armor]] and [[marine armor]] have high movement penalties)
-* Injured or downed colonists and prisoners
-** Downed pawns can significantly slow down 远行队, much more than injured ones that are capable of walking.
-* Traits (e.g. Slowpoke)
+一些降低移动速度的因素:
+
+* 衣物或装甲(种类繁多; [[防弹背心]], [[防弹夹克]], [[防弹裤]], [[板甲]] 和 [[海军装甲]] 都有很高的移动惩罚)
+* 受伤/倒下的殖民者和囚犯。
+** 倒下的角色会很严重影响远行队速度，相比而已，受伤但可移动的角色影响较小。
+* 特性 (例如： 慢性子)
 * Slower animals, including muffalo, dromedaries or alpacas (the animals that can haul goods in 远行队)
 ** Animals can be injured too. A muffalo missing a leg or two will slow down your caravan even more.
 ** Middle-stage pregnant animals move at 85% speed.
