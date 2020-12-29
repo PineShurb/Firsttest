@@ -163,20 +163,28 @@
 * 受伤/倒下的殖民者和囚犯。
 ** 倒下的角色会很严重影响远行队速度，相比而已，受伤但可移动的角色影响较小。
 * 特性 (例如： 慢性子)
+跑得慢的动物，如
 * Slower animals, including muffalo, dromedaries or alpacas (the animals that can haul goods in 远行队)
+动物也会受伤。丢了一两天腿的  会大幅降低远行队速度。
 ** Animals can be injured too. A muffalo missing a leg or two will slow down your caravan even more.
+怀孕中期的动物移动速度
 ** Middle-stage pregnant animals move at 85% speed.
 ** Late-stage pregnant animals move at 70% speed.
 ** Juvenile animals move at 90% speed.
 ** Baby animals move at 50% speed.
 
+有些因素会加快速度：
 Some things that can speed you up:
-*Colonists equipped with [[Bionic leg]]s or high on [[go-juice]] or [[yayo]].
+*装备 的殖民者。Colonists equipped with [[Bionic leg]]s or high on [[go-juice]] or [[yayo]].
+道路降低远行队通过该地区的时间。
 *Roads halve the time it takes to travel through a tile.
+携带物品更少也可以加快速度。
 *远行队 carrying lighter items will move faster.
 
+相对于人类而言，较慢的 和 所造成的速度降低在短途旅行中影响并不明显。幼兽和重伤员会明显增加旅途时间，使其增加 甚至更多。
 While the slower Muffalo and Dromedary speeds compared to the human base speed won't significantly affect shorter distances, baby animals and seriously injured colonists can have a significant impact, increasing travel time by 30% or more.
 
+移动速度表
 ==== Movement Speed Table ====
 
 {{#vardefine: color1 | 66FF33}}
@@ -184,6 +192,7 @@ While the slower Muffalo and Dromedary speeds compared to the human base speed w
 {{#vardefine: color3 | BBCC22}}
 {{#vardefine: color4 | EE9900}}
 
+注意：此图表从1.0开始已过时
 '''Note: this chart is outdated as of 1.0.'''
 
 The following table lists the base caravan movement speed in hours per tile for an unencumbered human. Flat terrain is naturally easiest to travel. Hills and mountains will worsen travel speed, while roads speed it up. Biomes with cold winters have reduced movement speed during the winter. It appears to be interpolated based on the current season and temperature with the worst case values listed in the table below.
