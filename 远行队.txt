@@ -163,101 +163,85 @@
 * 受伤/倒下的殖民者和囚犯。
 ** 倒下的角色会很严重影响远行队速度，相比而已，受伤但可移动的角色影响较小。
 * 特性 (例如： 慢性子)
-跑得慢的动物，如
-* Slower animals, including muffalo, dromedaries or alpacas (the animals that can haul goods in 远行队)
-动物也会受伤。丢了一两天腿的  会大幅降低远行队速度。
-** Animals can be injured too. A muffalo missing a leg or two will slow down your caravan even more.
-怀孕中期的动物移动速度
-** Middle-stage pregnant animals move at 85% speed.
-** Late-stage pregnant animals move at 70% speed.
-** Juvenile animals move at 90% speed.
-** Baby animals move at 50% speed.
+* 跑得慢的动物，如雪牛、单峰骆驼和羊驼。但它们仍是远行队中货运主力。
+** 动物也会受伤。丢了一两条腿的羊驼会大幅降低远行队速度。
+** 中期怀孕的动物移动速度为 85%。
+** 后期怀孕的动物移动速度为 70%。
+** 幼年动物移动速度为 90% 。
+** 幼崽移动速度为 50% 。
 
-有些因素会加快速度：
-Some things that can speed you up:
-*装备 的殖民者。Colonists equipped with [[Bionic leg]]s or high on [[go-juice]] or [[yayo]].
-道路降低远行队通过该地区的时间。
-*Roads halve the time it takes to travel through a tile.
-携带物品更少也可以加快速度。
-*远行队 carrying lighter items will move faster.
+有些因素会提高速度:
+* 装备[[仿生腿]]或使用了[[活力水]]、[[呀呦粉]]的殖民者。
+* 道路降低远行队通过该地区的时间。
+* 携带物品更少也可以提高远行队速度。
 
-相对于人类而言，较慢的 和 所造成的速度降低在短途旅行中影响并不明显。幼兽和重伤员会明显增加旅途时间，使其增加 甚至更多。
-While the slower Muffalo and Dromedary speeds compared to the human base speed won't significantly affect shorter distances, baby animals and seriously injured colonists can have a significant impact, increasing travel time by 30% or more.
+相对于人类而言，较慢的羊驼和单峰骆驼所造成的速度降低在短途旅行中影响并不明显。幼兽和重伤员会明显增加旅途时间，使其增加 30% 甚至更多。
 
-移动速度表
-==== Movement Speed Table ====
+==== 移动速度表 ====
 
 {{#vardefine: color1 | 66FF33}}
 {{#vardefine: color2 | 55DD33}} <!--E3D933-->
 {{#vardefine: color3 | BBCC22}}
 {{#vardefine: color4 | EE9900}}
 
-注意：此图表从1.0开始已过时
-'''Note: this chart is outdated as of 1.0.'''
+'''注意：此表从1.0开始已过时'''
 
-The following table lists the base caravan movement speed in hours per tile for an unencumbered human. Flat terrain is naturally easiest to travel. Hills and mountains will worsen travel speed, while roads speed it up. Biomes with cold winters have reduced movement speed during the winter. It appears to be interpolated based on the current season and temperature with the worst case values listed in the table below.
+下表列出了由未受影响的人类组成的远行队的基础移动速度(小时/地形格)。很明显，平原地区更适合旅行。旅行速度在丘陵和山地地形会降低，在有道路的地区上升。寒冬时节，寒冷的生态区也会降低移动速度。它根据当前的季节和温度进行插值计算，最坏情况下的值列在下表中。
 
-Note that it is unlikely that your caravan will travel at the speed listed here.
+注意，你的远行队未必以下表列出的速度运动。
 
 {| {{STDT| wikitable text-center}}
-! Terrain !! Biome !! scope="col" style="width:5em;" | Flat !! Small Hills !! Large Hills || Mountains
+! 地形 !! 生态区 !! scope="col" style="width:5em;" | 平原 !! 小丘陵 !! 大丘陵 || 山地
 |- style="background-color:#{{#var: color1}}"
-| rowspan="5" | '''Easy''' 
-| style="text-align: left;" | Arid Shrubland      || 0.99 || 1.8 || 3.4 || 13
+| rowspan="5" | '''简单''' 
+| style="text-align: left;" | 干旱灌木原 || 0.99 || 1.8 || 3.4 || 13
 |- style="background-color:#{{#var: color1}}"
-| style="text-align: left;" | Desert              || 0.99 || 1.8 || 3.4 || 13
+| style="text-align: left;" | 沙漠 || 0.99 || 1.8 || 3.4 || 13
 |- style="background-color:#{{#var: color1}}"
-| style="text-align: left;" | Extreme Desert      || 0.99 || 1.8 || 3.4 || 13
+| style="text-align: left;" | 极端沙漠 || 0.99 || 1.8 || 3.4 || 13
 |- style="background-color:#{{#var: color1}}"
-| style="text-align: left;" | Tundra (summer)     || 0.99 || 1.8 || 3.4 || 13
+| style="text-align: left;" | 冻土苔原 (夏天) || 0.99 || 1.8 || 3.4 || 13
 |- style="background-color:#{{#var: color1}}"
-| style="text-align: left;" | Tundra (winter)     || 17   || 18  || 19  || 28
+| style="text-align: left;" | 冻土苔原 (冬天) || 17   || 18  || 19  || 28
 
 |- style="background-color:#{{#var: color2}}"
-| rowspan="4" | '''Moderate'''
-| style="text-align: left;" | Boreal Forest (summer)       || 1.6 || 2.4 || 4  || 14
+| rowspan="4" | '''中等'''
+| style="text-align: left;" | 寒带森林 (夏天) || 1.6 || 2.4 || 4  || 14
 |- style="background-color:#{{#var: color2}}"
-| style="text-align: left;" | Boreal Forest (winter)       || 17  || 18  || 19 || 28
+| style="text-align: left;" | 寒带森林 (冬天) || 17  || 18  || 19 || 28
 |- style="background-color:#{{#var: color2}}"
-| style="text-align: left;" | Temperate Forest (summer)    || 1.6 || 2.4 || 4  || 14
+| style="text-align: left;" | 温带森林 (夏天) || 1.6 || 2.4 || 4  || 14
 |- style="background-color:#{{#var: color2}}"
-| style="text-align: left;" | Temperate Forest (winter)    || 11  || 12  || 13 || 23
+| style="text-align: left;" | 温带森林 (冬天) || 11  || 12  || 13 || 23
 
 |- style="background-color:#{{#var: color3}}"
-| '''Rough'''
-| style="text-align: left;" | Ice Sheet           || 3 || 3.8 || 5.4 || 15
+| '''困难'''
+| style="text-align: left;" | 冰原 || 3 || 3.8 || 5.4 || 15
 
 |- style="background-color:#{{#var: color4}}"
 | rowspan="2" | '''Difficult'''
-| style="text-align: left;" | Tropical Rainforest || 5 || 5.8 || 7.4 || 17
+| style="text-align: left;" | 热带雨林 || 5 || 5.8 || 7.4 || 17
 |- style="background-color:#{{#var: color4}}"
-| style="text-align: left;" | Sea Ice             || 5 || --  || --  || --
+| style="text-align: left;" | 海洋冰盖 || 5 || --  || --  || --
 |}
 
-=== Tabs ===
-The inspection pane has tabs to manage the caravan and view details.
+=== 标签 ===
+可以使用视窗中的标签来进行管理或查看远行队细节。
 
-In the 'Gear' tab, by clicking the red X you can drop items and lose them forever. Dropping items may be necessary if the caravan becomes overburdened and unable to move. 
+在'装备'标签中，点击红色X，可以抛弃物品(永久丢失)。远行队负载过重时，也许必须抛弃一些物品才能继续移动。
 
-You can also abandon colonists and prisoners in the 'Social' tab. Items carried by a dismissed pawn will be lost. Abandoning a caravan member will cause their friends and family to have sad thoughts, and if the colonist is unlikely to survive (such as low temperatures) there will be a more severe penalty. Colonists who survive may eventually make their way back to your colony, or return as part of an enemy raid or friendly caravan.
+你也可以在'社交'标签中抛弃殖民者或囚犯。被抛弃角色身上携带的物品也会丢失。抛弃殖民地成员会降低它们朋友和亲人的心情。如果被抛弃的殖民者很可能无法生还(例如在严寒环境中)，心情降幅更大。这些殖民者如果生还的话，可能会回到你的殖民地，也可能加入敌对或友好派系远行队。
 
-In the 'Gear' tab you can swap gear by dragging and dropping gear onto different colonists, or to and from the caravan inventory.
+你可以通过在'装备'标签内于不同殖民者、货物间进行拖拽来交换它们的装备。
 
-<gallery>
-File:Caravan gear and inventory from world view.png|Gear & Inventory
-File:Caravan mass carried.png|Mass carried
-File:Caravan needs.png|Status
-File:Caravan health.png|Health
-</gallery>
+到达目的地后，只需单击 贸易 图标即可开始谈判。
 
-Once you arrive to the destination, just click the Trade icon to start negotiations.
-[[File:Trade icon.png]]
+=== 规划模式 ===
 
-=== Route planner ===
-[[File:Caravan_planner.png|600px|thumb|rifht|Caravan planner having planned a route based a caravan's speed.]]
-
+规划模式使你可以查看到达目的地所需的大概总时间。你可以据此进行时间规划。
 There is a route planner that allows you to roughly check the amount of time it takes to reach a destination, allowing you to plan ahead.
 
+打开规划模式后，你可以在世界地图上放置多个目标点。
 When it is opened, you can drop various waypoints around the world map. The game will calculate the time it takes for a 1 tile/h caravan to travel through the planned route. You can also place the starting point on an existing caravan to determine the time taken for a journey based on that caravan's speed.
 
 {{clear}}
@@ -268,10 +252,6 @@ After you arrive back to your colony, you will notice two details must be addres
 
 * Pack animals may go straight to their animal bed or just wander around still with all your items inside their packing gear. If you happen to need something at the moment, you will have to make them drop it. You may want to restrict them to a roofed zone and wait for them to go there before doing this, so the dropped belongings won't deteriorate due to exposure, or you can wait until night when they are sleeping inside a room. Pack animals who have been trained for Obedience can be assigned to follow their master, who can be drafted to storage areas and wait until the animals follow him/her too to drop the items as well.
 * Prisoners will still be carrying your caravan items too, even armor and weaponry (as odd as it may be). They will not unload their inventory after returning to base unless directed to through the gear tab, and will start to unload only after being recruited.
-<gallery widths="300px" heights="300px" class="center" mode="nolines">
-File:Prisoners keep your caravan items too.png|'''Prisoners keep your caravan items'''
-File:Caravan prisoner unloading inventory.png|'''Prisoner unloading inventory after recruitment'''
-</gallery>
 
 === Long distance journeys ===
 
@@ -295,15 +275,6 @@ There are two different ways of re-packing: manually giving cargo animals the se
 
 === Ambush ===
 Your caravan has been ambushed by an enemy faction. Colonists cannot exit the map until the attackers are defeated (killed, downed, or fled). If all are killed, the caravan is considered destroyed and will disappear along with any carried items.
-
-<gallery mode="packed-hover">
-File:Caravan ambushed right after leaving colony.png|1.- Red envelope alert zooms in to the battle tile.
-File:Caravan ambushed by pirates.png|2.- You can see the incoming attackers from a distance.
-File:Caravan ambushed in World view.png|3.- World view is a red dot.
-File:Caravan ambushed victory.png|4.- Once victorious, you have 24 hours before the caravan automatically reforms to leave.
-File:Capturing prisoners after ambush.png|5.- Make a tiny room enough to capture downed enemies with a sleeping spot each.
-File:Prisoners brought to colony.png|Prisoners arrive to your colony, wandering around.
-</gallery>
 
 # The game notifies you that an ambush is taking place, prompting you to check on your caravan.
 # Pause the game to survey the enemy, and position yourself by taking cover behind terrain features.
@@ -339,24 +310,6 @@ Sometimes when attacking them, they may decide to do a 'bloody exit', that is to
 You may raid other settlements on the world map, much like other factions do to your colony. To do this, all you need is to send a caravan to a site, and select the "Attack" interaction option. Attacking settlements gives you an opportunity to steal valuable goods such as [[glitterworld medicine]], [[luciferium]], [[component]]s, as well as weapons and armor.
 
 '''The below shows bases from Alpha 16. Settlement defenders of later updates are significantly strengthened and are harder to defeat, and are not scaled by difficulty as other raids are.'''
-<gallery mode="packed-hover">
-File:Caravan raiding another settlement.png|1.- Moving towards target settlement for raid
-File:Generating map for new encounter.png|2.- Generating map for new encounter
-File:Attack begun.png|3.- Attack begun
-File:Studying enemies.png|4.- Studying enemies
-File:Enemy base layout.png|5.- Enemy base layout
-File:Enemy base zoomed out.png|6.- Enemy base zoomed out
-File:Enemy positioning and loot.png|7.- Enemy positioning and loot
-File:Stampede 1.png|8.- First stampede
-File:Stampede casualty.png|9.- Stampede casualty
-File:Using their base as your own.png|10.- Using their base as your own
-File:Outpost destroyed 24h countdown.png|11.- Outpost destroyed, 24h countdown before leaving
-File:Resting at enemy base.png|12.- Resting at enemy base
-File:Looting.png|13.- Looting
-File:Caravan back to home.png|14.- Caravan back to home
-File:Unloading inventory.png|15.- Unloading inventory
-File:Work tab order shift.png|16.- Work tab order shift
-</gallery>
 
 === Walkthrough ===
 
