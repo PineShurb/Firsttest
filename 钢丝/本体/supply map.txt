@@ -1,0 +1,42 @@
+=== {{Anchor|supplymapmode}}Supply areas map mode ===
+{{SVersion|1.8}}
+[[File:Supply map nogui.png|300px|thumb|right|The Supply Areas map mode.]]
+The supply map mode shows the various [[supply area]]s of the world. Supply areas are almost always smaller than strategic regions, but almost always larger than a single state and are most often a group of states. Supply areas that are controlled by the nation or an ally will be colored {{green|green}} if the army stationed in it (if any) does not exceed the [[supported supply]] limit. Supply regions colored {{red|red}} have armies that exceed the supported supply limit or, if there is no army, has no supported supply at all. Additionally, supply areas on any coast or that neighbor the nation will be colored {{blue|blue}}. This map mode also shows naval trade routes in the same fashion that the naval map mode does. 
+
+Each supply area has a symbol that has a barrel and crates [[File:Supply consumption.png|24px]], next to a railway track {{icon|Infrastructure}}, and finally there may be an anchor {{icon|Naval base}} if the supply area is coastal and has one or more naval bases. Each icon provides associated numerical information:
+*The barrel and crates [[File:Supply consumption.png|24px]] has a number on the icon, for example, '''0/114'''. The first number is how much total supply is being used by friendly and allied forces, rounded to the nearest integer. The total supply includes army, navy, and air forces. The second number is the supported supply limit. 
+*The {{icon|Infrastructure}} has a number below it which is the total infrastructure across all states the supply area encompasses.
+**Clicking on the {{icon|Infrastructure}} will queue one infrastructure for each state in the supply area for each click, as long as it does not exceed a total infrastructure of 10 in a state. If infrastructure construction is queued anywhere within the supply area, this number will appear in yellow and be expressed in an "x/y" format where "x" is the final total infrastructure, and "y" is the current infrastructure.
+**When hovering the cursor over a supply area, the {{icon|Infrastructure}} will also have a number above it, appearing in either white or {{red|red}}. This number appears to reflect the total supply throughput, measured as 2.5 times the square of the average infrastructure level in the supply area, rounded down (this is equivalent to the sum of the calculations performed to determine [[Logistics#Incoming_supply|overland incoming supply]] if the same supply area in question was considered both the receiving and sending area). If this number is {{red|red}}, it means the supply area is bottlenecked, i.e., the supply area could potentially receive more incoming supply, and pass along more supply, if the infrastructure in the supply area is upgraded.
+**Note that in the case where a supply area is coastal and its incoming supply arrives from overseas, the infrastructure's top number will instead be only 2 times the square of the average infrastructure level (i.e., there is no overland "sending" area).
+*The {{icon|Naval base}}, if it is applicable to the supply area, has a number below it which, unlike the infrastructure, is the highest naval base level in the supply area.
+**Clicking on the {{icon|Naval base}} will queue a single upgrade of the highest-level naval base in the supply area. If upgrades to the highest-level naval based are queued, this number will appear in yellow and be expressed in an "x/y" format where "x" is the final total level of that naval base, and "y" is the current level.
+**When hovering the cursor over a supply area, the {{icon|Naval base}} will also have a number above it, appearing in either white or {{red|red}}. This number appears to reflect the amount of supply that can be received from or passed forward overseas through naval bases in the supply area, measured as three times the sum total level of ''all'' naval bases in the supply area (this is equivalent to performing the [[Logistics#Incoming_supply|overseas incoming supply]] calculation, while ignoring whether the originating naval base might be of a lower level). Similar to the infrastructure's top number, if this number is {{red|red}} it means it is bottlenecked, i.e., the supply area could potentially receive more incoming supply if the naval base or bases in the supply area are upgraded.
+*Note that hovering the cursor over a supply area will reveal an arrow showing the supply chain's path from the national capital to the area in question, and will reveal the infrastructure and naval base top numbers over each supply area in the chain. A red number indicates only the ''current'' bottleneck in the entire chain. Therefore, only one of the incoming supply paths in the area over which the cursor is hovering, either the infrastructure or naval base(s), can be currently bottlenecked. Accordingly, only one of these two numbers may appear red at any given time. If both numbers are white, there is no bottleneck in that supply area, but there may be a bottleneck elsewhere in the supply chain.
+**A bottleneck in the capital supply area's infrastructure simply indicates that not all states in that area have infrastructure fully upgraded to level 10.
+
+The calculations and consequences of these numbers are further detailed on the [[Logistics]] page.
+{{clear}}
+
+
+=== {{锚点|补给地图模式}} 补给区地图模式 ===
+{{SVersion|1.8}}。
+[[File:Supply map nogui.png|300px|thumb|right|补给区地图模式]]。
+补给区地图模式显示了世界上的各种[[补给区]]。补给区几乎都比战略区域小，但几乎都比一个国家大，最常见的是一组国家。由国家或盟友控制的补给区，如果驻扎的军队（如果有的话）没有超过[[支持的补给]]的限制，则会被染成{{绿色|绿色}}。着色为{{红色|红色}}的补给区有超过补给上限的军队，或者，如果没有军队，则根本没有补给。此外，在任何海岸或邻近国家的补给区域将被着色为{{蓝色|蓝色}}。这个地图模式也和海军地图模式一样，显示海军贸易路线。
+
+每个补给区都有一个符号，有一个桶和箱子[[File:Supply consumption.png|24px]]，旁边有一条铁轨{{icon|Infrastructure}}，最后可能有一个锚{{icon|Naval base}}，如果补给区是沿海地区并且有一个或多个海军基地。每个图标都提供了相关的数字信息。
+*桶和箱子[[File:Supply Consumption.png|24px]]图标上有一个数字，例如'''0/114''。第一个数字是友军和盟军使用的总补给量，四舍五入到最接近的整数。总补给包括陆军、海军和空军。第二个数字是支持的补给上限。
+*{{图标|基础设施}}下面有一个数字，是补给区所包含的所有州的基础设施总数。
+**点击{{icon|Infrastructure}}，每次点击都会为供应区的每个州排队一个基础设施，只要不超过一个州的基础设施总数10个即可。如果供应区域内任何地方的基础设施建设都在排队，那么这个数字将显示为黄色，并以 "x/y "格式表示，其中 "x "是最终的基础设施总数，"y "是当前的基础设施。
+**当将光标悬停在供应区上时，{{图标|基础设施}}上方也会有一个数字，以白色或{{红色|红}}的形式显示。这个数字反映的是总的供应量，以供应区平均基础设施水平的2.5倍为单位，向下取整（如果同一供应区既是接收区又是发送区，这相当于计算[[Logistics#Incoming_supply|overland incoming supply]]的总和）。如果这个数字是{{red|red}}，则意味着供应区出现了瓶颈，即如果供应区的基础设施升级，供应区有可能接收更多的进货供应，并传递更多的供应。
+**注意，如果供应区是沿海地区，其传入的供应来自海外，那么基础设施的顶数反而只会是平均基础设施水平的2倍平方（即没有陆路 "发送 "区域）。
+*{{图标|海军基地}}如果适用于补给区，其下方有一个数字，与基础设施不同，这个数字是补给区最高的海军基地等级。
+**点击{{图标|海军基地}}，将排队对补给区最高级别的海军基地进行单次升级。如果对最高级海军基地进行升级排队，这个数字将显示为黄色，并以 "x/y "格式表示，其中 "x "为该海军基地的最终总等级，"y "为当前等级。
+
+**将光标悬停在补给区上时，{{图标|海军基地}}上方也会有一个数字，以白色或{{红色|红}}显示。这个数字似乎反映了可以从补给区的海军基地接收或通过补给区的海军基地转发的补给量，以补给区''所有''海军基地的总水平的三倍来衡量（这相当于进行[[Logistics#Incoming_supply|overseas incoming supply]]计算，而忽略了始发的海军基地是否可能是较低水平）。类似于基础设施的最高数字，如果这个数字是{{红色|红色}}，则意味着它处于瓶颈状态，也就是说，如果供应区的海军基地或基地升级，供应区有可能获得更多的进货供应。
+*注意，将光标悬停在供应区上，会显示一个箭头，显示供应链从国家首都到相关地区的路径，并会显示供应链中每个供应区上空的基础设施和海军基地顶号。红色数字只表示整个链条中的''当前''瓶颈。因此，在光标悬停的区域内，只有一条进入的供应路径，无论是基础设施还是海军基地，都可能是当前的瓶颈。相应地，在任何时候，这两个数字中只有一个可能出现红色。如果这两个数字都是白色的，则说明该供应区没有瓶颈，但供应链的其他地方可能存在瓶颈。
+**首都供应区的基础设施出现瓶颈，只是说明该地区并非所有州的基础设施都完全升级到了10级。
+
+这些数字的计算和后果在[[物流]]页面有进一步的详细说明。
+{{clear}}
+

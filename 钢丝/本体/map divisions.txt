@@ -1,0 +1,34 @@
+
+== Map divisions ==
+{{SVersion|1.9}}
+The Map can be divided into four subdivisions:
+
+* '''[[Province]]s''' are the smallest subunit of the map, it is here that [[terrain]], [[weather]], [[capital]]s, [[land combat]] and victory points are handled.
+
+* '''[[State]]s''' are the next smallest subunit of the map, where [[construction]], [[manpower]], population, and country borders are decided.
+
+* '''[[Supply area]]s''' are the next largest subunit of the map, here logistics and supply are handled.
+
+* '''[[Strategic Region]]s''' are the largest of the subdivisions, and are where [[naval combat]] and [[air combat]] occur.
+
+== Map modes ==
+[[File:Mapmodes.png|300px|thumb|right|The map mode icons.]]
+Using different '''map modes''', you can alter the information presented on the map.  These map modes can be activated by either clicking on the appropriate button (icon) located in the lower right corner of the main screen or by pressing the associated [[Hotkeys#Map mode interface hotkeys|hotkey]].  
+
+
+
+== 地图划分 ==
+{{SVersion|1.9}}。
+地图可以分为四个子单元。
+
+* '''[[省]]'是地图最小的子单位，这里处理[[地形]]、[[天气]]、[[首都]]、[[陆战]]和胜利点。
+
+* '''[[国家]]'是地图的下一个最小的子单元，在这里决定[[建筑]]、[[[人力]]]、人口和国家边界。
+
+* '''[[供应区]]''是地图的下一个最大的子单位，这里处理物流和供应。
+
+* '''[[战略区域]]''是最大的子单元，是[[海战]]和[[空战]]发生的地方。
+
+== 地图模式 ==
+[[File:Mapmodes.png|300px|thumb|right|地图模式图标]]。
+使用不同的'''地图模式'''，你可以改变地图上的信息。 这些地图模式可以通过点击位于主屏幕右下角的相应按钮（图标）或按下相关的[[热键#地图模式界面热键|热键]]来激活。 

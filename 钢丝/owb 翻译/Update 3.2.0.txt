@@ -1,0 +1,98 @@
+
+### Major
+- A completely overhauled and dramatically expanded focus tree for Lanius' Cohort, exploring his journey in the East and how he fits in with Caesar's ever-changing plans
+- A new focus tree for the Summer's Federation, fleshing out their role as Lanius' early antagonist and potential replacement in the region
+- The launch of Project Exodus, an ambitious & expansive refugee & decimation system aiming to represent the flow of people and materials from enemy hands. Late-game conflicts will be more difficult, as your conquests will slowly buff your future enemies
+- Significant focus tree expansions for Santa Anna and the Republic of the Rio Grande, as they seek to carve out a place of their own in the volatile Texan wastelands and deal with Tlaloc's ever-increasing decline
+- Alternative focus tree paths for the Attis Army fragments. Fight the Alamo Chapter as the Ironmongers, leave the Texan Economic Union as Keats, and ally the Ironmongers to beat back Rio as Shale
+- Reworked focus trees for the Texan Brotherhood and Alamo Chapter, building upon the difficult interactions between the two, and a behind-the-scenes rework of the Provisional Republic of Texas, meaning you no longer lose half your tech
+- Added support for multiple routes from a single node. Nodes now unlock a second route slot at level 5, and a third at level 9. Route slots can be granted by events, decisions, and focuses. In order to keep income similar, non-core nodes will operate at 50% income, scaling upward with the amount of core member states. Resistance also lowers node output.
+
+### Added
+- Added a new level of Power Armor for tribal nations.
+- Added another tier of Enforcer equipment.
+- Added another tier of weapon tech between energy level 1-2 and melee 3-4.
+- Additions to the Lonestar, Texas brotherhood and Alamo chapter focus trees.
+- Overhaul of the Republic of Texas’s focus tree.
+- Added tooltip in research tree to technologies that give single use airplanes.
+- Added new function to the trade node map to send an expedition caravan to a node for countries without nodes
+- Added two way predictions for trade route value for the total value to the viewing country. Eg, if a route starts and ends in the viewer’s territory, it combines the money earned at the start and end.
+- Added brand new unique Crusader Power Armor unit for Heaven’s Gate(?).
+- Added additional requirements to researching vertibirds so it’s not as easy.
+- Added a bunch of portraits, including 6 generic Brotherhood, 6 Legion, 5 Supermutant & 12 settler alongside others
+
+### Changed
+- Moved taxation for puppets to puppet ledger.
+- Modified State Node View gui to better represent incoming and outgoing trade routes from a node.
+- Texas has been changed from a tag switch to a cosmetic tag for the nation forming them. Fixes a lot of weirdness and edge cases caused by take switching.
+- Changed Agriculture tech to give flat manpower and more monthly growth.
+- Nerfed commander abilities like artillery and mininukes, both with price increase, command power needs and the exhaustion timeout to prevent stacking.
+- Reduction to compliance bonuses to further prevent 110% factories from occupied land.
+- Rebalance on Enforcers so they might actually be worth using.
+- Adjustments to Tanks to use less manpower, more reliability, and cost more to build, added more armor, increased hardness.
+- Nerfed the bonuses you receive from high stability and war support.
+- Buffed the starting units of nations that the Texas Brotherhood goes to war with early.
+- Nerfed several WARDEN focuses and ideas.
+- Changed the AI so they will grab some air techs.
+
+### Fixed
+- Fixed several references to old tech levels in decisions instead of the new level system.
+- Fixed several minor errors in tank supply and weight stats.
+- Fixed the USA tag missing some technologies in their history file.
+- Fixed Nuclear Powered Attackplane having 1210 bombing stat.
+
+### Removed
+- Removed country trade route limit.
+
+
+###主要
+- 为拉尼乌斯的同族人提供了一个完全改版并大幅扩展的焦点树，探索他在东方的旅程，以及他如何与凯撒不断变化的计划相配合。
+- 夏之联邦的新焦点树，将他们作为拉尼乌斯的早期对手和该地区的潜在替代者的角色具体化。
+- 推出 "出埃及计划"，这是一个雄心勃勃的&扩张性的难民&斩杀系统，旨在体现人和物资从敌人手中的流动。游戏后期的冲突将更加困难，因为你的征服会慢慢地刷新你未来的敌人。
+- 圣安娜和格兰德河共和国的重要焦点树扩张，他们试图在动荡的德克萨斯荒原上开辟出自己的一席之地，并应对Tlaloc的日益衰落。
+- 阿提斯军团碎片的另类焦点树路。以铁匠军的身份打阿拉莫分会，以基茨的身份离开德克萨斯经济联盟，以沙尔的身份结盟铁匠军打退里约。
+- 重做了德克萨斯兄弟会和阿拉莫分会的焦点树，建立在两者之间的困难互动基础上，并对德克萨斯临时共和国的幕后进行了重做，这意味着你不再失去一半的科技。
+- 增加了对一个节点的多条路线的支持。节点现在在5级时解锁第二个路线槽，9级时解锁第三个。路线槽可以通过事件、决定和焦点授予。为了保持收入相近，非核心节点将以50%的收入运作，随着核心成员国的数量向上攀升。抵抗也会降低节点产出。
+
+###新增
+- 为部落国家增加了一个新等级的动力装甲。
+- 增加了另一个层级的执法者装备。
+- 增加了能量等级1-2和近战3-4之间的另一层武器科技。
+- 增加了Lonestar、德克萨斯兄弟会和阿拉莫分会的焦点树。
+- 大修德州共和国的焦点树。
+- 在研究树中增加了给一次性使用飞机的技术的工具提示。
+- 在贸易节点地图中增加了新功能，对于没有节点的国家，可以向节点发送远征大篷车。
+- 增加了贸易路线价值对观看国总价值的双向预测。Eg，如果一条路线的起点和终点都在观看国的领土上，则合并起点和终点所赚取的金钱。
+- 为天门增加了全新独特的十字军动力装甲单位（？
+- 增加了研究vertibirds的额外要求，所以没那么容易。
+- 增加了一批人像，包括6个普通兄弟会、6个军团、5个超级变种人和12个定居者。
+
+###改变了
+- 将傀儡的税收移至傀儡分类账。
+- 修改了国家节点视图gui，以更好地表示从节点进入和离开的贸易路线。
+- 德克萨斯已从标签切换改为形成它们的国家的外观标签。修复了很多因取舍切换造成的怪异和边缘情况。
+- 更改了农业科技，给了平坦的人力和更多的月度成长。
+- 削弱了火炮和米尼努克等指挥官能力，都增加了价格、指挥力需求和耗尽超时，防止叠加。
+- 减少到遵从奖励，以进一步防止110%工厂占用土地。
+- 对执法者进行重新调整，使他们可能真正值得使用。
+- 对坦克进行调整，使其使用更少的人力，更多的可靠性，并花费更多的建造成本，增加了更多的装甲，增加了硬度。
+- 削弱了你从高稳定性和战争支持中获得的奖金。
+- 缓冲了德州兄弟会提前开战的国家的起始单位。
+- Nerfed了几个WARDEN的重点和想法。
+- 改变了AI，所以他们会抢一些空中科技。
+
+###修正了
+- 修正了几个决策中引用旧科技等级而不是新等级系统的问题。
+- 修正了坦克供应和重量统计中的几个小错误。
+- 更正了美国标签在其历史文件中缺少一些技术。
+- 修正了核动力攻击机有1210轰炸统计的问题。
+
+### 移除了
+- 取消了国家贸易路线限制。
+
+
+
+
+
+
+

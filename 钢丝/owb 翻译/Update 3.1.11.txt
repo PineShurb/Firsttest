@@ -1,0 +1,99 @@
+### Added
+- Added effect so if the Mojave Territories loses to the Mojave Brotherhood the New California Republic gains all the leaders from the Mojave Territories.
+- Added decision for the Shoshone nation for retaking the Bear River Memorial state which swaps out the Outcasts Once More idea for a new idea for coming back home.
+- Added a second special trait to Mora.
+- Added a new game rule to allow players to adjust starting Diplomacy Range from every nation.
+- Added a new modifier that can be added to ideas that changes the maximum cost of coring a state for a nation.
+- Added Olympus Tribe to the Burying the Ghosts Achievement.
+- Added bypasses to the Desert Ranger focuses Breaking the Bunkers and The Great War for if the factions they are against don't exist.
+- Added Nightkin to Jacobstown and Utobithan.
+- Added localisation for the texas_constitution_modifier for Texas.
+
+### Changed
+- Changed the base occupation template for Gatormaws to their Filter Rats template.
+- Changed the CALIX events so if you get the event that adds a timed idea and you already have the timed idea it increases how long you have it instead of just doing nothing.
+- Changed several nations focus trees: Changed Houston Rockets, Scrappers Compact, and Dryblowers to use the Settler tree, Painted Rock to use the Tribal tree, and Changed Gator Maws and Beltran-Levya to use the Raider tree.
+- Changed Caesar’ Legions focuses The Arsenal and The Census to add building slots alongside the factories.
+- Changed position of two Eighties focuses Sac City Blues and Coming Home for better Symmetry.
+- Changed Victory in Operation Sunburst event so when the Mojave Brotherhood truces with the New California Republic after beating the Mojave Territories they gain a truce with everyone in their faction and the New California Republic gains cores on any states returned to them from the Mojave Brotherhood.
+
+### Fixed
+- Fixed Oliver’s Folly event for the New California Republic not having the correct option localisation.
+- Fixed existing duplicate localisation strings.
+- Fixed Think Tank event The Motions option missing localisation.
+- Fixed Mojave Territories focus Baja Redeployments not spawning units.
+- Fixed grammar in Twin Mother focuses Learn from our Mistakes and Safe Harbour from the Plague.
+- Fixed some of the robots not showing the category in their tooltips due to how they are assigned.
+- Fixed a minor spelling mistake in Jacobia's description.
+- Fixed faction joining events saying the faction leader has joined their own faction.
+- Fixed the Texas Brotherhood Bookmark description not being the correct description.
+- Fixed resources in the menu for selecting which equipment to produce having the wrong icons assigned.
+- Fixed Caesar Legions focus The Titanomacy not displaying the trade node tooltip properly.
+- Fixed typo in the I Could Make You Care focus for the Mojave Brotherhood.
+- Fixed issue in Build More Military Factories organization request decision having the variable not be a flat value requiring you to build more factories then they requested.
+- Fixed hidden_ideas category appearing in the Modify Government tooltip.
+- Fixed the focus Secure the North for New Vegas having weird text issues.
+- Fixed New Vegas military advisor the False Khan icon being off center.
+- Fixed Loan Repayment event for organizations not giving you back the loan in full.
+- Fixed the Baja State nation not having a country name if the Intellectual party was in control.
+- Fixed minor typo in the tooltip for the Heaven’s Gate fanatics starting a civil war in puppet countries.
+
+### Removed
+- Removed description from Lucius that is for Malpais.
+- Removed double on_declare_war on_action in the mojave on_actions file.
+- Removed redundant straits in the Haida Confederations lands.
+
+
+
+
+###添加
+- 增加了效果，如果莫哈韦领地输给莫哈韦兄弟会，新加州共和国将获得莫哈韦领地的所有领袖。
+- 增加了肖肖尼民族夺回熊河纪念州的决定，这就把 "再来一次"（Outcasts Once More）的想法换成了一个新的回家的想法。
+- 为莫拉增加了第二个特殊特质。
+- 增加了一个新的游戏规则，允许玩家从每个国家调整起始外交范围。
+- 增加了一个新的修改器，可以添加到点子中，改变一个国家攻占一个国家的最大成本。
+- 将奥林匹斯部落添加到埋葬幽灵成就中。
+- 在沙漠游侠的重点Breaking the Bunkers和The Great War中增加了旁路，如果他们所反对的派系不存在的话。
+- 在Jacobstown和Utobithan中加入了Nightkin。
+- 为德克萨斯的 texas_constitution_modifier 添加了本地化。
+
+###改变了
+- 把Gatormaws的基础职业模板改成了他们的滤鼠模板。
+- 更改了CALIX事件，所以如果你得到了增加定时点子的事件，而你已经有了定时点子，就会增加你拥有它的时间，而不是什么都不做。
+- 更改了几个国家的焦点树。改变了休斯顿火箭队、Scrappers Compact和Dryblowers使用Settler树，Painted Rock使用Tribal树，改变了Gator Maws和Beltran-Levya使用Raider树。
+- 改变了凯撒军团的重点《军火库》和《人口普查》，在工厂旁增加建筑槽。
+- 更改了两个八十年代焦点 "萨城蓝调 "和 "回家 "的位置，以提高对称性。
+- 更改了 "太阳爆发行动 "中的胜利事件，当莫哈韦兄弟会在击败莫哈韦领地后与新加州共和国休战时，他们将获得与他们派系中所有人的休战，而新加州共和国将获得从莫哈韦兄弟会手中归还的任何州的核心。
+
+### 固定
+- 修正了新加州共和国的奥利弗的愚蠢事件没有正确的选项本地化。
+- 更正了现有的重复本地化字符串。
+- 修正了智囊团事件The Motions选项缺少本地化的问题。
+- 修正了莫哈韦领土焦点巴哈重新部署不产生单位的问题。
+- 修正了双子母亲聚焦 "从我们的错误中学习 "和 "免受瘟疫的安全港 "中的语法。
+- 修正了一些机器人由于如何分配而在工具提示中不显示类别的问题。
+- 修正了Jacobia描述中的一个小的拼写错误。
+- 修正了派系加入事件中说派系领袖加入了自己的派系。
+- 修正了德州兄弟会书签描述不是正确的描述。
+- 修正了菜单中选择生产哪种装备的资源有错误的图标分配。
+- 修正了凯撒军团焦点泰坦诺玛西亚不正确显示贸易节点工具提示的问题。
+- 修复了莫哈维兄弟会的《我可以让你关心》焦点中的错别字。
+- 修复了建造更多军事工厂组织请求决定中的变量不是一个固定值，需要你建造更多工厂，然后他们请求的问题。
+- 修正了在修改政府工具提示中出现的hidden_ideas类别。
+- 修正了焦点Secure the North for New Vegas有奇怪的文字问题。
+- 修正了新维加斯军事顾问假汗图标偏离中心的问题。
+- 修复了组织没有给你全额归还贷款的贷款还款事件。
+- 修正了巴国国家没有国家名称，如果知识分子党控制。
+- 修正了天门狂热者在傀儡国发动内战的工具提示中的小错别字。
+
+###删除了
+- 删除了Lucius中对Malpais的描述。
+- 删除了mojave on_actions文件中的双on_declare_war on_action。
+- 删除了海达联盟土地中多余的海峡。
+
+
+
+
+
+
+

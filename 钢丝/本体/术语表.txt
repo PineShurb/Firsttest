@@ -1,0 +1,27 @@
+
+基础机制
+
+地图模式
+Factions	阵营
+States	地区
+Diplomacy	外交
+Supply	补给
+Navy	海军
+Air		空军
+Resource	战略资源
+Resistance	抵抗
+Compliance	顺从度
+Players		玩家
+Infrastructure	基础设施
+Population	人口
+Ideology	意识形态
+Terrain		地形
+Operatives	特工
+Strategic area 战略区域
+
+Logistics	后勤
+Planning	计划
+Defense		防御
+Attack		进攻
+Maneuvering	机动
+Coordination	协同

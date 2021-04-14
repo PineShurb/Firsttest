@@ -1,0 +1,17 @@
+
+== 地图划分 ==
+{{SVersion|1.9}}
+地图划分有四种方式:
+
+* '''[[省]]''' 是地图上的最小单位。[[地形]], [[天气]], [[首都]], [[陆战]] 和胜利点以其为单位进行结算。
+
+* '''[[地区]]''' 是地图上的次小单位。are the next smallest subunit of the map, where [[construction]], [[manpower]], population, and country borders are decided.
+* '''[[地区]]''' are the next smallest subunit of the map, where [[construction]], [[manpower]], population, and country borders are decided.
+
+* '''[[Supply area]]s''' are the next largest subunit of the map, here logistics and supply are handled.
+
+* '''[[Strategic Region]]s''' are the largest of the subdivisions, and are where [[naval combat]] and [[air combat]] occur.
+
+== 地图模式 ==
+[[File:Mapmodes.png|300px|thumb|right|地图模式图标。]]
+Using different '''map modes''', you can alter the information presented on the map.  These map modes can be activated by either clicking on the appropriate button (icon) located in the lower right corner of the main screen or by pressing the associated [[Hotkeys#Map mode interface hotkeys|hotkey]].  
