@@ -1,3 +1,6 @@
+{{version|1.9}}{{需要翻译|译者=ps}}
+[[File:HoI4 DD 1 map.jpg|thumb|right|600px|First official public screenshot of HoI4's map & interface, from the 7th February 'Our Vision' dev diary]]
+The '''map''' is where most tactical and strategic decisions happen. It also provides information related to these purposes, such as, [[weather]], [[air combat]], [[land combat]], [[naval combat]], and [[buildings]].
 
 == Map divisions ==
 {{SVersion|1.9}}
@@ -15,7 +18,28 @@ The Map can be divided into four subdivisions:
 [[File:Mapmodes.png|300px|thumb|right|The map mode icons.]]
 Using different '''map modes''', you can alter the information presented on the map.  These map modes can be activated by either clicking on the appropriate button (icon) located in the lower right corner of the main screen or by pressing the associated [[Hotkeys#Map mode interface hotkeys|hotkey]].  
 
+=== 默认地图模式 ===
+[[File:Default map mode button.png|left]]
+[[File:Default map nogui 1.4.png|300px|thumb|right|The Default map mode without the day/night loop.]]
+Shows sovereign nations and armies.
 
+The default map mode is a combination of the political map mode and terrain map mode from previous games. It shows the name of all the nations, with their political color. Zoomed out, mainly the nation's color is seen, however, when zooming in, the terrain becomes more and more visible, integrating both map modes into one. Air fields, naval bases, capitals, and almost any other object on the map can be seen in this mode, represented by different symbols: 
+*'''Naval bases''' are anchors.
+*'''Airfields''' are a top down picture of an airplane.
+*'''Capitals''' are a star, which can be {{green|green}} if it is the nation's capital, '''gray''' if they are any other nation's capital, or {{red|red}} if they are the capital of any of the nation's enemies.
+*'''Victory points''' are denoted by a small dot, which have a name when zoomed in, and particularly high value victory points are denoted by a slightly larger dot. They follow the color scheme of capitals.
+*'''Units''' can be seen as counters or sprites on the map.
+*[[Battles|'''Battles''']] can be seen as pointers that are {{green|green}} if the nation is winning the battle, '''yellow''' if the battle is favoring neither side, or {{red|red}} if the nation is losing the battle, and it shows a number that summarizes how much the battle favors one side or the other.
+*[[Naval combat|'''Naval combat''']] can be seen along with navies and their missions.
+*'''Aircraft''' can be seen flying where aircraft are in operation.
+*'''Forts''' and any other state- or province-wide constructions are also visible.
+*'''Demilitarized zones''' will be a {{red|red}} outline around any demilitarized area, such as the Rhineland.
+{{clear}}
+
+
+{{version|1.9}}{{需要翻译|译者=ps}}
+[[File:HoI4 DD 1地图.jpg|thumb|right|600px|HoI4地图和界面的第一张官方公开截图，来自2月7日的 "我们的愿景 "开发日记]]。
+'''地图''是大多数战术和战略决策发生的地方。它还提供与这些目的相关的信息，如[[天气]]、[[空战]]、[[陆战]]、[[海战]]和[[建筑]]。
 
 == 地图划分 ==
 {{SVersion|1.9}}。
@@ -32,3 +56,21 @@ Using different '''map modes''', you can alter the information presented on the 
 == 地图模式 ==
 [[File:Mapmodes.png|300px|thumb|right|地图模式图标]]。
 使用不同的'''地图模式'''，你可以改变地图上的信息。 这些地图模式可以通过点击位于主屏幕右下角的相应按钮（图标）或按下相关的[[热键#地图模式界面热键|热键]]来激活。 
+
+=== 默认地图模式 ===
+[[文件:默认地图模式按钮.png|left]] 。
+[[File:Default map nogui 1.4.png|300px|thumb|right|Default map mode without the day/night loop.]] 。
+显示主权国家和军队。
+
+默认地图模式是以前游戏中政治地图模式和地形地图模式的结合。它显示的是所有国家的名称，以及他们的政治颜色。放大后，主要看到的是国家的颜色，然而放大后，地形会越来越明显，将两种地图模式融为一体。机场、海军基地、首都等几乎所有地图上的物体都可以在这个模式下看到，用不同的符号表示。
+*海军基地是锚。
+*''''机场''是飞机的俯视图。
+*''''首都'''是一颗星，如果是国家的首都，可以是{{绿色|绿色}}，如果是其他国家的首都，可以是'''灰色''，如果是国家敌人的首都，可以是{{红色|红色}}。
+*'''胜利点'''用一个小点表示，放大后有一个名称，特别高价值的胜利点用一个稍大的点表示。它们遵循首都的颜色方案。
+*''''单位''''可以在地图上以计数器或精灵的形式出现。
+*[[战役|'''战役''']]可以看作是指针，如果国家在战斗中获胜，则为{{绿色|绿色}}，如果战斗对双方都不利，则为'''黄色'''，如果国家在战斗中失败，则为{{红色|红色}}，它显示一个数字，总结战斗对一方或另一方的有利程度。
+*[[海军作战|'''海军作战''']]可以看到海军及其任务。
+*''''飞机'''可以看到在飞机运行的地方飞行。
+*''''要塞'''以及其他任何国家或省份范围内的建筑也可以看到。
+*''''非军事区'''在任何非军事区周围都会有一个{{红色|red}}的轮廓，例如莱茵地区。
+{{清晰}}。

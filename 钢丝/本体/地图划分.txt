@@ -1,17 +1,37 @@
+{{version|1.9}}{{需要翻译|译者=ps}}
+[[File:HoI4 DD 1 map.jpg|thumb|right|600px|First official public screenshot of HoI4's map & interface, from the 7th February 'Our Vision' dev diary]]
+The '''map''' is where most tactical and strategic decisions happen. It also provides information related to these purposes, such as, [[weather]], [[air combat]], [[land combat]], [[naval combat]], and [[buildings]].
 
 == 地图划分 ==
 {{SVersion|1.9}}
 地图划分有四种方式:
 
-* '''[[省]]''' 是地图上的最小单位。[[地形]], [[天气]], [[首都]], [[陆战]] 和胜利点以其为单位进行结算。
+* '''[[省份]]''' 是地图上的最小单位。[[地形]], [[天气]], [[capital|首都]], [[陆战]] 和胜利点以其为单位进行结算。
 
-* '''[[地区]]''' 是地图上的次小单位。are the next smallest subunit of the map, where [[construction]], [[manpower]], population, and country borders are decided.
-* '''[[地区]]''' are the next smallest subunit of the map, where [[construction]], [[manpower]], population, and country borders are decided.
+* '''[[地区]]''' 是地图上的次小单位。[[construction|建筑]], [[manpower|人力]], 人口和国家边界都在这里决定。
 
-* '''[[Supply area]]s''' are the next largest subunit of the map, here logistics and supply are handled.
+* '''[[Supply area|补给区域]]''' 是地图的次大划分单位。后勤和补给在这里进行计算。
 
-* '''[[Strategic Region]]s''' are the largest of the subdivisions, and are where [[naval combat]] and [[air combat]] occur.
+* '''[[战略区域]]''' 所占面积最大，[[naval combat|海战]] 与 [[air combat|空战]] 就在此发生。
 
 == 地图模式 ==
 [[File:Mapmodes.png|300px|thumb|right|地图模式图标。]]
-Using different '''map modes''', you can alter the information presented on the map.  These map modes can be activated by either clicking on the appropriate button (icon) located in the lower right corner of the main screen or by pressing the associated [[Hotkeys#Map mode interface hotkeys|hotkey]].  
+使用不同的'''地图模式'''时，地图上显示的信息不尽不同。要改变地图模式，可以点击主屏幕右下角的对应按键(图标)或使用相关[[热键#地图模式界面快捷键|快捷键]]。
+
+=== 默认地图模式 ===
+[[File:Default map mode button.png|left]]
+[[File:Default map nogui 1.4.png|300px|thumb|right|The Default map mode without the day/night loop.]]
+Shows sovereign nations and armies.
+
+The default map mode is a combination of the political map mode and terrain map mode from previous games. It shows the name of all the nations, with their political color. Zoomed out, mainly the nation's color is seen, however, when zooming in, the terrain becomes more and more visible, integrating both map modes into one. Air fields, naval bases, capitals, and almost any other object on the map can be seen in this mode, represented by different symbols: 
+*'''Naval bases''' are anchors.
+*'''Airfields''' are a top down picture of an airplane.
+*'''Capitals''' are a star, which can be {{green|green}} if it is the nation's capital, '''gray''' if they are any other nation's capital, or {{red|red}} if they are the capital of any of the nation's enemies.
+*'''Victory points''' are denoted by a small dot, which have a name when zoomed in, and particularly high value victory points are denoted by a slightly larger dot. They follow the color scheme of capitals.
+*'''Units''' can be seen as counters or sprites on the map.
+*[[Battles|'''Battles''']] can be seen as pointers that are {{green|green}} if the nation is winning the battle, '''yellow''' if the battle is favoring neither side, or {{red|red}} if the nation is losing the battle, and it shows a number that summarizes how much the battle favors one side or the other.
+*[[Naval combat|'''Naval combat''']] can be seen along with navies and their missions.
+*'''Aircraft''' can be seen flying where aircraft are in operation.
+*'''Forts''' and any other state- or province-wide constructions are also visible.
+*'''Demilitarized zones''' will be a {{red|red}} outline around any demilitarized area, such as the Rhineland.
+{{clear}}
