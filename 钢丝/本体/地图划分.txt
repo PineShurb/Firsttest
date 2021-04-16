@@ -1,6 +1,6 @@
 {{version|1.9}}{{需要翻译|译者=ps}}
-[[File:HoI4 DD 1 map.jpg|thumb|right|600px|First official public screenshot of HoI4's map & interface, from the 7th February 'Our Vision' dev diary]]
-The '''map''' is where most tactical and strategic decisions happen. It also provides information related to these purposes, such as, [[weather]], [[air combat]], [[land combat]], [[naval combat]], and [[buildings]].
+[[File:HoI4 DD 1 map.jpg|thumb|right|600px|第一张hoi4地图和界面的官方公开截图，来自2月7日的“我们的愿景(Our Vision)”开发日志。]]
+'''地图'''('''map'''),大多数战术及战略决策都于其上进行制定。地图以直观的形式显示了为达目的所需的各类情报，如 [[weather|天气]], [[air combat|空战]], [[land combat|陆战]], [[naval combat|海战]] 和 [[buildings|建筑]]等的信息。
 
 == 地图划分 ==
 {{SVersion|1.9}}
@@ -20,8 +20,8 @@ The '''map''' is where most tactical and strategic decisions happen. It also pro
 
 === 默认地图模式 ===
 [[File:Default map mode button.png|left]]
-[[File:Default map nogui 1.4.png|300px|thumb|right|The Default map mode without the day/night loop.]]
-Shows sovereign nations and armies.
+[[File:Default map nogui 1.4.png|300px|thumb|right|默认地图模式，当前没有昼夜循环。]]
+显示主权国家及军队。
 
 The default map mode is a combination of the political map mode and terrain map mode from previous games. It shows the name of all the nations, with their political color. Zoomed out, mainly the nation's color is seen, however, when zooming in, the terrain becomes more and more visible, integrating both map modes into one. Air fields, naval bases, capitals, and almost any other object on the map can be seen in this mode, represented by different symbols: 
 *'''Naval bases''' are anchors.
