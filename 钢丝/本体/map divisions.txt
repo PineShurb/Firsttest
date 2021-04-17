@@ -36,6 +36,26 @@ The default map mode is a combination of the political map mode and terrain map 
 *'''Demilitarized zones''' will be a {{red|red}} outline around any demilitarized area, such as the Rhineland.
 {{clear}}
 
+=== Strategic navy map mode ===
+{{SVersion|1.9}}
+[[File:Naval map nogui.png|300px|thumb|right|The Strategic Navy map mode.]]
+[[File:Strategic Navy map mode button.png|left]]
+Shows strategic regions relevant to naval activity, with information on naval supremacy and naval tasks.
+
+The naval map mode consists of the world's strategic regions, with a color scheme similar to the diplomacy for states on land under it. Convoy routes are also shown here with the following color scheme:
+
+*{{blue|Blue}} trade routes are resource transfers. These are imports, exports or resource transfers from owned oversea resources.
+*'''White''' trade routes are supply transfers to oversea units.
+*{{green|Green}} trade routes are lend lease routes.
+
+Trade routes require [[convoys]] to operate.
+
+Strategic regions that have sea provinces will be highlighted with {{green|green}} if they are under allied naval superiority. Provinces that are striped {{red|red}} are out of the fleets' operational range.
+
+==== Straits ====
+[[File:Strait canal icon.png|left]] Canals or any type of controlled strait are shown on this map mode, and by hovering over them it is possible to see the access permissions your country has as well as the land provinces controlling the strait (blue outline). Straits are also shown on the Supply Map Mode and the Resource Map mode.
+
+The following, are the names and province control points of the straits/canals on map and their respective permissions granted to nations (depending on the relations with the strait controllers).
 
 {{version|1.9}}{{需要翻译|译者=ps}}
 [[File:HoI4 DD 1地图.jpg|thumb|right|600px|HoI4地图和界面的第一张官方公开截图，来自2月7日的 "我们的愿景 "开发日记]]。
@@ -74,3 +94,24 @@ The default map mode is a combination of the political map mode and terrain map 
 *''''要塞'''以及其他任何国家或省份范围内的建筑也可以看到。
 *''''非军事区'''在任何非军事区周围都会有一个{{红色|red}}的轮廓，例如莱茵地区。
 {{清晰}}。
+
+===战略海军地图模式 ===
+{{SVersion|1.9}}。
+[[File:Naval map nogui.png|300px|thumb|right|战略海军地图模式]]。
+[[File:Strategic Navy map mode button.png|left]] 。
+显示与海军活动相关的战略区域，并提供海军霸主和海军任务的信息。
+
+海军地图模式由世界战略区域组成，其颜色方案类似于其下的陆地上国家的外交。航行路线也在这里显示，配色方案如下。
+
+*{{蓝色|蓝色}}贸易路线是资源转移。这些是拥有的海外资源的进口、出口或资源转移。
+*''''白色''贸易路线是对海外单位的供应转移。
+*{{绿|绿}}贸易路线是借贷租赁路线。
+
+贸易路线需要[[船队]]来运作。
+
+拥有海上省份的战略区域，如果它们处于盟军海军优势之下，则会以{{绿色|绿色}}高亮显示。有{{红色|红色}}条纹的省份不在舰队的作战范围内。
+
+==== 海峡 ====
+[[文件:海峡运河图标.png|left]] 运河或任何类型的控制海峡都会显示在这个地图模式上，将鼠标悬停在它们上面，可以看到你的国家拥有的通行权限以及控制海峡的陆地省份（蓝色轮廓）。海峡在补给地图模式和资源地图模式中也有显示。
+
+以下，是地图上海峡/运河的名称和省份控制点，以及它们各自授予国家的权限（取决于与海峡控制者的关系）。

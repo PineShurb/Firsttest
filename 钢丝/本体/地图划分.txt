@@ -23,15 +23,36 @@
 [[File:Default map nogui 1.4.png|300px|thumb|right|默认地图模式，当前没有昼夜循环。]]
 显示主权国家及军队。
 
-The default map mode is a combination of the political map mode and terrain map mode from previous games. It shows the name of all the nations, with their political color. Zoomed out, mainly the nation's color is seen, however, when zooming in, the terrain becomes more and more visible, integrating both map modes into one. Air fields, naval bases, capitals, and almost any other object on the map can be seen in this mode, represented by different symbols: 
-*'''Naval bases''' are anchors.
-*'''Airfields''' are a top down picture of an airplane.
-*'''Capitals''' are a star, which can be {{green|green}} if it is the nation's capital, '''gray''' if they are any other nation's capital, or {{red|red}} if they are the capital of any of the nation's enemies.
-*'''Victory points''' are denoted by a small dot, which have a name when zoomed in, and particularly high value victory points are denoted by a slightly larger dot. They follow the color scheme of capitals.
-*'''Units''' can be seen as counters or sprites on the map.
-*[[Battles|'''Battles''']] can be seen as pointers that are {{green|green}} if the nation is winning the battle, '''yellow''' if the battle is favoring neither side, or {{red|red}} if the nation is losing the battle, and it shows a number that summarizes how much the battle favors one side or the other.
-*[[Naval combat|'''Naval combat''']] can be seen along with navies and their missions.
-*'''Aircraft''' can be seen flying where aircraft are in operation.
-*'''Forts''' and any other state- or province-wide constructions are also visible.
-*'''Demilitarized zones''' will be a {{red|red}} outline around any demilitarized area, such as the Rhineland.
+在该模式下显示所有国家的名称及其政治色彩。地图拉远后，主要显示国家的颜色。地图放大时，地形逐渐变得清晰可见。使用这种方法可以将两种地图模式结合为一体。机场、海军基地、首都以及其他几乎任何地图上的物体都会在该模式下以不同的图标显示: 
+*'''海军基地''' 为船锚。
+*'''机场''' 为飞机的俯视图。
+*'''首都''' 为星形。本国首都为 {{green|绿色}} ，敌国首都为 {{red|红色}} ，其它国家首都为'''灰色'''。
+*'''胜利点'''  以小点为符号，放大后可以看到其名称。胜利点价值越高，点的大小越大。它们的颜色与其首都相同。
+*'''军队''' 在地图上显示为兵牌及数量。
+*[[Battles|'''战斗''']] 显示为一个指示器。当本国为优势时，其为 {{green|绿色}} ，难分胜负时为 '''黄色''' ，己方处境艰难时为 {{red|红色}} 。指示器上有一个数字，大小为一方对另一方优势程度的估计。
+*[[Naval combat|'''海战''']] 与海军及其任务一起显示。
+*'''飞机''' 会在飞机运行的地方飞行。
+*'''要塞''' 及其它任何地区内、省份内建筑也都可见。
+*'''非军事区''' 周围会有一个 {{red|红色}} 轮廓，例如莱茵兰。
 {{clear}}
+
+=== Strategic navy map mode ===
+{{SVersion|1.9}}
+[[File:Naval map nogui.png|300px|thumb|right|The Strategic Navy map mode.]]
+[[File:Strategic Navy map mode button.png|left]]
+Shows strategic regions relevant to naval activity, with information on naval supremacy and naval tasks.
+
+The naval map mode consists of the world's strategic regions, with a color scheme similar to the diplomacy for states on land under it. Convoy routes are also shown here with the following color scheme:
+
+*{{blue|Blue}} trade routes are resource transfers. These are imports, exports or resource transfers from owned oversea resources.
+*'''White''' trade routes are supply transfers to oversea units.
+*{{green|Green}} trade routes are lend lease routes.
+
+Trade routes require [[convoys]] to operate.
+
+Strategic regions that have sea provinces will be highlighted with {{green|green}} if they are under allied naval superiority. Provinces that are striped {{red|red}} are out of the fleets' operational range.
+
+==== Straits ====
+[[File:Strait canal icon.png|left]] Canals or any type of controlled strait are shown on this map mode, and by hovering over them it is possible to see the access permissions your country has as well as the land provinces controlling the strait (blue outline). Straits are also shown on the Supply Map Mode and the Resource Map mode.
+
+The following, are the names and province control points of the straits/canals on map and their respective permissions granted to nations (depending on the relations with the strait controllers).
