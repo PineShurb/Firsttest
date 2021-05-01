@@ -36,23 +36,257 @@
 *'''非军事区''' 周围会有一个 {{red|红色}} 轮廓，例如莱茵兰。
 {{clear}}
 
-=== Strategic navy map mode ===
+=== 海军战略地图模式 ===
 {{SVersion|1.9}}
-[[File:Naval map nogui.png|300px|thumb|right|The Strategic Navy map mode.]]
+[[File:Naval map nogui.png|300px|thumb|right|海军战略地图模式]]
 [[File:Strategic Navy map mode button.png|left]]
-Shows strategic regions relevant to naval activity, with information on naval supremacy and naval tasks.
+显示了与海军活动相关的战略区域，附带包海军制海权和海军任务的信息。
 
-The naval map mode consists of the world's strategic regions, with a color scheme similar to the diplomacy for states on land under it. Convoy routes are also shown here with the following color scheme:
+海军地图模式由世界中的战略地区组成，其配色方案类似于外交模式配色方案。航运路线也在此地图上显示，配色方案如下：
 
-*{{blue|Blue}} trade routes are resource transfers. These are imports, exports or resource transfers from owned oversea resources.
-*'''White''' trade routes are supply transfers to oversea units.
-*{{green|Green}} trade routes are lend lease routes.
+*{{blue|蓝色}}路线为资源运输航线。这些是海外资源的进口、出口或转运。
+*'''白色''' 路线用于向海外单位提供补给。
+*{{green|绿色}}路线为租借法案物资运输路线。
 
-Trade routes require [[convoys]] to operate.
+航运需要[[运输船]]来运作。
 
-Strategic regions that have sea provinces will be highlighted with {{green|green}} if they are under allied naval superiority. Provinces that are striped {{red|red}} are out of the fleets' operational range.
+拥有海上省份的战略区域，如果它们处于盟军海军优势之下，则会以{{green|绿色}}高亮显示。有{{red|红色}}条纹的省份超出舰队的作战范围。
 
-==== Straits ====
-[[File:Strait canal icon.png|left]] Canals or any type of controlled strait are shown on this map mode, and by hovering over them it is possible to see the access permissions your country has as well as the land provinces controlling the strait (blue outline). Straits are also shown on the Supply Map Mode and the Resource Map mode.
+==== 海峡 ====
+[[File:Strait canal icon.png|left]]运河及其他任何种类可以被控制的海峡都会显示在这个地图模式上。将鼠标悬停在它们上面，可以看到你的国家拥有的通行权限以及控制海峡的陆地省份（蓝色轮廓）。海峡在补给区域地图模式和战略资源地图模式中也有显示。
 
-The following, are the names and province control points of the straits/canals on map and their respective permissions granted to nations (depending on the relations with the strait controllers).
+下方是地图中海峡及运河的名称、控制省份和各自对国家给予的通行权设置(视与海峡控制者的关系而定)。
+
+
+{| class="wikitable mw-collapsible mw-collapsed"
+|-
+! 名称 !!控制省份
+!单位通行权!!争端?!!敌对!!友好!!中立
+|-
+| rowspan="4" |苏伊士运河|| rowspan="4" |开罗, 西奈
+|陆军|| rowspan="4" |无|| rowspan="4" |无|| rowspan="4" |有|| rowspan="4" |有
+|-
+|海军 
+|-
+|潜艇
+|-
+|航运
+|-
+| rowspan="4" |直布罗陀海峡
+| rowspan="4" |直布罗陀, 西属非洲
+|陆军
+|无
+|无
+| rowspan="4" |有
+| rowspan="4" |有
+|-
+|海军 
+|无
+|无
+|-
+|潜艇
+|有
+|有
+|-
+|航运
+|无
+|无
+|-
+| rowspan="4" |博斯普鲁斯海峡
+| rowspan="4" |伊斯坦布尔
+|陆军
+| rowspan="4" |无
+| rowspan="4" |无
+| rowspan="4" |有
+|无
+|-
+|海军 
+|无
+|-
+|潜艇
+|无
+|-
+|航运
+|有
+|-
+| rowspan="4" |丹麦贝尔特海峡
+| rowspan="4" | 西兰, 日德兰
+|陆军
+|无
+| rowspan="4" |无
+| rowspan="4" |有
+| rowspan="4" |有
+|-
+|海军 
+|无
+|-
+|潜艇
+|有
+|-
+|航运
+|无
+|-
+| rowspan="4" |基尔运河
+| rowspan="4" |石勒苏益格-荷尔斯泰因
+|陆军
+| rowspan="4" |无
+| rowspan="4" |无
+| rowspan="4" |有
+|无
+|-
+|海军 
+|无
+|-
+|潜艇
+|无
+|-
+|航运
+|有
+|-
+| rowspan="4" |巴拿马运河
+| rowspan="4" |巴拿马运河(美国占领), 巴拿马
+|陆军
+| rowspan="4" |无
+| rowspan="4" |无
+| rowspan="4" |有
+|无
+|-
+|海军 
+|无
+|-
+|潜艇
+|无
+|-
+|航运
+|有
+|}
+
+=== 空军战略地图模式 ===
+{{SVersion|1.9}}
+[[File:Air map nogui.png|300px|thumb|right|空军战略地图模式]]
+[[File:Strategic Air map mode button.png|left]]
+显示具有空中优势信息的战略区域。选中机场时自动进入该模式。
+
+The air map mode is, at first glance, merely a map of the strategic regions of the map. However, when at war, the regions can be highlighted with three colors:
+*{{red|Red}}, which means the enemy has air superiority.
+*{{green|Green}}, which means the nation or its allies has air superiority.
+*<span style="color: orange;">'''Yellow'''</span>, which means the air superiority is contested.
+
+This map mode also shows all of the air missions currently set with the total number of planes assigned. <br>
+In the strategic air map mode [[File:More Ground Crews.png|30px]] more ground crews can be assigned, by clicking the icon in the desired strategic region. This gives a {{green|+10%}} bonus to mission efficiency in the strategic region. 
+{{clear}}
+
+=== {{Anchor|supplymapmode}}补给区域地图模式 ===
+{{SVersion|1.8}}
+[[File:Supply map nogui.png|300px|thumb|right|补给区域地图模式]]
+在补给区域地图上，展示了世界上的各个[[supply area|补给区域]]。就面积来说，一般补给区域比战区小，比单个省大。补给区往往由多个省组成。由国家及其盟友控制的补给区域中，驻扎了军队且没有超过[[supported supply|可供应补给]]上限的会显示为{{green|绿色}}。补给区颜色为{{red|红色}}表示不能为该区域内所有军队提供补给。没有军队，也即不需要补给的地区没有颜色。此外，海岸与邻国的补给区显示为{{blue|蓝色}}。该模式下显示海洋贸易路线，同海军战略地图一样。
+
+每块补给区域都有一个桶和箱子组成的图标[[File:Supply consumption.png|24px]]，旁边有一段铁轨{{icon|Infrastructure}}，如果是临海且有海军基地的话，还会有一个船锚{{icon|Naval base}}。每个图标旁都有相关的数字信息:
+*桶与箱子组成的图标 [[File:Supply consumption.png|24px]] 上有一个数字，格式为'''0/114'''。第一个数字是友方军队和盟军使用的补给总量(数字为四舍五入的整数)。该总量为陆军、空军、海军所需补给的总和。第二个数字是补给上限。
+*图标 {{icon|Infrastructure}} 下方有一个数字，代表补给区域内所有地区的基础设施数量总和。
+** {{icon|Infrastructure}} 图标可以被点击，每次点击都会在建造界面为该补给区域内所有地区添加一个基础设施建造序列，当然每个地区基础设施总数不能超过10个。如果补给区域内有任何地区在建设基础设施，数字都会变为黄色并显示为"x/y"格式，其中"x"为建设完成后基础设施总数，"y"为当前基础设施总数。
+**当鼠标在补给区域上方悬停时， {{icon|Infrastructure}} 图标上方会显示一个白色或{{red|红色}}的数字。该数字为此区域补给吞吐总量，大小为本区域平均基础设施水平的平方乘以2.5 '''(即为: (x/2)^2*10)''' 并向下取整(如果某个区域即接收又运出补给，那么该数字就意味着[[后勤#输入补给|陆运补给]]的上限)。如果这个数字是变{{red|红色}}，就意味着该补给区域是一个瓶颈。此时就要提升该区域内的基础设施来加强补给运输能力。
+**注意，当补给区域临海且补给来自海外时(也就是没有陆运可以提供补给的情况下)，基础设施上方的数字是基础设施平均水平的平方乘以2 '''( 即为: (x/2)^2*8)'''。
+* 如果补给区域内有可用的海军基地 {{icon|Naval base}} ，该图标下会有一个数字用以表示该区域内海军基地的最高等级(与基础设施不同)。
+**点击 {{icon|Naval base}} 图标会为该区域等级最高的海军基地添加一个升级序列。如果等级最高的海军基地已经有了一个升级序列，图标下的数字会变成黄色且格式为"x/y"。其中 "x" 为建设完成后的等级， "y" 为当前等级。
+**当鼠标悬停在补给区域中时， {{icon|Naval base}} 图标上方也会出现一个白色或{{red|红色}}的数字。这个数字表明了可以通过该补给区域的海军基地接收或转运的补给总量，大小为补给区域内''所有''海军基地等级之和的三倍(这就是[[后勤#输入补给|海运补给]]的计算方法，此时不考虑另一端海运容量的大小)。同基础设施上方的数字一样，当该图标上方的数字为 {{red|红}} 时表示当前补给区域为瓶颈，需要通过建设海军基地来提高补给吞吐量。
+*注意，鼠标悬停在补给区域上方时，会有一个带箭头的标识显示从首都到目的地的补给链。补给链中每个补给区域的基础设施与海军基地图标上方的数字都会显示出来。红色数字表示其所在区域为''当前''整个补给链中的瓶颈。因此，当鼠标悬停时，只会有一条补给链，其上的基础设施和海军基地都有可能是瓶颈。如果基础设施和海军基地上方的数字都是白色，说明瓶颈不在此处，而是在供应链上的其它地方。
+**如果首都所在的补给区域成为瓶颈，说明该区域中的地区基础设施没有全部升级到10级。
+
+关于以上数字的详细计算过程参见[[后勤]]页。
+{{clear}}
+
+=== Terrain map mode ===
+{{SVersion|1.9}}
+[[File:Land Terrain Map.png|300px|thumb|right|Land terrain in terrain mapmode.]]
+[[File:Navalterrains.png|300px|thumb|right|Naval terrain in terrain mapmode.]]
+The terrain map mode shows the [[terrain]] of each region on the map using simplified colors. Land terrain has high adjusters for attack, defense and movement of land units. The terrain map mode can be useful to plan your offense or defense in for you favorable terrain.
+
+Colors of the terrains:
+* '''Plains''': Brown 
+* '''Forest''': Green
+* '''Jungle''': Green 
+* '''Marsh''': Green/blue
+* '''Hills''': Light grayish with a bit yellow or green
+* '''Mountain''': Gray
+* '''Urban''': Dark Gray with road patterns
+* '''Desert''': Yellow 	
+* '''Ocean''': Blue
+* '''Deep ocean''': Dark blue
+* '''Shallow sea''': Light blue 			
+* '''Fjords and archipelagos''': Cyan
+{{clear}}
+
+=== Resistance map mode===
+{{SVersion|1.9}}
+[[File:Resistance map nogui.png|300px|thumb|right|Resistance map mode.]]
+The resistance map mode shows [[resistance]] per state. Yellow indicates low, orange higher and red high resistance.<br>
+The percentage of resistance (0%-100%) is shown for each state. A green arrow downwards shows decreasing resistance, a red arrow upwards increasing resistance.<br>
+Also 3 resistance tiers are shown:
+* [[File:Resistance organized resistance.png]] '''Organized Resistance''' if the resistance is {{red| >25% }}
+* [[File:Resistance emboldened resistance.png]] '''Emboldened Resistance''' if the resistance is {{red| >50% }}
+* [[File:Resistance uprising.png]] '''Uprising''' if the resistance is {{red| >75% }}
+{{clear}}
+
+=== Compliance map mode===
+{{SVersion|1.9}}
+[[File:Compliance map.png|300px|thumb|right|Compliance map mode.]]
+Shows [[compliance]] per state. 
+Lighter blue means more compliance. <br>
+The percentage of compliance (0%-100%) is shown for each state. <br>
+Also 5 compliance tiers are shown:
+* [[File:Compliance informants.png]] '''Informants''' if the compliance is {{green| >15% }}
+* [[File:Compliance local police force.png]] '''Local Police Force''' if the compliance is {{green| >25% }}
+* [[File:Compliance reorganized workforce.png]] '''Reorganized Workforce''' if the compliance is {{green| >40% }}
+* [[File:Compliance volunteer program.png]] '''Volunteer Program''' if the compliance is {{green| >60% }}
+* [[File:Compliance a new regime.png]] '''A New Regime''' if the compliance is {{green| >80% }}
+{{clear}}
+
+=== Resource map mode ===
+{{SVersion|1.9}}
+[[File:Resource map nogui.png|300px|thumb|right|The Resource map mode.]]
+Shows [[resource]] locations and trade routes.
+
+The resources map mode shows any convoy/ trade routes that are connected to the nation and canals/ straits across the world, similar to the naval map mode. However, this map mode looks like the default map mode when zoomed out, but when zoomed in, it shows a resource icon above any state that has a resource, along with the number of that resource produced in that province.
+{{clear}}
+
+=== Diplomacy map mode ===
+{{SVersion|1.9}}
+[[File:Diplomacy map nogui.png|300px|thumb|right|The Diplomacy map mode.]]
+Shows [[Diplomacy|diplomatic]] relations.
+
+The diplomacy map mode shows its information through a multitude of colors.
+*{{green|Green}} is the color that any land owned and controlled by the nation 
+*{{green|Light green}} is the color that any land occupied by the nation will be colored.
+*{{green|Dark green}} is the color of any nation that has very good relations with the nation.
+*{{red|Red}} is the color of any nations that the nation is currently at war with.
+*{{red|Light red}} is the color of friendly territory that is occupied by enemies.
+*'''Neon orange''' is the color of countries that the nation has [[wargoals]] against.
+*'''Light orange''' is the color of any country the nation has very bad relations with.
+*{{blue|Blue}} is the color of any allied nations.
+{{clear}}
+
+=== Factions map mode ===
+{{SVersion|1.9}}
+[[File:Faction map nogui.png|300px|thumb|right|The Factions map mode.]]
+The [[factions]] map mode shows the factions that exist around the world. The faction is colored the color of the leader nation, i.e. the Axis is grey due to the color of Germany, and it stretches across all nations in that faction.
+{{clear}}
+
+=== States map mode ===
+{{SVersion|1.9}}
+[[File:States map nogui.png|300px|thumb|right|The States map mode.]]
+Shows [[states]] and population/ state category.
+
+The states map mode shows an outline of every state in the world. These outlines are different colors based on the population of the state/ state category. This directly controls how many factories are allowed to be built in a state. The type of state can be found by simply hovering over it.
+{{clear}}
+
+
+{{Mechanics_Navbox}}
+[[Category:Interface]]
+
+[[hoi4de:Map]]
+[[hoi4es:Map]]
+[[hoi4fr:Map]]
+[[hoi4pl:Map]]
+[[hoi4pt:Map]]
+[[hoi4ru:Map]]
