@@ -167,13 +167,13 @@
 [[File:Strategic Air map mode button.png|left]]
 显示具有空中优势信息的战略区域。选中机场时自动进入该模式。
 
-The air map mode is, at first glance, merely a map of the strategic regions of the map. However, when at war, the regions can be highlighted with three colors:
-*{{red|Red}}, which means the enemy has air superiority.
-*{{green|Green}}, which means the nation or its allies has air superiority.
-*<span style="color: orange;">'''Yellow'''</span>, which means the air superiority is contested.
+空军战略地图模式看起来虽然只是战略区域的地图，但是在战争状态下，战略区域会高亮显示为三种颜色:
+*{{red|红色}}, 意味着敌人占据制空权。
+*{{green|绿色}}, 意味着己方或盟友占据制空权。
+*<span style="color: orange;">'''黄色'''</span>, 意味着空中优势无法确定。
 
-This map mode also shows all of the air missions currently set with the total number of planes assigned. <br>
-In the strategic air map mode [[File:More Ground Crews.png|30px]] more ground crews can be assigned, by clicking the icon in the desired strategic region. This gives a {{green|+10%}} bonus to mission efficiency in the strategic region. 
+该地图模式下也显示了当前制定的所有空军任务及其分配飞机总数。<br>
+在空军战略地图模式下， 点击所在战略区域内 [[File:More Ground Crews.png|30px]] 图标，可以分配更多地勤人员。这会将该区域内的任务效率提升{{green|+10%}}
 {{clear}}
 
 === {{Anchor|supplymapmode}}补给区域地图模式 ===
@@ -196,58 +196,58 @@ In the strategic air map mode [[File:More Ground Crews.png|30px]] more ground cr
 关于以上数字的详细计算过程参见[[后勤]]页。
 {{clear}}
 
-=== Terrain map mode ===
+=== 地形地图模式 ===
 {{SVersion|1.9}}
-[[File:Land Terrain Map.png|300px|thumb|right|Land terrain in terrain mapmode.]]
-[[File:Navalterrains.png|300px|thumb|right|Naval terrain in terrain mapmode.]]
-The terrain map mode shows the [[terrain]] of each region on the map using simplified colors. Land terrain has high adjusters for attack, defense and movement of land units. The terrain map mode can be useful to plan your offense or defense in for you favorable terrain.
+[[File:Land Terrain Map.png|300px|thumb|right|地形地图模式下的陆地地形]]
+[[File:Navalterrains.png|300px|thumb|right|地形地图模式下的海洋地形]]
+地形地图模式使用简单的颜色显示地图上每个区域的[[地形]]。陆地地形高度影响陆地单位的攻击、防御和移动。地形地图模式在规划进攻及防御时选择优势地形非常有用。
 
-Colors of the terrains:
-* '''Plains''': Brown 
-* '''Forest''': Green
-* '''Jungle''': Green 
-* '''Marsh''': Green/blue
-* '''Hills''': Light grayish with a bit yellow or green
-* '''Mountain''': Gray
-* '''Urban''': Dark Gray with road patterns
-* '''Desert''': Yellow 	
-* '''Ocean''': Blue
-* '''Deep ocean''': Dark blue
-* '''Shallow sea''': Light blue 			
-* '''Fjords and archipelagos''': Cyan
+地形的颜色:
+* '''平原''': 棕色 
+* '''森林''': 绿色
+* '''丛林''': 绿色 
+* '''沼泽''': 绿色/蓝色
+* '''丘陵''': 浅灰色，有点黄色或绿色
+* '''山地''': 灰色
+* '''城市''': 深灰色，有道路图案
+* '''沙漠''': 黄色 	
+* '''海洋''': 蓝色
+* '''深海''': 深蓝色
+* '''浅海''': 浅蓝色 		
+* '''峡湾和群岛''': 青色
 {{clear}}
 
-=== Resistance map mode===
+=== 抵抗地图模式 ===
 {{SVersion|1.9}}
-[[File:Resistance map nogui.png|300px|thumb|right|Resistance map mode.]]
-The resistance map mode shows [[resistance]] per state. Yellow indicates low, orange higher and red high resistance.<br>
-The percentage of resistance (0%-100%) is shown for each state. A green arrow downwards shows decreasing resistance, a red arrow upwards increasing resistance.<br>
-Also 3 resistance tiers are shown:
-* [[File:Resistance organized resistance.png]] '''Organized Resistance''' if the resistance is {{red| >25% }}
-* [[File:Resistance emboldened resistance.png]] '''Emboldened Resistance''' if the resistance is {{red| >50% }}
-* [[File:Resistance uprising.png]] '''Uprising''' if the resistance is {{red| >75% }}
+[[File:Resistance map nogui.png|300px|thumb|right|抵抗地图模式]]
+抵抗地图中显示了各个地区的 [[resistance|抵抗力量]]。不同颜色表明抵抗程度，黄色为低、橙色为中、红色为高。<br>
+每个地区的抵抗百分比(0%-100%)都会显示出来。绿色向下的箭头表示抵抗降低，红色向上箭头表示抵抗增长。<br>
+抵抗力量分为3个等级:
+* [[File:Resistance organized resistance.png]] '''组织抵抗'''，当抵抗力量{{red| >25% }}
+* [[File:Resistance emboldened resistance.png]] '''鼓励抵抗'''，当抵抗力量{{red| >50% }}
+* [[File:Resistance uprising.png]] '''起义''' ，当抵抗力量{{red| >75% }}
 {{clear}}
 
-=== Compliance map mode===
+=== 顺从度地图模式 ===
 {{SVersion|1.9}}
-[[File:Compliance map.png|300px|thumb|right|Compliance map mode.]]
-Shows [[compliance]] per state. 
-Lighter blue means more compliance. <br>
-The percentage of compliance (0%-100%) is shown for each state. <br>
-Also 5 compliance tiers are shown:
-* [[File:Compliance informants.png]] '''Informants''' if the compliance is {{green| >15% }}
-* [[File:Compliance local police force.png]] '''Local Police Force''' if the compliance is {{green| >25% }}
-* [[File:Compliance reorganized workforce.png]] '''Reorganized Workforce''' if the compliance is {{green| >40% }}
-* [[File:Compliance volunteer program.png]] '''Volunteer Program''' if the compliance is {{green| >60% }}
-* [[File:Compliance a new regime.png]] '''A New Regime''' if the compliance is {{green| >80% }}
+[[File:Compliance map.png|300px|thumb|right|顺从度地图模式]]
+显示各个地区的[[顺从度]]。
+蓝色部分越亮代表顺从度越高。 <br>
+各个地区顺从度显示为百分比(0%-100%) 。<br>
+顺从度分为5个等级:
+* [[File:Compliance informants.png]] '''告密者'''，当顺从度{{green| >15% }}
+* [[File:Compliance local police force.png]] '''地方警察''' ，当顺从度{{green| >25% }}
+* [[File:Compliance reorganized workforce.png]] '''重组劳动力'''，当顺从度 {{green| >40% }}
+* [[File:Compliance volunteer program.png]] '''志愿军计划'''，当顺从度{{green| >60% }}
+* [[File:Compliance a new regime.png]] '''新政权''' ，当顺从度{{green| >80% }}
 {{clear}}
 
-=== Resource map mode ===
+=== 战略资源地图模式 ===
 {{SVersion|1.9}}
-[[File:Resource map nogui.png|300px|thumb|right|The Resource map mode.]]
-Shows [[resource]] locations and trade routes.
+[[File:Resource map nogui.png|300px|thumb|right|战略资源地图模式]]
+显示当地[[战略资源]]及航运路线。
 
-The resources map mode shows any convoy/ trade routes that are connected to the nation and canals/ straits across the world, similar to the naval map mode. However, this map mode looks like the default map mode when zoomed out, but when zoomed in, it shows a resource icon above any state that has a resource, along with the number of that resource produced in that province.
+同海军战略地图模式相同，战略资源地图模式中显示了所有国家间的航运/贸易路线及世界中的运河与海峡。但是，在地图放大后，有战略资源的地区之上会显示对应战略资源图标，图标旁边的数字表示该资源的产量。
 {{clear}}
 
 === Diplomacy map mode ===
