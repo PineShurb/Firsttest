@@ -250,34 +250,34 @@
 同海军战略地图模式相同，战略资源地图模式中显示了所有国家间的航运/贸易路线及世界中的运河与海峡。但是，在地图放大后，有战略资源的地区之上会显示对应战略资源图标，图标旁边的数字表示该资源的产量。
 {{clear}}
 
-=== Diplomacy map mode ===
+=== 外交地图模式 ===
 {{SVersion|1.9}}
-[[File:Diplomacy map nogui.png|300px|thumb|right|The Diplomacy map mode.]]
-Shows [[Diplomacy|diplomatic]] relations.
+[[File:Diplomacy map nogui.png|300px|thumb|right|外交地图模式]]
+显示[[Diplomacy|外交]]关系。
 
-The diplomacy map mode shows its information through a multitude of colors.
-*{{green|Green}} is the color that any land owned and controlled by the nation 
-*{{green|Light green}} is the color that any land occupied by the nation will be colored.
-*{{green|Dark green}} is the color of any nation that has very good relations with the nation.
-*{{red|Red}} is the color of any nations that the nation is currently at war with.
-*{{red|Light red}} is the color of friendly territory that is occupied by enemies.
-*'''Neon orange''' is the color of countries that the nation has [[wargoals]] against.
-*'''Light orange''' is the color of any country the nation has very bad relations with.
-*{{blue|Blue}} is the color of any allied nations.
+在外交地图模式中使用多种颜色来表示不同的信息。
+*{{green|绿色}}为国家拥有且控制的全部土地。
+*{{green|浅绿}}为被本国占领的全部土地。 
+*{{green|深绿}}为与本国关系极好的国家。
+*{{red|红色}}为全部当前交战国。
+*{{red|浅红}}为被敌军占领的友好国家。
+*'''亮橘'''为对其拥有[[战争目标]]的国家。
+*'''浅橘'''为关系恶劣的国家。
+*{{blue|蓝色}}为附属国。
 {{clear}}
 
-=== Factions map mode ===
+=== 阵营地图模式 ===
 {{SVersion|1.9}}
-[[File:Faction map nogui.png|300px|thumb|right|The Factions map mode.]]
-The [[factions]] map mode shows the factions that exist around the world. The faction is colored the color of the leader nation, i.e. the Axis is grey due to the color of Germany, and it stretches across all nations in that faction.
+[[File:Faction map nogui.png|300px|thumb|right|阵营地图模式]]
+[[阵营]]地图模式中显示了当前世界中存在的阵营。阵营的颜色为其阵营领袖的颜色，例如，德国的国家颜色为灰色故该模式下其它法西斯阵营国家的颜色也是灰色。
 {{clear}}
 
-=== States map mode ===
+=== 地区地图模式 ===
 {{SVersion|1.9}}
-[[File:States map nogui.png|300px|thumb|right|The States map mode.]]
-Shows [[states]] and population/ state category.
+[[File:States map nogui.png|300px|thumb|right|地区地图模式]]
+显示[[地区]]及地区内人口标签。
 
-The states map mode shows an outline of every state in the world. These outlines are different colors based on the population of the state/ state category. This directly controls how many factories are allowed to be built in a state. The type of state can be found by simply hovering over it.
+地区地图模式显示了世界上每一个地区的轮廓。轮廓的颜色由地区发展程度的不同而不同。地区发展度直接决定了该地区内可建造工厂的上限。将鼠标放在地区上就可以看到地区发展度标签。T
 {{clear}}
 
 
