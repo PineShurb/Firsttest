@@ -1,0 +1,80 @@
+{{Version column}}
+<div style="float:right;">__TOC__</div>
+'''Patch 1.10''', aka "Collie", was not released officially. It was superseded by ''patch 1.10.1'' which was released on 2020-10-15<ref>Forum: [[forum:1436345|Patch 1.10.1 Collie Live - Checksum dd56]], 2020-10-15.</ref> coinciding with the release of [[Battle for the Bosporus]] DLC. The checksum is ''dd56''.
+
+== Battle for the Bosporus Country Pack ==
+* New Focus Tree for Greece
+* New Focus Tree for Turkey
+* New Focus Tree for Bulgaria
+
+== Features ==
+* Reworked Focus Tree for Yugoslavia (Death or Dishonor)
+* Reworked and tweaked the starting position for Romania (Death or Dishonor)
+* added a number of new releaseable nations to the game
+* The Heavy Cruiser 3d Asset Pack has been merged into the base game
+* added a special infantry model with Pickelhaube for Unaligned Germany (Waking the Tiger)
+
+== Bugfix ==
+* Fixed a bug where Serbia was using the incorrect country colours.
+* Banning Communism or Fascism should now also remove foreign communist/fascist influence national spirits.
+* fixed foreign equipments not showing up under stockpiles ui
+* Yugoslavia may now complete industry focuses if the owner of the province is their subject
+* fixed enemy ship count now showing up in strategic region ui
+* added some missing descriptions of special ship hulls (MtG only)
+* Fixed some mods being erroneously removed at game start
+* The external actor on the losing side of a civil war no longer get their units wiped if they were in the winner's territory as long as the civil war did not become a full blown out war
+* Yugoslavia will now lose the Anti-German Military spirit if the military has already instigated a coup.
+* Rocket sites will now properly delete remaining stock when captured and not crash the game further down the line
+* fixed a missing national spirit icon in the French tree
+* fixed some issues with AI operative assignments that was trying to make them assign same operative multiple times
+* Fixed operative being stuck on rescue mission when there are no operative left to rescue
+* Added a nudger generated file to the list of files to backup and remove by the Clear Cache action
+* Added missing "do nothing" option to an event
+* Set ROM starting ruling party to non-aligned
+* Updated Institute Royal Monarchy focus to start with 65% Non-Aligned support
+* Fixed a typo in wtt_events_l_english.yml for Germany Anti-Soviet Pact news pop-up
+* removed Italian_generic_land_4 soldier and added Britain_generic_land_6 soldier instead.
+* new hat for error dog
+* added portrait to vanilla GER
+
+== Balance ==
+* naval supremacy is now scaled to a percentage depending on enemy intel level instead of getting reduced to 0% at low intel
+* Germany can no longer annex Yugoslavia with a single focus and no input from the Yugoslavian player under certain circumstances
+
+== Stability & Performance ==
+* improved performance of national focus gui when there are focuses with many prerequisites or expensive allowed triggers
+* Fixed OOS triggered by displaying the description of some focuses and event effects
+* Improved performance of CPoliticalMinister that was evaluating decision with an ai_factor of zero
+* Fixed CTD when interacting with the army portraits while merging armies
+* Fixed CTD in AI code
+* Added allowed trigger for ai strategy plans
+* Fixed CTD related to carrier air missions
+* Fixed OOS caused by localized state name
+* Fixed CTD caused by effect from history trying to access the not yet initialized graphical map
+
+== Modding ==
+* add the modifiers navy_leader_start_level, navy_leader_start_attack_level, navy_leader_start_defense_level, navy_leader_start_maneuvering_level, navy_leader_start_coordination_level to match the sames for army_leader.
+* Fixed has_dlc trigger to return false when the name of the dlc is not known
+* Added support for nesting localization strings, i.e. use a localization key within another localization string, enabling strings like "Unlock $nukes$ in the $technology$ screen" where 'nukes' and 'technology' are localization keys.
+* Added support for dollar signs in localization strings. Normally a dollar sign denotes the start or end of a variable. With this change "$$" will produce a single dollar sign in the resulting string.
+* add_equipment_to_stockpile effect now accepts variables as producer
+* added faction_leader scope change
+* added custom_modifier_tooltip support for dynamic modifiers
+* added add_victory_points/set_victory_points effects
+* Added console command Audio.PlayEffect to play a scripted sound effect at will
+* added can_be_produced trigger to equipments so they can be blocked for certain countries for production
+* Added the ability to specify a variable refering to an idea for triggers and effect has_idea, add_ideas, remove_ideas, swap_ideas, add_timed_idea and modify_timed_idea
+* Added support for the triggers is_enemy, is_friend and is_neutral to adjacency rules to enable script to determine which rule to use. Evaluation order is documented in adjacency_rules.txt.
+* Added global.province_controllers game variable array that returns an array containing the controller for each province, where array index is mapped to province ID. For example global.province_controllers^4135 returns the controller of Gibraltar.
+* Added equipment buildable trigger
+
+== Database ==
+* Added a series of decisions for Yugoslavia to promote a communist uprising in Bulgaria, Albania, and other Balkan nations
+* Added General entry for Constantin Sanatescu
+* Hooked Iraqi fascist leader into vanilla
+* Added Kurdistan tag, history, and leaders
+
+== References ==
+<references />
+
+[[Category:Patches]]

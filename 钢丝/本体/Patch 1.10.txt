@@ -1,0 +1,161 @@
+{{Version column}}
+<div style="float:right;">__TOC__</div>
+'''Patch 1.10''', aka "Collie", was not released officially. It was superseded by ''patch 1.10.1'' which was released on 2020-10-15<ref>Forum: [[forum:1436345|Patch 1.10.1 Collie Live - Checksum dd56]], 2020-10-15.</ref> coinciding with the release of [[Battle for the Bosporus]] DLC. The checksum is ''dd56''.
+
+== Battle for the Bosporus Country Pack ==
+* New Focus Tree for Greece
+* New Focus Tree for Turkey
+* New Focus Tree for Bulgaria
+
+== Features ==
+* Reworked Focus Tree for Yugoslavia (Death or Dishonor)
+* Reworked and tweaked the starting position for Romania (Death or Dishonor)
+* added a number of new releaseable nations to the game
+* The Heavy Cruiser 3d Asset Pack has been merged into the base game
+* added a special infantry model with Pickelhaube for Unaligned Germany (Waking the Tiger)
+
+== Bugfix ==
+* Fixed a bug where Serbia was using the incorrect country colours.
+* Banning Communism or Fascism should now also remove foreign communist/fascist influence national spirits.
+* fixed foreign equipments not showing up under stockpiles ui
+* Yugoslavia may now complete industry focuses if the owner of the province is their subject
+* fixed enemy ship count now showing up in strategic region ui
+* added some missing descriptions of special ship hulls (MtG only)
+* Fixed some mods being erroneously removed at game start
+* The external actor on the losing side of a civil war no longer get their units wiped if they were in the winner's territory as long as the civil war did not become a full blown out war
+* Yugoslavia will now lose the Anti-German Military spirit if the military has already instigated a coup.
+* Rocket sites will now properly delete remaining stock when captured and not crash the game further down the line
+* fixed a missing national spirit icon in the French tree
+* fixed some issues with AI operative assignments that was trying to make them assign same operative multiple times
+* Fixed operative being stuck on rescue mission when there are no operative left to rescue
+* Added a nudger generated file to the list of files to backup and remove by the Clear Cache action
+* Added missing "do nothing" option to an event
+* Set ROM starting ruling party to non-aligned
+* Updated Institute Royal Monarchy focus to start with 65% Non-Aligned support
+* Fixed a typo in wtt_events_l_english.yml for Germany Anti-Soviet Pact news pop-up
+* removed Italian_generic_land_4 soldier and added Britain_generic_land_6 soldier instead.
+* new hat for error dog
+* added portrait to vanilla GER
+
+== Balance ==
+* naval supremacy is now scaled to a percentage depending on enemy intel level instead of getting reduced to 0% at low intel
+* Germany can no longer annex Yugoslavia with a single focus and no input from the Yugoslavian player under certain circumstances
+
+== Stability & Performance ==
+* improved performance of national focus gui when there are focuses with many prerequisites or expensive allowed triggers
+* Fixed OOS triggered by displaying the description of some focuses and event effects
+* Improved performance of CPoliticalMinister that was evaluating decision with an ai_factor of zero
+* Fixed CTD when interacting with the army portraits while merging armies
+* Fixed CTD in AI code
+* Added allowed trigger for ai strategy plans
+* Fixed CTD related to carrier air missions
+* Fixed OOS caused by localized state name
+* Fixed CTD caused by effect from history trying to access the not yet initialized graphical map
+
+== Modding ==
+* add the modifiers navy_leader_start_level, navy_leader_start_attack_level, navy_leader_start_defense_level, navy_leader_start_maneuvering_level, navy_leader_start_coordination_level to match the sames for army_leader.
+* Fixed has_dlc trigger to return false when the name of the dlc is not known
+* Added support for nesting localization strings, i.e. use a localization key within another localization string, enabling strings like "Unlock $nukes$ in the $technology$ screen" where 'nukes' and 'technology' are localization keys.
+* Added support for dollar signs in localization strings. Normally a dollar sign denotes the start or end of a variable. With this change "$$" will produce a single dollar sign in the resulting string.
+* add_equipment_to_stockpile effect now accepts variables as producer
+* added faction_leader scope change
+* added custom_modifier_tooltip support for dynamic modifiers
+* added add_victory_points/set_victory_points effects
+* Added console command Audio.PlayEffect to play a scripted sound effect at will
+* added can_be_produced trigger to equipments so they can be blocked for certain countries for production
+* Added the ability to specify a variable refering to an idea for triggers and effect has_idea, add_ideas, remove_ideas, swap_ideas, add_timed_idea and modify_timed_idea
+* Added support for the triggers is_enemy, is_friend and is_neutral to adjacency rules to enable script to determine which rule to use. Evaluation order is documented in adjacency_rules.txt.
+* Added global.province_controllers game variable array that returns an array containing the controller for each province, where array index is mapped to province ID. For example global.province_controllers^4135 returns the controller of Gibraltar.
+* Added equipment buildable trigger
+
+== Database ==
+* Added a series of decisions for Yugoslavia to promote a communist uprising in Bulgaria, Albania, and other Balkan nations
+* Added General entry for Constantin Sanatescu
+* Hooked Iraqi fascist leader into vanilla
+* Added Kurdistan tag, history, and leaders
+
+== References ==
+<references />
+
+[[Category:Patches]]
+
+{{版本栏目}}。
+<div style="float:right;">__TOC__</div>
+''1.10补丁''，又名 "Collie"，并没有正式发布。它被''1.10.1补丁''所取代，后者于2020-10-15发布<ref>论坛。[[forum:1436345|Patch 1.10.1 Collie Live - Checksum dd56]], 2020-10-15.</ref>与[[Battle for the Bosporus]]的发布同时进行。DLC。校验和是''dd56''。
+
+== 博斯普鲁斯之战国家包 ==
+* 希腊的新焦点树
+* 土耳其的新焦点树
+*保加利亚的新焦点树
+
+== 特点 ==
+* 重新设计了南斯拉夫的焦点树（死亡或耻辱）。
+* 重新设计并调整了罗马尼亚的起始位置（非死即辱）。
+*在游戏中增加了一些新的可发行国家
+*重巡洋舰3D资产包已经并入基本游戏中
+*为不结盟的德国增加了一个带有Pickelhaube的特殊步兵模型（唤醒老虎）。
+
+== Bugfix ==
+*修正了塞尔维亚使用不正确的国家颜色的错误。
+* 禁止共产主义或法西斯主义现在也应该删除外国共产主义/法西斯主义的影响国家精神。
+* 修复了外国设备不显示在库存Ui下的问题。
+* 南斯拉夫现在可以完成工业重点，如果该省的所有者是他们的主体。
+* 修复了敌方舰艇数量现在显示在战略区域界面的问题。
+* 增加了一些缺失的特殊船体的描述（仅适用于MtG）。
+* 修正了一些mods在游戏开始时被错误地移除的问题
+* 只要内战没有变成一场全面的战争，内战失败方的外部行为者如果在胜利方的领土上，他们的部队不再被消灭
+* 如果军队已经发动了政变，南斯拉夫现在将失去反德军事精神。
+* 火箭基地现在会在被占领时正确地删除剩余的库存，而不会在进一步的游戏中崩溃
+* 修复了法国树中丢失的国家精神图标
+* 修复了AI特工分配的一些问题，即试图让他们多次分配同一个特工的问题
+* 修正了当没有特工可以救援时，特工被卡在救援任务上的问题。
+* 在 "清除缓存 "操作中，在备份和删除的文件清单中增加了一个 "努德 "生成的文件。
+* 在事件中增加了缺失的 "什么都不做 "选项
+* 将ROM的起始执政党设置为不结盟党
+* 更新了研究所皇家君主制的重点，使其以65%的不结盟支持率开始。
+* 修正了wtt_events_l_english.yml中关于德国反苏条约新闻弹出的一个错字
+* 删除了意大利_generic_land_4的士兵，改用英国_generic_land_6的士兵。
+* 为错误的狗增加了新的帽子
+*为虚构的德国增加了肖像
+
+== 平衡 ==
+* 海军的优势现在根据敌人的情报水平按比例调整，而不是在低情报水平时被降低到0%。
+*在某些情况下，德国不能再以单一的焦点和南斯拉夫玩家的投入来吞并南斯拉夫。
+
+==稳定与性能 ==
+* 当有许多前提条件或昂贵的允许触发的焦点时，国家焦点指南的性能得到了改善
+* 修正了显示某些焦点和事件效果的描述而引发的OOS
+* 改进了CPoliticalMinister在评估决策时ai_factor为零的性能。
+* 修复了在合并军队时与军队肖像互动的CTD。
+* 修复了AI代码中的CTD
+* 增加了允许AI战略计划的触发器
+* 修复了与航母空中任务有关的CTD
+* 修复了由本地化的状态名称引起的OOS
+* 修复了由历史上试图访问尚未初始化的图形地图的效果引起的CTD。
+
+== 修改 ==
+* 添加修改器 navy_leader_start_level, navy_leader_start_attack_level, navy_leader_start_defense_level, navy_leader_start_maneuvering_level, navy_leader_start_coordination_level 以匹配 army_leader 的相同内容。
+* 修正了has_dlc触发器在不知道dlc的名字时返回false的问题。
+* 增加了对嵌套本地化字符串的支持，即在另一个本地化字符串中使用一个本地化键，使 "在$技术$屏幕中解锁$nukes$"这样的字符串成为可能，其中'nukes'和'技术'是本地化键。
+* 增加了对本地化字符串中美元符号的支持。通常情况下，美元符号表示一个变量的开始或结束。有了这个变化，"$$"将在结果字符串中产生一个单一的美元符号。
+* add_equipment_to_stockpile效果现在接受变量作为生产者。
+* 增加了派系领袖的范围变化
+* 增加了custom_modifier_tooltip对动态修改器的支持
+* 增加了add_victory_points/set_victory_points效果。
+* 增加了控制台命令Audio.PlayEffect，可以随意播放脚本中的声音效果
+* 为设备增加了can_be_produced触发器，因此它们可以被阻止在某些国家生产。
+* 增加了为触发器和效果指定变量的能力，包括has_idea, add_ideas, remove_ideas, swap_ideas, add_timed_idea 和 modify_timed_idea。
+* 在邻接规则中增加了对is_enemy、is_friend和is_neutral等触发器的支持，使脚本能够决定使用哪个规则。评估顺序记录在 adjacency_rules.txt 中。
+* 增加了global.province_controllers游戏变量数组，返回包含每个省的控制器的数组，其中数组索引被映射到省的ID。例如，global.province_controllers^4135返回直布罗陀的控制器。
+*增加了装备的可建造触发器
+
+== 数据库 ==
+* 为南斯拉夫增加了一系列决定，以促进保加利亚、阿尔巴尼亚和其他巴尔干国家的共产主义起义。
+* 增加了康斯坦丁-萨内特斯库的将军条目
+* 将伊拉克法西斯领导人纳入香草的范畴
+* 添加了库尔德斯坦的标签、历史和领导人
+
+== 参考文献 ==
+<参考文献 />
+
+[[Category:Patches]]
