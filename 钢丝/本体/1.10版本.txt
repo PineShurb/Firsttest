@@ -1,6 +1,6 @@
 {{Version column}}
 <div style="float:right;">__TOC__</div>
-'''1.10版本''', aka "Collie", was not released officially. It was superseded by ''patch 1.10.1'' which was released on 2020-10-15<ref>Forum: [[forum:1436345|Patch 1.10.1 Collie Live - Checksum dd56]], 2020-10-15.</ref> coinciding with the release of [[Battle for the Bosporus]] DLC. The checksum is ''dd56''.
+'''1.10版本'''(别名"Collie")没有正式发布。It was superseded by ''patch 1.10.1'' which was released on 2020-10-15<ref>Forum: [[forum:1436345|Patch 1.10.1 Collie Live - Checksum dd56]], 2020-10-15.</ref> coinciding with the release of [[Battle for the Bosporus]] DLC. The checksum is ''dd56''.
 
 == Battle for the Bosporus Country Pack ==
 * New Focus Tree for Greece
