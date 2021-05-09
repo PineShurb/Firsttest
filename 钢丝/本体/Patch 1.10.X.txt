@@ -1,0 +1,337 @@
+{{Version column}}
+'''Patch 1.10.X''' are all patches beginning with 1.10.
+
+== 1.10 ==
+{{main|Patch 1.10}}
+
+== 1.10.2 ==
+Patch 1.10.2 was released on 2020-11-12<ref>Forum, [[forum:1441872|Update 1.10.2 Live - Checksum f82d]], 2020-11-12.</ref> with the checksum ''f82d''.
+
+=== Features ===
+* Foreign Ship Designers for Bulgaria and Purchase Ships decisions for Soviets.
+* Acquire Modern Tools focus now actually gives an industry research bonus to invest in moderns tools.
+* New Military High Command Advisor for Communist Bulgaria.
+* If Impending Zveno Coup mission is active, most of Zveno-related internal faction decisions will add a certain amount of days to the coup mission timer.
+* Tim Buck now has a unique portrait
+* Acquire Modern Tools, Follow the Stalinist Doctrine, Balkan Federation of Socialist Republics, A Balkan Confederation, Join the Allies, The Fate of the Balkans, Sign the Tripartite Pact are now 35-days focuses
+* Delayed formation of the Fatherland Front and Fatherland Front civil war.
+* Added Italian Materiel Designer. Replaced pitiful Italian Tank designer trait by a better one for Bulgarian foreign version of it. Naval designers are now unlocked by Naval Cooperation Agreements decisions, which become available after completing focus A Black Sea Fleet.
+* Readjusted Turkish and Greek 1939 unit history files to add air force and Turkish tank division, added unique Greek and Turkish airplane names
+
+=== Balance ===
+* Time required to complete the focus Spanish Coup has been reduced to 35 days to match its communist counterpart.
+* Made the Finnish Him achievement more consistent. Players now need to hold Moscow as Finland and have at least 15% war participation when the Soviet Union capitulates, without being in a faction
+* added fifth research slot at the end of Turkey's industrial branch
+* Reduced Turkish focus completion times across the board by 175 days and reduced an additional 35 or 70 days for every path, shifted the Armed Forces decisions to be more accessible, added more player agency to Kurdish pacification decisions so they didn't feel like an endless sink, swapped cost for said decisions from political power to command power, added incentive for Turkish radicals to justify their own wars, reduced amount of Turkish geniuses in high command, rebalanced Clodius to greatly reduce the odds of getting upwards of six military factories
+* Integrate Faction and Destroy Faction decisions no longer gives any ideology boost/debuff.
+* National Military Academy now is a 35-days focus.
+* The focuses The Peoples Republic of Bulgaria, Legislative Elections and Depose the Tsar now require 40% support for the appropriate ideology instead of 50%.
+* PP penalty from National spirit Democratic Opposition Voicing Protests has been reduced from -50% to -25%. This NS will be added as a timed national spirit like other generic ideology drift national spirits.
+* Reduced PP penalty in national spirit Democratic Opposition Voicing Protests from -25% to -20%
+* Focus The Peoples Republic of Bulgaria no longer requires faction loyalty from the Agrarians. Focus Legislative Elections no longer requires faction loyalty from the Broad Socialists.
+* The Spanish Struggle and Support the Spanish Coup no longer have manpower requirement.
+* reduced all instances where bulgaria generates WT from 5 to 1
+* decrease bulgarian WT reduction from macedonian organizations from 5 to 1
+* slightly increased germain infantry equipment production factors
+* Focus Crush the Communists is now a 35-days focus
+
+=== Stability & Performance ===
+* Fixed CTD when loading a save where operatives were performing the control trade mission
+* Fix CTD when mousing hover autonomy alert after becoming independent
+* Fixed CTD when annexing a country with rocket sites
+
+=== AI ===
+* the AI will now be more likely to bring back the Kaiser in non-historical mode (WTT only)
+* Adjusted Bulgarian AI strategy to focus on internal affairs, building civs and improving relations for an extra year.
+* AI Improvements to make Bulgaria join the war earlier
+* Improved AI weights in Ultimatum to Albania so that there are more factors now influencing the decision of Albania
+
+=== UI ===
+* Added missing characters to hoi4_24header.fnt to unify the support turkish characters
+
+=== Modding ===
+* added bypass_if_unavailable = yes option for focuses
+* added state highlighting for on_map_area for decision categories
+* added error log when a trigger/effect that was supposed to go in {} is not
+* limit inside on_research_complete is now deprecated, use on_research_complete_limit outside of on_research_complete instead
+* Add new effect to remove war goals of a specified type targetting a nation
+* Add Is leading volunteer group trigger
+* Added variable party_popularity_100 which is a variant of party_popularity where the value is multiplied by 100 as to allow script to have as much precision as code when manipulating party popularity
+* Add is_leading_volunteer_group_with_original_country trigger
+* Added optional parameter keep_political_leader to start_civil_war effect which controls if the party leader of the revolting ideology will join the revolter as its leader.
+
+=== Audio ===
+* Sounds for the Bulgarian light and heavy planes (reused and renamed the medium asset)
+* Mixed planes for final
+
+=== Bugfix ===
+* Yugoslavian communist coup targets will automatically join Yugoslavia's faction if the original tag is at war * this prevents the target from joining other factions due to common enemies.
+* game rules interface now follows the database order while listing game rules
+* Bulgarian Military Cooperation Agreements decisions can no longer be activated if there is another decision of this type already ongoing.
+* Bulgarian Aircraft Agreements decisions can no longer be activated if there is another decision of this type already ongoing.
+* Removed minimum loyalty requirement for Fund Faction decisions, which could lead to blocking the player from interacting any more with the factions, due to loyalty being modified by events/focuses after having legalized a faction.
+* Fixed the editor crashing on start due to the limit of the number of texture
+* Tooltip about Yugoslavia signing the Tripartite Pact is now more clear.
+* Changed the localization for Yugoslavia in the Gathering Storm to correctly refer to the State of Serbs, Croats and Slovenes
+* Yugoslavia should no longer lose national spirits on a civil war
+* Late-stage peasant councils are no longer temporary
+* Fixed Bulgarian generals Hadzhipetkov and Boydev disappearing in January 4th 1936.
+* Yugoslavia can no longer gain cores on the entirety of Europe
+* Fixed 3 instances of the Regency council created with a wrong sub-ideology, leading to the Regency Council being added to the wrong ideology.
+* The "One Nation under Atatürk" achievement will no longer be given for just starting the game under certain circumstances. Already awarded achievements will be kept.
+* Spanish Falangist AI strategy path will now pick "Sin Paquito" focus, and follow down the expected Falangist branch
+* Bulgaria on the Three Seas focus will now take 70 days to complete.
+* Fixed missing localization from Romania dividing Yugoslavia
+* Romania will now be informed that their focus enables them to divide Yugoslavia
+* Dividing Yugoslavia now uses the proper icons
+* Losing an airfield will properly evacuate planes again, if possible
+* Yugoslavian industry focuses will now improve member states instead of Serbian states where possible.
+* Removes mutual exclusivity for King Michael's Coup and relocated it under Force Abdication
+* Romania can no longer change sides to a country of the same ideology as their current faction (cannot jump from Axis to Co-Prosperity Sphere, Little Entente to Allies, etc.)
+* fixed incorrect airplane models are being displayed on map when a country has a cosmetic tag that had plane models
+* fixed bad romeance achievement not firing correctly
+* the Byzanthine namelists are now available for Byzantium in the BFTB version (still available for WTT Byzantium)
+* Improved triggers to fix certain cases where Bulgaria could not access Foreign Agreements and Purchase Foreign Equipment decisions.
+* Yugoslavia will now complete granting its subjects independence on the Devolution strategy plan
+* States with Pre-Arranged Bulgarian Territorial Expansion state modifier will no longer be transferred to Bulgaria if the owner has a core on those states.
+* Decision Pressure to Lift Arms Restrictions will no longer be available until after the players has failed on negotiating Bulgarian rearmament or has completed focus Support Macedonian Organizations.
+* Player can no longer get Bulgarian Army national spirit via National Military Academy, after having completed Prussia of the Balkans (which provides a national spirit that replaces Bulgarian Army).
+* Kurdish state decisions will no longer be visible if Kurdistan is a puppet of Turkey or anybody else, integrate decisions have been split up to give player more agency and reduce potential edge-cases
+* Removed AI weight towards garrisoning in Bulgarian AI strategy, so that it no longer prioritizes garrisoning cities instead of defending its borders during a war.
+* Zveno coup can now be properly stopped by either destroying/integrating the Zveno, completing focus Fatherland Front or having the Fatherland Front formed and working against the player.
+* Leaders are now properly assigned to each side. No more zombie Boris coming back from the grave, no more country leaders mysteriously disappearing from the original tag.
+* Cleaned-up ultra-messy tooltip for Impending Zveno Coup decision. Now it is short and easy to read.
+* Kimon Georgiev will remain in original Bulgaria if he has been appointed as an advisor or country leader before the civil war starts
+* Several focuses in the Bulgarian FT are now locked if Bulgaria is a puppet. Note that puppet Bulgaria can still complete the focuses to "approach" a country, but will not be able to progress any further in the branch.
+* Germany now has a new infantry model after bringing back the Kaiser (WTT only)
+* fixed some startup errors regarding Camels for people without BFTB and Pikelhauben for people without WTT
+* Fixed Bulgaria not able to send volunteers to the Spanish civil war without La Resistance active.
+* The decision chain to Cooperate with IMRO no longer gets blocked if the player controls all Macedonian states.
+* Boris can no longer die after having been removed as a political leader.
+* Fixed achievement Balkan Problem Solved being unlocked by just completing focus The Unification of the Balkans and getting cores in the Balkans. Now it will require Bulgaria to actually control those cores.
+* Yugoslavia will no longer be informed that they have married themselves.
+* Fixed national spirit Balkan Federation Project Propaganda instantly disappearing if the country targeted is in faction with Bulgaria.
+* The event triggered by Carry the Revolution Abroad focus, which invites communist nations to Bulgaria's faction, now triggers the appropriate event back to Bulgaria if the country refuses the invitation.
+* Fixed misleading tooltip in Carry the Revolution Abroad description.
+* The state modifier Skirmishes against the IMRO will be removed from Macedonia, Central Macedonia and Thrace, if active, when any of these states fall under Bulgarian control.
+* Fixed a few edge cases in which the decision chain to destroy a faction could get blocked forever.
+* Romania will no longer be able to divide Yugoslavia if they are a puppet
+* Divide Yugoslavia focus will now give a wargoal if Yugoslavia is already a puppet
+* Nations being invited to divide Yugoslavia will now be given a tooltip informing them of the decision to make claims
+* Divide Yugoslavia will now bypass if Yugoslavia either does not exist or is already a Romanian puppet
+* Yugoslavia will no longer be able to be divided if it has already been divided
+* Divide Yugoslavia no longer has missing localization
+* Fixed Portuguese focus Arsenal do Alfeite not providing any naval bases as promised in its tooltip.
+* Germany will now get a wargoal on Yugoslavia if Prince Paul is deposed.
+* French Basque Country now has a slot for an airport
+* Prussia of the Balkans no longer weakens new generals and admirals by providing +2 LVL. Instead, it now grants +1 Attack and Defense to generals and admirals.
+* Both sides of the Yugoslavia civil war should now keep the appropriate national spirits.
+* French Basque Country airport is now in the correct province.
+* The Soviets claiming the straits will now add a claim on Istanbul
+* Ultimatum to Greece as the Soviet Union will now require owning Istanbul
+* fixed an issue where the Collaborative Civil Works focus for Turkey instantly bypassed
+* siding with the EEE in the Greek Civil War will now actually start a civil war
+* fixed broken meta_effect & meta_trigger
+* the Greek debt to the IFC decision category should no longer disappear completely for a month when making a large payment
+* Added custom+historical Greek and Turkish tank names, added historical+custom Turkish jet names, and added interwar bombers for Turkey as a starting tech
+* Bulgarian wargoals on its puppets are now removed after subjugating them via Fate of The Balkans decisions.
+* Support the Spanish Coup will now promote a general who actually fought in the SCW when the civil war ends.
+* Decision "Prepare Bulgarian occupation" now also adds a positive state modifier to Bulgarian-occupied Macedonian states.
+* Form Greater Greece" decision now correctly grants core on Istanbul/Constantinople
+
+== 1.10.3 ==
+Patch 1.10.3 was released on 2020-11-26<ref>Forum, [[forum:1444595|Update 1.10.3 Live - Checksum aa89]], 2020-11-26.</ref> with the checksum ''aa89''.
+
+=== Stability & Performance ===
+* Fixed compatibility issue with macOS 11.0 (Big Sur)
+
+== 1.10.4 ==
+Patch 1.10.4 was released on 2021-02-03<ref>Forum, [[forum:1454985|Update 1.10.4 Live - Checksum 8878]], 2021-02-03.</ref> with the checksum ''8878''.
+
+=== Stability & Performance ===
+* Fixed a security flaw in networking where a user could bypass lobby password protection
+* Added extra checks to block clients with empty or blank username from joining a game
+* Fixed a security flaw in networking where a user could kick/ban other players without being the host
+
+== 1.10.5 ==
+Patch 1.10.5 was released on 2021-04-15<ref>Forum, [[forum:1467129|Update 1.10.5 Live - Checksum 502a]], 2021-04-15.</ref> with the checksum ''502a''.
+
+=== Stability & Performance ===
+* Fixed a second security flaw in which a non host could kick or ban another player
+* Fixed multiplayer lobby not correctly reporting version mismatch when connecting to a server
+
+== References ==
+<references />
+
+[[Category:Patches]]
+
+
+{{版本栏}}
+'''Patch 1.10.X''是所有以1.10开头的补丁。
+
+== 1.10 ==
+{{main|Patch 1.10}}}
+
+== 1.10.2 ==
+1.10.2补丁于2020-11-12发布<ref>论坛，[[forum:1441872|Update 1.10.2 Live - Checksum f82d]]，2020-11-12.</ref>，校验值为''f82d''。
+
+=== 特点 ===
+* 保加利亚的外国船舶设计师和苏联人的购买船舶决定。
+* 获得现代工具的重点现在实际上给了投资现代工具的工业研究奖金。
+* 共产主义保加利亚的新军事高级指挥顾问。
+* 如果即将发生的兹维诺政变任务处于激活状态，大多数与兹维诺有关的内部派别决策将在政变任务的计时器上增加一定的天数。
+* 蒂姆-巴克现在有一个独特的肖像
+* 获得现代工具、遵循斯大林主义学说、巴尔干社会主义共和国联盟、巴尔干联盟、加入盟国、巴尔干的命运、签署三方条约现在是35天的重点。
+* 推迟了祖国阵线的形成和祖国阵线的内战。
+* 增加了意大利物资设计师。用一个更好的保加利亚外国版本的意大利坦克设计师特性取代了可怜的意大利坦克设计师特性。海军设计师现在由海军合作协议决定解锁，在完成重点A黑海舰队后即可获得。
+* 重新调整了土耳其和希腊1939年的部队历史文件，增加了空军和土耳其坦克师，增加了独特的希腊和土耳其飞机名称。
+
+===平衡 ===
+* 完成重点项目西班牙政变所需的时间已经减少到35天，以配合其共产主义的对应项目。
+* 使芬兰人的成就更加一致。玩家现在需要以芬兰的身份守住莫斯科，并且在苏联投降时至少有15%的参战率，而不需要在一个派别中。
+* 在土耳其的工业分支的末端增加了第五个研究槽
+* 将土耳其的重点完成时间全面减少了175天，并为每条路径额外减少了35或70天，转移了武装部队的决定，使其更容易获得，为库尔德人的平定决定增加了更多的玩家代理权，因此他们不觉得是无尽的沉沦，将上述决定的成本从政治权力换成指挥权力，为土耳其的激进分子增加激励，以证明他们自己的战争，减少土耳其高级指挥官的天才数量，重新平衡Clodius以大大降低获得多达六个军事工厂的几率
+* 整合派别和摧毁派别的决定不再给予任何意识形态的提升/减弱。
+* 国家军事学院现在是一个35天的重点。
+* 保加利亚人民共和国"、"立法选举 "和 "废黜沙皇 "现在需要对相应的意识形态有40%的支持，而不是50%。
+* 国家精神民主反对派发出抗议的PP惩罚已经从-50%降至-25%。这个国家精神将被添加为一个定时的国家精神，就像其他通用意识形态漂移国家精神一样。
+* 将民族精神 "民主反对派发出抗议 "的PP惩罚从-25%降至-20%。
+* 焦点保加利亚人民共和国不再需要农耕者的派别忠诚度。焦点立法选举不再需要广义社会主义者的派系忠诚。
+* 西班牙斗争》和《支持西班牙政变》不再有人力要求。
+* 将保加利亚产生WT的所有情况从5减少到1
+* 将马其顿组织产生的保加利亚WT减少量从5降至1
+*略微增加了格尔曼步兵装备的生产因素
+* 重点粉碎共产党，现在是35天的重点。
+
+=== 稳定与性能 ===
+* 修复了加载特工人员执行控制贸易任务的保存时的CTD
+* 修复了独立后鼠标悬停自主警报时的CTD
+* 修复了吞并一个有火箭弹发射点的国家时的CTD。
+
+===AI ===
+*在非历史模式下，AI现在将更有可能带回凯撒（仅WTT）。
+* 调整了保加利亚的AI战略，使其专注于内部事务，建立公民和改善关系，多出一年时间。
+* 改进了AI，使保加利亚提前加入战争
+* 改进了对阿尔巴尼亚的最后通牒中的AI权重，使现在有更多的因素影响阿尔巴尼亚的决定
+
+=== UI ===
+* 在hoi4_24header.fnt中增加了缺失的字符，以统一支持土耳其语字符。
+
+=== Modding ===
+* 增加了bypass_if_unavailable = yes的选项，用于聚焦。
+* 为决策类别的on_map_area增加了状态突出显示
+* 添加了错误日志，当一个触发器/效果应该在{}中的时候，却没有。
+* 在on_research_complete中的限制现在已被废弃，请在on_research_complete之外使用on_research_limit。
+* 增加新的效果，以移除针对一个国家的指定类型的战争目标。
+* 增加了 "领导志愿团体 "触发器
+* 增加了变量party_popularity_100，它是party_popularity的一个变体，其值被乘以100，以使脚本在操纵政党受欢迎程度时有尽可能多的精度。
+* 增加is_leading_volunteer_group_with_original_country触发器
+* 在start_civil_war效果中增加了可选参数keep_political_leader，它可以控制造反的意识形态的政党领袖是否会加入造反者成为其领袖。
+
+=== 音频 ===
+* 保加利亚轻型和重型飞机的声音（重新使用并重新命名了中型资产）。
+* 最终的混合飞机
+
+=== 错误修正 ===
+* 南斯拉夫共产主义政变目标将自动加入南斯拉夫的派系，如果原标签处于战争状态 *这可以防止目标因共同的敌人而加入其他派系。
+*游戏规则界面现在在列出游戏规则时遵循数据库的顺序
+* 如果有另一个该类型的决定已经在进行中，那么保加利亚军事合作协议的决定就不能再被激活。
+* 如果有另一个该类型的决定已经在进行中，则保加利亚飞机协议的决定不能再被激活。
+* 删除了基金派别决定的最低忠诚度要求，这可能会导致玩家无法与派别进行更多的互动，因为在将一个派别合法化之后，忠诚度会被事件/焦点所改变。
+* 修正了由于纹理数量的限制，编辑器在启动时崩溃的问题。
+* 关于南斯拉夫签署《三方条约》的工具提示现在更加清晰。
+* 修改了《聚集的风暴》中南斯拉夫的定位，以正确指代塞尔维亚人、克罗地亚人和斯洛文尼亚人的国家。
+* 南斯拉夫不应再因内战而丧失民族精神
+* 后期的农民委员会不再是临时的了
+* 固定的保加利亚将军Hadzhipetkov和Boydev在1936年1月4日消失。
+* 南斯拉夫不再能在整个欧洲获得核心。
+* 修正了3个以错误的子意识形态创建的摄政委员会，导致摄政委员会被添加到错误的意识形态中的情况。
+* 在某些情况下，"阿塔图尔克统治下的一个国家 "成就将不再因刚开始游戏而得到。已经获得的成就将被保留。
+* 西班牙法兰德斯的人工智能战略路径现在将选择 "Sin Paquito "作为重点，并沿着预期的法兰德斯分支前进。
+* 三海的保加利亚现在需要70天才能完成。
+* 修正了罗马尼亚分裂南斯拉夫时遗漏的本地化问题
+* 罗马尼亚现在会被告知他们的焦点能使他们分裂南斯拉夫
+* 瓜分南斯拉夫现在使用正确的图标。
+* 如果可能的话，失去一个机场将正确地再次疏散飞机
+* 南斯拉夫的工业重点现在将尽可能地改善成员国而不是塞尔维亚的国家。
+
+* 取消了迈克尔国王政变的相互排斥性，并将其重新置于武力退位之下
+* 罗马尼亚不能再改投与当前派别相同意识形态的国家（不能从轴心国跳到共荣圈，小协约国跳到盟国，等等）。
+* 修复了当一个国家的外观标签上有飞机模型时，地图上显示的飞机模型不正确的问题。
+* 修复了 "坏 "成就不能正确发射的问题。
+* 拜占庭的名字表现在可以在BFTB版本中用于拜占庭（仍然可以用于WTT拜占庭）。
+* 改进了触发器，修复了保加利亚无法获得外国协议和购买外国设备决定的某些情况。
+* 南斯拉夫现在将在移交战略计划中完成给予其臣民的独立。
+* 如果所有者在这些国家上有一个核心，具有预安排的保加利亚领土扩张状态修改器的国家将不再被转移到保加利亚。
+* 解除军备限制的决定压力将不再适用，直到玩家在谈判保加利亚重整军备时失败，或完成重点支持马其顿组织。
+* 在完成了巴尔干半岛的普鲁士（它提供了一个取代保加利亚军队的国家精神）之后，玩家不再能够通过国家军事学院获得保加利亚军队的国家精神。
+* 如果库尔德是土耳其或其他国家的傀儡，库尔德国家的决定将不再可见，整合的决定已被分割开来，以给予玩家更多的代理权，并减少潜在的边缘案例。
+* 删除了保加利亚人工智能战略中的驻军权重，因此它不再优先考虑驻军城市，而不是在战争中保卫其边界。
+* 兹维诺政变现在可以通过摧毁/整合兹维诺、完成聚焦祖国阵线或让祖国阵线形成并与玩家对抗来适当地阻止。
+* 领导人现在被正确地分配给每一方。不再有僵尸鲍里斯从坟墓里回来，不再有国家领导人从原来的标签中神秘地消失。
+*清理了即将发生的兹维诺政变决定的超混乱工具提示。现在它很短，容易阅读。
+* Kimon Georgiev如果在内战开始前被任命为顾问或国家领导人，他将保留在原来的保加利亚。
+*如果保加利亚是一个傀儡，保加利亚FT中的几个焦点现在被锁定。请注意，傀儡保加利亚仍然可以完成 "接近 "一个国家的重点，但将无法在该分支中取得任何进展。
+* 在带回凯撒之后，德国现在有了一个新的步兵模型（仅限WTT）。
+* 修复了一些关于没有BFTB的人的骆驼和没有WTT的人的Pikelhauben的启动错误
+*修正了保加利亚在没有La Resistance活动的情况下无法向西班牙内战派遣志愿者的问题。
+* 如果玩家控制了所有的马其顿国家，与IMRO合作的决策链不再被阻断。
+* 鲍里斯在被解除政治领袖职务后不再死亡。
+* 巴尔干问题的解决 "这一成就是通过完成 "巴尔干的统一 "这一重点并在巴尔干地区获得核心而解锁的。现在，它需要保加利亚实际控制这些核心。
+*南斯拉夫将不再被告知他们已经与自己结婚。
+* 修正了民族精神巴尔干联邦项目宣传在目标国家与保加利亚结成派系时瞬间消失的问题。
+* 由 "把革命带到国外 "焦点引发的事件，即邀请共产主义国家加入保加利亚的派别，现在如果该国拒绝邀请，会触发相应的事件回到保加利亚。
+* 修正了 "海外革命 "描述中的误导性工具提示。
+* 当马其顿、中马其顿和色雷斯中的任何一个国家落入保加利亚的控制之下时，针对IMRO的国家修改器Skirmishes将被移除（如果激活）。
+* 修正了一些边缘情况，在这些情况下，摧毁一个派别的决策链可能会被永远封锁。
+* 如果罗马尼亚是一个傀儡，他们将不再能够分裂南斯拉夫。
+
+* 如果南斯拉夫已经是一个傀儡，分裂南斯拉夫的重点现在将给出一个战争目标。
+* 被邀请分割南斯拉夫的国家现在会得到一个工具提示，告知他们提出要求的决定。
+* 如果南斯拉夫不存在或者已经是罗马尼亚的傀儡，分裂南斯拉夫现在会绕开。
+* 如果南斯拉夫已经被分割，将不再能够被分割。
+* 分割南斯拉夫不再有缺失的本地化。
+* 修正了葡萄牙的焦点Arsenal do Alfeite没有按照其工具提示中的承诺提供任何海军基地。
+* 如果保罗王子被废黜，德国现在将获得对南斯拉夫的战争目标。
+* 法属巴斯克地区现在有了一个机场的位置。
+* 巴尔干半岛的普鲁士不再通过提供+2 LVL来削弱新将军和海军将领。相反，它现在给予将军和海军将领+1攻击和防御。
+* 南斯拉夫内战的双方现在都应该保持适当的民族精神。
+* 法国巴斯克地区的机场现在位于正确的省份。
+* 苏联人对海峡的要求现在将增加对伊斯坦布尔的要求
+* 以苏联的身份向希腊发出的最后通牒现在将要求拥有伊斯坦布尔
+*修复了一个问题，即土耳其的合作民用工程重点会立即被绕过
+* 在希腊内战中站在欧共体一边，现在将真正开始一场内战
+* 修复了破损的meta_effect和meta_trigger
+* 希腊对国际金融公司决策类别的债务在支付大笔款项时不应再完全消失一个月
+* 添加了自定义+历史的希腊和土耳其坦克名称，添加了历史+自定义的土耳其喷气机名称，并为土耳其添加了战时轰炸机作为起始技术
+* 保加利亚对其傀儡的战争目标在通过《巴尔干命运》的决定征服它们后现在被移除。
+* 支持西班牙政变现在会在内战结束时提拔一位真正参加过SCW的将军。
+* 决策 "为保加利亚的占领做准备 "现在也会为保加利亚占领的马其顿国家增加一个积极的国家修改器。
+* 形成大希腊 "决策现在可以正确地授予伊斯坦布尔/康斯坦丁堡的核心。
+
+== 1.10.3 ==
+1.10.3补丁于2020-11-26发布<ref>论坛，[[forum:1444595|Update 1.10.3 Live - Checksum aa89]]，2020-11-26.</ref>，校验值为''aa89''。
+
+=== 稳定与性能 ===
+* 修复了与macOS 11.0 (Big Sur)的兼容性问题。
+
+== 1.10.4 ==
+1.10.4补丁于2021-02-03发布<ref>论坛，[[forum:1454985|Update 1.10.4 Live - Checksum 8878]], 2021-02-03.</ref>，校验码为''8878''。
+
+=== 稳定与性能 ===
+* 修复了网络中的一个安全漏洞，用户可以绕过大厅的密码保护。
+* 增加了额外的检查，以阻止空的或空白的用户名加入游戏的客户端。
+* 修复了网络中的一个安全漏洞，在这个漏洞中，用户可以在没有成为主机的情况下踢/禁止其他玩家。
+
+== 1.10.5 ==
+1.10.5补丁于2021-04-15发布<ref>论坛，[[forum:1467129|Update 1.10.5 Live - Checksum 502a]]，2021-04-15.</ref>，检查值为''502a''。
+
+=== 稳定与性能 ===
+* 修复了第二个安全漏洞，即非主机可以踢或禁止另一个玩家。
+* 修正了多人游戏大厅在连接到服务器时不能正确报告版本不匹配的问题。
+
+== 参考文献 ==
+<参考文献 />
+
+[[Category:Patches]]
+
