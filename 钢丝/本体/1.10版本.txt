@@ -1,20 +1,21 @@
 {{Version column}}
-<div style="float:right;">__TOC__</div>
-'''1.10版本'''(别名"Collie")没有正式发布。It was superseded by ''patch 1.10.1'' which was released on 2020-10-15<ref>Forum: [[forum:1436345|Patch 1.10.1 Collie Live - Checksum dd56]], 2020-10-15.</ref> coinciding with the release of [[Battle for the Bosporus]] DLC. The checksum is ''dd56''.
+'''1.10 版本'''(别名"Collie")没有正式发布。被2020-10-15发布的''1.10.1 版本'' 替换。<ref>Forum: [[forum:1436345|Patch 1.10.1 Collie Live - Checksum dd56]], 2020-10-15.</ref> 与[[博斯普鲁斯之战]] DLC同时发布。校验码为''dd56''。
 
-== Battle for the Bosporus Country Pack ==
-* New Focus Tree for Greece
-* New Focus Tree for Turkey
-* New Focus Tree for Bulgaria
+__TOC__
 
-== Features ==
-* Reworked Focus Tree for Yugoslavia (Death or Dishonor)
-* Reworked and tweaked the starting position for Romania (Death or Dishonor)
-* added a number of new releaseable nations to the game
-* The Heavy Cruiser 3d Asset Pack has been merged into the base game
-* added a special infantry model with Pickelhaube for Unaligned Germany (Waking the Tiger)
+== 博斯普鲁斯之战国家包 ==
+* 希腊全新国策树
+* 土耳其全新国策树
+* 保加利亚全新国策树
 
-== Bugfix ==
+== 特性 ==
+* 重置南斯拉夫国策树(玉碎瓦全)。
+* 重置且调整罗马尼亚的开局状态(玉碎瓦全)。
+* 在游戏中新添加一些可释放的国家。
+* 重巡洋舰的3d资源包已并入游戏本体。
+* 为中立主义德国增加了一个带有尖顶头盔的步兵模型(唤醒猛虎)
+
+== 修复 ==
 * Fixed a bug where Serbia was using the incorrect country colours.
 * Banning Communism or Fascism should now also remove foreign communist/fascist influence national spirits.
 * fixed foreign equipments not showing up under stockpiles ui
@@ -37,44 +38,44 @@
 * new hat for error dog
 * added portrait to vanilla GER
 
-== Balance ==
-* naval supremacy is now scaled to a percentage depending on enemy intel level instead of getting reduced to 0% at low intel
-* Germany can no longer annex Yugoslavia with a single focus and no input from the Yugoslavian player under certain circumstances
+== 平衡 ==
+* 制海权不会在低情报等级时将为零，现在会根据敌方情报等级调整百分比。
+* 特定情况下，德国无法通过某个国策直接吞并南斯拉夫。那会让玩家徒劳无获。
 
-== Stability & Performance ==
-* improved performance of national focus gui when there are focuses with many prerequisites or expensive allowed triggers
-* Fixed OOS triggered by displaying the description of some focuses and event effects
-* Improved performance of CPoliticalMinister that was evaluating decision with an ai_factor of zero
-* Fixed CTD when interacting with the army portraits while merging armies
-* Fixed CTD in AI code
-* Added allowed trigger for ai strategy plans
-* Fixed CTD related to carrier air missions
-* Fixed OOS caused by localized state name
-* Fixed CTD caused by effect from history trying to access the not yet initialized graphical map
+== 性能与稳定性 ==
+* 提高了有许多前提条件或繁琐触发机制的国策在对应界面的运行性能。
+* 修正了因显示某些国策与事件影响描述而导致的效果不同问题。
+* 增加了CPoliticalMinister在ai_factor为零时对决议的评估权重。
+* 修复了合并军队时由军队肖像互动产生的闪退问题。
+* 修复了AI代码中会导致闪退的问题。
+* 增加了允许ai进行战略计划的触发器。
+* 修复了与航母飞行任务有关的闪退问题。
+* 修复了本地化省份名导致的失去同步问题。
+* 修复了由试图访问未初始化的图形地图的历史文件导致的闪退问题。
 
-== Modding ==
-* add the modifiers navy_leader_start_level, navy_leader_start_attack_level, navy_leader_start_defense_level, navy_leader_start_maneuvering_level, navy_leader_start_coordination_level to match the sames for army_leader.
-* Fixed has_dlc trigger to return false when the name of the dlc is not known
-* Added support for nesting localization strings, i.e. use a localization key within another localization string, enabling strings like "Unlock $nukes$ in the $technology$ screen" where 'nukes' and 'technology' are localization keys.
-* Added support for dollar signs in localization strings. Normally a dollar sign denotes the start or end of a variable. With this change "$$" will produce a single dollar sign in the resulting string.
-* add_equipment_to_stockpile effect now accepts variables as producer
-* added faction_leader scope change
-* added custom_modifier_tooltip support for dynamic modifiers
-* added add_victory_points/set_victory_points effects
-* Added console command Audio.PlayEffect to play a scripted sound effect at will
-* added can_be_produced trigger to equipments so they can be blocked for certain countries for production
-* Added the ability to specify a variable refering to an idea for triggers and effect has_idea, add_ideas, remove_ideas, swap_ideas, add_timed_idea and modify_timed_idea
-* Added support for the triggers is_enemy, is_friend and is_neutral to adjacency rules to enable script to determine which rule to use. Evaluation order is documented in adjacency_rules.txt.
-* Added global.province_controllers game variable array that returns an array containing the controller for each province, where array index is mapped to province ID. For example global.province_controllers^4135 returns the controller of Gibraltar.
-* Added equipment buildable trigger
+== 模组 ==
+* 增加了navy_leader_start_level，navy_leader_start_attack_level，navy_leader_start_defense_level，navy_leader_start_maneuvering_level，navy_leader_start_coordination_level等修正值，以与army_leader为前缀的同类修正相对应。
+* 修复了当dlc名未知时，has_dlc触发器会返回false的问题。
+* 增加了对嵌套本地化字符串的支持，即在另一个本地化字符串中使用本地化键值，可以使用“在$technology$界面中解锁$nukes$”这样的字符串，其中“nukes”和“technology”是本地化键值。
+* 增加了对本地化字符串中$符的支持。$符一般表示变量的开始或结束，通过这一更改，“$$”将在生成的字符串中产生一个美元符号。
+* add_equipment_to_stockpile效果现在可用于作为生产方的变量。
+* 增加了faction_leader的域变更。
+* 为动态修正新增custom_modifier_tooltip支持。
+* 新增add_victory_points/set_victory_points 效果。
+* 新增控制台指令Audio.PlayEffect，让玩家可以随意播放脚本内的音效。
+* 新增can_be_produced触发条件以便阻止特定国家生产某些装备。
+* 现在可指定关于触发条件以及效果has_idea, add_ideas, remove_ideas, swap_ideas, add_timed_idea 以及 modify_timed_idea的变量的能力。
+* 新增对触发器is_enemy、is_friend和is_neutral的支持并将其加入邻接规则，让脚本可以判断应该使用哪一条规则。判断指令位于adjacency_rules.txt.里。
+* 新增global.province_controllers游戏变量数组，其返回的数组包含了每个省份的控制者，数组索引会映射到省份ID。比如global.province_controllers^4135返回的数据就是吉尔伯特的控制者。
+* 新增了可制造装备的触发器。
 
-== Database ==
-* Added a series of decisions for Yugoslavia to promote a communist uprising in Bulgaria, Albania, and other Balkan nations
-* Added General entry for Constantin Sanatescu
-* Hooked Iraqi fascist leader into vanilla
-* Added Kurdistan tag, history, and leaders
+== 数据库 ==
+* 为南斯拉夫新增一系列决议，使其可以在保加利亚、阿尔巴尼亚以及其他巴尔干国家策动共产主义起义。
+* 把康斯坦丁·瑟讷泰斯库加入将领库。
+* 将伊拉克的法西斯领导人加入游戏本体。
+* 新增了库尔德斯坦的tag、历史还有领导人。
 
-== References ==
+== 引用 ==
 <references />
 
 [[Category:Patches]]
