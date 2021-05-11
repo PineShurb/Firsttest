@@ -1,55 +1,55 @@
 {{Version column}}
-'''Patch 1.10.X''' are all patches beginning with 1.10.
+'''1.10.X 版本'''意为所有以1.10. 开头的版本。
 
 == 1.10 ==
-{{main|Patch 1.10}}
+{{main|1.10 版本}}
 
 == 1.10.2 ==
-Patch 1.10.2 was released on 2020-11-12<ref>Forum, [[forum:1441872|Update 1.10.2 Live - Checksum f82d]], 2020-11-12.</ref> with the checksum ''f82d''.
+1.10.2 版本发布于2020-11-12 。<ref>Forum, [[forum:1441872|Update 1.10.2 Live - Checksum f82d]], 2020-11-12.</ref>校验值为 ''f82d''。
 
-=== Features ===
-* Foreign Ship Designers for Bulgaria and Purchase Ships decisions for Soviets.
-* Acquire Modern Tools focus now actually gives an industry research bonus to invest in moderns tools.
-* New Military High Command Advisor for Communist Bulgaria.
-* If Impending Zveno Coup mission is active, most of Zveno-related internal faction decisions will add a certain amount of days to the coup mission timer.
-* Tim Buck now has a unique portrait
-* Acquire Modern Tools, Follow the Stalinist Doctrine, Balkan Federation of Socialist Republics, A Balkan Confederation, Join the Allies, The Fate of the Balkans, Sign the Tripartite Pact are now 35-days focuses
-* Delayed formation of the Fatherland Front and Fatherland Front civil war.
-* Added Italian Materiel Designer. Replaced pitiful Italian Tank designer trait by a better one for Bulgarian foreign version of it. Naval designers are now unlocked by Naval Cooperation Agreements decisions, which become available after completing focus A Black Sea Fleet.
-* Readjusted Turkish and Greek 1939 unit history files to add air force and Turkish tank division, added unique Greek and Turkish airplane names
+=== 特性 ===
+* 为保加利亚添加''外国舰艇设计师''，为苏联添加购买舰艇的决议。
+* 国策''换装现代设备''会让工业研究中的现代设备研究获得加成。
+* 共产主义保加利亚获得了新的军事顾问。
+* 如果环节派政变事件链已被激活，大部分与环节派相关的内部派系决议都会在政变事件计时器上增加相应的天数。
+* 蒂姆·巴克现在拥有独特的肖像。
+* 国策''换装现代设备'', ''追随斯大林主义'', ''巴尔干社会主义共和国联邦'', ''巴尔干邦联'', ''加入同盟国'', ''巴尔干的命运'', ''签署三国同盟条约''所需时间为35天。
+* 将祖国阵线的建立与内战推迟。
+* 意大利添加军备制造商。将意大利可怜的装甲制造商特性替换为一个更好的保加利亚国外版本。海军制造商现在由''海军合作协议''决议解锁，完成国策''黑海舰队''后该决议可用。 
+*  重新调整了土耳其和希腊1939年的部队历史文件以增加空军及土耳其坦克师，增加了专属的希腊和土耳其飞机名称。
 
-=== Balance ===
-* Time required to complete the focus Spanish Coup has been reduced to 35 days to match its communist counterpart.
-* Made the Finnish Him achievement more consistent. Players now need to hold Moscow as Finland and have at least 15% war participation when the Soviet Union capitulates, without being in a faction
-* added fifth research slot at the end of Turkey's industrial branch
-* Reduced Turkish focus completion times across the board by 175 days and reduced an additional 35 or 70 days for every path, shifted the Armed Forces decisions to be more accessible, added more player agency to Kurdish pacification decisions so they didn't feel like an endless sink, swapped cost for said decisions from political power to command power, added incentive for Turkish radicals to justify their own wars, reduced amount of Turkish geniuses in high command, rebalanced Clodius to greatly reduce the odds of getting upwards of six military factories
-* Integrate Faction and Destroy Faction decisions no longer gives any ideology boost/debuff.
-* National Military Academy now is a 35-days focus.
-* The focuses The Peoples Republic of Bulgaria, Legislative Elections and Depose the Tsar now require 40% support for the appropriate ideology instead of 50%.
-* PP penalty from National spirit Democratic Opposition Voicing Protests has been reduced from -50% to -25%. This NS will be added as a timed national spirit like other generic ideology drift national spirits.
-* Reduced PP penalty in national spirit Democratic Opposition Voicing Protests from -25% to -20%
-* Focus The Peoples Republic of Bulgaria no longer requires faction loyalty from the Agrarians. Focus Legislative Elections no longer requires faction loyalty from the Broad Socialists.
-* The Spanish Struggle and Support the Spanish Coup no longer have manpower requirement.
-* reduced all instances where bulgaria generates WT from 5 to 1
-* decrease bulgarian WT reduction from macedonian organizations from 5 to 1
-* slightly increased germain infantry equipment production factors
-* Focus Crush the Communists is now a 35-days focus
+=== 平衡 ===
+* 完成国策“西班牙政变”所需的时间减少到35天，以匹配共产主义路线的平行国策。
+* 成就“芬烂他”现在与预期更加一致。玩家现在需要在扮演芬兰的同时掌握莫斯科，在让苏联投降时至少有15%的参战率，且与苏联不在同一阵营中。
+* 在土耳其工业分支国策末尾增加第五个科研槽。
+* 将土耳其的整个国策树完成时间全面减少175天，并为每条路线额外减少35天或70天，将武装部队的决议转移到更容易获得的位置。为安抚库尔德人的决议增加了更多的玩家代理权，使他们不会感觉绝望。将上述决议的成本从政治权力换成了指挥权力，增加了土耳其激进分子正当化自己的战争的动机，减少土耳其高级指挥官中天才的数量，重新平衡了克洛迪乌斯，大大降低了获得多达6个军工厂的几率。
+* 整合派系和毁灭派系的决议不再增加/削减任何意识形态支持率。
+* 国策“国立军事学院”现在为35天的国策。
+* 国策“保加利亚人民共和国”、“立法选举”与“罢黜沙皇”所需意识形态支持率由50%改为40%。
+* 民族精神“民主反对党抵制”的政治点数惩罚从50%减少到25%。该民族精神将和其他通用的意识形态民族精神一样，被调整为时限性的民族精神。
+* 民族精神“民主反对党抵制”的政治点数惩罚从25%减少到20%。
+* 国策“保加利亚人民共和国”不再要求农民联盟的忠诚度。国策“立法选举”不再要求社会民主工党的忠诚度。
+* 国策“西班牙的抗争”与“支持西班牙政变”不再有人力要求。
+* 所有保加利亚事件造成的世界紧张度从5减少到1。
+* 马其顿反对派减少的世界紧张度从5减少至1。
+* 德国步兵装备的生产所需略有增加。
+* 国策“粉碎共产主义者”现在为35天国策。
 
-=== Stability & Performance ===
-* Fixed CTD when loading a save where operatives were performing the control trade mission
-* Fix CTD when mousing hover autonomy alert after becoming independent
-* Fixed CTD when annexing a country with rocket sites
+=== 性能与稳定性 ===
+* 修复了特工在执行控制贸易任务时加载存档导致的闪退问题。
+* 修复了在独立后鼠标悬停，出现自动提醒信息时导致的闪退问题。
+* 修复了吞并有导弹发射站国家时出现的闪退问题。
 
 === AI ===
-* the AI will now be more likely to bring back the Kaiser in non-historical mode (WTT only)
-* Adjusted Bulgarian AI strategy to focus on internal affairs, building civs and improving relations for an extra year.
-* AI Improvements to make Bulgaria join the war earlier
-* Improved AI weights in Ultimatum to Albania so that there are more factors now influencing the decision of Albania
+* 非历史路线模式下，AI现在更有可能迎回德皇（需要唤醒勇虎WTT）。
+* 保加利亚AI战略调整，它主要进行内部事务、建设内政和改善关系的相关国策阶段会延长一年。
+* 改善AI，让保加利亚更早加入战争。
+* 改进“阿尔巴尼亚最后通牒”的AI占比权重，现在有更多因素会影响阿尔巴尼亚的决定。
 
 === UI ===
-* Added missing characters to hoi4_24header.fnt to unify the support turkish characters
+* 补全了hoi4_24header.fnt中遗失的字体，以便完整支持土耳其字母。
 
-=== Modding ===
+=== 模组 ===
 * added bypass_if_unavailable = yes option for focuses
 * added state highlighting for on_map_area for decision categories
 * added error log when a trigger/effect that was supposed to go in {} is not
