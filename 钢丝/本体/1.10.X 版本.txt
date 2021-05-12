@@ -50,21 +50,23 @@
 * 补全了hoi4_24header.fnt中遗失的字体，以便完整支持土耳其字母。
 
 === 模组 ===
-* added bypass_if_unavailable = yes option for focuses
-* added state highlighting for on_map_area for decision categories
-* added error log when a trigger/effect that was supposed to go in {} is not
-* limit inside on_research_complete is now deprecated, use on_research_complete_limit outside of on_research_complete instead
-* Add new effect to remove war goals of a specified type targetting a nation
-* Add Is leading volunteer group trigger
-* Added variable party_popularity_100 which is a variant of party_popularity where the value is multiplied by 100 as to allow script to have as much precision as code when manipulating party popularity
+* 为国策添加 bypass_if_unavailable = yes 选项。
+* 为决议类型的on_map_area添加了省份高亮。
+* 为本应在{}中却错误的触发/效果添加了报错日志。
+* on_research_complete中的限制已弃用，改用其外的on_research_complete_limit。
+* 添加了能够移除对某国的特定类型战争目标的效果。
+* 添加了 Is_leading_volunteer_group 触发器。
+* 添加了 party_popularity_100 变量，此为 party_popularity 变体，将原先的数值乘以100，以便让编码在党派支持度上可以具体调整。
+
+* 添加了 is_leading_volunteer_group_with_original_country 触发器。
 * Add is_leading_volunteer_group_with_original_country trigger
-* Added optional parameter keep_political_leader to start_civil_war effect which controls if the party leader of the revolting ideology will join the revolter as its leader.
+* 给 start_civil_war 效果添加了可选参数keep_political_leader，以此控制党派领袖是否会作为政变方的领导人加入其中。
 
-=== Audio ===
-* Sounds for the Bulgarian light and heavy planes (reused and renamed the medium asset)
-* Mixed planes for final
+=== 音效 ===
+* 为保加利亚轻型飞机和重型飞机添加了音效(再利用并重命名了中型飞机的音频)。
+* 确定了飞机的混音效果。
 
-=== Bugfix ===
+=== 错误修复 ===
 * Yugoslavian communist coup targets will automatically join Yugoslavia's faction if the original tag is at war * this prevents the target from joining other factions due to common enemies.
 * game rules interface now follows the database order while listing game rules
 * Bulgarian Military Cooperation Agreements decisions can no longer be activated if there is another decision of this type already ongoing.
@@ -140,27 +142,27 @@
 * Form Greater Greece" decision now correctly grants core on Istanbul/Constantinople
 
 == 1.10.3 ==
-Patch 1.10.3 was released on 2020-11-26<ref>Forum, [[forum:1444595|Update 1.10.3 Live - Checksum aa89]], 2020-11-26.</ref> with the checksum ''aa89''.
+1.10.3 版本发布于 2020-11-26。<ref>Forum, [[forum:1444595|Update 1.10.3 Live - Checksum aa89]], 2020-11-26.</ref> 校验码为 ''aa89''.
 
-=== Stability & Performance ===
-* Fixed compatibility issue with macOS 11.0 (Big Sur)
+=== 性能与稳定性 ===
+* 修复了与macOS 11.0 (Big Sur)的兼容性问题。
 
 == 1.10.4 ==
-Patch 1.10.4 was released on 2021-02-03<ref>Forum, [[forum:1454985|Update 1.10.4 Live - Checksum 8878]], 2021-02-03.</ref> with the checksum ''8878''.
+1.10.4 版本发布于 2021-02-03<ref>Forum, [[forum:1454985|Update 1.10.4 Live - Checksum 8878]], 2021-02-03.</ref> 校验码为 ''8878''.
 
-=== Stability & Performance ===
-* Fixed a security flaw in networking where a user could bypass lobby password protection
-* Added extra checks to block clients with empty or blank username from joining a game
-* Fixed a security flaw in networking where a user could kick/ban other players without being the host
+=== 性能与稳定性 ===
+* 修复了用户可以绕过大厅密码的安全漏洞。
+* 添加额外检查，防止空白用户名可以加入游戏客户端。
+* 修复网络漏洞，防止非房主玩家踢/禁止其它玩家。
 
 == 1.10.5 ==
-Patch 1.10.5 was released on 2021-04-15<ref>Forum, [[forum:1467129|Update 1.10.5 Live - Checksum 502a]], 2021-04-15.</ref> with the checksum ''502a''.
+1.10.5 版本发布于 2021-04-15<ref>Forum, [[forum:1467129|Update 1.10.5 Live - Checksum 502a]], 2021-04-15.</ref> 校验码为 ''502a''.
 
-=== Stability & Performance ===
-* Fixed a second security flaw in which a non host could kick or ban another player
-* Fixed multiplayer lobby not correctly reporting version mismatch when connecting to a server
+=== 性能与稳定性 ===
+* 修复网络漏洞，防止非房主玩家踢/禁止其它玩家。
+* 修正了多人游戏大厅在连接到服务器时不能正确报告版本不匹配的问题。
 
-== References ==
+== 引用 ==
 <references />
 
 [[Category:Patches]]
