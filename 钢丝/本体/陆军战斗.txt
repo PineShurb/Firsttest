@@ -1,0 +1,114 @@
+{{Version|1.9}}
+{{LandWarfareNavColumn}}
+[[File:BattleScreen v18.png|thumb|战斗界面示例]]
+一场'''地面战斗'''每一小时结算一轮，此轮中进攻方和防守方各随机选择一支敌方部队进行对战（虽然如此，但是仍可以把多个参加战斗的师的进攻值合并使用，见“伤害结算”章节）。
+
+下文中，我们将把发起进攻的一方称为"进攻方"，被攻击的一方称为"防守方"。实际的进攻单位及防御单位，则有可能因战斗阶段不同而处于任何一方。
+
+== 战术 ==
+{{main|Combat tactics}}
+
+战斗开始时会选择''战术''，每过12小时会变更一次。
+
+== Combat width ==
+The combat widths of each division in a battle are added together to determine how many of those divisions will fit into the width of the frontline and fight. The available width of the combat is increased when attacks on the province come from multiple directions, so tactical flanking is needed to leverage a numerical advantage if the battlefield width is a limiting factor. Width is also affected by certain combat tactics. Base battlefield width for combat is {{green|80}}, where additional directions bring {{green|40}} extra per direction.
+
+The combat width of a division is the sum of the widths of the battalions it contains. Infantry, (including motorized, mechanized and special forces), tank and tank destroyer battalions have a combat width of 2, artillery and self-propelled gun (SPG) battalions have a combat width of 3 and anti-tank, anti-air and self-propelled anti-air battalions have a combat width of 1. Support companies occupy no combat width. The Vast Offensives and Human Wave Offensive technologies from mutually exclusive branches of the Mass Assault doctrine tree reduce the width of ordinary infantry battalions by 0.4, meaning 25% more infantry battalions can fit in the same infantry frontage.
+
+Divisions will be added from the reserve unless the combat width penalty exceeds 33%. The combat width penalty is calculated as 2 * (total_width - battle_width) / battle_width, so this shows that in a 80-width battle, it is possible to have a 93 width (penalty of 32.5%), but not a hypothetical width of 94 (penalty of 35%).
+
+== Reserves ==
+[[File:Initiative.png|thumb|Chance to join combat]]
+Divisions that do not fit the combat width or that join the combat after it has already started end up in reserves. While in reserve, these units do not contribute to the battle in any way, do not regain organization and do not increase their entrenchment or preparation bonuses.
+
+Units in reserve have a chance to join combat every hour as long as there is combat width available. The base chance to join is only 2% per hour (so mean time to join is about 35 hours). This chance is greatly improved by having Radio researched, by division speed, doctrine tech, and having a signals company attached to the division.
+
+When defending, if all frontline divisions retreat while there are still reserves available, the reserves are forced to retreat as well. Same for attacking—the attack stops if all frontline divisions run out of organization even if there are fresh reserves available.
+
+As a defender, try providing reserves in a timely manner so they have time to reinforce the frontline and are not forced to retreat and potentially be overrun. If fighting at full width with fresh reserves, consider manually retreating your defending units that are very low on organization one at a time one province away from the front so they can recover and reserves can fill in. Otherwise, you run a risk that all frontline troops get low on organization and retreat at the same time, giving reserves no chance to reinforce.
+
+If you are on the attacking side, consider not attacking with more units than can fit into combat width so that the rest, instead of waiting in reserve, can recover organization and gain the planning bonus. When you do have reserves and width available (if they caught up, or a division runs out of organization) and all defender units are already fighting, instead of waiting for reinforcement, it can be useful to stop the combat and attack again so all your units join immediately.
+
+== Attacks ==
+'''Soft attacks''' and '''Hard attacks''' give the number of attacks against a defending division. The '''Hardness''' stat of the defending division determines the proportion of soft and hard attacks the division receives: For example, a division with 100% '''Hardness''' receives all '''Hard attacks''' and none of the '''Soft attacks''' and a division unit with 25% '''Hardness''' would receive 25% of the '''Hard attacks''' and 75% of the '''Soft attacks'''. 
+
+The number of attacks is compared to number of defenses of the defending division before calculating the possible damage, see following section on Damage dealing.
+
+== Defenses ==
+The attacker's '''Breakthrough''' values are used to determine how many defenses each of the attackers' units has. This is compared to the defenders' units hard and soft attacks to evaluate damage done to the attackers' units. 
+
+The defender's '''Defense''' values are used to determine how many defenses each of the defenders' units has. This is compared to attackers' units hard and soft attacks to evaluate the damage done to the defenders' units.
+
+== Damage dealing ==
+[[File:infantry_attacks.png|thumb|Defender organization loss under infantry attacks]]
+[[File:armor_attacks_2.png|thumb|Defender organization loss under armor attacks]]
+In damage dealing, the number of attacks is <code>round(hardness modified attack / 10)</code> and the number of defenses is <code>round(defense / 10)</code> (round(x) is random and defined as <code>round(x) = ⌊x⌋ + Bernoulli(x - ⌊x⌋)</code>). Both are integers.
+
+Each attack has the potential to be a hit (causes HP and organization damage) or a miss (no effect on HP and organization). After each attack, the defending unit removes one defense (if it has some left). The chance of being hit depends on whether the defender has any defenses left. A unit with defenses left has a 10% chance of being hit ('''{{hover|NMilitary.BASE_CHANCE_TO_AVOID_HIT|90%}}''' chance of defending against a hit). A defending unit without any defenses has a 40% chance of being hit (its chance of defending against a hit has gone down to '''{{hover|NMilitary.CHANCE_TO_AVOID_HIT_AT_NO_DEF|60%}}'''). 
+
+For each hit, the amount of possible damage done is random; a "die" is used to randomly choose the amount of damage done. For HP damage, the die size is {{hover|LAND_COMBAT_STR_DICE_SIZE|2}} and for organization damage, it is {{hover|LAND_COMBAT_ORG_DICE_SIZE|4}}. The exact amount of damage done to HP and organization per hit is calculated by multiplying the obtained die rolls with the damage modifiers ({{hover|LAND_COMBAT_STR_DAMAGE_MODIFIER & LAND_COMBAT_ORG_DAMAGE_MODIFIER|0.05}} base modifier, [[tactics]] attack modifiers, and {{hover|LAND_COMBAT_STR_ARMOR_DEFLECTION_FACTOR & LAND_COMBAT_ORG_ARMOR_DEFLECTION_FACTOR|'''-50%'''}} when the target's armor is greater than the opponent's piercing). Other modifiers affect the number of attacks, thus the number of hits, but not the amount of resulting damage ''per'' hit.
+
+When armored units are in combat against targets with insufficient piercing, the organization dice size is increased to {{hover|LAND_COMBAT_ORG_ARMOR_ON_SOFT_DICE_SIZE|6}}, representing the ability of the armored unit to move more freely under fire, obtain better positioning and thus deal more damage. This means an unpierced armored unit on average does 3.5 organization damage per hit instead of 2.5, or '''40%''' more damage per hit.
+
+The damage done to a unit's HP reduces its manpower and equipment proportionally by HP loss percentage, in addition to equipment loss from attrition. The fighting strength of the unit is the minimum between the ratios of manpower and equipment IC. A unit's damage output is scaled by its fighting strength. The scaling is rounded to multiples of 10%, e.g., for strength less than 100% but greater or equal to 90%, the damage output is scaled by 90%. Note that damage done to a unit's HP does not change the other stats of the unit before the combat is finished. 
+
+To summarize the above with an example: an armored division with 1000 soft attack vs an infantry division with 500 defense.
+
+* 50 attacks against defense; 50 attacks against no defense.
+* 50 attacks have 1 - <abbr title="BASE_CHANCE_TO_AVOID_HIT">90%</abbr> = 10% chance of hitting; 50 attacks have 1 - <abbr title="CHANCE_TO_AVOID_HIT_AT_NO_DEF ">60%</abbr> = 40% chance of hitting.
+* On average, the infantry division is hit 50 * 0.1 + 50 * 0.4 = 25 times.
+* For 25 organization dice rolls, (1 + <abbr title="LAND_COMBAT_ORG_ARMOR_ON_SOFT_DICE_SIZE ">6</abbr>) / 2 = 3.5 per roll is expected.
+* The armored division is damaged to slightly less than 100% strength and so has a 90% damage scaling factor.
+* In total, the armored division is expected to deal 25 * 3.5 * 90% * <abbr title="LAND_COMBAT_ORG_DAMAGE_MODIFIER">0.05</abbr> = 3.9 damage per hour. For a regular infantry division with 50-60 organization, the combat is expected to finish in about half a day.
+
+When more than one division participates from one side, they can combine their attack value to overcome the defense of the opposition.
+For example, two divisions with 100 attacks each pull their attacks versus single division with 150 defenses. In this situation 150 attacks will be considered "blocked" and have a 0.1 chance of hitting, while 50 attacks will be "unblocked" and have 0.4 chance of hitting.
+
+=== Collateral damage ===
+Infrastructure in the state and fortifications (naval fortifications for naval landings) in the province receive damage based on the attacker's attacks. The amount scales with the attacker's number of attacks, soft attack component and damage scaling factor. Damage against fortifications only occurs with a probability of {{hover|NMilitary.LAND_COMBAT_FORT_DAMAGE_CHANCE|5%}} while infrastructure always gets damaged. Attacks by close air support do not cause collateral damage.
+
+<math>\text{collateral damage} = 0.1 * \text{soft attack} * \#\text{ of attacks} * \text{damage dealing factor}</math><ref>[[forum:1305734]]</ref>
+
+The damage against infrastructure gets scaled further as described in [[Construction#Damage_and_repair]].
+
+{{icon|wtt}} The Siege Artillery ability doubles both the probability and the damage against land forts.
+
+== Combat factors ==
+The following factors modify the number of attacks and/or defenses a unit has in combat (list is not exhaustive): 
+* Terrain: base penalties for attacker {{red|-20%}} in a forest, {{red|-30%}} in hills, {{red|-60%}} in mountains.
+* River crossing: penalty of {{red|-30%}} or {{red|-60%}} for attacker attack and breakthrough depending on the river size
+* Night: penalty of {{red|-50%}} for attacks of both sides
+* Fort: penalty for attacker attack and breakthrough of {{red|-15%}} per fort level. Each extra attacking direction cancels out one fort level but not the last level.
+* Encirclement: penalty for defender {{red|-30%}} if all surrounding land provinces are enemy-controlled (excluding islands)
+* Enemy air superiority: penalty for defender defense or attacker breakthrough. <code>penalty = enemy air superiority * (1 + enemy doctrine modifiers + terrain modifier + concealment advisor) * <abbr title="ENEMY_AIR_SUPERIORITY_IMPACT">-0.35</abbr> + <abbr title="ENEMY_AIR_SUPERIORITY_DEFENSE">0.7</abbr> * AA / (AA + <abbr title="ENEMY_AIR_SUPERIORITY_DEFENSE_STEEPNESS">112</abbr>)</code> (the latter part is "enemy air superiority reduction").
+* Low supply: scaling penalties up to {{red|-33%}} at no supply
+* Exceeding combat width penalty: divisions in active combat can slightly exceed allowed combat width with a small penalty to offset this ({{red|-2%}} per extra combat width).
+* Stacking penalty for having too many divisions in combat: ({{red|-2%}} per division over the stacking limit. The stacking limit is 8, plus 4 per flanking direction.
+* In multiple combats: {{red|-50%}} for a division that is attacked from a different direction while already attacking
+* Paradrop penalty: {{red|-30%}} combat penalty 48 hours after being paradropped.
+* Amphibious penalty: {{red|-70%}}
+* Commander skill, {{green|+2.5%}} per skill point for both attack and defense
+* Planning bonus, the base maximum is <abbr title="PLANNING_MAX">{{green|+30%}}</abbr> which can be further improved by a doctrine to {{green|+110%}}
+* Entrenchment: {{green|+2%}} per each point built. Maximum achievable: 5 base + 11 engineer IV + 10 doctrine + 1 Old Guard leader trait = {{green|+54%}}
+* Air support: bonus to attack and defense (in addition to direct damage support planes do)
+* Country bonus
+* Division experience: {{red|-25%}} for green, 0 for trained, {{green|+25%}} for regular, {{green|+50%}} for seasoned and {{green|+75%}} for veteran
+* Decryption advantage: {{green|+5%}} per decryption level compared to enemies average encryption level (ex: dec. level is 5 and enemy average enc. level is 3 then 5-3 = 2 which gives 10 % increase)
+
+All positive factors stack with each other multiplicatively, so it is possible to reach very high values in a very good tactical situation.
+
+For example:
+* experience {{green|+75%}}
+* entrenchment {{green|+40%}}
+* terrain {{green|+20%}}
+* country {{green|+40%}}
+* commander skill {{green|+35%}}
+Multiplied together this gives your unit {{green|+456%}} to base stats (1.75*1.4*1.2*1.4*1.35=5.56)
+
+The final factor is capped at 1% if the multiplied value is lower.
+
+== Equipment damage ==
+During combat, the ratios of equipment and manpower losses are updated to <abbr title="EQUIPMENT_COMBAT_LOSS_FACTOR">{{green|70%}}</abbr> of the loss in strength ratio. The stats of the unit are locked during the combat if the template is unchanged, and are updated after the combat.
+
+{{Template:WarfareNavbox}}
+[[Category:Military]]
