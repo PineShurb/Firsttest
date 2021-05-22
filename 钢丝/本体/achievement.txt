@@ -1832,3 +1832,604 @@ After completing "The Fate of the Balkans" you get the ability to peacefully pup
 "Ver "栏表示某个成就是在哪个版本中添加的。在加入的版本之前不能获得成就。
 
 DI "一栏是由wiki编辑评估的难度。VE=非常容易，E=容易，M=中等，H=困难，VH=非常困难，I=疯狂，UC=未分类。
+
+{| class="mildtable sortable" width=100
+!width=20% | 成就
+! width=18% | 起始条件
+! class="unsortable" width=22%" ! | 要求
+! class="unsortable" width=37% | 备注
+! width=1% | {{icon|hoi4|width=21px}}!
+! width=1% | Ver
+! width=1% | DI
+|-
+| {{iconbox|BFFs|As Portugal, join the same faction as Great Britain.|extension=png}}。
+| {{icon|yes}} 作为{{flag|Portugal}}玩耍。
+|{icon|yes}} 在与{{旗帜|英国}}的派别中 
+| 你不需要DLC来做这个。只要走民主路线，等待世界紧张局势上升。推荐速度5，你不需要技术或重点。你不需要急于实现民主，因为世界紧张度会在很长一段时间内低于80%。如果La Résistance的DLC是激活的，你可以直接冲向焦点[[Português_national_focus_tree#Join_the_Allies|''"Join the Allies"']]以及其他一些能提高英国对你看法的焦点，而不是等待世界紧张局势的上升。
+| 
+| data-sort-value="9" | 1.9
+|{{DI|VE}}
+|-
+| {{Iconbox|Braaaaains!|作为加拿大，完成发送僵尸的任务。}
+|{icon|yes}} 扮演{{旗帜|加拿大}}。
+| {{icon|yes}} 焦点 [[File:Goal generic demand territory.png|28px]] [[加拿大国家重点树#送入僵尸|''"送入僵尸"']]已完成
+| 像往常一样玩加拿大，但一定要冲下经济重点。如果世界紧张局势加剧，就采取防御性措施，直到德国对波兰宣战，加入战争并冲下战争重点。请注意，如果你做了 "国家钢铁车"，你就不能解锁这个成就。
+| {{icon|tfv}}。
+| data-sort-value="3" | 1.3
+| {{di|ve}}
+|-
+| {{Iconbox|Canada First|Join Axis as Canada.}}。
+| {{icon|yes}} 以{{旗帜|加拿大}}的身份作战
+| {{图标|是}}作为{{旗帜|加拿大}}的派别作战。在与{{flag|Germany}}的派系中。
+* {{icon|yes}}在与{{flag|Germany}}的派别中 {{flag|Germany}}是一个派别的领袖 }}。
+|该派系不需要是轴心国，但必须由德国领导。虽然不需要 "团结求胜"，但由于DLC提供了专门用于此目的的 "国家焦点"，因此成就会更容易。
+|
+| 胜利后的国家重点是什么？	
+|{{DI|VE}}
+|-
+| {{Iconbox|District 9|作为南非，在德兰士瓦拥有9个民用工厂。}
+| {{icon|yes}} 作为{{flag|South Africa}}播放。
+|{icon|cic}} 在德兰士瓦州拥有民用工厂>8家 (275)
+|将德兰士瓦的军用工厂转为民用工厂。按照焦点树的要求，可以获得免费的民用工厂。他们可以随机给德兰士瓦提供所需的工厂。如果德兰士瓦的建筑槽用完了，可以按照分散/集中的工业科技树来获得更多的建筑槽。
+|
+| data-sort-value="3" | 1.3
+|{{DI|VE}}
+
+|-
+|{{Iconbox|Do You Mined?|在敌国的海岸线上至少埋设1000个水雷.|extension=png}}。
+|
+|{icon|yes}} 任何国家与玩家交战：在其海岸线上有超过999个水雷。
+|
+可以在游戏开始时立即作为意大利进行。从厄立特里亚和/或索马里兰撤走你的师团（保留你的港口以获得最大效率），用你的起始海军埋设水雷，直到你达到1000枚水雷。
+| {{icon|mtg}}。
+| data-sort-value="6" | 1.6
+| {{di|ve}}
+|-
+| {{Iconbox|Friend in Need|Join a Faction.|extension=jpg}}
+|
+| {{icon|yes}} 国家标志''成就_已加入派别''已设置
+|选择{{flag|Sinkiang}}或{{flag|Venezuela}}，点击{{flag|Soviet Union}}或{{flag|German Reich}}。分别），点击加入派别，并在弹出的对话框中点击是。就这么简单。
+|
+| data-sort-value="0" | 1.0
+|{{DI|VE}}}
+|-
+| {{Iconbox|Hellenic Civility|Win the Greek Civil War before 1937.|extension=png}}{{icon|yes}}。
+| {{icon|yes}} 扮演{{旗帜|希腊}}的角色
+| {{icon|yes}} 在1937年1月1日前已赢得希腊内战的胜利
+|
+为了触发内战，不要逮捕国王，并走到 "统治权 "的焦点。在内战爆发前，删除所有的陆军部队，并在训练中制作一个单一的轻骑兵师。战争开始后将其部署在雅典，并拿下所有胜利点数，以迅速结束内战。
+
+如果你没有BoTB，你可以只做正常的内战技巧。删除你所有的军队，做 "政治努力 "的重点，用你的PP雇佣一个共产主义革命者，每天支持0.10+的共产主义。然后，不要做任何重点。用你的PP来扩大民事支持，但要准备好一个骑兵师来部署。当你达到低于50%的稳定性时，点燃内战并部署骑兵师。冲向胜利点，获得胜利!
+| 
+| data-sort-value="10" | 1.10
+|{{DI|VE}}
+|-
+| {{Iconbox|Hoofin' It|Unite Arabia with thirty camelry divisions.|extension=png}}{{Iconbox|Hoofin' It|Unite Arabia with thirty camelry divisions.|extension=png}}。
+| 
+| {{icon|yes}} 联合阿拉伯，拥有30个Camelry师。
+{{collapse|}阿拉伯联合酋长国
+*赢得也门 (293)
+*拥有内贾德 (292)
+*拥有阿曼 (294)
+*拥有阿布扎比 (658)
+*加入卡塔尔 (765)
+*加入亚丁 (659)
+*超过4499个军队的步兵装备
+*超过29个卡梅尔营****。}
+| 英国皇家、法国、伊拉克、意大利、阿曼、沙特、西班牙、英国和也门开始时都有凯米德师团，而土耳其则可以用重点来解锁。
+海贾兹（679）不是必需的。只要你有骆驼部队，你可以作为任何国家来做这件事。
+用{{icon|mtg}} 。
+可以很容易地以联合王国的身份完成，因为除了沙特阿拉伯、阿曼和也门之外，已经拥有所有需要的领土。
+* 走国王党的重点路线，证明并吞并半岛上的三个独立国家是正确的。
+* 制作一个骆驼模板并训练30头骆驼。游戏开始时，你的骆驼已经解锁，但你必须自己制作模板。
+| {{icon|bfb}}}。
+| data-sort-value="10" | 1.10
+| {{di|ve}}
+
+|-
+|{{Iconbox|I SEE EVERYTHING|在不使用代码破解的情况下，在每个大类中获得超过90%的情报。|extension=png}}。
+| 
+|{icon|yes}} 在任何大国的所有类别中达到90%的情报，而无需对其激活解密。
+{{collapse|}}
+{{icon|yes}}在任何主要国家达到90%的情报：{{Collapse|yes}}。任何大国的情报。
+*未完全解密
+* 民事情报>89%。
+*陆军情报>89%
+* 空军情报>89%
+* 海军情报 > 89% }}}
+| 为了使成就生效，解密必须是不完全的或被破解的，但如果玩家选择了它并等待30天，成就就会生效。
+| {{icon|lar}}
+| data-sort-value="9" | 1.9
+| {{di|ve}}
+|-
+| {{Iconbox|Lethal Straight|拥有7个大国中至少5个国家的生产许可证。|extension=png}}。
+|
+| {{icon|yes}} 正在从以下5个国家获得许可。{{MultiColumn|}}
+* {{旗帜|法国}} *{旗帜|法国}}。
+*{旗帜|德国}}
+
+* {{flag|Japan}} *{flag|Japan}}
+*{flag|Soviet Union}*{flag|Soviet Union}*{flag|Soviet Union}。
+*{flag|United Kingdom} *{flag|United Kingdom}
+
+|2}}
+| 作为任何国家，建议选择中立国（{{icon|neutrality}}），以避免 "战略原因 "的外交惩罚（{{red|-100|back}}值），因为它可能会阻止 "申请许可生产 "选项，改善与七个大国中五个国家的关系，然后许可基本步兵武器。(研究下一级的步兵装备也可以，因为即使是大国在许可过时的装备方面也没有什么问题。)
+
+南斯拉夫可以选择重点 "加强旧联盟 "和 "禁止斯洛文尼亚民族主义政党 "来改善与五个国家中三个国家的关系。
+
+像中国一样容易，他们开始时与所有主要国家的关系都相当好，除了日本。
+
+另外，你也可以玩一个更长、更大的游戏，只是简单地与所有主要国家结盟或做傀儡，然后从他们那里获得许可证。
+
+通过La Resistance DLC，你可以使用一个特工，让他对主要国家施加外交压力，这将使你更容易获得成就。
+| {{icon|dod}}}
+| data-sort-value="4" | 1.4
+| {{di|ve}}
+|-
+|{{Iconbox|仔细听，我要说的是......|让法国和英国的间谍在同一个行动中合作。|extension=png}}。
+|  
+|{icon|yes}} 让英国和法国特工一起完成一项行动。
+|检查在行动完成后发生。至少有1名参与行动的特工需要法国国籍，至少有1名参与行动的特工需要英国国籍。从1.9.0开始，没有检查到法国和英国特工不是同一个人。
+| {{icon|lar}}
+| data-sort-value="9" | 1.9
+| {{di|ve}}
+|-
+| {{Iconbox|Man of a Thousand Faces, Every One the Same|Have the same spy get captured twice.|extension=png}}。
+| 
+|{图标|是}}。让任何特工人员被抓两次。
+| 触发标志是le_clerc2。第一次被抓时，该特工获得le_clerc1。第二次抓捕时，该操作者获得le_clerc2。
+| {{icon|lar}}
+| data-sort-value="9" | 1.9
+| {{DI|VE}}}
+|-
+| {{Iconbox|Mine is bigger than yours|Lead a faction with at least 20 members.}}。
+|
+| {{Plainlist|* {{icon|yes}}}是派别领袖。是一个派别的领袖
+* {{icon|yes}} 派别成员>19人 }}}
+| 此建议需要{{|mtg}}的DLC。DLC。
+作为{{flag|United Kingdom}}，沿着国家重点树的[[British_national_focus_tree#Revisit_Colonial_Policy|Revisit Colonial Policy]]分支，释放你所有的臣民。
+
+此建议需要{{icon|tfv}}DLC，1.6补丁或更高版本。DLC，1.6补丁或更高版本，并且没有{{icon|mtg}} DLC。DLC。
+作为{{flag|United Kingdom}}，在游戏开始时释放至少14个殖民地作为傀儡。
+另外，这也可以通过扮演{{flag|German Reich|Germany}}或{{flag|Italy}}，与盟国（{{flag|France}}和{{flag|United Kingdom}}）开战，打败他们，将他们变成傀儡，并在和平协议中将所有可释放的国家从殖民地中卫星化。然后简单地邀请这些傀儡加入你的派系。
+| 
+|data-sort-value="0" | 1.0
+|{{DI|VE}}
+|-
+| {{Iconbox|No country for old men|Reach 0 manpower with Scraping the Barrel as Conscription Law.}}.
+|
+| {{iconify|Scraping the Barrel}}作为征兵法。
+* {{iconify|Manpower}}是<1 }}。
+| 可以通过在投降后拥有法律，并且不控制任何领土（例如作为卢森堡什么都不做）来完成。你也可以拼命招募师团，直到你用完所有的人力，等待几下成就的触发，然后再把它们全部取消（如果你想继续你的游戏）。你可以开始训练一大堆1营的师团，以后再提升模板。
+{{flag|Tannu Tuva}}由于其核心人口少得可怜，只有8.5万，所以很容易达到这个成就。
+|
+| data-sort-value="0" | 1.0
+| {{di|ve}}
+|-
+|| {{Iconbox|Nobody's Business but the Turks|Restore the Ottoman Sultanate.|extension=png}}{{Iconbox|Nobody's Business but the Turks|Report the Ottoman Sultanate.|extension=png}}
+| {{icon|yes}} 扮演{{旗帜|土耳其}}的角色
+| {{icon|yes}} 已经完成了重点''苏丹的回归''。
+| 你只需要赢得一场小规模的内战，就可以进入重点。
+| {{icon|bfb}}}
+| data-sort-value="10" | 1.10
+| {{di|ve}}
+|-
+| {{Iconbox|Nothing Wrong with our Bloody Ships|As the United Kingdom, have at least 9 battlecruisers.|extension=png}}。
+|{icon|yes}} 扮演{{旗帜|联合王国}}的角色
+|{icon|yes}} 至少有9艘战列巡洋舰
+|战列巡洋舰在建造时要有重船船体和战列巡洋舰装甲。联合王国一开始就有这两样东西。尽量制造最便宜的战列巡洋舰，同时建造6艘（开始时有3艘），并分配好所有的船坞，多建船坞以加快建造速度。
+|
+| data-sort-value="6" | 1.6
+|{{DI|VE}}
+|-
+| {{Iconbox|Peter's Pride|作为南斯拉夫的彼得二世，推翻你的叔叔，成为国王。}
+| {{icon|yes}} 扮演{{旗帜|南斯拉夫}}的角色 
+|{icon|yes}} 彼得二世是目前的国家领导人。
+|只需下去完成一个让彼得掌权的重点，如结束摄政时期。有了历史上的人工智能，你就不会在拿下重点之前被攻击了。
+| {{icon|dod}}
+| data-sort-value="10" | 1.10
+| {{di|ve}}
+|-
+| {{Iconbox|Play It, Sam|在卡萨布兰卡拥有一个至少50%实力的间谍网络。}
+| 
+| {{icon|yes}} 在卡萨布兰卡（461）的网络强度超过50
+| 建立间谍网络即使在和平时期也是可以实现的，所以这个成就相当简单。让你的特工在卡萨布兰卡执行 "建立间谍网络 "任务，一旦网络强度超过50%，成就就会触发。你可以在招募到第一个特工后立即行动，但在同一地区，你指派越多的特工建立网络，网络就会越快达到满员。
+| {{icon|lar}}
+| data-sort-value="9" | 1.9
+| {{di|ve}}
+|-
+| {{Iconbox|Romance of the Three Kingdoms|As China, puppet and then annex Yunnan and Guangxi Clique.|extension=png}}{{Iconbox|Romance of the Three Kingdoms|As China, puppet and then annex Yunnan and Guangxi Clique.
+| {{icon|yes}} 扮演{{旗帜|中国}}的角色
+|{icon|yes}} 通过让他们成为傀儡，整合{{旗帜|广西阉党}}和{{旗帜|云南}}。
+|
+*与{{icon|wtt}}的关系 DLC。
+
+从 "三民主义 "分支中选择 "降服军阀 "的重点。云南和广西要么臣服（成为你的傀儡），要么拒绝--然后你将获得一个针对他们的战争目标。你可以吞并他们的大部分州，然而，重要的是要让他们成为傀儡。
+
+征服军阀后，一系列 "整合军阀 "的决定将被开启；只需为云南和广西做出决定。
+|
+| data-sort-value="5" | 1.5
+|{{DI|VE}}
+|-
+| {{Iconbox|Shaken, Not Stirred|在任何国家使用具有诱惑者特质的间谍成功发动政变.|extension=png}}。
+|  
+| {{icon|yes}} 使用具有诱惑者特质的特工在任何国家发动政变。
+| 至少有1名参与政变政府行动的特工需要具备诱惑者特质。这将触发成就_诱惑者_间谍的标志。
+| {{icon|lar}}
+| data-sort-value="9" | 1.9
+| {{DI|VE}}}
+|-
+| {{Iconbox|Spies Trade|As India, become the spymaster for the Allies.|extension=png}}{{Iconbox|Spies Trade|As India，成为盟国的间谍大师。
+| {{icon|yes}} 扮演{{旗帜|英国王室}}的角色
+|{icon|yes}} 是间谍大师<br/>
+{{icon|yes}} 在与{{flag|United Kingdom}}的派系中
+| 确保你有5个免费的平民工厂，并立即用它们在情报机构菜单的顶部组建机构。然后，用你喜欢的东西将情报局升级三次，之后，在窗口顶部的情报局名称和图标旁边会出现 "成为间谍大师"（为盟国服务）的选项。投资50PP，成就应该会触发。人工智能总是会接受的，因为如果提出请求的国家是由玩家控制的，那么人工智能接受成为间谍主管的请求有一个高达+1000的正数修改器。印度至少要成为一个统治国才能成为间谍首脑。
+| {{icon|lar}}
+| data-sort-value="9" | 1.9
+| {{di|ve}}
+|-
+|{iconbox|The Balkan Powder Keg|As Yugoslavia, start the Second World War (i. be part of either Axis or allies and at war with the other faction in a war you started).|extension=png}}。
+|{icon|yes}} 扮演{{flag|Yugoslavia}}的角色
+| {{icon|cb}}} 向轴心国/盟国宣战，同时又是盟国/轴心国的一部分（分别）。
+|
+* 选择法西斯德玛西亚作为你的第一个政治权力支出，变成法西斯（跳过内战选项）并加入轴心国
+*开始证明对英国的战争是合理的，并在完成后宣战
+** 或者，当世界紧张局势超过25%时，开始为一个欧洲国家的战争目标进行辩护。你要证明的国家会因此得到法国或英国的保证，他们经常会一起结盟。一旦完成，就宣布战争，盟国将加入保卫目标国家的行列。
+* 当使用{{icon|dod}}的时候，在加入轴心国之前，会得到 "入侵 "的机会。在加入轴心国之前，得到 "邀请德国军事任务 "的关注，以避免内战。
+*可以在1938年之前完成
+|
+| data-sort-value="4" | 1.4
+| {{DI|VE}}}
+|-
+| {{Iconbox|Time is on our side|Reach 1948.}}。
+|
+| {{icon|time}} 日期是>1947.12.31
+| 如果你想AFK，可以扮演任何南美国家。如果你能以{{flag|France}}的身份完成这个任务，而没有投降或屈服一次，你也将解锁[[#Vive la France|Vive la France]]成就。
+|
+| data-sort-value="0" | 1.0
+|{{DI|VE}}
+|-
+|{{Iconbox|To Arms in Dixie!|As the U.S.A., start a new civil war as the South.|extension=png}}。
+|{icon|yes}} 扮演{{旗帜|美国}}的角色
+|{icon|yes}} 波士顿叛乱开始了。
+|
+在1936年大选前放弃继续推行新政，选择共和党人，并重新建立金本位。沿着 "美国优先 "的道路走下去，完成 "与银衫军结盟 "的国家焦点，以触发导致内战的事件链。为了获得最佳效果，请完成"''与联邦合作''"和"''招募自由军''"的国家焦点。要想真正形成邦联，请在内战结束前完成"''尊重邦联''"这一国家焦点及其所有的组成决定。
+| {{icon|mtg}}。
+| data-sort-value="6" | 1.6
+| {{di|ve}}
+|-
+| {{Iconbox|Transport Tycoon|Have at least 1000 convoys.}}。
+|
+| [[File:Convoy.png|28px]] 。拥有车队>999
+|只要将你所有的码头设置为{{flag|United States}}的护航生产，并远离任何战争。
+|
+| data-sort-value="0" | 1.0
+| {{di|ve}}
+|-
+| {{Iconbox|图灵完成！|完全解密轴心国的所有国家.|extension=png}}。
+| {{icon|yes}} 扮演{{旗帜|英国}}的角色
+|{icon|yes}} 作为英国，完全解密与德国一个派别中的每个主要国家<br/>。
+*{{flag|Germany}}是一个大国
+*其他所有国家要么是。
+**不是德国，也不与德国为伍
+**不属于大国
+**是完全解密的
+| 在游戏开始时，创建你的间谍机构并解锁所有密码技术，你只需要解密德国，因为他们是轴心国的唯一成员。
+| {{icon|lar}}
+| data-sort-value="9" | 1.9
+| {{di|ve}}
+|-
+| {{icon|United Netherlands|征服比利时和卢森堡，成为荷兰人。}
+| {{icon|yes}} 以{{旗帜|荷兰}}的身份作战
+| {{icon|yes}} 拥有并控制各州。{{多栏
+* Vlaanderen (6)
+* 荷兰 (7)
+* 卢森堡 (8)
+* 瓦隆尼 (34)
+* 布拉班特 (35)
+* 弗里斯兰 (36)
+|2}}
+|这一点在{{icon|mtg}}中变得更加容易。Man The Guns DLC，因为它赋予荷兰一棵国家重点树，其中包含专门针对这一成就的重点。进入英国人的洞穴，然后立即赶往 "领导小型民主国家 "分支。在它下面有一个名为 "组建比荷卢 "的焦点，完成这个焦点将激活一个 "提议比荷卢统一 "的决定，供玩家采取，这需要花费300政治力量。采取该决定将启动一个事件，让比利时和卢森堡决定他们是否应该加入荷兰。该事件使比利时和卢森堡有机会避免被吞并。然而，人工智能将永远选择被吞并。一旦比利时和卢森堡同意，你将吞并他们两个，你在没有任何流血的情况下成功实现了这一点。
+|
+| data-sort-value="0" | 1.0
+|{{DI|VE}}
+|-
+| {{Iconbox|We'll build it in a Day|Research Construction V.}}。
+
+| [[File:Atomic research.png|22px]] 。已经研究出了{{iconify|Construction V}}。
+|堆积尽可能多的研究速度奖励（尤其是工业研究速度），并在工业分支中努力工作。最终，你应该达到第五级建筑。{{flag|Brazil}}是一个很好的人选，因为它是一个非常大的小国，不可能卷入任何战争。
+|
+| data-sort-value="0" | 1.0
+| {{di|ve}}
+|-
+|{{Iconbox|You Will Never Kill Me Alive|Have one of your spies take a Suicide Pill.|extension=png}}。
+| 
+|{icon|yes}} 让一名特工在自杀药丸机构升级激活时死亡。
+|所需的全局标志：kill_me_alive_flag在玩家的特工死亡时被设置，如果该玩家已经完成了自杀药丸机构的升级。如果你不断地派你的特工去执行任务，或者确实只是让他们进行各种活动，比如在其他国家建立情报网络，最终他们中的一个人就会死亡，成就就会触发。
+| {{icon|lar}}
+| data-sort-value="9" | 1.9
+| {{di|ve}}
+|-
+| {{Iconbox|Arsenal of Democracy|作为美国，拥有超过300家军工厂。|extension=png}}。
+| {{icon|yes}} 扮演{{旗帜|美国}}的角色
+| {{icon|yes}} 目前的执政党是{{icon|Democracy|Democratic}}。
+{{icon|yes}} 更多的{{icon|mic|Military Factories}}超过300个
+|为了获得额外的建筑槽，即使是民主国家，战争权力支部也会给出战争目标。积攒政治权力。在罗斯福执政时不要做建筑任务，因为当你让阿尔夫-兰登当总统时，国会支持率会很高。当政治权力达到100时，采取所有授予州的决定。当兰登成为总统后，直接去做 "美国第一 "的任务。一旦完成，拿下新的顾问。然后去美国科学研究所。当法西斯支持率达到30.10%时，就可以采取战争权力法案。一旦拿下这个重点，就把顾问改成民主党。只要有机会就采取反法西斯袭击的决定，以减少法西斯的支持。当战争支持率达到35%时，为古巴和墨西哥采取夺取古巴和消除南方威胁。当法西斯主义达到20%以下时，采取禁止法西斯主义，以便能够为工厂采取中立法案。
+对于更有经验的玩家来说，帕奈事件的随机事件（当{{flag|Japan}}征服上海和南京时发生）给予了玩家与日本提前开战以获得更多工厂的机会。
+| 
+| data-sort-value="6" | 1.6
+|{{DI|E}}}
+|-
+| {{iconbox|Australia-Hungary|作为澳大利亚，拥有匈牙利的所有核心领土。|extension=png|link=on}}。
+| {{icon|yes}} 扮演{{旗帜|澳大利亚}}的角色
+|{icon|yes}} 征服了所有{{flag|Hungary|Hungarian}}核心领土
+|
+*关闭{{icon|dod|1}}的DLC将阻止匈牙利获得核心领土。DLC将阻止匈牙利获得除开始时的核心领土之外的其他核心领土。
+获得法西斯主义，在匈牙利的基础上进行辩解，离开盟国/加入轴心国，等待安舒斯，从德属奥地利向匈牙利的三个城市进行伞降。将运输机转移到你的派别机场需要先派出其他飞机，所以要确保派出一些战斗机。另外，要注意可能会有一些由[[Battle_plan#Paradrop|central air node bug]]引起的问题，但这可以通过在战斗计划启动后将你的运输机集中在你的机场的空域来解决。在战争中不要请求帮助。如果你做得足够早，应该是一个快速的冲突。重点是树。从 "绝不再有加里波利 "到 "我们自己的帝国"（尽管你可以使用[[傀儡#自治_分数_和_类型_主体|自治机制]]宣布独立，比焦点树更快。为了防止延误，请在树上提前阅读，例如，为印尼国民党人储存足够的步兵装备。
+|
+| data-sort-value="5" | 1.5
+|{{DI|E}}。
+|-
+| {{Iconbox|Better than the Szent István|As Hungary, have Miklos Horthy as a Naval commander and build a battleship.|extension=png}}{{icon|yes}}。
+|{icon|yes}} 扮演{{旗帜|匈牙利}}的角色
+| {{plainlist|* {{icon|yes}} 扮演{{flag|Hungary}}。有单位领导''Miklos Horthy''。
+* [[File:Battleship.png|28px]]。至少拥有1艘战舰 }}}。
+|
+*作为匈牙利，你开始时没有海岸。通过南斯拉夫或罗马尼亚到达海岸是最容易的。焦点树上有几个决定，可以提出要求，但要使米克洛斯-霍西成为海军司令，你需要走哈布斯堡王子的焦点路线。
+* 之后你需要做的就是建造至少1艘战舰，（你需要研究该技术，因为匈牙利在1936年开始没有任何海军技术），并将米克洛斯-霍西分配到该舰队。
+| {{icon|dod}}
+| data-sort-value="4" | 1.4
+| {{DI|E}}}
+|-
+|{{iconbox|Britzkrieg|作为英国，让爱德华八世上台，与德国结盟并完全控制巴黎。}
+|{icon|yes}} 扮演{{旗帜|联合王国}}的角色
+| {{icon|yes}} 已完成重点''国王的聚会''
+是的 与{{flag|Germany}}结成派系<br/>。
+{{icon|yes}} {{flag|France}}已经投降或不存在<br/> {icon|yes}}与{{flag|France}}有派别<br/>
+{{icon|yes}}已经完全控制了法兰西岛
+|跟随焦点树到[[British_national_focus_tree#Alliance_with_Germany|Alliance with Germany]]。对法国进行辩解，对诺曼底发动海上入侵。没有必要要求德国参战。这可以与[[#千秋万岁|千秋万岁]]成就相结合。如果法国沦为傀儡，该成就就不会生效。请将所有核心区、领土和殖民地并入，以确保实现这一目标。
+| {{icon|mtg}}。
+| data-sort-value="6" | 1.6
+| {{di|e}}
+|-
+| {{Iconbox|Cut The Strings|Break free from your overlord as a puppet.|extension=png}}
+|[[File:Autonomy puppet icon.png|24px|link=Puppet]] 扮演''木偶''。
+| [[文件:自治自由图标.png|24px]] 是''不是''一个主体
+| 与{{icon|tfv}}的关系 / {{icon|dod}} DLC。
+* 作为英国拉吉建立军事工厂，在最新的步兵武器上投入技术，大量生产，并将其借给英国，以获得自治积分（高于英国水平的技术将获得更多积分）。
+* 可与 "我们的话有核武器支持"（投掷核弹后宣布独立）相结合 - 需要{{icon|tfv}}。
+*警告! 不能以埃及的身份进行（可能是因为以英国的身份开始游戏）。
+* 作为满洲国，可以按照焦点树向日本宣战--需要{{icon|wtt}}。
+没有DLC。
+* 雇佣一个改变意识形态的顾问，为内战做准备。
+* 一旦内战开始，内战中可玩的一方将获得独立，从而获得成就。
+|
+| data-sort-value="3" | 1.3
+|{{DI|E}}。
+|-
+| {{Iconbox|Destroyer of Worlds|Deploy a nuke. }}}。
+| 
+| {{icon|yes}} 国家标志''成就_已部署核弹''已设定
+|
+|
+| data-sort-value="0" | 1.0
+| {{DI|E}}国家标志'_has_dropped_nuke''被设置
+|-
+| {{Iconbox|En Svensk Tiger|作为瑞典，从德国获得虎式或虎式II型坦克的生产许可。|extension=png}}。
+| {{icon|yes}} 作为{{flag|Sweden}}扮演的角色
+|{icon|yes}} 是从{{flag|Germany}}获得的许可 ''要么''。
+* 重型坦克II (Panzerkampfwagen VI Tiger)
+* 重型坦克III（虎式装甲车B型）。
+|
+* 选择法西斯煽动者作为你的第一笔政治权力支出，并转为法西斯主义（跳过内战选项）。
+* 加入轴心国并在战争中帮助他们（德国必须生存到他们研究出虎式坦克--至少在1943年底）。
+| {{icon|dod}}}
+| data-sort-value="4" | 1.4
+|{{DI|E}}}
+|-
+| {{Iconbox|I am the Tong Master|As South Africa, break free from the UK and puppet another nation.|extension=png}}{{Iconbox|I am the Tong Master|As South Africa, break free from the UK and puppet another nation.
+| {{icon|yes}} 扮演{{旗帜|南非}}的角色
+|{{平原列表|* [[File:Autonomy freedom icon.png|24px]]。是''不是''主题
+* {{图标|是}} 拥有主体>0 }}
+| 
+有{{icon|tfv}}。DLC。
+*获得法西斯主义的关注，宣布南非独立。
+* 释放纳米比亚作为你的傀儡。
+没有{{icon|tfv}}的情况下 召开DLC会议。
+* 变成法西斯主义者
+* 生产几艘潜艇和一些额外的护航船队。
+* 对利比里亚进行辩解和宣战，并在和平协议中成为他们的傀儡（也可以通过释放纳米比亚并对其进行辩解来完成。
+| 
+| data-sort-value="3" | 1.3
+|{{DI|E}}。
+|-
+| 占领博斯普鲁斯海峡，我得到的只是这个糟糕的成就|作为希腊或保加利亚，拥有博斯普鲁斯海峡两岸。作为土耳其，征服希腊和保加利亚。}
+| {{icon|yes}} 扮演''任一''： {{多栏}} *{旗帜}保加利亚
+* {{旗帜|保加利亚}} *{旗帜|希腊}}。
+
+*{flag|Turkey}}}
+}}
+| 如果{{国旗|希腊}}或{{国旗|保加利亚}}：<br/>
+{{图标|是}} 拥有国家伊斯坦布尔（797）。
+否则：<br/>
+*{{flag|Turkey}}。拥有{{旗帜|保加利亚}}作为主体，或拥有所有{{旗帜|保加利亚|保加利亚}}的核心。
+*{{旗帜|土耳其}}。以{{旗帜|希腊}}为主体，或拥有所有{{旗帜|希腊|希腊}}的核心。
+|
+保加利亚的焦点 "巴尔干半岛的命运 "允许和平傀儡土耳其。 希腊的 "复活梅加里思想 "所产生的焦点允许与土耳其发生战争，你将获得伊斯坦布尔。只要邀请英国、法国和意大利，然后向他们承诺所有的优惠。他们中的一些人会加入战争并给予你所需的土地。也可以把这个成就与 "解决巴尔干问题 "结合起来，通过一个决定向土耳其和平地请求所需的土地，以换取75PP。另一个选择是跟随保加利亚的共产主义分支，并在最后完成 "巴尔干半岛的统一 "这一重点。这个焦点可以解锁一个决定，要求土耳其控制这个成就所需的国家。目前，如果土耳其拒绝，这个决定会在几天后再次出现。所以，一旦你有了75个PP，你可以再试一次，直到土耳其接受为止。这是一个错误，因为它不可能让这个决定有超过一次的用途。
+| 
+| data-sort-value="10" | 1.10
+|{{DI|E}}。
+|-
+| {{Iconbox|Istanbul is Constantinople. 再来一次。|作为希腊，占领伊斯坦布尔并将其更名为君士坦丁堡。|extension=png}}。
+|{icon|yes}} 作为{{flag|Greece}}播放
+| {{icon|yes}} 拥有伊斯坦布尔(797) 
+{{icon|yes}} 伊斯坦布尔已被改名为君士坦丁堡。
+*要么形成拜占庭帝国，要么恢复拜占庭，要么形成大希腊决定。
+|如果你选择了Megali想法，这很容易做到，因为它有可能让你、英国和法国同意分裂土耳其，并全部进攻土耳其。请注意，即使英国或法国同意分裂土耳其，他们也可以在你集中精力向土耳其宣战时单独放弃战争。
+| {{icon|bfb}}}。
+| data-sort-value="10" | 1.10
+| {{DI|E}}}
+|-
+| {{Iconbox|Make a Man Out of You|作为一个军阀，至少要有100万人力排队等候部署。}
+| 扮演的角色是：{{icon|yes}}。扮演''任一''： {{多栏||}}
+*{flag|Guangxi Clique}} *{flag|Guangxi Clique}}
+*{flag|Shanxi}*{flag|Shanxi}}
+
+*{flag|Xibei San Ma}} *{flag|Xibei San Ma}}
+*{flag|Yunnan}{{flag|Yunnan}}。
+|2}}
+|{icon|yes}} 超过1,000,000个{{icon|manpower|manpower}}在部署队列中
+
+* 你只能训练目前在战场上的75%的人力，最低为100.00K。因此，这意味着你必须在战场上至少有1,333,334个人力才能完成这个成就。{{flag|Guangxi Clique}}的起始人力最高。这方面的战术是达到5个军队的EXP，建立一个1个宽度的师，然后把它扔出去（确保在招募标签中把它放在最优先的位置，这样它就能先拿到枪）。尽快部署他们，然后把他们换过来，不断重复，直到你能排到100万以上的人手。
+* 这可能是完成[[成就#Battlecry|Battlecry]]成就的最佳方式。
+
+|
+| data-sort-value="5" | 1.5
+|{{DI|E}}。
+|-
+| {{Iconbox|Master of War|Full research a land, naval and air doctrine tree.}}。
+
+| [[File:Atomic research.png|22px]] 。在每个技术领域都研究了一个完整的分支。
+* 空中学说
+* 陆地学说
+* 海军学说
+| 如果你认为你应该得到这些而没有得到，请仔细检查你是否漏掉了树上同一行中不相互排斥的一个。
+|
+| data-sort-value="0" | 1.0
+|{{DI|E}}。
+|-
+| {{Iconbox|Mi Casa es tu Casa|As Mexico, host a government-in-exile.|extension=png|link=on}}。
+|{icon|yes}} 扮演{{旗帜|墨西哥}}的角色
+|{icon|yes}} 任何国家都会流亡到{{旗帜|墨西哥}}。
+|
+为了让墨西哥成为流亡国家的东道国，它必须是民主国家，而且派别领导人必须是民主国家。虽然墨西哥不一定是派别领袖，但它仍然需要有强大的军队或经济来接待流亡者。放逐卡列斯雇佣民主派顾问，然后顺着西班牙难民分支到西班牙联盟或玻利瓦尔联盟（等到你完成这两个重点后再过渡到民主派）。改变你的政府，使用西班牙团结的决定来邀请危地马拉加入你的派系，然后使用向南进军的重点来获得对萨尔瓦多的战争目标。宣战，从危地马拉撤走你的所有部队，等待它投降。
+| {{icon|mtg}}。
+| data-sort-value="6" | 1.6
+| {{di|e}}
+|-
+|{{Iconbox|君主制重新流行|作为德国人，让德皇复辟，并通过杀死墨索里尼确保意大利由维克多-伊曼纽尔控制。|extension=png}}。
+|{icon|yes}} 扮演{{旗帜|德国}}的角色
+|{icon|yes}}''威廉二世''是现任国家领导人
+饰演 {{icon|yes}} 扮演{{flag|Italy}}。维克多-伊曼纽尔三世是现任国家领导人
+|沿着 "反对希特勒 "树中的 "德皇归来 "和 "关注真正的敌人 "路径，直到你到达 "刺杀墨索里尼 "的焦点。威廉二世必须是你的领袖，而且在焦点完成之前他不能死。
+| {{icon|wtt}}}
+| data-sort-value="5" | 1.5
+| {{di|e}}
+|-
+| {{Iconbox|Now This is Getting Childish|As Yugoslavia or Bulgaria, be at war while both countries are ruled by a child.|extension=png}}。
+|{icon|yes}} 
+* {{旗帜|保加利亚}} *{旗帜|保加利亚}}。
+* {{国旗|南斯拉夫}}*{国旗|南斯拉夫}*{国旗|南斯拉夫}。
+}}
+| {{icon|yes}} {{flag|Bulgaria}}正与{{flag|Yugoslavia}}交战<br/>。
+{{icon|yes}} {{icon|yes}} {{flag|Bulgaria}}。''摄政委员会''是当前的国家领导人<br/>
+{{icon|yes}} {{Flag|Yugoslav}}："''摄政委员会''是目前的国家领导人<br/>。{{flag|Yugoslavia}}: ''保罗王子''有''未成年君主''的特质。<br/>
+|
+在历史焦点上，{{旗帜|南斯拉夫}}将让彼得二世以未成年君主的特质登上王位。保加利亚的焦点 "巴尔干的命运 "紧接在 "组建摄政委员会 "之后，可以让你在南斯拉夫身上得到一个傀儡战争目标。在1.10.1版本中可能存在问题--"组建摄政委员会 "不能正确地触发领导人的变化。
+
+以历史为重点，如{{国旗|保加利亚}}。完成 "组建摄政委员会 "并选择亲轴心国政府。不要完成 "巴尔干半岛的命运 "这个焦点。等到南斯拉夫想通过 "签署三方条约 "的焦点加入轴心国。在此期间，利用你对 "南塞尔维亚 "和 "马其顿 "的主张，为反对南斯拉夫辩护。加入轴心国，但不加入任何战争。然后宣战，但不要向南斯拉夫推进。南斯拉夫将取消加入轴心国的计划，而是完成 "结束摄政 "的计划，使彼得二世国王上台。
+可与 "傀儡大师"（赢得对南斯拉夫的战争并释放作为傀儡的各组成国）和/或 "巴尔干的普鲁士"（例如吞并南斯拉夫后完成 "巴尔干的命运"，帮助轴心国对抗{{旗帜|苏联}}，帮助盟国对抗轴心国，利用决定傀儡并吞{{旗帜|罗马尼亚}}和{{旗帜|希腊}}）一起进行。
+|{{icon|dod}}{{icon|bfb}}。
+| data-sort-value="10" | 1.10
+|{{DI|E}}{{DI|E}}
+|-
+| {{Iconbox||Our Words Are Backed With Nuclear Weapons||作为印度，开发并部署核弹。你必须有退出印度运动的民族精神。|extension=png}}。
+|{icon|yes}} 扮演{{flag|British Raj}}的角色
+| {{plainlist|* {{icon|yes}}扮演{{flag|British Raj}}。国旗''RAJ_quit_india_movement''被设置为
+* {{icon|yes}}国家旗帜''RAJ_quit_India_movement''被设置 国家旗帜''成就_放弃了_核弹''被设置 }}}
+|
+* ''RAJ_quit_india_movement''国家旗帜被戒除印度运动国家重点设置
+* 开发、建造和部署核弹（记得要获得一些战略轰炸机和战斗机的空中优势）。你有2个重点给你在这个领域的提升。如果中国沦陷，你可以单独在边境上阻止日本，并注意暹罗，因为它可以被日本人的焦点变成法西斯。
+* 可以和 "剪断绳子 "结合起来（只要在投下核弹后再做）。
+| {{icon|tfv}}。
+| data-sort-value="3" | 1.3
+| {{di|e}}
+|-
+| {{Iconbox|Panda-monium|作为军阀，与所有中国国家同时开战。|extension=png|link=on}}。
+| {{icon|yes}} 扮演''任一''： {{多列||}}
+*{flag|Guangxi Clique}} *{flag|Guangxi Clique}}
+* {{flag|Shanxi}}
+
+*{flag|Xibei San Ma}} *{flag|Xibei San Ma}}
+*{flag|Yunnan}{{flag|Yunnan}}。
+|2}}
+|{icon|yes}} 与之交战。{{多栏
+*{flag|Guangxi Clique}} *{flag|Guangxi Clique}}
+
+
+
+*{flag|Yunnan}*{flag|Yunnan}.
+
+*{flag|Communist China}}{{flag|Communist China}}。
+|2}}
+|这是与{{icon|wtt|Waking the Tiger}}的最佳搭配。因为没有它，军阀们将被{{flag|China}}和{{flag|Communist China}}吞并。<br/>
+作为{{flag|Sinkiang}}最容易做到，因为可能与{{flag|Soviet Union}}结盟。
+
+更简单的方法是以军阀身份变成法西斯，然后加入日本派系。当日本向中国宣战时，加入他们的战争，当中国召集中国联合阵线的成员时，你就会立即得到成就。
+| 
+| data-sort-value="5" | 1.5
+|{{DI|E}}。
+
+|-
+|{{Iconbox|Second Time's the Charm|As France, occupy Moscow while Napoleon VI is your country leader.|extension=png}}。
+|{图标|是}} 扮演{{旗帜|法国}}的角色
+| {{icon|yes}} 控制莫斯科 (219)
+{{icon|yes}} ''拿破仑六世''是现任国家领导人。
+| 如果和德国人站在一起，可以很容易做到。冲着君主主义的焦点树，你需要 "为滑铁卢复仇 "的焦点。准备用海军入侵来攻击英国。你的起始军队和舰队将足以摧毁他们。等到德国对波兰宣战。英国将加入战争。他们这样做的时候，就向英国宣战。德国会邀请你加入他们的派系，接受这个邀请并吞并英国。保证芬兰，因为苏联有理由对他们发动战争。接受战争的召唤，邀请轴心国的其他国家加入。这将使战争更容易，因为他们不会得到 "伟大的卫国战争 "的BUFF。一旦他们拿下莫斯科，请他们将该州的控制权交给你。确保你有足够的战争分数，这样他们就会允许你这样做。
+| {{icon|lar}}
+| data-sort-value="9" | 1.9
+| {{di|e}}
+|-
+| {{Iconbox|Team America|作为美国，在巴黎投下一颗核弹。|extension=png}}。
+|{icon|yes}} 扮演{{旗帜|美国}}的角色
+|{icon|yes}} 在巴黎投下了一枚核弹
+|作为一个民主国家，建造大量的飞机，即战略轰炸机和战斗机，并赶制核技术。德国将控制巴黎。在盟国时，将你的飞机转移到英伦三岛的机场，并在核技术准备好和有一枚核弹时让它们去法国北部执行任务。实现空中优势，并在准备好后对巴黎进行核攻击。
+| 
+| data-sort-value="6" | 1.6
+|{{DI|E}}}
+|-
+| {{Iconbox|The Empire Strikes Back|作为英国，向你以前的一个臣民宣战。|extension=png}}。
+|{icon|yes}} 扮演{{旗帜|英国}}的角色
+|[[文件：关系战争目标.png|24px]] 与''任一''交战：{{多列|}}。
+* {{旗帜|澳大利亚}} *{旗帜|澳大利亚}}。
+*{flag|British Raj}*{flag|British Raj}。
+
+
+
+*{flag|South Africa}*{flag|South Africa}}
+|2}}
+ 
+*与{{icon|mtg}}的关系 DLC。
+在'A Change in Course'下的任何树枝都会导致多米尼克与英国断绝关系并离开盟国。
+*没有{{icon|tfv}}的情况下 DLC。
+**转为法西斯主义者--这将促使你的盟友离开派别
+**对其中一个国家进行辩解和宣战。加拿大/澳大利亚/新西兰/南非
+| 
+| data-sort-value="3" | 1.3
+|{{DI|E}}}
+|-
+|{{Iconbox|This is Madness!|作为希腊，实现Megali理念，然后形成大希腊。|extension=png}}。
+|{icon|yes}} 作为{{flag|Greece}}玩耍。
+| {{icon|yes}} 已经形成了{{flag|Hellas|Greater Greece}}。
+{{崩溃 
+*控制了所有的希腊国家
+*控制了土耳其西部沿海所有的州
+如果不是{{icon|democratic|1}}的话
+*控制多德卡尼斯群岛(164)
+*控制塞浦路斯（183）}}。
+| Megali想法涉及到你、英国和法国同意攻击并分裂土耳其，这样你就能保证获得和平协议中所要求的土地。请注意，当你完成攻击土耳其的重点时，英国和法国可以单独放弃战争，即使他们在大会上同意了，但只靠其中一个人还是很容易打败土耳其，而且有可能自己打败他们。
+组成大希腊的决定可以通过以下方式解锁：当你的领导人不是Georgios Kosmidis时，通过完成重点 "现代运动 "并选择 "Ioannis Metaxas "作为国家领导人，或者通过完成重点 "为伟大的反法西斯战争做准备"。
+ 
+| {{icon|bfb}}。
+| data-sort-value="10" | 1.10
+| {{di|e}}
+
+
+
+
+
+
+
+
+
+
