@@ -1,134 +1,141 @@
 {{Version|1.10}}
-{{需要翻译|译者=XXX}}
+{{需要翻译|译者=ps}}
 __TOC__
-钢铁雄心4目前共有132个不同的'''成就''',全部使用Steam成就机制。获取的成就不会对游戏内容产生影响；成就在被获取时会在游戏中弹出，然后添加进玩家的Steam或Xbox资料中(依游戏版本而定)。你可以在游戏的[http://steamcommunity.com/stats/394360/achievements/?l=english Steam成就排行榜]中看到以获取该成就玩家比例进行排序的成就列表。
+钢铁雄心4目前共有132个'''成就''',使用Steam成就机制。获得的成就不会影响游戏内容；获得成就时会在游戏内弹出提示，同时该成就添加进玩家的Steam或Xbox资料中(依游戏版本而定)。你可以在[http://steamcommunity.com/stats/394360/achievements/?l=english Steam成就排行榜]中查看成就列表，该列表到以获取该成就玩家比例进行排序。
 
-完成每个成就的难度各不相同；某些成就极易达成(如加入派系)，而另一些则相对困难(例如作为{{flag|Czechoslovakia}}征服{{flag|Australia}}或以{{flag|France}}身份到1948年都未曾投降)。下面的列表中将成就按难度进行了分类，难度的大小则由英文wiki编辑者进行评估(未分类 - UC - 成就尚未评估)。
+成就获取的难度各不相同；某些成就容易获得(如加入派系)，而另一些难以达成(例如作为{{flag|Czechoslovakia}}征服{{flag|Australia}}或以{{flag|France}}身份到1948年都未曾投降)。下面的列表以达成难度将成就进行分类，难度的大小则英文wiki编辑者进行评估(未定 - UC - 成就尚未评估)。
 
-Achievements can only be gained in single-player [[Ironman]] games, with the 1936 start, on ''regular'', ''veteran'' or ''elite'' difficulty. (30 Minutes of Hel and Don’t Die for Your Country can only be completed in the 1939 start date.) They can be earned while playing older versions of the game as long as said achievements were present in that version. They can also be earned with ''Historical AI Focuses'' set to off. {Note:There is no "end date", the game can be continued indefinitely}
+只有在满足以下所有要求的情况才能获得成就：单人游玩下[[铁人]]模式；1936年开局；处于''常规''或以上难度.仅有两个例外，'''30 Minutes of Hel''和''Don’t Die for Your Country''需要玩家使用1939年开局。只要在某个版本上存在一个成就，即使该版本较老，你也可以在该版本上获取这个成就。在关闭''AI使用历史国策''选项时，也可以获取成就。
 
-It is not possible to gain achievements if the [[checksum]] has been changed - either by tampering with game files, or by running the game using mods that affect gameplay mechanics (graphical mods do not affect checksum), or a corrupted installation.
+注意，游戏本身没有结束时间，可以一直游玩下去。
 
-== List of achievements ==
-<!-- It is fine to re-order these achievements based on perceived difficulty as long as a justification is included in the edit summary. -->
-The "Notes" column lists helpful short tips/strategies.
+如果检测到[[校验码]]改变，将无法获得成就。这种问题通常由以下原因导致：游戏文件被修改；使用影响游戏机制的mod(图像mod不影响校验码)；安装错误。
 
-The {{icon|hoi4|width=21px}} column denotes achievements which can't be completed without the use of DLC mechanics (currently 45 out of 132). Multiple expansion icons mean either can be used.
+== 成就列表 ==
+<!-- 只要理由充分且进行说明，可以根据自己的感觉将下方的成就重新排序 -->
+"备注"栏中是关于如何获取该成就的简短建议。
 
-The "Ver" column indicates in which version a certain achievement was added. Achievements cannot be earned prior to the version they were added in.
+{{icon|hoi4|width=21px}} 栏中是取得成就所需要的DLC。共有45个成就需要使用至少某一个DLC才能解锁。如果该栏中显示多个DLC，那么拥有其中无论那一个都可以获取成就。 
 
-The "DI" column is for difficulty as assessed by wiki editors. VE = Very Easy, E = Easy, M = Medium, H = Hard, VH = Very Hard, I = Insane, UC = Uncategorized.
+"版本"栏中显示该成就是在哪一个版本中被加入游戏的。成就只能在其加入的版本及后续版本中才能获得。
+
+"难度"栏中显示获取该成就的难度。其大小由英文wiki编辑者制定，仅供参考。难度分为“极易、简单、普通、困难、极难、疯狂、未定”，分别对应英文wiki的“Very Easy、Easy、Medium、Hard、Very Hard、Insane、Uncategorized”七级。
+ <!-- VE = Very Easy, E = Easy, M = Medium, H = Hard, VH = Very Hard, I = Insane, UC = uncategorized -->
 
 {| class="mildtable sortable" width=100%
-! width=20% | Achievement
-! width=18% | Starting conditions
-! class="unsortable" width=22%" | Requirements
-! class="unsortable" width=37% | Notes
+! width=20% | 成就
+! width=16% | 开局条件
+! class="unsortable" width=22%" | 完成条件
+! class="unsortable" width=37% | 备注
 ! width=1% | {{icon|hoi4|width=21px}}
-! width=1% | Ver
-! width=1% | DI
+! width=2% | 版本
+! width=2% | 难度
 |-
-| {{Iconbox|BFFs|As Portugal, join the same faction as Great Britain.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Portugal}}
-| {{icon|yes}} In a faction with {{flag|United Kingdom}} 
-| You don't need DLC for this. Just go democratic and wait for world tension to rise. Recommend speed 5, you don't need technologies or focuses. You don't need to rush democracy because world tension will be under 80% for a long time. If the La Résistance DLC is active, you can just rush the focus [[Portuguese_national_focus_tree#Join_the_Allies|''"Join the Allies"'']] as well as some of the other focuses that increase the UK's opinion of you instead of waiting for world tension to rise.
+| {{Iconbox|BFFs|扮演葡萄牙，加入英国所在阵营|extension=png}}
+| {{icon|yes}} 扮演{{flag|Portugal}}
+| {{icon|yes}} 与{{flag|United Kingdom}}同阵营 
+| 无需dlc就能完成这个成就，只要将政体转变为和英国一致就好。推荐一直5速，单纯完成这个成就不需要任何的科研和军队布置，只要等到世界紧张度允许你加入英国的阵营即可。
 | 
 | data-sort-value="9" | 1.9
 | {{DI|VE}}
 |-
-| {{Iconbox|Braaaaains!|As Canada, complete the Send in the Zombies focus.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Canada}}
-| {{icon|yes}} Focus [[File:Goal generic demand territory.png|28px]] [[Canadian national focus tree#Send in the Zombies|''"Send in the Zombies"'']] is completed
-| Play Canada as normal but always rush down economic focuses. If world tension rises take the defensive focuses until Germany declares war on Poland, join the war and rush down the war focuses. Just be aware that you cannot unlock this achievement if you do the "National Steel Car."
+| {{Iconbox|Braaaaains!|扮演加拿大，完成'''派遣僵尸'''国策。|extension=png}}
+| {{icon|yes}} 扮演{{flag|Canada}}
+| {{icon|yes}} 完成 [[File:Goal generic demand territory.png|28px]] [[Canadian national focus tree#Send in the Zombies|''"派遣僵尸"'']]国策
+| 走正常线路，首先尽可能点经济国策。世界紧张度变高时开始点防御国策，德国向波兰宣战时加入战争，一路点向战争国策。
+
+需要注意的是，“派遣僵尸”国策与“国立钢铁汽车”国策互斥。
 | {{icon|tfv}}
 | data-sort-value="3" | 1.3
 | {{DI|VE}}
 |-
-| {{Iconbox|Canada First|Join Axis as Canada.}}
-| {{icon|yes}} Playing as {{flag|Canada}}
-| {{Plainlist|* {{icon|yes}} In a faction with {{flag|Germany}}
-* {{icon|yes}} {{flag|Germany}} is a faction leader }}
-| The faction does not need be the Axis, but it must be led by Germany. Although Together for Victory is not required; the achievement is much easier with it due to the DLC granting National Focuses specifically geared for this.
+| {{Iconbox|Canada First|扮演加拿大，加入轴心国}}
+| {{icon|yes}}扮演{{flag|Canada}}
+| {{Plainlist|* {{icon|yes}} 与 {{flag|Germany}}同阵营
+* {{icon|yes}} {{flag|Germany}} 是阵营领袖 }}
+| 阵营不一定是轴心国，但需由德国领导。成就本身不难，但拥有共赴胜利 {{icon|tfv}} DLC可使其更易获得。
 |
 | data-sort-value="0" | 1.0	
 | {{DI|VE}}
 |-
-| {{Iconbox|District 9|As South Africa, have 9 civilian factories in Transvaal.|extension=png}}
-| {{icon|yes}} Playing as {{flag|South Africa}}
-| {{icon|cic}} Has civilian factories >8 in the state Transvaal (275)
-|Convert military factories into civilian factories in Transvaal. Follow the Focus tree for free civilian factories. They can randomly give Transvaal the required Factories. If Transvaal runs out of building slots, follow the Dispersed/Concentrated Industry tech tree to get more building slots.
+| {{Iconbox|District 9|扮演南非，在德兰士瓦拥有9座民用工厂|extension=png}}
+| {{icon|yes}} 扮演{{flag|South Africa}}
+| {{icon|cic}} 在德兰士瓦 (275)拥有 >8 座民用工厂
+| 将军用工厂转变为民用工厂。工业国策可以随机给德兰士瓦增加民用工厂。如果德兰士瓦没有空余建筑位，则可通过离散型/密集型工业科技得到
 |
 | data-sort-value="3" | 1.3
 | {{DI|VE}}
 |-
-| {{Iconbox|Do You Mined?|Lay at least 1,000 mines on the coastline of an enemy nation.|extension=png}}
+| {{Iconbox|Do You Mined?|在敌国海岸线上布设至少1000颗水雷|extension=png}}
 |
-| {{icon|yes}} Any country is at war with player: has more than 999 mines on their coastline.
+| {{icon|yes}} 对任意与玩家交战的国家: 其海岸线上拥有大于999颗的水雷
 |
-Can be done immediately at the start of the game as Italy. Remove your divisions from Eritrea and/or Somaliland (keeping your ports for maximum efficiency) and lay mines with your starting navy until you reach 1000 mines.
+开局即可用意大利完成。从厄立特里亚和/或索马里兰(保留港口可以提升最大布蕾效率)撤离军队，然后在埃塞俄比亚海岸线慢慢布雷到1000颗即可。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|VE}}
 |-
-| {{Iconbox|Friend in Need|Join a faction.|extension=jpg}}
+| {{Iconbox|Friend in Need|加入任意阵营|extension=jpg}}
 |
-| {{icon|yes}} Country flag ''achievement_has_joined_faction'' is set
-|Choose {{flag|Sinkiang}} or {{flag|Venezuela}}, click on the {{flag|Soviet Union}} or {{flag|German Reich}} (respectively), click Join Faction, and click yes on the pop-up. It's that simple.
+| {{icon|yes}} 使用任意国家''加入阵营''
+|选择{{flag|Sinkiang}} 或 {{flag|Venezuela}},点击 {{flag|Soviet Union}} 或 {{flag|German Reich}} (不能交叉对应), 点击''加入阵营''，随后在弹出的事件框中选''是''.
 |
 | data-sort-value="0" | 1.0
 | {{DI|VE}}
 |-
-| {{Iconbox|Hellenic Civility|Win the Greek Civil War before 1937.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Greece}}
-| {{icon|yes}} Has won the Greek Civil War before January 1st, 1937
+| {{Iconbox|Hellenic Civility|在1937年之前赢得希腊内战|extension=png}}
+| {{icon|yes}}扮演{{flag|Greece}}
+| {{icon|yes}}在1937年1月1日之前赢得希腊内战
 |
-To trigger the civil war do not arrest the king and go down the focus "The Right to Rule". Before the civil war fires delete all land units and make a single calvary division in training. Deploy it in Athens after the war starts and take all victory points to quickly end the civil war.
+若想触发内战，不要软禁国王，并点出“天赋君权”国策。在内战打响前删掉你的所有部队并训练一支一营骑兵师，开战后尽快在雅典部署，跑马圈地占领胜利点以尽快结束内战。
 
-If you don't have BoTB, you can just do the normal civil war trick. Delete all of your army and do the "Political Effort" focus, use your PP to hire a communist revolutionary for 0.10+ daily communism support. Then, don't do any focuses. Use your PP to Expand Civil support, but have a cavalry division ready to deploy. When you achieve less than 50% stability, ignite civil war and deploy the cavalry division. Rush for the victory points to the win!
+如果你并未拥有博斯普鲁斯之战dlc，也可以按照通用国策的内战触发机制进行。首先删除所有部队并点出“重视政治”国策，用得到的政治点雇佣一名共产主义革命者以获得每日+0.10的共产主义支持度。之后不要点任何国策，用囤积的政治点扩大民意支持，并准备一支一营骑兵师等待部署。一旦你的稳定度低于50%，挑起内战并部署骑兵师，跑马圈地即可
 | 
 | data-sort-value="10" | 1.10
 | {{DI|VE}}
 |-
-| {{Iconbox|Hoofin’ It|Unite Arabia with thirty camelry divisions.|extension=png}}
+| {{Iconbox|Hoofin’ It|用30个骆驼骑兵师统一阿拉伯地区|extension=png}}
 | 
-| {{icon|yes}} United Arabia with 30 Camelry Divisions:
+| {{icon|yes}} 用30个骆驼骑兵师统一阿拉伯地区:
 {{Collapse|
-*Owns Yemen (293)
-*Owns Nejd (292)
-*Owns Oman (294)
-*Owns Abu Dhabi (658)
-*Owns Qatar (765)
-*Owns Aden (659)
-*More than 4499 infantry equipment in armies
-*More than 29 Camelry battalions}}
-| The British Raj, France, Iraq , Italy, Oman, Saudi Arabia, Spain, The United Kingdom, and Yemen start with camelry divisions while Turkey is able to unlock it with a focus.
-Hejaz (679) is not required. You can do this as any nation, as long as you have camel units.
-With {{icon|mtg}} : 
-Can be easily done as the United Kingdom since already own all the territory needed, except Saudi Arabia, Oman and Yemen
-* Take The King's Party focus route, justify and annex the 3 independant nation of the peninsula
-* Make a camel template and train 30 of them. You start the game with camels unlocked, but you have to make the template yourself
+* 拥有 也门 (293)
+* 拥有 内志 (292)
+* 拥有 阿曼 (294)
+* 拥有 阿布扎比 (658)
+* 拥有 卡塔尔 (765)
+* 拥有 亚丁 (659)
+* 多于 4499 步兵装备配置在军队中
+* 多于 29 个骆驼营}}
+| 英属印度帝国、法国、伊拉克、意大利、阿曼、沙特阿拉伯、西班牙、英国和也门开局就拥有骆驼部队，土耳其则可以通过国策获得。
+汉志 (679) 并不是必要的。
+只要你能获得骆驼部队，你也可以使用其它任何国家完成这个成就。
+
+拥有炮手就位 {{icon|mtg}} 时: 
+用英国达成此成就及其简单，因为英国开局便拥有除了沙特阿拉伯、阿曼和也门之外的所有地区：
+* 走王党线，宣称并吞并阿拉伯半岛上的三个国家
+* 制作一个骆驼师模板并且训练30个营。虽然开局拥有骆驼部队，但模板还需要你自己DIY。
 | {{icon|bfb}}
 | data-sort-value="10" | 1.10
 | {{DI|VE}}
 |-
-| {{Iconbox|I SEE EVERYTHING|Get over 90% intel in each category on a major without using code cracking.|extension=png}}
+| {{Iconbox|I SEE EVERYTHING|在不进行破译密码的情况下获得一个主要国家所有情报类别90%以上的情报。|extension=png}}
 | 
-| {{icon|yes}} Achieve 90% intel on all categories on any major nation without activating decryption on them:
+| {{icon|yes}}在不进行破译密码的情况下获得一个主要国家所有情报类别90%以上的情报:
 {{Collapse|
-{{icon|yes}} Intel on any Major:
-* NOT fully decrypted
-* Civilian intel > 89%
-* Army intel > 89%
-* Airforce intel > 89%
-* Navy Intel > 89% }}
-|  In order for the achievement to fire, the decryption must not be complete or cracked, but if the player selects it and waits the 30 days, the achievement will fire.
+{{icon|yes}} 主要国家的情报:
+* 没有完全破译
+* 内政情报> 89%
+* 陆军情报> 89%
+* 空军情报> 89%
+* 海军情报> 89% }}
+|  成就只能在没有解密完成且没有破解状态下才能达成，但是等到30天过后，成就一样可以获取。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|VE}}
 |-
-| {{Iconbox|Lethal Straight|Have a production license from at least 5 of the 7 major powers.|extension=png}}
+| {{Iconbox|Lethal Straight|从7个主要国家中的任意5个中获得生产许。|extension=png}}
 |
-| {{icon|yes}} Is licensing from 5 of the below: {{MultiColumn|
+| {{icon|yes}} 获得以下国家之中任意5个的生产许可: {{MultiColumn|
 * {{flag|France}}
 * {{flag|Germany}}
 * {{flag|Italy}}
@@ -137,31 +144,30 @@ Can be easily done as the United Kingdom since already own all the territory nee
 * {{flag|United Kingdom}}
 * {{flag|United States}}
 |2}}
-| As any country, preferably recommended to select neutral nations ({{icon|neutrality}}), as to avoid the “Strategic reasons” diplomatic penalty ({{red|–100|back}} value), that may block the “Request License Production” option, improve relations with five of the seven major powers then license the basic infantry weapons. (Researching the next level of infantry equipment also works, as even major nations have few problems with licensing outdated equipment.)
+| 为了避免“战略性原因”的外交惩罚( {{red|–100|back}} 关系)，最推荐用中立国家( {{icon|neutrality}})完成此成就，因为上述惩罚可能会让“请求生产许可”永远无法达成。与主要国家的其中五个搞好关系，然后请求生产最基础的步兵装备即可。（或者你也可以研究下一代步兵装备，毕竟主要国家也可能在许可过时装备上出现问题）
+{{flag|Yugoslavia}}可以通过国策“巩固旧联盟关系”和“查禁斯洛文尼亚民族主义党派”与其中三个国家增进关系。
 
-Yugoslavia can pick the focuses "Reinforce Old Alliances" and "Ban Slovene Nationalist Parties" to improve relations with three of the five countries. 
+简单的方法是用 {{flag|China}}，开局就与除了日本的所有主要国家都有不错的关系。
 
-Easy as China, they start with fairly good relations with all the majors, except Japan.
+还有一种方法，开一局超长的游戏，要么同盟要么傀儡这些主要国家，然后向他们请求生产许可。
 
-Alternatively you can also play a longer and larger game and just simply either ally or puppet all of the major nations and then get licenses from them.
-
-With La Resistance DLC you can use an agent and assing him diplomatic pressure on majors, it will make getting the achievement even easier
+在拥有''抵抗运动''DLC的情况下，你可以使用特工对主要国家施加贸易压力，以便更容易获得该成就。
 | {{icon|dod}}
 | data-sort-value="4" | 1.4
 | {{DI|VE}}
 |-
-| {{Iconbox|Listen Very Carefully, I Shall Say This...|Have a French and British spy work together on the same Operation.|extension=png}}
+| {{Iconbox|Listen Very Carefully, I Shall Say This...|让一名法国间谍和一名英国间谍在同一项任务中合作|extension=png}}
 |  
-| {{icon|yes}} Have a British and French Operative complete an Operation together.
-| Check happens upon operation completion. At least 1 participating operative requires French, and at least 1 participating operative requires British nationality. As of 1.9.0, there's no check that the French and British operatives are not the same person. 
+| {{icon|yes}} 让英国特工和法国特工共同完成一项任务。
+| 是否达成该成就的检查在任务完成后进行。至少一名特工是法国国籍，至少一名特公是英国国籍。在1.9.0中,并不会检查拥有这两种国籍的是否为同一个人。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|VE}}
 |-
-| {{Iconbox|Man of a Thousand Faces, Every One the Same|Have the same spy get captured twice.|extension=png}}
+| {{Iconbox|Man of a Thousand Faces, Every One the Same|一名特工两次被俘|extension=png}}
 | 
-| {{icon|yes}} Have any operative get captured twice.
-| The trigger flag is le_clerc2. On first capture, the operative gains le_clerc1. On second capture, the operative gains le_clerc2.
+| {{icon|yes}} 一名特工两次被俘
+| 营救特工，然后再将其派出去执行任务。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|VE}}
