@@ -172,50 +172,50 @@ __TOC__
 | data-sort-value="9" | 1.9
 | {{DI|VE}}
 |-
-| {{Iconbox|Mine is bigger than yours|Lead a faction with at least 20 members.}}
+| {{Iconbox|Mine is bigger than yours|领导一个至少有20个成员的阵营。}}
 |
-| {{Plainlist|* {{icon|yes}} Is a faction leader
-* {{icon|yes}} Members of faction > 19 }}
-| This suggestion requires {{icon|mtg}} DLC.
-As {{flag|United Kingdom}}, go down the [[British_national_focus_tree#Revisit_Colonial_Policy|Revisit Colonial Policy]] branch of the national focus tree to release all your subjects.
+| {{Plainlist|* {{icon|yes}}作为阵营领袖
+* {{icon|yes}} 阵营成员> 19 }}
+| 如果拥有炮手就位{{icon|mtg}} DLC.
+扮演{{flag|United Kingdom}}, 进入国策树中 [[British_national_focus_tree#Revisit_Colonial_Policy|重新审视殖民政策]]分支，释放所有附庸。
 
-This suggestion requires {{icon|tfv}} DLC, patch 1.6 or later, and to not have {{icon|mtg}} DLC.
-As {{flag|United Kingdom}}, release at least 14 colonies as puppets at the start of the game.
-Alternatively, this can also be done by playing as {{flag|German Reich|Germany}} or {{flag|Italy}}, going to war with the Allies ({{flag|France}} and {{flag|United Kingdom}}, defeating them, puppeting them and satelliting all releasable nations from their colonies in the peace deal. Then simply invite the puppets into your faction.
+如果拥有共赴胜利{{icon|tfv}} DLC，没有炮手就位{{icon|mtg}} DLC, 且版本号不低于1.6 。
+扮演{{flag|United Kingdom}},在游戏开始时最少可将14个殖民地释放为傀儡。
+还可以扮演{{flag|German Reich|Germany}} 或 {{flag|Italy}}, 与同盟国 ({{flag|France}} 与 {{flag|United Kingdom}}开战并将其击败,随后将其傀儡并将它们的殖民地释放为卫星国。接下来只要邀请就可以让这些国家加入你的派系。
 | 
 |data-sort-value="0" | 1.0
 |{{DI|VE}}
 |-
-| {{Iconbox|No country for old men|Reach 0 manpower with Scraping the Barrel as Conscription Law.}}
+| {{Iconbox|No country for old men|征兵法案改为'''榨干它们'''后，人力仍然归零。}}
 |
-| {{Plainlist|* {{iconify|Scraping the Barrel}} as conscription law 
+| {{Plainlist|* {{iconify|Scraping the Barrel}} 征兵法案为"榨干他们"
 * {{iconify|Manpower}} is < 1 }}
-| Can be accomplished by having the law after capitulating and controlling no territory (e.g. do nothing as Luxembourg). You can also spam recruitment of divisions until you've used up all your manpower, wait a few ticks for the achievement to trigger, and then cancel them all again (if you want to continue your game). You can start training a ton of 1-battalion divisions and boost the template later.
-{{flag|Tannu Tuva}} can easily reach this achievement due to their abysmally low core population of just 85k.
+| 在战败投降没有领土的情况下依然可以完成成就（比如用 {{flag|Luxembourg}}看海）。你也可以疯狂训练部队直到人力归零，等到能切征兵法案的时候切过去等一会就可以获得成就了（假如你还想继续游戏，记得把这些部队都删掉），最开始的时候可以训练巨量一营师，再给它们扩编。 
+{{flag|Tannu Tuva}} 可以轻松完成这项成就，这是由于该国只有少得可怜的 85k 人力。
 |
 | data-sort-value="0" | 1.0
 | {{DI|VE}}
 |-
-|| {{Iconbox|Nobody’s Business but the Turks|Restore the Ottoman Sultanate.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Turkey}}
-| {{icon|yes}} Has completed focus '''Return of the Sultan'''
-| You just have to win a small civil war to get to the focus
+|| {{Iconbox|Nobody’s Business but the Turks|重建奥斯曼苏丹国|extension=png}}
+| {{icon|yes}} 扮演 {{flag|Turkey}}
+| {{icon|yes}} 完成国策 '''苏丹归来'''
+| 你必须赢得一场小型内战才能进行该国策。
 | {{icon|bfb}}
 | data-sort-value="10" | 1.10
 | {{DI|VE}}
 |-
-| {{Iconbox|Nothing Wrong with our Bloody Ships|As the United Kingdom, have at least 9 battlecruisers.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United Kingdom}}
-| {{icon|yes}} At least 9 Battlecruisers
-|Battlecruisers are built with Heavy Ship Hulls and Battlecruiser armor. The United Kingdom starts with both. Make the cheapest Battleruisers you can and build 6 at the same time (you start with 3) with all your dockyards assigned, build more dockyards to speed up construction. 
+| {{Iconbox|Nothing Wrong with our Bloody Ships|扮演英国并最少拥有9艘战列巡洋舰|extension=png}}
+| {{icon|yes}} 扮演{{flag|United Kingdom}}
+| {{icon|yes}} 至少 9 艘战列巡洋舰
+|英国开局即拥有建造战列巡洋舰所需的'''重型战舰船体'''和'''战列巡洋舰装甲'''科技。开局已经拥有3艘，只要分配好船坞，可以同时建造6艘最便宜的战列巡洋舰。建设船坞可以加快造船速度。
 |
 | data-sort-value="6" | 1.6
 | {{DI|VE}}
 |-
-| {{Iconbox|Peter’s Pride|As Peter II of Yugoslavia, overthrow your uncle and become King.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Yugoslavia}} 
-| {{icon|yes}} Peter II is the current country leader.
-| Simply go down and complete a focus which puts Peter in charge, such as End the Regency. With historical AI, you won't be attacked before you can take the focus.
+| {{Iconbox|Peter’s Pride|令南斯拉夫的彼得二世推翻其叔叔成为国王|extension=png}}
+| {{icon|yes}} 扮演{{flag|Yugoslavia}} 
+| {{icon|yes}} 彼得二世成为当前国家领导人。
+| 只需要沿国策走到某个推彼得上位的国策即可，如'''结束摄政'''。走历史线可以让你在被其它国家攻击之前完成这个国策。
 | {{icon|dod}}
 | data-sort-value="10" | 1.10
 | {{DI|VE}}
