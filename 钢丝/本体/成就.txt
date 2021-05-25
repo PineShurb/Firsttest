@@ -220,53 +220,52 @@ __TOC__
 | data-sort-value="10" | 1.10
 | {{DI|VE}}
 |-
-| {{Iconbox|Play It, Sam|Have a spy network of at least 50% strength in Casablanca.|extension=png}}
+| {{Iconbox|Play It, Sam|在卡萨布兰卡拥有强度最少50%的情报网。|extension=png}}
 | 
-| {{icon|yes}} Network Strength in Casablanca (461) more than 50%
-| Establishing a spy network is avaliable even in peacetime so the achievement is fairly simple. Set your operatives on "Establish Spy Network" mission in Casablanca and the achievement will trigger once the network strength is over 50%. You can do this as soon as you have recruited your first operative but the more operatives you assign to establish a network in the same region, the faster the network will be at full strength.
+| {{icon|yes}} 在卡萨布兰卡（461）的情报网强度超过50%
+| 获取该成就相当容易，因为即使在和平时期也可建立情报网。将特工派到卡萨布兰卡建立情报网，一旦情报网强度超过50%就会获得该成就。拥有一个特工之后就可以开始这项任务了，但是更多的特工可以加快进度。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|VE}}
 |-
-| {{Iconbox|Romance of the Three Kingdoms|As China, puppet and then annex Yunnan and Guangxi Clique.|extension=png}}
-| {{icon|yes}} Playing as {{flag|China}}
-| {{icon|yes}} Integrated the {{flag|Guangxi Clique}} and {{flag|Yunnan}} through making them a puppet.
+| {{Iconbox|Romance of the Three Kingdoms|扮演中华民国，傀儡滇系军阀和桂系军阀，随后将其吞并。|extension=png}}
+| {{icon|yes}} 扮演{{flag|China}}
+| {{icon|yes}} 将{{flag|Guangxi Clique}} 和 {{flag|Yunnan}} 傀儡，随后吞并。
 |
-* With {{icon|wtt}} DLC:
+* 需要 唤醒猛虎{{icon|wtt}} DLC:
 
-Pick the "Subjugate the Warlords" focus from "Three Principles of the People" branch. Yunnan and Guangxi will either subjugate (and will become your puppet) or will refuse - then you will get a wargoal against them. You may annex the majority of their states, however, it is important to puppet them.
-
-After subjugating warlords, a series of "Integrates the Warlords" decisions will be opened; just make decisions for Yunnan and Guangxi.
+在“三民主义”国策分支向下点到“荡平军阀”国策。滇系和桂系会屈服（此时会变为你的傀儡）或拒绝。如若拒绝，则你获得对它们的战争目标。你可以直接吞并它们的大部分土地，但要想完成成就一定要傀儡它们。
+控制了军阀之后，一系列“整合军阀”的决议将会启动，一步步执行相关决议即可。
 |
 | data-sort-value="5" | 1.5
 | {{DI|VE}}
 |-
-| {{Iconbox|Shaken, Not Stirred|Successfully stage a coup in any nation using a spy with the Seducer trait.|extension=png}}
+| {{Iconbox|Shaken, Not Stirred|使用拥有"魅惑者"特质的特工，在任何国家成功发起一场政变。|extension=png}}
 |  
-| {{icon|yes}} Start a coup in any nation using an Operative with the seducer trait.
-| At least 1 operative participating in the Coup Government operation requires the seducer trait. This will trigger the achievement_seducer_spy flag.
+| {{icon|yes}}使用拥有"魅惑者"特质的特工，在任何国家成功发起一场政变。
+| 在策划政变的特工中，最少有一名特工拥有"魅惑者"特质。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|VE}}
 |-
-| {{Iconbox|Spies Trade|As India, become the spymaster for the Allies.|extension=png}}
-| {{icon|yes}} Playing as {{flag|British Raj}}
-| {{icon|yes}} Is spymaster<br/>
-{{icon|yes}} In a faction with {{flag|United Kingdom}}
-| Make sure you have 5 free Civilian factories, and immediately use them to Form Agency on the top of the Intelligence Agency menu. Then, upgrade the Agency three times with anything you like, and after that the option to Become Spymaster (for the Allies) will be available next to the name and icon of your agency at the top of the window. Invest 50 PP, and the achievement should trigger. The AI will always accept, as there is a whopping +1000 positive modifier for the AI to accept a request to become Spymaster if the asking country is controlled by a player. India needs to be at least a dominion to become spymaster.
+| {{Iconbox|Spies Trade|扮演印度，成为同盟国间谍主管。|extension=png}}
+| {{icon|yes}} 扮演{{flag|British Raj}}
+| {{icon|yes}} 成为间谍主管<br/>
+{{icon|yes}} 与{{flag|United Kingdom}}同阵营
+| 确保你拥有最少5个可用民用工厂，立刻使用它们创建情报机构。然后按喜好将情报机构升级三次。此时"成为间谍主管"按键将可以使用，攒够50政治点后点击该按键就可以完成成就。印度至少要成为自治领才可以是间谍主管。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|VE}}
 |-
-| {{Iconbox|The Balkan Powder Keg|As Yugoslavia, start the Second World War (i.e. be part of either the Axis or the Allies and at war with the other faction in a war you started).|extension=png}}
-| {{icon|yes}} Playing as {{flag|Yugoslavia}}
-| {{icon|cb}} Declared war on Axis/Allies while part of Allies/Axis (respectively)
+| {{Iconbox|The Balkan Powder Keg|扮演南斯拉夫，发动第二次世界大战。 (也就是，加入同盟国或轴心国，向另一方发动战争。).|extension=png}}
+| {{icon|yes}} 扮演 {{flag|Yugoslavia}}
+| {{icon|cb}} 作为同盟国或轴心国的一员，向另一方发动战争。
 |
-* Choose Fascist Demagogue as your first Political Power spending, turn Fascist (skip Civil War option) and join the Axis
-* Start Justifying War on the UK and when it's done declare war
-** Alternatively, start justifying a war goal on a European nation when World Tension is above 25%. The nation you are justifying on will thus get guaranteed by either France or the UK and they often ally together. Once done, declare the war and the Allies will join in defense of the targeted nation
-* When playing with {{icon|dod}} DLC before joining Axis get "Invite German Military Mission" Focus to avoid Civil War
-* Can be done before 1938
+* 第一个政治顾问就选择法西斯政治家，在避免内战下转为法西斯且加入轴心国。
+* 对英国正当化战争目标，完成时宣战。
+** 或者也可以在全球紧张度高于25%时对其他欧洲国家正当化战争目标。对方将会被法国或英国保独并且经常结盟。宣战时同盟国会自动介入战争保护该国。
+* 拥有死亡或屈辱 {{icon|dod}} DLC 时，在加入轴心国前点“邀请德国军事顾问团”可以避免内战
+* 1938年前便可完成
 |
 | data-sort-value="4" | 1.4
 | {{DI|VE}}
