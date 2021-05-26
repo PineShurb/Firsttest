@@ -270,71 +270,71 @@ __TOC__
 | data-sort-value="4" | 1.4
 | {{DI|VE}}
 |-
-| {{Iconbox|Time is on our side|Reach 1948.}}
+| {{Iconbox|Time is on our side|让时间到达1948年。}}
 |
-| {{icon|time}} Date is > 1947.12.31
-| Play as any South American nation if you want to AFK. If you manage to pull this off as {{flag|France}}, without ever surrendering or capitulating once, you will also unlock the [[#Vive la France|Vive la France]] achievement.
+| {{icon|time}} 时间晚于 1947.12.31
+| 如果你想看海就用南美国家或者不丹尼泊尔之类的小国AFK。假如你用 {{flag|France}}，在不屈服或投降的情况下，你同时会获得 [[#Vive la France|Vive la France]] 成就。
 |
 | data-sort-value="0" | 1.0
 | {{DI|VE}}
 |-
-| {{Iconbox|To Arms in Dixie!|As the U.S.A., start a new civil war as the South.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United States}}
-| {{icon|yes}} The Boston Rebellion has begun.
+| {{Iconbox|To Arms in Dixie!|扮演美国，使用南方开启新一场内战。|extension=png}}
+| {{icon|yes}} 扮演{{flag|United States}}
+| {{icon|yes}} 波士顿叛乱已经开始。
 |
-Abstain from Continue the New Deal until the 1936 election, choose Republicans, and Reestablish the Gold Standard. Go down the America First path and complete the "Ally with the Silver Shirts" National Focus to trigger the event chain leading to the civil war. For best results, complete the "'''Work with the bund'''" and "'''Recruit the Free Corps'''" national focuses. To actually form the Confederacy, complete the national focus "'''Honor the Confederacy'''" and all of its constituent decisions before the civil war ends.
+在1936年大选之前不要点“继续罗斯福新政”国策。大选时选择共和党，然后点“重建金本位制”，进而点“美国优先”和“与银衫军结盟”，便可以获得一系列导向内战的事件。最理想的状态下，可以完成“'''与德美同盟合作'''”和“'''招募自由军团'''”两个国策。为确保联盟国成立，需要点“'''向联盟国致敬'''”的国策，并在内战结束之前完成该国策衍生的一系列决议。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|VE}}
 |-
-| {{Iconbox|Transport Tycoon|Have at least 1000 convoys.}}
+| {{Iconbox|Transport Tycoon|拥有至少 1000 艘运输船}}
 |
-| [[File:Convoy.png|28px]] Has convoys > 999
-|Just set all of your dockyards as the {{flag|United States}} to Convoy production and stay out of any wars.
+|[[File:Convoy.png|28px]] 拥有运输船数量 > 999
+| 选择 {{flag|United States}} 并把你所有的船坞都拿来造运输船，同时远离任何战争即可。
 |
 | data-sort-value="0" | 1.0
 | {{DI|VE}}
 |-
-| {{Iconbox|Turing Complete!|Fully decrypt all nations in the Axis.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United Kingdom}}
-| {{icon|yes}} As Great Britain, fully decrypt every Major nation in a faction with Germany<br/>
-*{{flag|Germany}} is a major
-*Every other country is either:
-**Not Germany and not in faction with Germany
-**Not a Major
-**Is fully decrypted
-| At the start of the game create your spy agency and unlock all cryptology tech, you only need to decrypt Germany as they are the only member of the Axis.
+|{{Iconbox|Turing Complete!|完全破译所有轴心国国家的密码|extension=png}}
+| {{icon|yes}} 扮演 {{flag|United Kingdom}}
+|{{icon|yes}} 扮演英国，完全破译与德国同阵营的所有主要国家的密码<br />
+*{{flag|Germany}} 是主要国家
+* 所有其他国家是以下其一：
+** 不是德国且不与德国同一阵营
+** 不是主要国家
+** 密码被完全破译
+| 游戏开始后立刻建立情报机构并升级全部解密科技，只要破解轴心国内德国的密码即可。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|VE}}
 |-
-| {{Iconbox|United Netherlands|Conquer Belgium and Luxembourg as Netherlands.}}
-| {{icon|yes}} Playing as {{flag|Netherlands}}
-| {{icon|yes}} Own and control the states: {{MultiColumn|
-* Vlaanderen (6)
-* Holland (7)
-* Luxembourg (8)
-* Wallonie (34)
-* Brabant (35)
-* Friesland (36)
+| {{Iconbox|United Netherlands|扮演荷兰，征服比利时和卢森堡。}}
+| {{icon|yes}} 扮演{{flag|Netherlands}}
+|{{icon|yes}} 拥有并控制以下地区： {{MultiColumn|
+* 弗拉芒 (6)
+* 荷兰 (7)
+* 卢森堡 (8)
+* 瓦隆 (34)
+* 布拉班特 (35)
+* 弗里斯兰 (36)
 |2}}
-|This becomes much easier with the {{icon|mtg}} Man The Guns DLC as it grants the Netherlands a National Focus tree containing focuses specifically geared towards this achievement. Cave to the British, then rush immediately to "Lead the Minor Democracies" branch. A focus is called "Form the Benelux" under it, and completing the focus will activate a decision "Propose Benelux Unification" for the player to take, which costs 300 political power. Taking the decision will fire an event for Belgium and Luxembourg to decide whether they should join the Netherlands. The event gives Belgium and Luxembourg a chance to avoid annexation. However, the AI will always choose to be annexed. Once Belgium and Luxembourg agree, you will annex them both and you have successfully achieved this without any bloodshed.
+| 炮手就位 {{icon|mtg}} DLC给予了荷兰直奔这项成就的国策树，因而拥有该DLC会使成就更加轻松。开局走'''向英国人屈服'''国策，然后直奔“领导小民主国家”分支下的“组建比荷卢”，完成这项国策后会启用一项名为“提议比荷卢统一”的决议，该决议花费300政治点数。执行这项决议会让比利时和卢森堡获得一个事件来决定它们是否加入荷兰，该事件给了它们避免吞并的机会，然而AI总是会选择被吞并。一旦这两个国家同意，你便可以兵不血刃地完成这项成就。
 |
 | data-sort-value="0" | 1.0
 | {{DI|VE}}
 |-
-| {{Iconbox|We'll Build it in a Day|Research Construction V.}}
+| {{Iconbox|We'll Build it in a Day|研发"建筑技术 V"。}}
 |
-| [[File:Atomic research.png|22px]] Has researched {{iconify|Construction V}}
-|Stack up as many bonuses to research speed (especially industrial research speed) and work your way down the industrial branch. Eventually, you should reach Construction V. {{flag|Brazil}} is a good candidate, being a very large minor nation that isn't likely to get involved in any wars.
+| [[File:Atomic research.png|22px]] 已经研发 {{iconify|Construction V}}
+|获取尽可能多的研究速度加成，尤其是工业研究加成，然后全力进行工业方向的研究。持续足够的时间后，就可以完成该研究。可以选择扮演{{flag|Brazil}} 。在不易被卷进战争的小国中，它的面积还比较大。
 |
 | data-sort-value="0" | 1.0
 | {{DI|VE}}
 |-
-| {{Iconbox|You Will Never Kill Me Alive|Have one of your spies take a Suicide Pill.|extension=png}}
+| {{Iconbox|You Will Never Kill Me Alive|你的一名特工服用自杀药物|extension=png}}
 | 
-| {{icon|yes}} Have an operative die with the Suicide Pills agency upgrade active.
-| The required global flag: kill_me_alive_flag is set when a player's operative dies if the player has completed the Suicide Pills agency upgrade. If you keep sending your operatives on missions, or indeed just have them perform various activities like Build Intel Network in other countries, eventually one of them will die and the achievement will trigger.
+| {{icon|yes}} 情报机构升级"自杀药物"后，有一名特工死亡。
+| 情报机构完成"自杀药物"升级后，只要有特工死亡，玩家就会获得该成就。让特工尽可能的执行更多任务，早晚它们会出现一些意外。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|VE}}
