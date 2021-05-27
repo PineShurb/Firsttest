@@ -339,33 +339,32 @@ __TOC__
 | data-sort-value="9" | 1.9
 | {{DI|VE}}
 |-
-| {{Iconbox|Arsenal of Democracy|As the U.S.A., have more than 300 military factories.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United States}}
-| {{icon|yes}} Current ruling party is {{icon|Democracy|Democratic}}
-{{icon|yes}} More {{icon|mic|Military Factories}} than 300
-|To get extra building slots, the War Powers sub-branch gives war goals even as a democracy. Save up Political Power. Do not do the building quests while Roosevelt is in power because when you make Alf Landon president, The Congress Support will be high. Take all statehood-granting decisions when Political Power reaches 100. When Landon becomes President, go straight to America First. Once complete, take the new advisor. Then go to American Institute of Sciences. When Fascist support gets to 30.10%, it will be possible to take War Powers Act. Change the Advisor to Democratic as soon as that focus is taken. Take Anti-Fascist Raids decision whenever available to reduce Fascist support. When War Support reaches 35%, take Seize Cuba and Eliminate the Southern Threat for Cuba and Mexico. When Fascism reaches below 20%, take Ban Fascism to be able to take the Neutrality Act for factories.
-For more experienced players, the Panay incident random event (which fires when {{flag|Japan}} conquers Shanghai and Nanjing) grants the player the opportunity to start an early war with Japan to acquire even more factories.
+| {{Iconbox|Arsenal of Democracy|扮演美国，拥有300座以上军用工厂|extension=png}}
+| {{icon|yes}} 扮演{{flag|United States}}
+|{{icon|yes}} 当前执政党是 {{icon|Democracy|民主主义者}}
+{{icon|yes}} 超过300个 {{icon|mic|军用工厂}} 
+|即使是民主政体，也可以从"战争权力法案"一系的国策中取得战争目标，由此可以获得额外的建筑槽。积攒政治点。当罗斯福在位时，不要进行建设工作。因为当阿尔夫·兰登成为总统时，国会将会给予他很大的支持。当攒足100政治点数时，进行所有给予地方地位的决议。当兰登上任后，直接进行"美国优先"国策。完成后，选择新的顾问。然后进行"美国科学研究所"国策。当法西斯支持率达到30.10%时，可以进行"战争权力法案"国策。该国策完成后，立刻将顾问换成民主人士。尽可能多的执行"搜捕法西斯分子"决议以降低法西斯支持度。当战争支持度达到35%时，利用"夺取古巴"和"消除南方威胁"两个国策来获得古巴和墨西哥。当法西斯支持度降低到20%以下时，执行"禁止法西斯主义"决议，这样就可以完成"中立法案"国策了。
+对于高玩，可以利用随机事件"帕奈号事件"(在{{flag|Japan}}占领上海和南京时发生)来对日本早战，由此乘机获得更多工厂。
 | 
 | data-sort-value="6" | 1.6
 | {{DI|E}}
 |-
-| {{Iconbox|Australia-Hungary|As Australia, own all core territory of Hungary.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Australia}}
-|{{icon|yes}} Conquered all {{flag|Hungary|Hungarian}} core territory
+| {{Iconbox|Australia-Hungary|扮演澳大利亚，征服匈牙利的所有核心领土|extension=png|link=on}}
+| {{icon|yes}} 扮演{{flag|Australia}}
+|{{icon|yes}} 征服{{flag|Hungary|匈牙利}}所有核心领土
 |
-*Turning off {{icon|dod|1}} DLC will prevent Hungary from obtaining cores aside from those it started with.
-Get Fascist, justify on Hungary, leave Allies/join Axis, wait for Anschluss, paradrop from German Austria to the three Hungarian cities. Relocating transport planes to your faction airfield will require sending other planes first, so make sure to send some fighters. Also, be aware there may be some issues caused by the [[Battle_plan#Paradrop|central air node bug]] but this can be fixed by focusing your transport planes on your air field's air zone once the battle plan is initiated. Don't ask for help in the war. If you do it early enough, it should be a quick conflict. Focus tree: Never Another Gallipoli down to Our Own Empire (though you can declare independence quicker than the focus tree using the [[Puppet#Autonomy_Score_and_Types_of_Subject|Autonomy mechanic]]). To prevent delays, read-ahead down the tree, e.g., have enough infantry equipment stored for Supply Indonesian Nationalists.
+*关掉死亡或屈辱 {{icon|dod|1}} DLC可以阻止匈牙利在开局后获得其它核心领土。变身法西斯主义，对匈牙利正当化战争目标，离开同盟国加入轴心国，等待德奥合并后，从德国控制下的奥地利伞兵空降至匈牙利的三个城市。记得存一些战斗机，因为将运输机派遣到阵营内其它国家的机场前，需要该机场内有其它的飞机。不要召唤盟友。如果你开战足够早便可以速战速决。国策走向：加里波利的悲剧不能重演——我们的帝国(其实，利用[[Puppet#Autonomy_Score_and_Types_of_Subject|自治系统]]可以更快的完成独立)。为避免拖延，直接走这一条国策树，记得为国策“支持印尼民族主义者”预留足够的步兵装备。
 |
 | data-sort-value="5" | 1.5
 | {{DI|E}}
 |-
-| {{Iconbox|Better than the Szent István|As Hungary, have Miklos Horthy as a Naval commander and build a battleship.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Hungary}}
-| {{Plainlist|* {{icon|yes}} Has the unit leader ''Miklos Horthy''
-* [[File:Battleship.png|28px]] Has at least 1 Battleship }}
+| {{Iconbox|Better than the Szent István|扮演匈牙利，任命霍尔蒂·米克洛什为海军军官，并修建一艘战舰。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|Hungary}}
+| {{Plainlist|* {{icon|yes}} 任命 ''霍尔蒂·米克洛什''为指挥官
+* [[File:Battleship.png|28px]] 拥有至少 1 艘战列舰 }}
 |
-*As Hungary you start without a coast. Getting to the coast is easiest through either Yugoslavia or Romania. There are several decisions in the focus tree, giving claims, but to make Miklos Horthy a Naval Commander you need to take the Habsburg Prince Focus Path.
-* All you need to do after, is build at least 1 Battleship, (you need to research that tech because Hungary starts without any Naval Tech in 1936) and assign Miklos Horthy to that fleet.
+*匈牙利开局并没有沿海省份。获取沿海省份最简单的方法是通过南斯拉夫和罗马尼亚。有多个国策都可以给予宣称。但是要进行"邀请哈布斯堡王子"一系列的国策才可以使''霍尔蒂·米克洛什''成为海军军官。
+* 接下来需要做的，就是修建至少一艘战舰并任命霍尔蒂·米克洛什为其指挥官。匈牙利在1936年开局时没有任何海军科技，所以需要完成各项所需研究。
 | {{icon|dod}}
 | data-sort-value="4" | 1.4
 | {{DI|E}}
