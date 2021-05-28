@@ -369,49 +369,49 @@ __TOC__
 | data-sort-value="4" | 1.4
 | {{DI|E}}
 |-
-| {{Iconbox|Britzkrieg|As the United Kingdom, put Edward VIII in power, ally Germany and fully control Paris.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United Kingdom}}
-| {{icon|yes}} Has completed focus ''The King's Party''
-{{icon|yes}} Is in faction with {{flag|Germany}}<br/>
-{{icon|yes}} {{flag|France}} has capitulated or does not exist<br/>
-{{icon|yes}} has full control of Ile de France
-|Follow the focus tree to [[British_national_focus_tree#Alliance_with_Germany|Alliance with Germany]] Justify against France and launch a naval invasion of Normandy. It is not necessary to call Germany into the war. This can be combined with the [[#Last for a Thousand Years|Last for a Thousand Years]] achievement. If France is puppeted, the achievement will not fire. Annex all cores, territories, and colonies to be sure.
+| {{Iconbox|Britzkrieg|扮演英国，使爱德华八世，与德国结盟并完全控制巴黎。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|United Kingdom}}
+| {{icon|yes}} 完成国策 ''王党''
+{{icon|yes}} 与 {{flag|Germany}} 同阵营<br/>
+{{icon|yes}} {{flag|France}} 不存在或已投降。<br/>
+{{icon|yes}} 完全控制法兰西岛。
+|一路执行国策树到 [[British_national_focus_tree#Alliance_with_Germany|与德国结盟]] 对法国正当化战争目标，在诺曼底进行海军登陆。不需要召唤德国进入战争。可以同时完成成就[[#Last for a Thousand Years|Last for a Thousand Years]]。如果法国成为傀儡则无法获取该成就。要获取该成就，需要吞并所有核心领土、属地和殖民地。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|E}}
 |-
-| {{Iconbox|Cut The Strings|Break free from your overlord as a puppet.|extension=png}}
-| [[File:Autonomy puppet icon.png|24px|link=Puppet]] Playing as a ''puppet''
-| [[File:Autonomy freedom icon.png|24px]] Is ''not'' a subject
-| With {{icon|tfv}} / {{icon|dod}} DLC:
-* As British Raj build military factories, invest tech in newest infantry weapons, mass produce it and lend-lease them to the UK for autonomy points (technology above UK level will net more points). 
-* Can be combined with "Our Words Are Backed With Nuclear Weapons" (declaring independence after dropping the nuke) - requires {{icon|tfv}}.
-* WARNING! Cannot be done as Egypt (possibly because starting a game as the UK).
-* Can be done as Manchukuo by following the focus tree to declare war on Japan - requires {{icon|wtt}}.
-Without DLC:
-* Hire an ideology-changing advisor and prepare for a civil war.
-* Once the civil war starts, the playable side in the civil war will receive independence, which grants the achievement.
+| {{Iconbox|Cut The Strings|作为傀儡，从宗主国手上取得独立。|extension=png}}
+| [[File:Autonomy puppet icon.png|24px|link=Puppet]] 扮演一个'''傀儡国'''
+| [[File:Autonomy freedom icon.png|24px]] '''不是'''傀儡
+| 拥有 共赴胜利{{icon|tfv}} / 死亡或屈辱{{icon|dod}} DLC:
+* 扮演英属印度，建设军事工厂，研究最新步兵武器，大量制造该武器并租界给英国以获得自治度。科技水平高于英国时可以获得更多自治度。
+* 可以同时完成"Our Words Are Backed With Nuclear Weapons" 成就。(扔完核弹就宣布独立) - 需要 共赴胜利{{icon|tfv}}.
+* 警告! 不能以埃及身份完成成就 (可能是因为在游戏开局时扮演英国).
+* 扮演满洲国，按照国策一直走到向日本宣战就可以获取成就 - 需要 唤醒猛虎{{icon|wtt}}DLC。
+没有 DLC 时:
+* 雇佣一个可以改变意识形态的顾问，同时为内战做准备。
+* 内战开始之后，内战中可玩的一方将会获得获得独立，同时也将获得成就。
 |
 | data-sort-value="3" | 1.3
 | {{DI|E}}
 |-
-| {{Iconbox|Destroyer of Worlds|Deploy a nuke.}}
+| {{Iconbox|Destroyer of Worlds|投下一枚核弹}}
 | 
-| {{icon|yes}} Country flag ''achievement_has_dropped_nuke'' is set
+| {{icon|yes}} 扔下一枚核弹
 |
 |
 | data-sort-value="0" | 1.0
 | {{DI|E}}
 |-
-| {{Iconbox|En Svensk Tiger|As Sweden, acquire a production license for a Tiger or Tiger II tank from Germany.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Sweden}}
-| {{icon|yes}} Is licensing from {{flag|Germany}} ''either'':
-* Heavy Tank II (Panzerkampfwagen VI Tiger)
-* Heavy Tank III (Panzerkampfwagen Tiger Ausf. B)
+| {{Iconbox|En Svensk Tiger|作为瑞典，从德国取得虎式或虎式II型的生产许可。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|Sweden}}
+| {{icon|yes}} 从 {{flag|Germany}} 获取下列装备之一的生产许可:
+* VI号坦克“虎式”
+* “虎式”坦克B型
 |
-* Choose Fascist Demagogue as your first Political Power spending and turn Fascist (skip Civil War option)
-* Join Axis and help them in wars (Germany has to survive until they research Tiger tank - at least late 1943)
-| {{icon|dod}}
+* 首先攒够政治点雇佣法西斯政治家作为顾问，将国家转为法西斯主义(跳过内战)
+* 加入轴心国并帮助它们维持战争。(必须保证德国能维持到研究出虎式坦克，最晚也会在1943年底)。
+| 死亡或耻辱{{icon|dod}}
 | data-sort-value="4" | 1.4
 | {{DI|E}}
 |-
