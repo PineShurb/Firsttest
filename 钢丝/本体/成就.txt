@@ -415,61 +415,64 @@ __TOC__
 | data-sort-value="4" | 1.4
 | {{DI|E}}
 |-
-| {{Iconbox|I Am the Tong Master|As South Africa, break free from the UK and puppet another nation.|extension=png}}
-| {{icon|yes}} Playing as {{flag|South Africa}}
-| {{Plainlist|* [[File:Autonomy freedom icon.png|24px]] Is ''not'' a subject
-* {{icon|yes}} Has subjects >0 }}
+| {{Iconbox|I Am the Tong Master|扮演南非，从英国独立并傀儡另一个国家。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|South Africa}}
+| {{Plainlist|* [[File:Autonomy freedom icon.png|24px]] '''不是'''附庸 
+* {{icon|yes}} 附庸数量 >0 }}
 | 
-With {{icon|tfv}} DLC:
-* Get the Fascist focuses ,declare indepence of South Africa
-* Release Namibia as your puppet. 
-Without {{icon|tfv}} DLC:
-* Turn Fascist
-* Produce few subs and some extra convoys
-* Justify and Declare War on Liberia and puppet them in a peace deal (can also be done by releasing Namibia and justifying on them.)
+拥有 共赴胜利{{icon|tfv}} DLC 时:
+* 走法西斯国策，宣布南非独立
+* 释放纳米比亚作为你的傀儡
+没有 共赴胜利{{icon|tfv}} DLC 时:
+* 转法西斯
+* 建造少量潜艇和额外的运输船
+* 
+* 正当化对利比里亚的战争借口并宣战，并且在和平谈判中傀儡之(也可以释放纳米比亚并对它来这一套。)
 | 
 | data-sort-value="3" | 1.3
 | {{DI|E}}
 |-
-| {{Iconbox|I Captured the Bosporus and All I Got Was This Lousy Achievement|As Greece or Bulgaria, own both sides of the Bosporus. As Turkey, subjugate both Greece & Bulgaria.|extension=png}}
-| {{icon|yes}} Playing as ''either'': {{MultiColumn|
+| {{Iconbox|I Captured the Bosporus and All I Got Was This Lousy Achievement|扮演希腊或保加利亚，拥有博斯普鲁斯海峡两岸。扮演土耳其，征服希腊与保加利亚。|extension=png}}
+| {{icon|yes}} 扮演以下国家''之一'': {{MultiColumn|
 * {{flag|Bulgaria}}
 * {{flag|Greece}}
 * {{flag|Turkey}}
 }}
-| If {{Flag|Greece}} or {{flag|Bulgaria}}:<br/>
-{{icon|yes}} Owns state Istanbul (797)
-Otherwise:<br/>
-*{{flag|Turkey}}: Has {{flag|Bulgaria}} as a subject or all {{Flag|Bulgaria|Bulgarian}} cores are owned.
-*{{flag|Turkey}}: Has {{flag|Greece}} as a subject or all {{Flag|Greece|Greek}} cores are owned.
+| 扮演 {{Flag|Greece}} 或 {{flag|Bulgaria}}:<br/>
+{{icon|yes}} 拥有地区 伊斯坦布尔 (797)
+或:<br/>
+*{{flag|Turkey}}：拥有 {{flag|Bulgaria}} 作为附庸或拥有 {{Flag|Bulgaria|Bulgarian}} 的所有核心。
+*{{flag|Turkey}}：拥有 {{flag|希腊王国}} 作为附庸或拥有 {{Flag|希腊王国}} 的所有核心。
 |
-The Bulgarian focus "The Fate of the Balkans" allows for the peaceful puppeting of Turkey.  The Greek focuses resulting from "Resurrecting the Megali Idea" allow for a war with Turkey where you will gain Istanbul. Simply invite the UK, France, and Italy then promise them all concessions. Some of them will join the war and grant you the needed land. It is also possible to combine this achievement with "Balkan Problem Solved" and request the required land from Turkey peacefully by a decision in exchange of 75 PP. An other option is to follow the communist branch of Bulgaria and at the very end complete the focus 'The Unification of the Balkans'. This focus unlocks a decision to ask Turkey for control of the states needed for this achievement. Currently, if Turkey refuses, the decision will appear again after a few days. So once you have 75 PP you can try again until Turkey does accept. This is a bug, seeing as its unlikely that it was intended for that decision to have more then one use.
+保加利亚可以利用国策"裁决巴尔干诸国命运"和平傀儡土耳其。
+希腊可以利用国策"复兴伟大理想"与土耳其开战以获取伊斯坦布尔。 通过许诺特权邀请英、法、意。它们也许会加入战争并帮你夺取土地。也可能通过一个75政治点的决议可以和平地向土耳其索取土地并完成成就"Balkan Problem Solved"。还可以扮演保加利亚走共产主义路线，在最后完成国策'巴尔干的统一'。该国策解锁一个向土耳其索取成就所需地区的决议。目前，如果土耳其拒绝，你可以在拥有75政治点时再继续尝试，直到土耳其同意。很明显，这是一个尚未修复的bug。
 | 
 | data-sort-value="10" | 1.10
 | {{DI|E}}
 |-
-| {{Iconbox|Istanbul is Constantinople. Again.|As Greece, capture Istanbul and rename it to Constantinople.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Greece}}
-| {{icon|yes}} Owns Istanbul (797) 
-{{icon|yes}} Istanbul has been renamed to Constantinople:
-*either Formed the Byzantine Empire, Restored Byzantium or Formed Greater Greece decisions
-| It is easy to do if you go for the Megali Idea which potentially can have you, UK, and France agree to split up Turkey and all attack Turkey. Do note that even if the UK or France has agreed to split up Turkey they can individually bail on the war when you do the focus to declare war on Turkey.<br/> 
+| {{Iconbox|Istanbul is Constantinople. Again.|作为希腊，占领伊斯坦布尔并更名为君士坦丁堡|extension=png}}
+| {{icon|yes}} 扮演 {{flag|Greece}}
+| {{icon|yes}} 拥有伊斯坦布尔 (797) 
+{{icon|yes}} 伊斯坦布尔 被更名为 君士坦丁堡:
+
+*要么建立拜占庭帝国, 重建拜占庭，要么完成决议 成立大希腊 
+| 如果实施 伟大理想 ，那么希腊、英国、法国可能同意肢解土耳其并向其发动攻击，这有利于你获取该成就。但是要主语，即使英法同意肢解土耳其，它们仍然可能在战争中将你抛下。<br/> 
 | {{icon|bfb}}
 | data-sort-value="10" | 1.10
 | {{DI|E}}
 |-
-| {{Iconbox|Make a Man Out Of You|As a Warlord, have at least 1,000,000 manpower queued up for deployment.|extension=png}}
-| {{icon|yes}} Playing as ''either'': {{MultiColumn|
+|{{Iconbox|Make a Man Out Of You|作为任一军阀，有 1,000,000 人力等待部署.|extension=png}}
+| {{icon|yes}} 扮演 ''以下任一'': {{MultiColumn|
 * {{flag|Guangxi Clique}}
 * {{flag|Shanxi}}
 * {{flag|Sinkiang}}
 * {{flag|Xibei San Ma}}
 * {{flag|Yunnan}}
 |2}}
-|{{icon|yes}} More than 1,000,000 {{icon|manpower|manpower}} in deployment queue
+|{{icon|yes}} 超过 1,000,000 {{icon|manpower|人力}} 在部署序列
 |
-* You can only train 75% of the manpower currently on the field with a minimum of 100.00K. So that means you must have at least 1,333,334 Manpower on the field to do this achievement. {{flag|Guangxi Clique}} has the highest starting manpower. The tactic for this would be to get to 5 army EXP, create a 1 width division and just spam it out (make sure to it it o the highest priority in the recruiting tab so it gets guns first). Deploy them as soon as possible and just switched them over, rinse and repeat until you can queue 1 million+ manpower.
-* It may be best completed with the [[Achievements#Battlecry|Battlecry]] achievement.
+* 你最多只能训练当前服役数量 75% 的人力(最少100k) 。这意为着要获取该这就需要有最少 1,333,334 服役人力。开局时，{{flag|Guangxi Clique}} 人力最多。推荐的方式是：获取5点陆军经验，创建一个一宽师然后用其进行训练(确保将它排在最高优先级以便首先获得武器)。尽快将他们部署出去，然后训练新部队，重复这个过程直到训练部队人力超过1 million。
+* 很适合同时获取成就 [[Achievements#Battlecry|Battlecry]] 。
 
 |
 | data-sort-value="5" | 1.5
