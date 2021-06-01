@@ -478,73 +478,73 @@ __TOC__
 | data-sort-value="5" | 1.5
 | {{DI|E}}
 |-
-| {{Iconbox|Master of War|Fully research a land, naval and air doctrine tree.}}
+|{{Iconbox|Master of War|研究所有陆军、海军和空军学说。}}
 |
-| [[File:Atomic research.png|22px]] Has researched a full branch in each of the tech fields:
-* Air Doctrine
-* Land Doctrine
-* Naval Doctrine
-| If you think you should have got this and haven't, double check you haven't missed one that wasn't mutually exclusive on the same row of the tree.
+| [[File:Atomic research.png|22px]] 下列科技都要完成一整个分支:
+* 空军学说
+* 陆军学说
+* 海军学说
+| 如果研究到底部成就依然没有完成的话，记得检查一下有没有忽略并非互斥的分支
 |
 | data-sort-value="0" | 1.0
 | {{DI|E}}
 |-
-| {{Iconbox|Mi Casa es tu Casa|As Mexico, host a government-in-exile.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Mexico}}
-| {{icon|yes}} Any country is exiled in {{flag|Mexico}}
+|{{Iconbox|Mi Casa es tu Casa|作为墨西哥，接纳一个流亡政府|extension=png|link=on}}
+| {{icon|yes}} 扮演{{flag|Mexico}}
+|{{icon|yes}} 任意国家在 {{flag|Mexico}}建立流亡政府
 |
-In order for Mexico to host an exiled country, it has to be Democratic and a faction leader needs to be Democratic. Although Mexico does not have to be the faction leader, it still needs a powerful army or economy to host exiles. Exile Calles to hire the Democratic advisor, then go down the Spanish Refugees branch to Hispanic Alliance or Bolivarian Alliance (wait until you have completed either focus to transition to Democracy). Change your government, use the Hispanic Solidarity decision to invite Guatemala to your faction, then use the March Southward focus to get a wargoal on El Salvador. Declare war, remove all your forces from Guatemala and wait for it to capitulate.
+如果墨西哥要接纳流亡政府，首先它要成为民主国家，其次有一个民主的领导人。尽管并没有要求墨西哥成为派系领袖，它仍然要有强大的军队和经济来支持流亡政府。放逐卡列斯，雇佣民主改革家顾问，然后在国策上走"西班牙内战难民"支线，进行 "西语同盟" 或 "玻利瓦尔同盟" (等完成这两个国策之一后再将国家转为民主)。改变政府意识形态，使用决议"西班牙裔的团结"邀请危地马拉加入自己的阵营，然后使用国策"向南进军"获取对萨尔瓦多的战争目标。宣战，把部队从危地马拉撤走，等到它投降。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|E}}
 |-
-| {{Iconbox|Monarchy is Back in Fashion|As Germany, Bring back the Kaiser and ensure that Italy is controlled by Victor Emmanuel by killing Mussolini.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Germany}}
-|{{icon|yes}}'''Wilhelm II''' is the current country leader
-{{icon|yes}} {{flag|Italy}}: Victor Emmanuel III is the current country leader
-|Follow the "Return of the Kaiser" and the "Focus on the True Enemy" path in the "Oppose Hitler" tree until you get to the "Assassinate Mussolini" Focus. Wilhelm II must be your leader and he must not die before the focus is complete.
+| {{Iconbox|Monarchy is Back in Fashion|扮演德国，让德皇复辟，并且杀死墨索里尼以确保维克托·埃马努埃莱统治意大利。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|Germany}}
+|{{icon|yes}}'''威廉二世'''成为当前国家领导人
+{{icon|yes}} {{flag|Italy}}: 维克托·埃马努埃莱三世成为当前国家领导人
+|在国策中，沿着"帝王归来"、"关注真正的敌人"一直到"反对希特勒"，最后进行"刺杀墨索里尼"。 领袖必须是威廉二世，并且必须活到这些国策完成。
 | {{icon|wtt}}
 | data-sort-value="5" | 1.5
 | {{DI|E}}
 |-
-| {{Iconbox|Now This is Getting Childish|As Yugoslavia or Bulgaria, be at war while both countries are ruled by a child.|extension=png}}
-| {{icon|yes}} Playing as ''either'': {{MultiColumn|
+| {{Iconbox|Now This is Getting Childish|扮演南斯拉夫或保加利亚，使两个国家都被小孩统治时处于战争状态。|extension=png}}
+| {{icon|yes}} 扮演下列国家''之一'': {{MultiColumn|
 * {{flag|Bulgaria}}
 * {{flag|Yugoslavia}}
 }}
-| {{icon|yes}} {{Flag|Bulgaria}} is at war with {{Flag|Yugoslavia}}<br/>
-{{icon|yes}} {{Flag|Bulgaria}}: '''Regency Council''' is the current country leader<br/>
-{{icon|yes}} {{Flag|Yugoslavia}}: '''Prince Paul''' has the '''Underage Monarch''' trait.<br/>
+| {{icon|yes}} {{Flag|Bulgaria}} 与 {{Flag|Yugoslavia}} 交战<br/>
+{{icon|yes}} {{Flag|Bulgaria}}: '''摄政议会''' 领导国家<br/>
+{{icon|yes}} {{Flag|Yugoslavia}}: '''保罗亲王''' 拥有 '''未成年幼主''' 特性。<br/>
 |
-With historical focuses on, {{Flag|Yugoslavia}} will have Peter II take the throne with the Underage Monarch trait. The Bulgarian focus "Fate of the Balkans" immediately after "Form a Regency Council" allows you to get a puppet war goal on Yugoslavia. Probably bugged under 1.10.1 - "Form a Regency Council" does not trigger the leader change correctly.
+沿着历史国策进行游戏，{{Flag|Yugoslavia}} 的保罗亲王将会掌权，此时其拥有未成年幼主特性。在保加利亚的国策"成立摄政委员会"之后，有一个"裁决巴尔干诸国命运"国策，可以从这里得到傀儡南斯拉夫的战争目标。
 
-With historical focuses on, as {{Flag|Bulgaria}}: Complete the "Form a Regency Council" and choose the pro-Axis government. Do not complete the "Fate of the Balkans" focus. Wait until Yugoslavia wants to join Axis via the focus "Sign the Tripartite Pact". In the meantime, justify against Yugoslavia using your claims on ''Southern Serbia'' and ''Macedonia''. Join Axis but do not join any war. Then declare war but do not push into Yugoslavia. Yugoslavia will cancel the focus to join Axis and instead will complete the focus "End the Regency" which puts King Peter II into power. 
-May be done in conjunction with "Master Puppeteer" (win against Yugoslavia and release the constituent states as puppets) and/or "Prussia of the Balkan" (e.g. annex Yugoslavia complete "Fate of the Balkans" after annexing Yugoslavia, help Axis against {{Flag|Soviet Union}}, help Allies against Axis, use decisions to puppet and annex {{Flag|Romania}} & {{Flag|Greece}}).
+扮演{{Flag|Bulgaria}}，沿着历史路线走国策: 完成 "成立摄政委员会" 并建立一个亲轴心国政府。在南斯拉夫想要通过"签署三国同盟条约"国策加入法西斯之前，不要完成"裁决巴尔干诸国命运"国策。在此期间，利用对南塞尔维亚和马其顿的宣称正当化对南斯拉夫的战争目标。加入法西斯但是不加入任何战争。然后向南斯拉夫宣战，但是不要攻入其境内。南斯拉夫将取消加入法西斯的国策并完成国策"结束摄政"，保罗亲王将成为国王。
+可以同时完成"Master Puppeteer" (赢得与南斯拉夫的战争并释放各国成为傀儡) 与 "Prussia of the Balkan" (吞并南斯拉夫后完成"裁决巴尔干诸国命运"国策。帮助法西斯对抗 {{Flag|Soviet Union}}或帮助同盟国对抗轴心国，利用决议傀儡并吞并 {{Flag|Romania}} 和 {{Flag|Greece}})。
 | {{icon|dod}}{{icon|bfb}}
 | data-sort-value="10" | 1.10
 | {{DI|E}}
 |-
-| {{Iconbox|Our Words Are Backed With Nuclear Weapons|As India, develop and deploy a nuke. You must have the Quit India Movement national spirit.|extension=png}}
-| {{icon|yes}} Playing as {{flag|British Raj}}
-| {{Plainlist|* {{icon|yes}} Country flag ''RAJ_quit_india_movement'' is set
-* {{icon|yes}} Country flag ''achievement_has_dropped_nuke'' is set }}
+| {{Iconbox|Our Words Are Backed With Nuclear Weapons|扮演印度，研发并部署一枚核弹。必须拥有国家精神"退出印度运动".|extension=png}}
+| {{icon|yes}} 扮演{{flag|British Raj}}
+| {{Plainlist|* {{icon|yes}} 拥有国家精神"退出印度运动"
+* {{icon|yes}} 投下一枚核弹 }}
 |
-* ''RAJ_quit_india_movement'' country flag is set by Quit India Movement national focus
-* Develop, build and deploy a nuclear bomb (remember about getting some strategic bombers and fighters for air superiority). You have 2 focuses giving you boost in that area. If China falls you can alone keep Japan away at the border and look out for Siam because it can turn Fascist by Japanese Focus.
-* Can be combined with "Cut The Strings" (just do it after dropping the nuke).
+* 国家精神"退出印度运动"通过对应国策获得。
+* 研发、建设并投下 (需要一些战略轰炸机和战斗机来取得制空权)一枚核弹。有两个国策可以在这个领域提供帮助。如果中国沦陷，你会独自在边境对抗日军。当心暹罗，它有可能被日本的国策转变为法西斯。
+* 可以同时完成"Cut The Strings" (要在扔下核弹之后再做)。
 | {{icon|tfv}}
 | data-sort-value="3" | 1.3
 | {{DI|E}}
 |-
-| {{Iconbox|Panda-monium|As a warlord, be at war with all Chinese nations simultaneously.|extension=png|link=on}}
-| {{icon|yes}} Playing as ''either'': {{MultiColumn|
+| {{Iconbox|Panda-monium|扮演军阀，与中国所有势力同时开战。|extension=png|link=on}}
+| {{icon|yes}} 扮演下列势力''之一'': {{MultiColumn|
 * {{flag|Guangxi Clique}}
 * {{flag|Shanxi}}
 * {{flag|Sinkiang}}
 * {{flag|Xibei San Ma}}
 * {{flag|Yunnan}}
 |2}}
-|{{icon|yes}} At war with: {{MultiColumn|
+|{{icon|yes}} 与下列势力开战: {{MultiColumn|
 * {{flag|Guangxi Clique}}
 * {{flag|Shanxi}}
 * {{flag|Sinkiang}}
@@ -553,10 +553,10 @@ May be done in conjunction with "Master Puppeteer" (win against Yugoslavia and r
 * {{flag|China}}
 * {{flag|Communist China}}
 |2}}
-|This is best with the {{icon|wtt|Waking the Tiger}} DLC because without it, the warlords will be annexed by {{flag|China}} and {{flag|Communist China}}.<br/>
-Easiest to do as {{flag|Sinkiang}} because of the possible alliance with {{flag|Soviet Union}}. 
+|推荐在 唤醒猛虎{{icon|wtt|Waking the Tiger}} DLC 下完成。如果没有该DLC，军阀们会被 {{flag|China}} 和 {{flag|Communist China}}吞并。<br/>
+使用 {{flag|Sinkiang}} 最简单，因为有机会与 {{flag|Soviet Union}}结盟。 
 
-An easier way to do this achievement is to turn fascist as a warlord, then join the Japanese faction. When Japan declares war on China, join their war, and when China calls in the members of the Chinese United Front, you will instantly get the achievement.
+更简单的方式是以军阀的身份转向法西斯，然后加入日本阵营(俗称二鬼子，译者注)。当日本进犯中国时，加入战争，所有的中国势力都会加入"中国统一战线"(当然除了你这个二鬼子，译者注)。此时你会立刻获得该成就。
 | 
 | data-sort-value="5" | 1.5
 | {{DI|E}}
