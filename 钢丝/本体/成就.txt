@@ -561,26 +561,26 @@ __TOC__
 | data-sort-value="5" | 1.5
 | {{DI|E}}
 |-
-| {{Iconbox|Second Time’s the Charm|As France, occupy Moscow while Napoleon VI is your country leader.|extension=png}}
-| {{icon|yes}} Playing as {{flag|France}}
-|  {{icon|yes}} Controls Moscow (219)
-{{icon|yes}} '''Napoléon VI''' is the current country leader.
-| Can be done easily if siding with Germans. Rush the monarchist focus tree, you need "Avenge Waterloo" focus. Prepare to attack Britain with naval invasion. Your starting army and fleet will be enough to destroy them. Wait until Germany declares war on Poland. Britain will join the war. The moment they do this declare war on Britain. Germany will invite you to their faction, accept this invitation and annex Britain. Guarantee Finland as the USSR justifies a wargoal on them. Accept the call to arms and invite the rest of the Axis. This will make the war easier as they will not receive the "Great Patriotic War" buff. Once they take Moscow, ask them to give you control in that state. Make sure you have enough warscore so they will allow this.
+| {{Iconbox|Second Time’s the Charm|扮演法国，在拿破仑六世是领导人时占领莫斯科。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|France}}
+|  {{icon|yes}} 控制 莫斯科(219)
+{{icon|yes}} '''拿破仑六世''' 是当前国家领导人
+| 站在德国一方可以更容易获得该成就。进行君主派国策树，完成"雪耻滑铁卢"国策。组织海军入侵以攻击英国，游戏开局时拥有的军队和舰队已经足以击败它。德国向波兰宣战之后，英国会加入战争，此时你就向英国宣战。德国将邀请你加入阵营，接受邀请随后吞并法国。苏联有对芬兰战争目标，所以保独芬兰。苏芬战争开始后响应芬兰召唤，邀请其它法西斯国家进入战争。经过这些操作，苏联不会得到"伟大的卫国战争"增益。一旦盟友拿下莫斯科，请求它们将莫斯科的控制权转交给你。只要战争分数足够，盟友就会交出控制权。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|E}}
 |-
-| {{Iconbox|Team America|As the U.S.A., drop a nuclear bomb on Paris.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United States}}
-| {{icon|yes}} Dropped a nuclear bomb on Paris
-| As a democratic nation, build a lot of planes, namely strategic bombers and fighters, and rush nuclear technology. Germany will control Paris. When in the allies, move your planes to the airfield on the British Isles and set them on mission to Northern France when the nuclear tech is ready and one nuke is available. Achieve air superiority and nuke Paris when ready.
+| {{Iconbox|Team America|扮演美国，在巴黎投下核弹。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|United States}}
+| {{icon|yes}} 在巴黎投下核弹。
+| 走民主国家路线，制造大批战略轰炸机和战斗机，加速研发核技术。德国会控制巴黎。加入同盟国后，将飞机转移到英国的机场里。当核弹可用时，为它们指派到法国北部的任务。获取制空权并在准备好后在巴黎投下核弹。
 | 
 | data-sort-value="6" | 1.6
 | {{DI|E}}
 |-
-| {{Iconbox|The Empire Strikes Back|As Britain, declare war on one of your former subjects.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United Kingdom}}
-| [[File:Relation wargoal.png|24px]] At war with ''either'': {{MultiColumn|
+| {{Iconbox|The Empire Strikes Back|扮演英国，向一个以前的附属国宣战。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|United Kingdom}}
+| [[File:Relation wargoal.png|24px]] 与下列国家 ''之一'' 开战: {{MultiColumn|
 * {{flag|Australia}}
 * {{flag|British Raj}}
 * {{flag|Canada}}
@@ -589,11 +589,11 @@ __TOC__
 * {{flag|South Africa}}
 |2}}
 | 
-* With {{icon|mtg}} DLC:
-Any sub-branch of the tree under 'A Change in Course' causes the Dominion to break ties with the United Kingdom and leave the Allies.
-* Without {{icon|tfv}} DLC:
-**Turn Fascist - that will prompt your allies to leave faction
-**Justify and Declare War on one of these: Canada/Australia/New Zealand/South Africa
+* 有 炮手就位{{icon|mtg}} DLC时:
+ '调整航线' 国策下的任何分支都会都会导致多米尼克与英国断交并脱离同盟国。
+* 没有 炮手就位{{icon|tfv}} DLC时:
+**转向法西斯 - 这会使你的盟友离开阵营。
+**对下列国家之一制造宣称并开战: 加拿大/澳大利亚/新西兰/南非
 | 
 | data-sort-value="3" | 1.3
 | {{DI|E}}
