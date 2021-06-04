@@ -598,40 +598,41 @@ __TOC__
 | data-sort-value="3" | 1.3
 | {{DI|E}}
 |-
-| {{Iconbox|This is Madness!|As Greece, fulfill the Megali Idea and then form Greater Greece.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Greece}}
-| {{icon|yes}} Has formed {{flag|Hellas|Greater Greece}}:
+| {{Iconbox|This is Madness!|扮演希腊，实现伟大理想，组建大希腊。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|Greece}}
+| {{icon|yes}} 成功组建 {{flag|Hellas|Greater Greece}}:
 {{collapse| 
-*Controls all Greek states
-*Controls all western coastal Turkish states
-if not {{icon|democratic|1}}
-*Controls Dodecanese Islands(164)
-*Controls Cyprus(183)}}
-| The Megali Idea involves you, UK, and France agreeing to attack and split up Turkey so you are guaranteed the land required in the peace deal. Do note that the UK and France can individually bail on the war when you complete the focus to attack Turkey even if they agreed at the convention, but it is still easy to beat Turkey with just one of them and is possible to beat them by yourself.<br/> 
-The decision to form Greater Greece is unlocked either by the focus "Nenikikamen" while your leader is not Georgios Kosmidis, by completing the focus "The Modern Movement" and choosing to have "Ioannis Metaxas" as your country leader, or by completing the focus "Prepare for the Great Anti-Fascist War". 
+*控制希腊所有地区
+*控制土耳其西海岸的所有地区
+如果不是 {{icon|democratic|民主主义}}
+*控制 十二群岛(164)
+*控制 塞浦路斯(183)}}
+| 伟大理想中，希腊、法国和英国会共同攻击并肢解土耳其，而且保证希腊会获得和平谈判中取得的地区。记住，即使英法在会谈中同意进攻，仍可能会在你完成攻击土耳其的国策后退出战争。但是你们中的任何一员都可以轻松击败土耳其。
+决议"成立大希腊"会在两种情况下解锁。一是在领导人不是乔治·科斯米迪斯时，完成国策"新时代运动"并选择"扬尼斯·梅塔克萨斯"成为国家领导人，随后完成"胜利欢呼"国策。另一个使完成"准备伟大的反法西斯战争"国策。
  
 | {{icon|bfb}}
 | data-sort-value="10" | 1.10
 | {{DI|E}}
 |-
-| {{Iconbox|Tojo Shot First|As Japan, Nuke a core territory of the US before the US develops nuclear weapons.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Japan}}
-| {{icon|yes}} {{flag|United States}} does not have technology: '''Nuclear Bombs'''
-{{icon|yes}} Dropped a Nuclear Bomb on a core state of the {{flag|United States|US}}
+| {{Iconbox|Tojo Shot First|扮演日本，在美国研发出核武器前在其核心领土上投下核弹。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|Japan}}
+| {{icon|yes}} {{flag|United States}} 未拥有科技: '''核弹'''
+{{icon|yes}} 在 {{flag|United States|US}}的核心领土投下核弹
 |
-*This is best done with the Sunrise Invasion Achievement.
-*When you have nukes, release the US and go to war with them.
-*To make the war easier to re-annex them, finish off the allies and Comintern so the US does not join their faction but it is not necessary.
-*The US must control the state you drop the nuke in.
-*Alternative strategy: Go down the historical part of your focus tree. Invade the Soviet Union shortly after Germany declares war on them. In the peace deal, make sure you take the states with coastlines on the Pacific to extend the range of your navies. Prepare a naval invasion from the port in Northeast Siberia to Vancouver and get war goals on the Philippines and British Malaya through your focus tree. Declare war on the Allies but NOT on America, and launch the naval invasion. The Canadian divisions will likely be in Europe or Africa, so there should be nobody to stop you securing the airfield in British Columbia. Send some fighters and strategic bombers there, wait for their arrival then pause. Give the fighters air superiority missions over an American airzone, assign the bombers to that airzone then without unpausing, declare war on the Philippines. The US will automatically join, now all that is left is to drop a nuke.  
+*推荐与"Sunrise Invasion"成就同时完成。
+*拥有核弹后，释放美国(这里假设你在Sunrise Invasion中占领了美国)并向其开战。
+*如果想在重新吞并美国的时候更容易一些
+*必须让美国控制你扔核弹的地区。
+*另一种思路:依照历史路线走国策树。苏联被德国宣战后，快速向其发动攻击。在和平协议中，一定要获取在太平洋有海岸线的地区，以确保能扩大海军势力范围。准备一场从西伯利亚东北部向温哥华的海军入侵，通过国策树取得对菲律宾和马来西亚的战争目标。对盟军宣战，但千万！！不要对美国宣战。然后发动海军入侵。此时加拿大的军队应该在欧洲或非洲，所以它无力阻止你占领不列颠哥伦比亚地区的机场。派一些战略轰炸机和战斗机到达这个机场。让战斗机在美国的某个空域取得制空权，将轰炸机派过去。在没有暂停的情况向菲律宾宣战，美国会自动加入战争。现在只要扔下核弹就够了。
 | 
 | data-sort-value="5" | 1.5
 | {{DI|E}}
 |-
-| {{Iconbox|Totally Not Cool, Bromania|As Romania, change sides in the war and capitulate a former ally.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Romania}}
-| {{icon|yes}} {{Flag|Romania}} has switched sides and capitulated a former ally (which had not capitulated at the time of the switch).
-|Take the focus "Revise the Constitution" then take "Balkans Dominance". Build an army to at least 500k manpower and take the "Align Hungary" and "Split Czechoslovakia" focuses. If Hungary refuses, win the war and puppet them. Germany should also agree to split Czechoslovakia giving Romania a Slovakian puppet. Take the "Appoint Pro-Axis Government", take the Fascist Demagogue and flip to Fascist. Then head to "Force Abdication". Remove the Fascist Demagogue once Romania flips to Fascist. Wait until Germany Declares war against Poland and Bulgaria joins the Axis. Join the war but do not let Hungary and Slovakia into the war. Place the army on the Bulgarian Border. Take King Michael's Coup to flip to Democratic and wait until Poland capitulates and the Soviet Union takes Eastern Poland. Take the "Join the Allies" decision and capitulate Bulgaria.
+| {{Iconbox|Totally Not Cool, Bromania|扮演罗马尼亚，在战争中加入对手，并让一个昔日战友投降。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|Romania}}
+| {{icon|yes}} {{Flag|Romania}} 改变了战争阵营并让昔日战友投降(该国家在罗马尼亚未改变阵营前没有投降)。
+|完成国策"修订宪法" 与 "巴尔干霸权"。打造一个最少500k人力的军队并完成"结盟匈牙利"与"分裂捷克斯洛伐克"国策。如果匈牙利拒绝了，就把他打服并傀儡。德国一般也会同意分裂捷克斯洛伐克并让斯洛伐克成为罗马尼亚的傀儡。完成"任命亲轴心国政府"国策，雇佣法西斯煽动者并转变为法西斯主义。
+然后进行"强迫退位"。一旦罗马尼亚成为法西斯国家，就解雇法西斯煽动者。一直等到德国向波兰宣战、保加利亚加入轴心国。加入战争，但不要让匈牙利和斯洛伐克加入。将军队布置在保加利亚边境上。利用国策"米哈伊国王政变"变为民主主义。等到波兰投降、苏联获得波兰东部后，进行决议"加入同盟国"并干掉保加利亚。
 | {{icon|dod}}
 | data-sort-value="10" | 1.10
 | {{DI|E}}
