@@ -84,7 +84,7 @@ __TOC__
 | {{DI|VE}}
 |-
 | {{Iconbox|Hellenic Civility|在1937年之前赢得希腊内战|extension=png}}
-| {{icon|yes}}扮演{{flag|Greece}}
+| {{icon|yes}}扮演{{flag|希腊王国}}
 | {{icon|yes}}在1937年1月1日之前赢得希腊内战
 |
 若想触发内战，不要软禁国王，并点出“天赋君权”国策。在内战打响前删掉你的所有部队并训练一支一营骑兵师，开战后尽快在雅典部署，跑马圈地占领胜利点以尽快结束内战。
@@ -435,10 +435,10 @@ __TOC__
 | {{Iconbox|I Captured the Bosporus and All I Got Was This Lousy Achievement|扮演希腊或保加利亚，拥有博斯普鲁斯海峡两岸。扮演土耳其，征服希腊与保加利亚。|extension=png}}
 | {{icon|yes}} 扮演以下国家''之一'': {{MultiColumn|
 * {{flag|Bulgaria}}
-* {{flag|Greece}}
+* {{flag|希腊王国}}
 * {{flag|Turkey}}
 }}
-| 扮演 {{Flag|Greece}} 或 {{flag|Bulgaria}}:<br/>
+| 扮演 {{flag|希腊王国}} 或 {{flag|Bulgaria}}:<br/>
 {{icon|yes}} 拥有地区 伊斯坦布尔 (797)
 或:<br/>
 *{{flag|Turkey}}：拥有 {{flag|Bulgaria}} 作为附庸或拥有 {{Flag|Bulgaria|Bulgarian}} 的所有核心。
@@ -451,7 +451,7 @@ __TOC__
 | {{DI|E}}
 |-
 | {{Iconbox|Istanbul is Constantinople. Again.|作为希腊，占领伊斯坦布尔并更名为君士坦丁堡|extension=png}}
-| {{icon|yes}} 扮演 {{flag|Greece}}
+| {{icon|yes}} 扮演 {{flag|希腊王国}}
 | {{icon|yes}} 拥有伊斯坦布尔 (797) 
 {{icon|yes}} 伊斯坦布尔 被更名为 君士坦丁堡:
 
@@ -519,7 +519,7 @@ __TOC__
 沿着历史国策进行游戏，{{Flag|Yugoslavia}} 的保罗亲王将会掌权，此时其拥有未成年幼主特性。在保加利亚的国策"成立摄政委员会"之后，有一个"裁决巴尔干诸国命运"国策，可以从这里得到傀儡南斯拉夫的战争目标。
 
 扮演{{Flag|Bulgaria}}，沿着历史路线走国策: 完成 "成立摄政委员会" 并建立一个亲轴心国政府。在南斯拉夫想要通过"签署三国同盟条约"国策加入法西斯之前，不要完成"裁决巴尔干诸国命运"国策。在此期间，利用对南塞尔维亚和马其顿的宣称正当化对南斯拉夫的战争目标。加入法西斯但是不加入任何战争。然后向南斯拉夫宣战，但是不要攻入其境内。南斯拉夫将取消加入法西斯的国策并完成国策"结束摄政"，保罗亲王将成为国王。
-可以同时完成"Master Puppeteer" (赢得与南斯拉夫的战争并释放各国成为傀儡) 与 "Prussia of the Balkan" (吞并南斯拉夫后完成"裁决巴尔干诸国命运"国策。帮助法西斯对抗 {{Flag|Soviet Union}}或帮助同盟国对抗轴心国，利用决议傀儡并吞并 {{Flag|Romania}} 和 {{Flag|Greece}})。
+可以同时完成"Master Puppeteer" (赢得与南斯拉夫的战争并释放各国成为傀儡) 与 "Prussia of the Balkan" (吞并南斯拉夫后完成"裁决巴尔干诸国命运"国策。帮助法西斯对抗 {{Flag|Soviet Union}}或帮助同盟国对抗轴心国，利用决议傀儡并吞并 {{Flag|Romania}} 和 {{flag|希腊王国}})。
 | {{icon|dod}}{{icon|bfb}}
 | data-sort-value="10" | 1.10
 | {{DI|E}}
@@ -599,7 +599,7 @@ __TOC__
 | {{DI|E}}
 |-
 | {{Iconbox|This is Madness!|扮演希腊，实现伟大理想，组建大希腊。|extension=png}}
-| {{icon|yes}} 扮演 {{flag|Greece}}
+| {{icon|yes}} 扮演 {{flag|希腊王国}}
 | {{icon|yes}} 成功组建 {{flag|Hellas|Greater Greece}}:
 {{collapse| 
 *控制希腊所有地区
@@ -637,80 +637,80 @@ __TOC__
 | data-sort-value="10" | 1.10
 | {{DI|E}}
 |-
-| {{Iconbox|Tour de France|Occupy all of mainland France while having at least 20 fully equipped Bicycle regiments.|extension=png}}
-| {{icon|no}} Not playing as {{flag|France}}
-|{{icon|yes}}Occupy all of mainland France while having at least 20 fully equipped Bicycle regiments.
+| {{Iconbox|Tour de France|占领法国全境同时拥有最少20个满装备自行车营。|extension=png}}
+| {{icon|no}} 没有扮演 {{flag|France}}
+|{{icon|yes}}占领法国全境同时拥有最少20个满装备自行车营。
 {{Collapse| 
-{{icon|yes}} Control all {{flag|France|French}} states in Europe<br/>
-{{icon|yes}} number of bicycle battalions > 22<br/>
-{{icon|yes}} number of infantry equipment in armies > 2200<br/>
-{{icon|yes}} number of support equipment in armies > 220}}
+{{icon|yes}} 控制 {{flag|France|French}} 在欧洲的全部地区 <br/>
+{{icon|yes}} 自行车营数量 > 22<br/>
+{{icon|yes}} 军队中步兵装备数量 > 2200<br/>
+{{icon|yes}} 军队中支援装备数量 > 220}}
 |
-* "Mainland" France includes Corsica. Only Japan and the Netherlands have access to bicycle batallions.
-* Start as Japan. Join Axis and move all your armies and navies to Germany. Don't pick a focus yet.
-* Start fabricating a claim on France as soon as you have enough Political Power. After you gain 10 more PP start working on the army focuses to unlock bicycle divisions. Setup a naval invasion, making sure to include your light tanks and motorized infantry, from Germany to Dieppe and put your navy on naval invasion support.
-* When your claim is finished, declare war on France. Don't call in anyone, especially Germany.
-* After making a beachhead, put your entire army on French shores and conquer them. Use your motorized to secure Paris and Orleans, as this, in addition to taking Dieppe and Le Havre, is enough to capitulate France.
-* Change 6 infantry to 6 bicycle battalions in the Hohei Shidan template.
+* 科西嘉岛也在被占领要求范围之内。只有日本和荷兰可以编制自行车营。
+* 扮演日本。加入轴心，将所有陆军和海军都转移到德国。先不进行国策。
+* 赞够政治点后立刻对法国正当化战争目标。获取10政治点后，进行军事方面的国策，解锁自行车营编制。准备从德国到迪耶普海军入侵，为海军设置护航任务。入侵军队中记得包含坦克及摩托化部队。
+* 完成宣称后，向法国宣战。不要邀请盟友加入战争，尤其不要邀请德国。
+* 登陆成功后，迅速占领海岸线，随后征服法国。用你的摩托化师猪突猛进占领巴黎和奥尔良，再加上迪耶普和勒阿弗尔，基本上法国就停止抵抗了。
+* 在步兵师团（Hohei Shidan）模板中，将六个步兵部队改为六个自行车部队。
 
-Alternatively play as Germany and play normally until you sea lion Britain. Take all of France and puppet the Netherlands and wait for them to have bicycle divisions. Copy their template and train the divisions.
+也可以扮演德国，正常游玩到对英国执行海狮计划。拿下法国，傀儡荷兰后等到它有自行车部队。复制它的模板并训练军队。
 | 
 | data-sort-value="9" | 1.9
 | {{DI|E}}
 |-
-| {{Iconbox|Underpaid, Undersexed, and Under Eisenhower|As the U.S.A., assume faction leadership of the Allies, and have over 50 expeditionary divisions from the United Kingdom.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United States}}
-| {{icon|yes}} Is in faction with the {{flag|United Kingdom}}<br/>
-{{icon|yes}} Is faction leader<br/>
-{{icon|yes}} Received at least 50 expeditionary forces from the {{flag|United Kingdom}}
-|You need 50% more factories and fielded manpower than the UK, which shouldn't be a problem after a few years of buildup. The UK will accept to send the 51 divisions you need if they have ~160 divisions, you can send them some of your own troops as expeditionary forces to get them past that number. Remember: Press the button below the army to ask for expeditionary units. Before request UK, give an order for the new army (for example, garrison or invasion), otherwise they will refuse.  While some have advised that a garrison order is sufficient the AI will not accept a mere garrison order under most circumstances, so better to use an invasion order.  
+| {{Iconbox|Underpaid, Undersexed, and Under Eisenhower|扮演美国，成为同盟国阵营领袖，拥有多于50个英国远征军。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|United States}}
+| {{icon|yes}} 与 {{flag|United Kingdom}} 同阵营<br/>
+{{icon|yes}} 使阵营领袖<br/>
+{{icon|yes}} 接收最少50个 {{flag|United Kingdom}} 远征军
+|你需要比英国多 50% 的工厂和已部署人力，种田几年之后这应该不成问题。英国有160左右的师数量才会答应送51个师作为远征军，你可以先通过给英国远征军让他们达到这个数量。要记住：一定要点击部队下面的按钮来要求远征军。在请求英国前记得给部队设置任务（比如驻守和入侵），否则英国人会拒绝。推荐使用入侵任务，因为大多数情况下AI不会接受单纯的驻军任务。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|E}}
 |-
-| {{Iconbox|Vive la France|Reach 1948 as France without capitulating or surrendering.}}
-| {{icon|yes}} Playing as {{flag|France}}
-| {{Plainlist|* {{icon|time}} Date is > 1947.12.31
-* {{icon|yes}} Global flag ''achievement_france_surrender'' is not set
-* {{icon|yes}} Has ''not'' capitulated}}
-|If you manage to pull this off, you will also unlock the [[#Time is on our side|Time is on our side]] achievement, if you haven't done so already. Can be done AFK if one flips to Fascism, joins the Axis, and never joins any of Germany's wars (does not require La Resistance; works fine with the default French Focus tree).
+| {{Iconbox|Vive la France|扮演法国，坚守到1948年而没有过投降或停止抵抗。}}
+| {{icon|yes}} 扮演 {{flag|France}}
+| {{Plainlist|* {{icon|time}} 日期晚于  1947.12.31
+* {{icon|yes}} 未曾屈服
+* {{icon|yes}} 未曾投降}}
+|如果没有获得成就[[#Time is on our side|Time is on our side]]的话，这两个成就会同时获得。如果转向法西斯、加入轴心国且没有加入与德国有关的任何战争的话，可以以看海的方式取得该成就(不使用 抵抗运动DLC，使用法国默认国策树)。
 |
 | data-sort-value="0" | 1.0
 | {{DI|E}}
 |-
-| {{Iconbox|Vive la Jeune Ecole|As France, have at least 150 Destroyers and research the maximum torpedo launcher technology, before 1945.|extension=png}}
-| {{icon|yes}} Playing as {{flag|France}}
-| {{icon|time}} Date is < 1945.1.1
-* {{icon|yes}} Has at least 150 Destroyer<br/>
-* {{icon|yes}} Has technology ''Modern Ship Torpedo Launcher''
-|Can be achieved easily by rushing the fascist route in focus tree and joining the Axis. Concentrate on civilian factories. Wait for Germany to declare war on Poland. You can also annex Spain for more coastal provinces and factories while you are waiting. Join the war. Britain doesn't have a chance to oppose you, so it will be an easy war. Make sure that you took as many coastal provinces as you can. After that concentrate on building naval dockyards and make sure that you researched Modern Ship Torpedo Launcher technology. If everything done correctly, you can get this achievement by 1942.
+| {{Iconbox|Vive la Jeune Ecole|扮演法国，于1945年前拥有最少150艘驱逐舰，研究完成最高等级鱼雷发射器科技。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|France}}
+| {{icon|time}} 时间早于 1945.1.1
+* {{icon|yes}} 拥有最少150艘驱逐舰<br/>
+* {{icon|yes}} 拥有 ''现代舰载鱼雷发射器'' 科技
+|可以通过加速转向法西斯并加入轴心国的国策来使得获取该成就更容易。全力建设民用工厂。等德国向波兰宣战。在此期间，可以通过吞并西班牙来获取更多的沿海省份和工厂。加入战争。英国没有机会进行反抗，这是场简单的战争。确保获取尽可能多的沿海省份，确保研究了''现代舰载鱼雷发射器'' 科技。如果一切顺利，可以在1942年获取该成就。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|E}}
 |-
-| {{Iconbox|Warszawo, Walcz!|Stage the Warsaw uprising and succeed.|extension=png}}
+| {{Iconbox|Warszawo, Walcz!|促成华沙起义|extension=png}}
 | 
-| {{icon|yes}}{{flag|Poland}} has risen up against an occupying country that you are at war with.
-{{Collapse|{{icon|yes}} Any country at war with the player and {{flag|Poland}} has the Global flag warsaw_liberated_self_flag is set}}
-| warsaw_liberated_self_flag gets set if resistance hits 90 in a {{flag|Poland|Polish}} state. In 1.9.0, it doesn't seem to require you to succeed, just to hit 90 resistance.
+| {{icon|yes}}{{flag|Poland}} 发动起义以对抗占领其的国家，该国家正与你进行战争。
+{{Collapse|{{icon|yes}} 玩家正与某个国家开战且 {{flag|Poland}} 的全局变量 warsaw_liberated_self_flag 置位}}
+| {{flag|Poland|Polish}}的任何地区抵抗达到90时，warsaw_liberated_self_flag 标志位置位。在 1.9.0 版本中，只要抵抗达到90即可，不需要由你煽动成功。
 
-An easy way to trigger the uprising as {{flag|Soviet Union}}:
-* At the start of the game, justify and declare war on Poland and call {{flag|Tannu Tuva}} into the war.
-* After capitulating Poland give all polish states to Tannu Tuva.
-* Kick Tannu Tuva from your faction and justify a wargoal against them.
-* Declare war against Tannu Tuva but DO NOT capitulate them.
-* Since Tannu Tuva doesn't have the means to properly suppress the resistance, you can just wait until the resistance in {{flag|Poland}} hits 90.
+扮演 {{flag|Soviet Union}} 轻松触发起义的方法:
+* 在游戏开始时，制造对波兰的宣称并开战。邀请 {{flag|Tannu Tuva}} 加入战争。
+* 降伏波兰后，将波兰的所有地区都交给 {{flag|Tannu Tuva}} 。
+* 把唐努图瓦踢出阵营并制造对它的宣称。
+* 对唐努图瓦宣战但'''不要'''占领它。
+* 唐努图瓦没有能力镇压抵抗，你只要等到 {{flag|Poland}} 抵抗达到90即可。
 
 | 
 | data-sort-value="9" | 1.9
 | {{DI|E}}
 |-
-| {{Iconbox|Wunderwaffen|Research all rocket, nuclear and jet technologies.}}
+| {{Iconbox|Wunderwaffen|研究完成所有火箭、核、喷气式飞机科技。}}
 |
-| [[File:Atomic research.png|22px]] Has researched:
-* [[File:Advanced Rocket Engines.png|22px]] Advanced Rocket Engines
-* [[File:Jet Engines.png|22px]] Jet Engines
-* [[File:Nuclear Bombs.png|22px]] Nuclear Bombs
+| [[File:Atomic research.png|22px]] 研究完成:
+* [[File:Advanced Rocket Engines.png|22px]] 先进火箭引擎
+* [[File:Jet Engines.png|22px]] 喷气引擎
+* [[File:Nuclear Bombs.png|22px]] 核弹
 |
 |
 | data-sort-value="0" | 1.0
@@ -739,11 +739,11 @@ An easy way to trigger the uprising as {{flag|Soviet Union}}:
 | {{DI|M}}
 |-
 | {{Iconbox|Balkan Problem Solved|As Communist Bulgaria, form the United Balkan Federation and own all Balkan states as cores.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Bulgaria}}
+| {{icon|yes}} 扮演 {{flag|Bulgaria}}
 | {{icon|yes}} Current ruling party is {{icon|Communist|1}}<br/>
 {{icon|yes}} Is faction leader<br/>
 {{icon|yes}} Has completed focus '''The Unification of the Balkans'''<br/>
-{{icon|yes}} Owns the core states of {{Flag|Romania}}, {{flag|Greece}}, {{Flag|Yugoslavia}} and {{flag|Albania}} as core states<br/>
+{{icon|yes}} Owns the core states of {{Flag|Romania}}, {{flag|希腊王国}}, {{Flag|Yugoslavia}} and {{flag|Albania}} as core states<br/>
 |
 *At start immediately save 150 PP to get the communist revolutionary and completely avoid faction interactions until you turn communist. You will only need to integrate the Zveno and get broad socialist loyalty over 50. Don't spend PP negotiating for rearmament, refuse the restrictions once you form your faction. You should be able to take the focus "The people's republic of bulgaria" by mid 1937.
 *Build a spy agency around January 1937 and 5 improvements. With "The People's Militia Directorate" focus you can get 3 spies (4 with an advisor) to increase communist support. Take the "Balkan Federation of Socialist Republics" focus to influence Greece and Romania, Ignore Albania and Turkey. Do not spend PP on Yugoslavia. Use spies in Romania. Countries will switch ideologies around 60% support.
@@ -754,7 +754,7 @@ An easy way to trigger the uprising as {{flag|Soviet Union}}:
 | {{DI|M}}
 |-
 | {{Iconbox|Crusader Kings|As South Africa, finish the A King for our People focus and take Jerusalem.|extension=png}}
-| {{icon|yes}} Playing as {{flag|South Africa}}
+| {{icon|yes}} 扮演 {{flag|South Africa}}
 | {{Plainlist|* {{icon|yes}} Has [[File:Edward VIII.png|24px]] Edward VIII national spirit
 * {{icon|yes}} Control the state Jerusalem (454) }}
 |
@@ -767,7 +767,7 @@ An easy way to trigger the uprising as {{flag|Soviet Union}}:
 | {{DI|M}}
 |-
 | {{Iconbox|Crush the Dream|As a Communist United Kingdom, crush the American Dream by puppeting the U.S.A.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United Kingdom}}
+| {{icon|yes}} 扮演 {{flag|United Kingdom}}
 | {{icon|yes}} Current ruling party is {{icon|communism|Communist}}<br/>
 {{icon|yes}} Has completed focus ''Crush the Dream''<br/>
 {{icon|yes}} The {{flag|United States}} is a subject of The {{flag|United Kingdom}}
@@ -777,7 +777,7 @@ An easy way to trigger the uprising as {{flag|Soviet Union}}:
 | {{DI|M}}
 |-
 | {{Iconbox|Dracula’s Revenge|As Yugoslavia, establish the autonomous region of Transylvania and have it own all Romanian cores.|extension=png}}
-| {{icon|yes}} Playing as {{Flag|Yugoslavia}}
+| {{icon|yes}} 扮演 {{Flag|Yugoslavia}}
 | {{icon|yes}} {{Flag|Transylvania}} owns all of {{flag|Romania}}.
 |You don't have to take the focus to release Transylvania, you can puppet it in the peace deal. Note that Transylvania needs to own all Romanian cores, meaning that if historical focus is turned on, you have to finish the war before Germany does the Second Vienna Award focus. In 1939 you should be guaranteed by both the UK and France, so you don't have to worry about the Allies. You can join the Axis or Comintern to force Romania moving some of their troops, but don't call them in, as giving Romanian land to Transylvania will require a lot of war score.
 Can also be done as communist Yugoslavia. Go down the communist focus tree, make your own faction and do communist uprisings first in Albania and Bulgaria, then Romania. When communist Romania wins their civil war, justify and attack them, they will not be guaranteed by anyone, as they are communist and just fought a civil war. Puppet Transylvania in peace conference and give them all Romanian territory.
@@ -786,7 +786,7 @@ Can also be done as communist Yugoslavia. Go down the communist focus tree, make
 | {{DI|M}}
 |-
 | {{Iconbox|Forge of Victory|Have 50 factories as Belgium.}}
-| {{icon|yes}} Playing as {{flag|Belgium}}
+| {{icon|yes}} 扮演 {{flag|Belgium}}
 | {{icon|yes}} Has factories > 49
 | {{Plainlist|* Naval dockyards count toward this total
 * This total can be reached by going fascist or communist and conquering the Netherlands, combined with normal industrial build-up. Also easily accomplished as fascist as Germany will use your territory to bypass the Maginot Line typically resulting in your control of northern France upon their capitulation.}}
@@ -795,7 +795,7 @@ Can also be done as communist Yugoslavia. Go down the communist focus tree, make
 | {{DI|M}}
 |-
 | {{Iconbox|Freedom or Death|As Greece, liberate Albania while being at war with Italy.|extension=png}}
-| {{icon|yes}} Playing as {{Flag|Greece}}
+| {{icon|yes}} 扮演 {{flag|希腊王国}}
 | {{icon|yes}} Is at war with {{flag|Italy}}<br/>
 {{icon|yes}} Has full control of Northern Epirus (805) <br/>
 {{icon|yes}} Has full control of Albania (44) <br/>
@@ -819,7 +819,7 @@ Can also be done as communist Yugoslavia. Go down the communist focus tree, make
 | {{DI|M}}
 |-
 | {{Iconbox|History Repeated Itself|As the U.S.A., Win against the Confederate States. Again.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United States}}
+| {{icon|yes}} 扮演 {{flag|United States}}
 | {{icon|yes}} The Second American Civil War has started
 {{icon|yes}} Confederacy of American States: Does not exist
 |
@@ -839,7 +839,7 @@ Pick the national focus "Suspend the Persecution", complete the national focus "
 | {{DI|M}}
 |-
 | {{Iconbox|Last for a Thousand Years|As the United Kingdom, accomplish the federation of the entire British Empire.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United Kingdom}}
+| {{icon|yes}} 扮演 {{flag|United Kingdom}}
 | {{icon|yes}} Has completed focus ''Imperial Federation''
 |
 Can be done as any ideology, but going down the King's Party path and fomenting imperialist revolutions in your dominions will allow you to create integrated puppets, eliminating the need to reduce autonomy. Make sure to improve relations and save up a few hundred political power before starting the imperial conference. 300-400 political power is a good number to have saved before starting but if you can spare the time and effort, having around 600-700 political power will ensure success.
@@ -848,7 +848,7 @@ Can be done as any ideology, but going down the King's Party path and fomenting 
 | {{DI|M}}
 |-
 | {{Iconbox|Made in China|As Communist China, have over 100 military factories.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Communist China}}
+| {{icon|yes}} 扮演 {{flag|Communist China}}
 | {{icon|yes}} at least 101 {{icon|mic|Military Factories}}
 |This achievement can be combined with [[#The People Have Stood Up!|The People Have Stood Up!]] achievement.
 *As {{flag|Communist China}}, annex {{flag|China|Nationalist China}} and all of the warlords and build a lot of Military factories in your territory. {{flag|Japan}} may justify war on you and if so, just have your ports well guarded and hold the front line or conquer Manchuria and Korea, as doing so will trigger an event that allows you to end the war and acquire all of Japan's mainland possessions. The "'''Social Democracy'''" national focus and all focuses after it allows Communist China to start a power struggle with Nationalist China and if they can gather enough political support points, they can annex Nationalist China with no shots fired.
@@ -858,7 +858,7 @@ Can be done as any ideology, but going down the King's Party path and fomenting 
 | {{DI|M}}
 |-
 | {{Iconbox|My Ships Don't Lie|As Colombia, form Gran Colombia and have 10 Carriers and 10 Battleships.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Colombia}}
+| {{icon|yes}} 扮演 {{flag|Colombia}}
 |{{icon|yes}} Has taken the decision to form {{flag|Gran Colombia}}
 {{icon|yes}} At least 10 Battleships<br/>
 {{icon|yes}} At least 10 Carriers
@@ -871,7 +871,7 @@ You can easily naval invade {{flag|Venezuela}} if you're having trouble because 
 | {{DI|M}}
 |-
 | {{Iconbox|Nobody expects...|As Nationalist Spain in Axis manage to take Paris before the Germans.}}
-| {{icon|yes}} Playing as {{flag|Nationalist Spain}}
+| {{icon|yes}} 扮演 {{flag|Nationalist Spain}}
 | {{Plainlist|* {{icon|fascism}} Current ruling party is fascist 
 * {{icon|yes}} In a faction with {{flag|Germany}}
 * {{icon|yes}} {{flag|Germany}} is a faction leader 
@@ -910,7 +910,7 @@ This achievement can be done with 'Med plutonium...' if you annex and release De
 | {{DI|M}}
 |-
 | {{Iconbox|Once More Mate|Occupy Gallipoli as Australia.}}
-| {{icon|yes}} Playing as {{flag|Australia}}
+| {{icon|yes}} 扮演 {{flag|Australia}}
 | {{icon|yes}} Occupy the state Edirne (341)
 | The easiest strategy is to join the Comintern and attack Turkey from the USSR. Call in the USSR to get naval supremcy in the Black Sea and naval invade the province. The achievement can be gained while at war.
 |
@@ -918,7 +918,7 @@ This achievement can be done with 'Med plutonium...' if you annex and release De
 | {{DI|M}}
 |-
 | {{Iconbox|Our Chief Weapon is Surprise...|As Spain, have at least 5 spies and stage 5 coups against other nations.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Spain}} or Playing as {{flag|Nationalist Spain}}
+| {{icon|yes}} 扮演 {{flag|Spain}} or Playing as {{flag|Nationalist Spain}}
 | 
 {{icon|yes}} {{flag|Spain}} has started more than 5 coups
 {{icon|yes}} has more than 4 spies
@@ -930,7 +930,7 @@ This achievement can be done with 'Med plutonium...' if you annex and release De
 | {{DI|M}}
 |-
 | {{Iconbox|Our Other Place in the Sun|As Imperial Germany, conquer a Caribbean island.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Germany}}
+| {{icon|yes}} 扮演 {{flag|Germany}}
 | {{icon|yes}} Has completed focus '''Our Place in the Sun'''
 {{icon|yes}} Conquered an island in the Caribbean
 |
@@ -942,7 +942,7 @@ An easy way to do this is to take Carribean land before taking Oppose Hitler. Th
 | {{DI|M}}
 |-
 | {{Iconbox|Poland Can Into Space|Finish all Rocket Technologies as Poland.}}
-| {{icon|yes}} Playing as {{flag|Poland}}
+| {{icon|yes}} 扮演 {{flag|Poland}}
 | [[File:Atomic research.png|22px]] Has researched {{iconify|Advanced Rocket Engines}}
 | Option 1: Give into German and Soviet demands for territory.  Stay out of WWII.  Stay on speed 5 the whole time.  Research rockets.
 
@@ -963,7 +963,7 @@ It can be done quickly as Japan. In the 1936 start, the Japanese fleet is immedi
 | {{DI|M}}
 |-
 | {{Iconbox|The bell tolls for us|Win Spanish Civil War as Republican Spain.}}
-| {{icon|yes}} Playing as {{flag|Spain}}
+| {{icon|yes}} 扮演 {{flag|Spain}}
 | {{icon|fascism}} Is ''not'' fascist<br/>
 {{icon|yes}} Won the Spanish Civil War<br/>
 {{icon|yes}} One of the following must be true:
@@ -978,7 +978,7 @@ It can be done quickly as Japan. In the 1936 start, the Japanese fleet is immedi
 | {{DI|M}}
 |-
 | {{Iconbox|The Good, the Bad and the Weird|As Manchukuo, have max level infrastructure in every owned state and generate at least 15 units of oil.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Manchukuo}}
+| {{icon|yes}} 扮演 {{flag|Manchukuo}}
 |{{icon|yes}} At least 10 {{icon|infra|Infrastructure}}:
 *Heilungkiang (714)
 *Liaoning (715)
@@ -994,7 +994,7 @@ May be done in conjunction with the [[#Hail_to_the_Qing|Hail to the Qing]] and t
 | {{DI|M}}
 |-
 | {{Iconbox|The Munich Disagreement|As Czechoslovakia, occupy Munich while at war with Germany.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Czechoslovakia}}
+| {{icon|yes}} 扮演 {{flag|Czechoslovakia}}
 | {{Plainlist|* {{icon|cb}} At war with {{flag|Germany}}
 * {{icon|yes}} Controls the state Oberbayern (52) }}
 |
@@ -1028,7 +1028,7 @@ A third way is to play as {{flag|France}}, go down the Napoleonic Path, release 
 | {{DI|M}}
 |-
 | {{Iconbox|The Revolution Triumphant|Have Germany as a puppet of Soviet.}}
-| {{icon|yes}} Playing as {{flag|Soviet Union}}
+| {{icon|yes}} 扮演 {{flag|Soviet Union}}
 | {{icon|yes}} {{flag|Germany}} is a puppet of {{flag|Soviet Union}}
 | 
 Must be unified Germany. {{flag|West Germany}} or {{flag|East Germany}} will not count, even if you puppet both.
@@ -1041,7 +1041,7 @@ Must be unified Germany. {{flag|West Germany}} or {{flag|East Germany}} will not
 | {{DI|M}}
 |-
 | {{Iconbox|True Blitzkrieg|As Germany have both Poland and France surrender before January 1st 1940.}}
-| {{icon|yes}} Playing as {{flag|Germany}}
+| {{icon|yes}} 扮演 {{flag|Germany}}
 | {{Plainlist|* {{icon|time}} Date is < 1940.01.01
 * {{icon|yes}} {{flag|Poland}} does not exist ''or'' has capitulated
 * {{icon|yes}} {{flag|France}} ''either'': }}
@@ -1054,7 +1054,7 @@ Must be unified Germany. {{flag|West Germany}} or {{flag|East Germany}} will not
 | {{DI|M}}
 |-
 | {{Iconbox|We Will Rock You|As Spain, own Gibraltar.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Spain}}
+| {{icon|yes}} 扮演 {{flag|Spain}}
 | {{icon|yes}}Gibraltar (118) Owned by {{flag|Spain}}
 | As Carlist Spain, after the Spanish Civil War, rush towards the [[Nationalist_Spanish_national_focus_tree#Retake_the_Spanish_Netherlands|Retake the Spanish Netherlands]] focus and take the Benelux. Have around 24 divisions each on the French northern and southern borders and declare on France when Germany's at war with them. Capitulate France and launch a naval invasion on the United Kingdom. Once the United Kingdom capitulates, take Gibraltar in the peace deal.
 Can also be done very easily with {{icon|mtg}} Man The Guns, if Historical AI Focuses are turned off, since the {{flag|United Kingdom}} may take the [[British_national_focus_tree#Revisit_Colonial_Policy|Revisit Colonial Policy]] branch of its focus tree containing the focus 'Withdraw from Contested Territories' which will give Gibraltar to {{flag|Spain}} for free along with it becoming a core state. If this occurs during the civil war, Gibraltar may not be given to the player's Spain but will be transferred once the civil war is won.
@@ -1063,7 +1063,7 @@ Can also be done very easily with {{icon|mtg}} Man The Guns, if Historical AI Fo
 | {{DI|M}}
 |-
 | {{Iconbox|Well, I Didn’t Vote for You|Win the Spanish Civil War as the Anarchists.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Spain}}
+| {{icon|yes}} 扮演 {{flag|Spain}}
 |  {{icon|yes}}Win the Spanish Civil War as the {{flag|Regional Defense Council of Aragón‎|Anarchists}}
 {{Collapse|
 {{icon|yes}} Is {{flag|Regional Defense Council of Aragón‎|Anarchist Spain}}<br/>
@@ -1076,7 +1076,7 @@ Can also be done very easily with {{icon|mtg}} Man The Guns, if Historical AI Fo
 | {{DI|M}}
 |-
 | {{Iconbox|Why Die For Danzig?|As Germany, turn France fascist and occupy Danzig without going to war with France.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Germany}}
+| {{icon|yes}} 扮演 {{flag|Germany}}
 | {{icon|yes}} Have France become Fascist without going to war with France.
 {{Collapse|
 {{icon|yes}}{{Flag|France}}:<br/>
@@ -1098,7 +1098,7 @@ Alternatively, one can justify on Yugoslavia as soon as one has the political po
 | {{DI|M}}
 |-
 | {{Iconbox|William Wallis|As the United Kingdom, put Edward VIII in power, enforce an American monarchy, and have both it and Scotland as subjects.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United Kingdom}}
+| {{icon|yes}} 扮演 {{flag|United Kingdom}}
 | {{icon|yes}} Has completed focus ''The King's Party''<br/>
 {{icon|yes}} {{flag|Scotland}} is a subject of The {{flag|United Kingdom}}<br/>
 {{icon|yes}} The {{flag|United States}} is a subject of The {{flag|United Kingdom}}<br/>
@@ -1115,7 +1115,7 @@ Hidden requirement for Installed an American monarchy
 | {{DI|M}}
 |-
 | {{Iconbox|Awake and Angry|As China, reconquer all of China and Manchuria and force a Japanese surrender.|extension=png}}
-| {{icon|yes}} Playing as {{flag|China}}
+| {{icon|yes}} 扮演 {{flag|China}}
 | {{icon|yes}} {{flag|Japan}} was forced to sue for peace after losing all of Manchuria and Korea
 {{icon|yes}} Conquered all core territory of {{flag|China}} and {{flag|Manchukuo}} not including the states of Hong Kong(326) , Macau (729) and Guangzhouwan (728)
 | Do not accept cooperation with Communist China until the Japanese are about to attack. Then, form the Chinese United Front and accept all invites. Quickly rush to Korea and push them off the continent. After they have offered peace, accept it, and kick Communist China from your faction. Declare on them and annex them as soon as possible, before they start war against you. Do the same with the other faction members, leaving Sinkiang for last. Dismantle the faction, declare war on the Soviet Union after Germany is pushing east. Join axis. They will be easy to capitulate with all their forces in the west. Take as much territory and then join their war against the allies. Alternatively, rush Subjugate the Warlords and followed by Anti-Communism. Eliminate Warlords who don't submit quickly by rushing their victory points or in the case of {{flag|Sinkiang}} rush and take as many land from them as possible. To take out {{flag|Communist China}}, use Fallback Line to station your troop some distance away from their border to draw them out. If {{flag|Shanxi}} submitted, take their troops so they don't station them on Communist China's borders. Once their troop has been drawn out, you can rush into their capital and capitulate them quickly. You should be just in time to dig in for the Japanese invasion. Capitulate the Japanese puppets and kick them out of Korea, you need to accept the Japanese surrender to get the achievement. All that is left will be using Political Power to do the 3 steps process in order to integrate each of the warlords that submitted. 
@@ -1124,7 +1124,7 @@ Hidden requirement for Installed an American monarchy
 | {{DI|H}}
 |-
 | {{Iconbox|Bearer of Artillery|Gain Vojtek as commander.}}
-| {{icon|yes}} Playing as {{flag|Poland}}
+| {{icon|yes}} 扮演 {{flag|Poland}}
 | {{icon|yes}} Country flag ''POL_vojtek_commander'' is set
 | Vojtek is a special commander that appears with the Polish event [[Polish events#poland.12|''"Wojtek Never Drops A Crate"'']].
 Forming the Polish-Lithuanian Commonwealth will not prevent the achievement.
@@ -1133,7 +1133,7 @@ Forming the Polish-Lithuanian Commonwealth will not prevent the achievement.
 | {{DI|H}}
 |-
 | {{Iconbox|Big Entente|As France, complete the "Little Entente" National Focus, and have all German cores owned by you or someone in your faction.}}
-| {{icon|yes}} Playing as {{flag|France}}
+| {{icon|yes}} 扮演 {{flag|France}}
 | {{Plainlist|* {{icon|yes}} Focus [[File:Goal_generic_alliance.png|28px]] [[French national focus tree#Little Entente|''"Little Entente"'']] is completed
 * {{icon|yes}} Is a faction leader
 * {{icon|yes}} Every state in the world is ''either'': }}
@@ -1151,7 +1151,7 @@ A third way is to turn off La Resistance. Flip to Fascism (unlike Utilize the Le
 | {{DI|H}}
 |-
 | {{Iconbox|Die, Perfidious Albion!|As Fascist France or Vichy France, occupy all of Great Britain.|extension=png}}
-| {{icon|yes}} Playing as {{flag|France}}
+| {{icon|yes}} 扮演 {{flag|France}}
 | {{icon|yes}} Conquer all of Great Britain and Northern Ireland.
 {{Collapse|{{icon|yes}} Is fascist<br/>
 {{icon|yes}}Control all states belonging to the {{flag|United Kingdom}} in Europe that is not a core of {{flag|Ireland}} and {{flag|Northern Ireland}}
@@ -1164,7 +1164,7 @@ You don't need the DLC, join Axis, paradrop and naval invade UK, eventually your
 | {{DI|H}}
 |-
 | {{Iconbox|Don’t Die for Your Country|As Germany in a 1939 start, occupy all of Poland and France without taking more than 475 casualties.|extension=png}}
-|{{icon|yes}} Playing as {{flag|Germany}}
+|{{icon|yes}} 扮演 {{flag|Germany}}
 {{icon|time}} Start date is 1939.8.3
 | {{icon|yes}}Occupy all of Poland and France without taking more than 475 casualties.
 {{Collapse|{{icon|yes}} controls all cores of {{flag|Poland}} and {{flag|France}}, excluding cores that are islands or outside of Europe<br/>
@@ -1186,7 +1186,7 @@ You don't need the DLC, join Axis, paradrop and naval invade UK, eventually your
 | {{DI|H}}
 |-
 | {{Iconbox|Duce Nuked'em|Nuke Los Angeles as fascist Italy.}}
-| {{icon|yes}} Playing as {{flag|Italy}}
+| {{icon|yes}} 扮演 {{flag|Italy}}
 | {{Plainlist|* {{icon|yes}} Country flag ''achievement_has_nuked_california'' is set
 * {{icon|fascism}} Is fascist }}
 |
@@ -1196,7 +1196,7 @@ After securing the Mediterranean, it can easily be done with a small 1944 strate
 | {{DI|H}}
 |-
 | {{Iconbox|Finnish Him!|As Finland, defeat the Soviet Union without joining a faction.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Finland}}
+| {{icon|yes}} 扮演 {{flag|Finland}}
 | {{icon|yes}} has capitulated the {{Flag|Soviet Union}} without joining a faction.
 {{Collapse|
 *Is at war with the {{flag|Soviet Union}}
@@ -1218,7 +1218,7 @@ Without {{icon|tfv}} :
 | {{DI|H}}
 |-
 | {{Iconbox|Georgia On My Mind|As the U.S.A., own and fully control all three Georgias.|extension=png}}
-| {{icon|yes}} Playing as {{flag|United States}}
+| {{icon|yes}} 扮演 {{flag|United States}}
 | {{icon|yes}} Owns and fully controls the states of:
 *Georgia (365)
 *Georgia (231)
@@ -1232,7 +1232,7 @@ The USA starts with the first Georgia, while the other two; Georgia and South Ge
 | {{DI|H}}
 |-
 | {{Iconbox|Hail to the Qing|As Manchukuo, restore the Qing dynasty.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Manchukuo}}
+| {{icon|yes}} 扮演 {{flag|Manchukuo}}
 | {{icon|yes}} Has completed focus '''[[Manchu_national_focus_tree#Claim_the_Mandate_of_Heaven|Claim the Mandate of Heaven]]'''
 |
 In order to complete the national focus "Claim the Mandate of Heaven", you must be independent and own all of the starting territory of {{flag|China}}, {{flag|Shanxi}}, {{flag|Xibei San Ma}}, {{flag|Yunnan}}, {{flag|Guangxi Clique}}, {{flag|Communist China}} and {{flag|Sinkiang}}.
@@ -1243,7 +1243,7 @@ requires the [[Manchu_national_focus_tree#Assertiveness|Assertiveness]] Sub-bran
 | {{DI|H}}
 |-
 | {{Iconbox|I Swear I'm Not a Byzantophile|As Greece, Form Byzantine Empire.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Greece}}
+| {{icon|yes}} 扮演 {{flag|希腊王国}}
 |{{icon|yes}} Formed the {{flag|Byzantine Empire}}
 |
 Only requires the [[Formable_nations#Restore_Byzantium|Restore Byzantium]] decision, which can be taken by conquering all of {{flag|Turkey}} and the entire Balkans ({{flag|Albania}}, {{flag|Bulgaria}}, {{flag|Yugoslavia}}, {{flag|Romania}} and {{flag|Hungary}}). With {{icon|bftb}}, This can be done by simply conquering {{flag|Turkey}} and following the far left side of the tree and becoming fascist. A decision should be available after the war is complete.
@@ -1254,7 +1254,7 @@ The easiest way to defeat Turkey is a battle of endurance. Station your 13 divis
 | {{DI|H}}
 |-
 | {{Iconbox|It's 1812 All Over Again|As Canada, take and hold Washington D.C.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Canada}}
+| {{icon|yes}} 扮演 {{flag|Canada}}
 | {{icon|yes}} Control the state of Maryland (361)
 | This suggestion requires {{icon|tfv}} DLC.
 Pick Patriation and Swastika Clubs as your first focuses. Go for Synarchist Baja when you switch, get Mexico in your faction and attack the United States on the East Coast. The United Kingdom will be too busy in Europe to do much against you, so it is possible to declare war on the UK first to unlock War Bonds and get some of your powerful industrial focuses before invading the US.
@@ -1263,7 +1263,7 @@ Pick Patriation and Swastika Clubs as your first focuses. Go for Synarchist Baja
 | {{DI|H}}
 |-
 | {{Iconbox|Med plutonium...|Nuke Denmark as Sweden.}}
-| {{icon|yes}} Playing as {{flag|Sweden}}
+| {{icon|yes}} 扮演 {{flag|Sweden}}
 | {{icon|yes}} Is {{flag|Sweden}}
 * Country flag ''achievement_med_plutonium'' is set
 | {{Plainlist|* The nuked state must be both owned by and a core of Denmark.
@@ -1273,7 +1273,7 @@ Pick Patriation and Swastika Clubs as your first focuses. Go for Synarchist Baja
 | {{DI|H}}
 |-
 | {{Iconbox|Neither Death nor Dishonor|As Romania, make it to 1942 with all the states you started it with and control either Moscow or Berlin.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Romania}}
+| {{icon|yes}} 扮演 {{flag|Romania}}
 | {{Plainlist|* {{icon|time}} Date is > 1941.12.31
 * {{icon|yes}} Has ''not'' lost any of the starting states at any point
 * {{icon|yes}} Control ''either'' state: }}
@@ -1296,7 +1296,7 @@ Pick Patriation and Swastika Clubs as your first focuses. Go for Synarchist Baja
 | {{DI|H}}
 |-
 | {{Iconbox|One Empire|Unite the entire world under the British Empire.}}
-| {{icon|yes}} Playing as {{flag|United Kingdom}}
+| {{icon|yes}} 扮演 {{flag|United Kingdom}}
 | {{Plainlist|* {{icon|yes}} Is a faction leader
 * {{icon|yes}} Every state in the world is controlled by ''either'': }}
 ** {{flag|United Kingdom}}
@@ -1309,7 +1309,7 @@ Successfully forming the Imperial Federation with the United States as part of i
 | {{DI|H}}
 |-
 | {{Iconbox|Operation Sea Lion|Control British mainland as Germany.}}
-| {{icon|yes}} Playing as {{flag|Germany}}
+| {{icon|yes}} 扮演 {{flag|Germany}}
 | {{icon|yes}} Control the states: {{Collapse| {{MultiColumn|
 * Scottish Highlands (120)
 * Lothian (121)
@@ -1338,7 +1338,7 @@ This achievement can also be done along with True Blitzkrieg achievement.
 | {{DI|H}}
 |-
 | {{Iconbox|Party like it's 1520|Occupy Stockholm as communist Denmark.}}
-| {{icon|yes}} Playing as {{flag|Denmark}}
+| {{icon|yes}} 扮演 {{flag|Denmark}}
 | {{Plainlist|* {{icon|communism}} Is communist
 * {{icon|yes}} Control the state Svealand (141) }}
 | At the start of the game, get both a fascist and communist demagogue and switch to fascism via civil war. This will allow you to quickly get manpower bonuses from the fascist political tree as well as joining the Axis to avoid a German attack, while communist support builds up for later (remove fascist demagogue after civil war but ensure communist support stays below 60% to avoid another civil war). 
@@ -1351,7 +1351,7 @@ Alternatively, you can also do this without joining any faction. Just turn eithe
 | {{DI|H}}
 |-
 | {{Iconbox|Putting the Raid on the Medway to Shame|As the Netherlands, ensure the United Kingdom has no capital ships (carriers, battleships, battlecruisers, or heavy cruisers).|extension=png}}
-| {{icon|yes}} Playing as {{flag|Netherlands}}
+| {{icon|yes}} 扮演 {{flag|Netherlands}}
 | {{icon|yes}} The {{flag|United Kingdom}} has at most 0 capital ships
 | With {{icon|mtg}} DLC:
 Cave to the German, join the Axis and take your naval focuses. Build warships and planes, use naval bombers to sink the British fleet once you have gained air superiority. Some capital ships might escape to Malta, East Africa or the Caribbean, use carriers with naval bombers on Port Strike to find and sink them.
@@ -1361,7 +1361,7 @@ The achievement will also trigger if the United Kingdom has been fully annexed a
 | {{DI|H}}
 |-
 | {{Iconbox|Sunrise Invasion|As Japan, conquer Mexico then Europe before 1945.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Japan}}
+| {{icon|yes}} 扮演 {{flag|Japan}}
 |{{icon|yes}} Before 1:00 1 Jan, 1945
 {{icon|yes}} Annexed {{flag|Mexico}} before taking any territory in Europe<br/>
 {{icon|yes}} Conquered a coastal state in Europe
@@ -1382,7 +1382,7 @@ Alternatively,
 | {{DI|H}}
 |-
 | {{Iconbox|Sunset Invasion|Occupy a coastal province in Europe as Mexico, and if in a faction have it contain only South American members or puppets.}}
-| {{icon|yes}} Playing as {{flag|Mexico}}
+| {{icon|yes}} 扮演 {{flag|Mexico}}
 | {{Plainlist|* {{icon|yes}} Country flag ''achievement_failed_sunset_invasion'' is not set
 * {{icon|yes}} Control any coastal state on the European continent }}
 |
@@ -1392,7 +1392,7 @@ Alternatively,
 | {{DI|H}}
 |-
 | {{Iconbox|The New Home of the Revolution|As Mexico, put Trotsky in power and puppet the Soviet Union|extension=png}}
-| {{icon|yes}} Playing as {{flag|Mexico}}
+| {{icon|yes}} 扮演 {{flag|Mexico}}
 | {{icon|yes}} Leon Trotsky is the current country leader
 {{icon|yes}} The {{flag|Soviet Union}} is a subject of {{flag|Mexico}}
 |
@@ -1402,7 +1402,7 @@ When the Trotsky seeks refuge event pops up, choose to invite him into the gover
 | {{DI|H}}
 |-
 | {{Iconbox|The Revenge of Montezuma|Restore the old borders with the USA as Mexico.}}
-| {{icon|yes}} Playing as {{flag|Mexico}}
+| {{icon|yes}} 扮演 {{flag|Mexico}}
 | {{icon|yes}} Control the states: {{MultiColumn|
 * Texas (375)
 * New Mexico (376)
@@ -1417,7 +1417,7 @@ When the Trotsky seeks refuge event pops up, choose to invite him into the gover
 | {{DI|H}}
 |-
 | {{Iconbox|The Dragon Swallowed the Sun|As Manchukuo, Break free from Japan and annex your former Overlord without being in a faction.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Manchukuo}}
+| {{icon|yes}} 扮演 {{flag|Manchukuo}}
 | {{icon|yes}} Annexed {{flag|Japan}}
 |
 May be done in conjunction with the [[#Hail_to_the_Qing|Hail to the Qing]] and the [[#The_Good,_the_Bad_and_the_Weird|The Good, the Bad and the Weird]] achievements.<br/> 
@@ -1427,7 +1427,7 @@ requires the [[Manchu_national_focus_tree#Assertiveness|Assertiveness]] Sub-bran
 | {{DI|H}}
 |-
 | {{Iconbox|Treading the Narrow Path|As the Netherlands, do not cave to the Germans, continue the Zuiderzee works, and do not lose control of any of your continental European states until 1945.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Netherlands}}
+| {{icon|yes}} 扮演 {{flag|Netherlands}}
 | {{icon|no}} Has not completed focus ''Cave to the Germans''<br/>
 {{icon|yes}} Has completed focus ''Continue the Zuiderzee Works''<br/>
 {{icon|no}} The {{flag|Netherlands}} has not lost one of its starting states<br/>
@@ -1440,7 +1440,7 @@ For a greater challenge; take the non-aligned path, but the House of Orange back
 | {{DI|H}}
 |-
 | {{Iconbox|Bad Romeance|Restore Byzantium and have Italy, Romania, and Russia as subjects.|extension=png}}
-| {{icon|yes}} Playing as {{Flag|Greece}}
+| {{icon|yes}} 扮演 {{flag|希腊王国}}
 | {{icon|yes}} {{flag|Byzantine Empire}} has {{flag|Italy}}, {{flag|Romania}}, and {{flag|Soviet Union|Russia}} as subjects.
 | If {{icon|bfb}} Battle for the Bosporus is active, the achievement can only be done patch 1.10.2 or later.
 Change government to fascism as quickly as possible (using the Megali Idea if {{icon|bfb}} is active). Justify on Yugoslavia and Albania, timing it so the justifications complete right after the Anschluss (February 1938 with Historical Focus). Join the Axis, which will consist of Germany alone. Declare both wars simultaneously, drawing Romania and Italy into a war with Germany. Get as much war participation as possible and puppet both in the peace conference. You can then proceed to defeat Turkey and the Soviet Union alongside the Axis.
@@ -1471,7 +1471,7 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 | {{DI|VH}}
 |-
 | {{Iconbox|Bevrijding|As the Netherlands, liberate the continental Netherlands after relocating the government to the East Indies.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Netherlands}}
+| {{icon|yes}} 扮演 {{flag|Netherlands}}
 | {{icon|yes}} Current ruling party is {{icon|Democracy|Democratic}}
 {{icon|yes}} Has completed focus ''Liberation''
 |Begin to develop the east indies, focus on planes (specifically bombers) and submarines to destroy factories and shipping to damage the German economy so the USSR doesn't lose. You will need some civilian factories and lots of cargo ships. Beware of Japan as they will likely attempt to attack and invade Indonesia so make sure to guard all ports and have some planes and ships to hold them off. Once you have safely fortified the East Indies from Japanese attacks, either focus on Germany to reconquer your home territory or focus on Japan and finish them off to gain some resources and factories.
@@ -1480,7 +1480,7 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 | {{DI|VH}}
 |-
 | {{Iconbox|Czechmate|As Czechoslovakia, occupy Canberra while at war with the Allies.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Czechoslovakia}}
+| {{icon|yes}} 扮演 {{flag|Czechoslovakia}}
 | {{Plainlist|* {{icon|cb}} At war with {{flag|United Kingdom}}
 * {{icon|democracy}} {{flag|United Kingdom}} is democratic
 * {{icon|yes}} Controls the state New South Wales (285) }}
@@ -1514,7 +1514,7 @@ Paratroopers method:
 | {{DI|VH}}
 |-
 | {{Iconbox|Death or Dishonor or Cake|As Romania, own a slice of all your starting neighbors.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Romania}}
+| {{icon|yes}} 扮演 {{flag|Romania}}
 | {{icon|yes}} Has ''Carol II'' as country leader
 {{icon|yes}} Has ''not'' completed any of the below focuses:
 * [[File:Focus_rom_parties_end.png|28px]] [[Romanian national focus tree#All Parties Must End|''"All Parties Must End"'']]
@@ -1542,7 +1542,7 @@ Paratroopers method:
 | {{DI|VH}}
 |-
 | {{Iconbox|Go Ahead, Macau My Day|As Portugal, create a collaboration government in Macau and have it own all Chinese states.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Portugal}}
+| {{icon|yes}} 扮演 {{flag|Portugal}}
 | {{icon|yes}} Create a collaboration Government in Macau and have it own all core territory of China and Manchukuo:
 {{Collapse|
 {{icon|yes}}One of the following countries:<br/>
@@ -1568,7 +1568,7 @@ Paratroopers method:
 | {{DI|VH}}
 |-
 | {{Iconbox|Hardly Anything Sèvres|As the Ottoman Empire, hold the capitals of France, the United Kingdom, Italy, and Japan.|extension=png}}
-| {{icon|yes}} Playing as {{Flag|Turkey}}
+| {{icon|yes}} 扮演 {{Flag|Turkey}}
 | {{icon|yes}} The {{Flag|Ottoman Empire}} controls the capitals of {{flag|United Kingdom|Britain}}, {{flag|France}}, {{Flag|Italy}}, and {{Flag|Japan}}.
 | To be Ottoman Empire you need to go far left of focus tree and choose Adnan Menderes after "Hold Our First Multi-Party Election". This one requires one to be in the winning side against both Axis and Allies. Easiest way is to disable La Resistance and start boosting non-aligned to Russia and USA from the beginning of game and right after concluding civil war against Kemalists. You will need to stage well timed coups against Russia and USA in order to have rebellion in your faction instead of Axis(they shouldn't be in a war against another faction), a good time to start against Russia is around when Italia joins Axis and a few months later to the USA(they both should have <80 stability at the time if you boosted non-aligned enough but it can differ sometimes). In the meantime you can annex or puppet Greece and Romania with naval invasions with "Reclaim the Makedonyalı Sanjak" claim. Continue with "Press the Austro-Hungarian Claim" focus to be able to create factions. Justify against russia and declare before coup is complete, when Russian coup is completed invite rebellion to your faction. You just need to hold your line and not let non-aligned Russia get capitulated(you don't need war participation, rebellion will have all russia after Germany capitulates Russia). You will also need to send a lot of divisions to help USA rebellion so it's better to choose a city from pasific side to start coup(Axis should have Suez Canal by now and you can ask for access while being at war against Russia). Like with Russia, you need to justify against USA and declare before coup is finished. After Democratic USA and Communist Russia is capitulated you will have 2 most powerful nations in your faction. Your faction can win any war against anyone. Keep an eye on non-aligned Russia's division count and declare war to Axis when you are ready, after that either get control of capitals via naval invasion/paradrop or ask control from your allies.
 | {{icon|bfb}}
@@ -1577,7 +1577,7 @@ Paratroopers method:
 | {{DI|VH}}
 |-
 | {{Iconbox|Huge-oslavia|As Yugoslavia, occupy all your neighbouring countries (Austria, Hungary, Romania, Bulgaria, Albania, Italy and Greece).|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Yugoslavia}}
+| {{icon|yes}} 扮演 {{flag|Yugoslavia}}
 | {{icon|yes}} Every state in the world is ''either'': 
 * Controlled by ''Our Nation''
 * Is ''not'' a core of the below nations: {{MultiColumn|
@@ -1587,7 +1587,7 @@ Paratroopers method:
 ** {{flag|Hungary}}
 ** {{flag|Italy}}
 ** {{flag|Romania}}
-** {{flag|Greece}} ({{red|except}} Istanbul (341) )
+** {{flag|希腊王国}} ({{red|except}} Istanbul (341) )
 |2}}
 |It is only necessary to occupy the land required so it is possible to have this achievement fire whilst at war. Can be combined with [[The Balkan Powder Keg]] achievement.
 * 
@@ -1596,7 +1596,7 @@ Paratroopers method:
 | {{DI|VH}}
 |-
 | {{Iconbox|Miklos Horthy and the Habsburg Prince|As Hungary, Restore Austria-Hungary.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Hungary}}
+| {{icon|yes}} 扮演 {{flag|Hungary}}
 | {{Plainlist|* {{icon|yes}} Is ''cosmetic'' tag {{flag|Hungary|0}} Austria-Hungary
 * {{icon|yes}} Own and control the states: }} {{Collapse| {{MultiColumn|
 * Upper Austria (152)
@@ -1638,7 +1638,7 @@ Paratroopers method:
 | {{DI|VH}}
 |-
 | {{Iconbox|One King, Two Crowns|As Bourbon Spain, hold all Spanish and French core states.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Spain}}
+| {{icon|yes}} 扮演 {{flag|Spain}}
 | {{icon|yes}} is {{flag|Carlist Spain}}<br/>
 {{icon|yes}} Conquer all of France.
 | You must ''own'' the cores, which means completely defeating France's faction and get all cores in a peace deal. Remember that France may get cores on the Algerian coast. Best done in non-historical, as France might not ally with the UK or the US.
@@ -1700,7 +1700,7 @@ With Historical Focus Off, the UK has a chance of becoming fascist or non-aligne
 | {{DI|VH}}
 |-
 | {{Iconbox|The People Have Stood Up!|With Mao as your leader, win the Chinese Civil War.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|Communist China}}
+| {{icon|yes}} 扮演 {{flag|Communist China}}
 | {{icon|yes}} Conquered all of {{flag|China|Nationalist China}}'s Starting territory
 | This achievement does not require all the Chinese cores.
 | 
@@ -1708,7 +1708,7 @@ With Historical Focus Off, the UK has a chance of becoming fascist or non-aligne
 | {{DI|VH}}
 |-
 | {{Iconbox|The weapons of the Third Emu War|As Australia, use a nuclear bomb on core Australian territory.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Australia}}
+| {{icon|yes}} 扮演 {{flag|Australia}}
 | {{icon|yes}} Country flag ''achievement_AST_nuke_self'' is set
 | 
 * Turn off Together for Victory and Man the Guns - this will allow you to leave Allies instantly. Do not engage any factions or wars then.
@@ -1722,7 +1722,7 @@ With Historical Focus Off, the UK has a chance of becoming fascist or non-aligne
 | {{DI|VH}}
 |-
 | {{Iconbox|30 Minutes of Hel|As Poland in the 1939 “Blitzkrieg” scenario start, inflict over 1,800,000 casualties to Germany to beat the 2018 PDXCON HOI4 challenge. Extra bragging rights if you do it in 30 minutes or less!|extension=png}}
-|{{icon|yes}} Playing as {{flag|Poland}}<br/>
+|{{icon|yes}} 扮演 {{flag|Poland}}<br/>
 {{icon|time}} Start date is 1939.8.3
 | {{icon|yes}} The {{flag|Germany|German Reich}} has more than 1.80M Casualties inflicted by {{flag|Poland}}
 |
@@ -1743,7 +1743,7 @@ With Historical Focus Off, the UK has a chance of becoming fascist or non-aligne
 | {{DI|I}}
 |-
 | {{Iconbox|Crusader Kings 2|As South Africa, finish the Anti-Colonialist Crusade focus, release all European colonies via the focus, and take London.|extension=png|link=on}}
-| {{icon|yes}} Playing as {{flag|South Africa}}
+| {{icon|yes}} 扮演 {{flag|South Africa}}
 | {{icon|yes}} Focus [[File:Focus SAF colonialist crusade.png|28px]] [[South African national focus tree#Anti-Colonialist Crusade|''"Anti-Colonialist Crusade"'']] is completed
 {{icon|yes}} Is a faction leader<br/>
 {{icon|yes}} A faction member controls the state Greater London Area (126)
@@ -1760,7 +1760,7 @@ With Historical Focus Off, the UK has a chance of becoming fascist or non-aligne
 | {{DI|I}}
 |- 
 | {{Iconbox|We’re Putting the Band Back Together|As Turkey, be in a faction with Germany and Austria-Hungary.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Turkey}}
+| {{icon|yes}} 扮演 {{flag|Turkey}}
 | {{icon|yes}} Be in a faction with {{Flag|Germany}} and {{Flag|Austria-Hungary}}
 |
 Hungary only needs to have completed "Restoration of Austria-Hungary" or been united with its neighbors via the Turkish focus "Press the Austro-Hungarian Claim". When AI Hungary is asking Austria to unite via a referendum, Austria seems never to accept, and in the following war Hungary loses on its own. As Turkey, chase to "Intervene in the Spanish Civil War", which will allow you to send 8 volunteer divisions. You have to have 30 divisions - 22 'anything works' and 8 as good as possible. Win the war for Hungary. Then later join Axis, declare war on Austria-Hungary and make them a puppet. 
@@ -1769,24 +1769,24 @@ Hungary only needs to have completed "Restoration of Austria-Hungary" or been un
 | {{DI|UC}}
 |-
 | {{Iconbox|Prussia of the Balkans|As Bulgaria capitulate Turkey while also controlling the rest of the Balkans, including Greece.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Bulgaria}}
+| {{icon|yes}} 扮演 {{flag|Bulgaria}}
 | {{icon|yes}} Is at war with {{Flag|Turkey}}<br/>
 {{icon|yes}} {{Flag|Turkey}} has capitulated<br/>
-{{icon|yes}} Controls the core states of {{Flag|Romania}}, {{flag|Greece}} (Not including Dodecanese (164)), {{Flag|Yugoslavia}} and {{flag|Albania}}<br/>
+{{icon|yes}} Controls the core states of {{Flag|Romania}}, {{flag|希腊王国}} (Not including Dodecanese (164)), {{Flag|Yugoslavia}} and {{flag|Albania}}<br/>
 | You only need to occupy the states, not own them. Switch to communist and get as many Balkan country as possible in your faction. If going the Balkan Federation route, a country will flip above 60% communist support, Romania and Greece are particularly important to get on your side. Any Balkan country in your faction can be annexed though the 'Unification of the Balkans' focus, with a higher chance for high opinion, relative army strength and being faction leader. Once you have established the Federation, attack whoever still controls land in the Balkans and capitulate Turkey (if it made its own faction, annex it and releaese it).
 | 
 | data-sort-value="10" | 1.10
 | {{DI|H}}
 |-
 | {{Iconbox|Master Puppeteer|As Bulgaria, complete the focus The Fate of the Balkans while having 5 or more Balkan puppets.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Bulgaria}}
+| {{icon|yes}} 扮演 {{flag|Bulgaria}}
 | {{icon|yes}} Has completed focus '''The Fate of the Balkans'''<br/>
 {{icon|yes}} at least '''6''' of the following is a subject of {{flag|Bulgaria}}:
 {{Collapse|
 *{{flag|Romania}}
 *{{Flag|Yugoslavia}}
 *{{Flag|Hungary}}
-*{{Flag|Greece}}
+*{{flag|希腊王国}}
 *{{Flag|Albania}}
 *{{Flag|Serbia}}
 *{{flag|Turkey}}
@@ -1804,7 +1804,7 @@ After completing "The Fate of the Balkans" you get the ability to peacefully pup
 | {{DI|M}}
 |-
 | {{Iconbox|One Nation Under Atatürk, Indivisible|As non-aligned Turkey, have zero negative state modifiers.|extension=png}}
-| {{icon|yes}} Playing as {{flag|Turkey}}<br/>
+| {{icon|yes}} 扮演 {{flag|Turkey}}<br/>
 {{icon|yes}} The DLC {{icon|bftb}} is enabled
 | {{icon|yes}} As {{icon|unaligned|1}} {{flag|Turkey}}, have no negative state modifiers in any of your owned states.
 | Go the Kemalist route through the Etatism and Peace at Home focuses. Take the Silent Workhorse advisor and use the Secularism decision whenever available to block the expansion of your Islamist rivals. The Türk Ulusu focus will pacify the Kurdish states, while the Islamist opposition can be dealt with through the Counter-Fundamentalist Operation or compromise decisions (as long as the Kemalist remain loyal). You do not have to go to war and simply need enough political power to repeat the decisions. The achievement will trigger when all Islamic states are Placated, and the Kurdish states are either at Separatist Fatigue or cored.
