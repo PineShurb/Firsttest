@@ -716,8 +716,8 @@ __TOC__
 | data-sort-value="0" | 1.0
 | {{DI|E}}
 |-
-| {{Iconbox|Assuming Direct Control|Starting as a minor power, assume faction leadership of the Allies, the Axis, or the Comintern.|extension=png}}
-| {{icon|no}} Not playing as either:
+| {{Iconbox|Assuming Direct Control|开局扮演小国，成长为同盟国、轴心国或共产国际的阵营领袖。|extension=png}}
+| {{icon|no}} :
 *{{flag|United States}}
 *{{flag|United Kingdom}}
 *{{flag|Germany|German Reich}}
@@ -726,24 +726,24 @@ __TOC__
 *{{flag|Soviet Union}}
 *{{flag|Japan}} 
 *{{flag|China}}
-| {{icon|yes}} Has assumed faction leadership from:
-*The {{flag|United Kingdom}}
-*The {{flag|Germany|German Reich}} 
-*The {{flag|Soviet Union}}
-{{icon|yes}} is Faction leader
+| {{icon|yes}} 从以下国家手中接管阵营:
+*{{flag|United Kingdom}}
+*{{flag|Germany|German Reich}} 
+*{{flag|Soviet Union}}
+{{icon|yes}} 成为阵营领袖
 |
-*Assuming leadership on the diplomacy screen requires 50% more factories and fielded manpower than the current leader. Canada and Mexico probably have the best shot at doing it early, with a quick war against the US and lots of puppet manpower.
-*Faction leadership is also transferred to the next most powerful member if the current leader capitulates. Join the Comintern as a minor. Do not help the USSR (do not join the war) and wait for them to capitulate. Once capitulated you will be the only member of the Comintern. If the USSR appears to be winning switch ideologies to fascist and join the axis.
+*在外交界面上可以选择接管阵营，但要求比当前阵营领袖多50%工厂和服役人力。要想在游戏早期做到这一点，墨西哥和加拿大是最好的选择。它们可以闪击美国并获得大量傀儡人力。
+*当现任阵营领袖投降后，阵营内下一个最强大的国家将成为阵营领袖。扮演小国加入共产国际，不要加入战争帮助苏联。等到它投降之后，你就是共产国际的唯一成员。如果苏联有可能赢得战争，就转变为法西斯，加入轴心国。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|M}}
 |-
-| {{Iconbox|Balkan Problem Solved|As Communist Bulgaria, form the United Balkan Federation and own all Balkan states as cores.|extension=png}}
+| {{Iconbox|Balkan Problem Solved|扮演共产保加利亚，组建联合巴尔干联邦，拥有所有巴尔干地区且核心化。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Bulgaria}}
-| {{icon|yes}} Current ruling party is {{icon|Communist|1}}<br/>
-{{icon|yes}} Is faction leader<br/>
-{{icon|yes}} Has completed focus '''The Unification of the Balkans'''<br/>
-{{icon|yes}} Owns the core states of {{Flag|Romania}}, {{flag|希腊王国}}, {{Flag|Yugoslavia}} and {{flag|Albania}} as core states<br/>
+| {{icon|yes}} 当前执政党为 {{icon|Communist|1}}<br/>
+{{icon|yes}} 是阵营领袖<br/>
+{{icon|yes}} 完成国策 '''巴尔干的统一'''<br/>
+{{icon|yes}} 拥有 {{Flag|Romania}}, {{flag|希腊王国}}, {{Flag|Yugoslavia}} 和 {{flag|Albania}} 的核心地区，且将这些地区转变为自己的核心<br/>
 |
 *At start immediately save 150 PP to get the communist revolutionary and completely avoid faction interactions until you turn communist. You will only need to integrate the Zveno and get broad socialist loyalty over 50. Don't spend PP negotiating for rearmament, refuse the restrictions once you form your faction. You should be able to take the focus "The people's republic of bulgaria" by mid 1937.
 *Build a spy agency around January 1937 and 5 improvements. With "The People's Militia Directorate" focus you can get 3 spies (4 with an advisor) to increase communist support. Take the "Balkan Federation of Socialist Republics" focus to influence Greece and Romania, Ignore Albania and Turkey. Do not spend PP on Yugoslavia. Use spies in Romania. Countries will switch ideologies around 60% support.
@@ -753,25 +753,26 @@ __TOC__
 | data-sort-value="10" | 1.10
 | {{DI|M}}
 |-
-| {{Iconbox|Crusader Kings|As South Africa, finish the A King for our People focus and take Jerusalem.|extension=png}}
+| {{Iconbox|Crusader Kings|扮演南非，完成国策我们人民的国王，控制耶路撒冷。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|South Africa}}
-| {{Plainlist|* {{icon|yes}} Has [[File:Edward VIII.png|24px]] Edward VIII national spirit
-* {{icon|yes}} Control the state Jerusalem (454) }}
+| {{Plainlist|* {{icon|yes}} 拥有民族精神 [[File:Edward VIII.png|24px]] 爱德华八世
+* {{icon|yes}} 控制 耶路撒冷 (454) }}
 |
-* Take Fascism route for independence, justify war on Portugal (don't leave Allies) and take their colonies - should be done before start of WWII. 
-* Leave Allies justify war on UK (or if possible join Axis) and attack them from behind. 
-* This should make UK lose in Egypt as they have to send some troops to fight you. If that's the case Italy will take Palestine so ask for control over it (if you don't have enough war score just kill more Allies). If not, drive straight for Palestine (get some ports along the way so you won't get cut off from supplies). 
-* Remember to defend your ports - basic District Brigade (3xINF) will do the job nicely. It's the only quick way to lose because it will take ages for Allies to get to you through land (way longer than your troops going for Palestine will take).
+* 走法西斯路线独立，正当化对葡萄牙战争(不要立刻同盟国)并夺取它的殖民地。在二战爆发前完成。
+* 脱离同盟国，正当化对英国战争(只要有机会就加入轴心国)并进行背刺。
+* 英国将会派遣部队与你交战，而这可能导致其在埃及失利。如果战争按预期进行，意大利会占领巴勒斯坦。要求意大利移交控制权(分数如果不够就攻击同盟国)。如果没有按预期进行，就直接杀向巴勒斯坦。沿途占领港口，以免无法获得足够补给。
+* 一定要保护好港口，盟军要想通过陆地直接攻击你，需要走很长时间。在这期间，你已经可以拿下巴勒斯坦了。守港口的部队可以使用基础模板(District Brigade)(3xINF) 编制。
 | {{icon|tfv}}
 | data-sort-value="3" | 1.3
 | {{DI|M}}
 |-
-| {{Iconbox|Crush the Dream|As a Communist United Kingdom, crush the American Dream by puppeting the U.S.A.|extension=png}}
+| {{Iconbox|Crush the Dream|扮演共产主义英国，傀儡美国，粉碎美国梦。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|United Kingdom}}
-| {{icon|yes}} Current ruling party is {{icon|communism|Communist}}<br/>
-{{icon|yes}} Has completed focus ''Crush the Dream''<br/>
-{{icon|yes}} The {{flag|United States}} is a subject of The {{flag|United Kingdom}}
-|Become communist as normal. Take the Move to Secure the Dominion focus as soon as you switch communist, and start justifying on the Philippines, since that won't raise WT by much but still make sure the US gets involved. Move your army to Canada, making sure to spread the divisions out and declare martial law to prevent it from seceding. (It is not enough to create a front line along the border, as Nova Scotia doesn't border the US, so at least two divisions must be placed there manually.) Then start Decolonisation while you wait for the justification to finish, and install a communist government in Canada to make sure they will be friendly to you. Then, position your army along the Canadian border, and make sure to train lots of 10w 1 unit cavalry brigades, since the US cannot man their entire border with their starting army and the cavalry can simply overrun their entire country with the US not being able to do much to stop it. When the justification is finished, declare war on the Philippines which will automatically draw in the US as they are a puppet. Since Decolonisation is likely done before the invasion (to prevent civil war), it is necessary to call Canada into the war to be able to attack the US from their border. (Don't bother with moving the Royal Navy to the US; it is a quick affair to capture all ports on both coasts in the lower 48 states and then the US Navy is not much of a threat.) The achievement requires taking the focus Crush the Dream which involves an alliance with the Soviet Union, and is unavailable if the US is already a puppet or not democratic, so DO NOT CAPITULATE THE US BEFORE THE FOCUS IS FINISHED or it will be bypassed, even if other alliance members are still fighting with the US. Try to keep the rest of the Comintern out of the war against the US to prevent them from gaining war score. If the UK becomes communist, France will likely create its own Little Entente alliance, and invite the UK to it. It is important to keep WT under 50% if possible while the invasion of the US is ongoing, since above that they will be able to join factions and thus ally themselves with France, making it necessary to capitulate France as well before it is possible to puppet the US. Although, given the military capabilites by that point, and that Germany will probably invade France too, it shouldn't be a big problem to do so. 
+| {{icon|yes}} 当前执政党是 {{icon|communism|Communist}}<br/>
+{{icon|yes}} 已完成国策 ''粉碎美国梦''<br/>
+{{icon|yes}} {{flag|United States}} 成为 {{flag|United Kingdom}}的附庸
+|使用正常方式转变为共产主义。变为共产主义后尽快完成国策'''确保自治领'''，正当化对菲律宾战争。这样可以在没有大量增加全球紧张度的情况下将美国卷进战争。将部队转移到加拿大并沿着美加边境分散分布。对加拿大宣布戒严令，防止其独立。在对菲律宾正当化战争期间，开始非殖民化，在加拿大建立一个共产主义政府，确保它们对你的友好。训练大量1营骑兵师并布置到美加边境上。美国无法用军队填满战线来阻止敌军，所以骑兵师可以轻易的占领美国。对菲律宾正当化完成后，向其宣战，这会使美国自动加入战争。因为菲律宾是美国的傀儡。如果在去殖民化完成之后才宣战，就要呼唤加拿大加入战争，以便从其边境进攻美国。
+取得该成就需要完成国策'''粉碎美国梦'''，而这需要与苏联结盟。但是结盟前美国不能已经被傀儡或者投降。所以'''完成国策前不要占领美国'''，否则就会绕过该国策，即使其它盟友仍在与美国战斗。尽量不要让其它共产国际的国家加入战争，以免它们取得战争分数。如果英国转变为共产主义，法国可能会组建小协约国联盟并邀请英国加入。在入侵美国期间，如果能做到，就一定要将全球紧张度控制在50以下，否则美国就可以加入阵营。如果美国与法国结盟，就要将法国一并傀儡。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|M}}
