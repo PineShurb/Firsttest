@@ -777,44 +777,44 @@ __TOC__
 | data-sort-value="6" | 1.6
 | {{DI|M}}
 |-
-| {{Iconbox|Dracula’s Revenge|As Yugoslavia, establish the autonomous region of Transylvania and have it own all Romanian cores.|extension=png}}
+| {{Iconbox|Dracula’s Revenge|扮演南斯拉夫，建立特兰西瓦尼亚自治区，使其拥有所有罗马尼亚核心地区。|extension=png}}
 | {{icon|yes}} 扮演 {{Flag|Yugoslavia}}
-| {{icon|yes}} {{Flag|Transylvania}} owns all of {{flag|Romania}}.
-|You don't have to take the focus to release Transylvania, you can puppet it in the peace deal. Note that Transylvania needs to own all Romanian cores, meaning that if historical focus is turned on, you have to finish the war before Germany does the Second Vienna Award focus. In 1939 you should be guaranteed by both the UK and France, so you don't have to worry about the Allies. You can join the Axis or Comintern to force Romania moving some of their troops, but don't call them in, as giving Romanian land to Transylvania will require a lot of war score.
-Can also be done as communist Yugoslavia. Go down the communist focus tree, make your own faction and do communist uprisings first in Albania and Bulgaria, then Romania. When communist Romania wins their civil war, justify and attack them, they will not be guaranteed by anyone, as they are communist and just fought a civil war. Puppet Transylvania in peace conference and give them all Romanian territory.
+| {{icon|yes}} {{Flag|Transylvania}} 拥有 {{flag|Romania}} 全境。
+|无需使用国策释放特兰西瓦尼亚，你可以在和平协议中傀儡它。注意，特兰西瓦尼亚需要拥有所有罗马尼亚的核心地区，这意味着在沿用历史国策的情况下，你需要在德国进行国策''第二次维也纳仲裁''前结束战争。你会在1939年获得英法的保障独立，所以不用担心盟军。通过加入轴心国或共产国际，你可以迫使罗马尼亚将军队分散开来。但不要呼叫这些盟友加入战争，因为将罗马尼亚的土地交给特兰西瓦尼亚需要大量战争分数。
+也可以扮演共产主义南斯拉夫。在国策树中走共产主义路线，组建阵营并在阿尔巴尼亚和保加利亚煽动共产主义革命，随后颠覆罗马尼亚。当罗马尼亚共产党取得内战胜利后，制造对它的战争目标并开战。由于共产主义者的身份且刚刚结束内战，不会有国家对其保独。在和平会谈中傀儡特兰西瓦尼亚并令其管理罗马尼亚所有土地。
 | {{icon|dod}}
 | data-sort-value="10" | 1.10
 | {{DI|M}}
 |-
-| {{Iconbox|Forge of Victory|Have 50 factories as Belgium.}}
+| {{Iconbox|Forge of Victory|扮演比利时，拥有50座工厂。}}
 | {{icon|yes}} 扮演 {{flag|Belgium}}
-| {{icon|yes}} Has factories > 49
-| {{Plainlist|* Naval dockyards count toward this total
-* This total can be reached by going fascist or communist and conquering the Netherlands, combined with normal industrial build-up. Also easily accomplished as fascist as Germany will use your territory to bypass the Maginot Line typically resulting in your control of northern France upon their capitulation.}}
+| {{icon|yes}} 拥有工厂数 > 49
+| {{Plainlist|* 海军船坞的数量也被计算在内
+* 转法西斯或共产主义，征服荷兰，正常建设工厂即可。另一种完成方式是转法西斯后让德国从你这里绕过马奇诺防线，一般来说你可以在战后分得法国北部的地区。}}
 |
 | data-sort-value="0" | 1.0
 | {{DI|M}}
 |-
-| {{Iconbox|Freedom or Death|As Greece, liberate Albania while being at war with Italy.|extension=png}}
+| {{Iconbox|Freedom or Death|扮演希腊，在与意大利的战争中解放阿尔巴尼亚。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|希腊王国}}
-| {{icon|yes}} Is at war with {{flag|Italy}}<br/>
-{{icon|yes}} Has full control of Northern Epirus (805) <br/>
-{{icon|yes}} Has full control of Albania (44) <br/>
-|May be completed with Bad Romeance. Go fascist and justify on Albania once you flip. Since Italy is guaranteeing Albania they will join the war once you declear on Albania. Capitulate Albania and take all their land
+| {{icon|yes}} 与 {{flag|Italy}} 交战中<br/>
+{{icon|yes}} 完全控制 北伊庇鲁斯 (805) <br/>
+{{icon|yes}} 完全控制 阿尔巴尼亚 (44) <br/>
+|可同时完成成就 Bad Romeance 。转成法西斯主义，完成后制造对阿尔巴尼亚的宣称，然后宣战。意大利保独阿尔巴尼亚，所以它会加入战争。使阿尔巴尼亚投降并占领它的全部土地。
 |
 | data-sort-value="10" | 1.10
 | {{DI|M}}
 |-
-| {{Iconbox|Freegypt|As Egypt, go from puppet to a free nation using the autonomy system.|extension=png}}
+| {{Iconbox|Freegypt|扮演埃及，利用自治系统从傀儡变为自由国家。|extension=png}}
 |
-| {{icon|yes}} Is {{flag|Egypt}}
-* Country flag ''achievement_EGY_colony'' is set
-* Country flag ''achievement_EGY_dominion'' is set
-* Country flag ''achievement_EGY_free'' is set
+| {{icon|yes}} 扮演 {{flag|Egypt}}
+* 标志 ''achievement_EGY_colony'' 置位
+* 标志 ''achievement_EGY_dominion'' 置位
+* 标志 ''achievement_EGY_free'' 置位
 |
-* Start as UK (don't unpause) and release Egypt as a puppet (check "Play as" when the checkbox appears).
-* Produce some units to fight Italians in Africa. After you are secure the fastest way to gain autonomy points is to mass produce infantry weapons and convoys, then to Lend Lease them to the UK (it will give you more points if you have better tech than them so rush those next level weapons). 
-* Fighting in Europe also give you nice autonomy boost (not as large as Lend Lease) but remember that if you win too soon you will be stuck with only 0.5 autonomy daily from focus.
+* 以英国开局 (不要取消暂停) 并释放埃及为傀儡 (出现 "扮演" 弹窗时点击它)。
+* 训练一些部队，派它们到非洲与意大利人作战。在保障安全之后，获得自治点最快的方式是大量生产步兵装备和舰船并租借给英国(比英国更先进的武器能换取更多的自治点，所以加紧研究武器科技吧).。
+* 到欧洲参战也可以获得不少自治点 (但没有送武器来的多)。但是，如果你让战争结束的太快，就只能使用国策来每天获取0.5自治点。
 | {{icon|tfv}}
 | data-sort-value="3" | 1.3
 | {{DI|M}}

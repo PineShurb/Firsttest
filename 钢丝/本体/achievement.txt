@@ -2594,6 +2594,344 @@ DI "一栏是由wiki编辑评估的难度。VE=非常容易，E=容易，M=中�
 | {{icon|dod}}
 | data-sort-value="10" | 1.10
 | {{DI|M}}
+|-
+| {{iconbox|Forge of Victory|Have 50 factories as Belgium.}}。
+| {{icon|yes}} 扮演 {{flag|Belgium}}。
+| {{icon|yes}} 拥有工厂>49家
+| {{平原列表|*海军船坞也算在这个总数内
+* 通过法西斯或共产主义并征服荷兰，再加上正常的工业建设，就可以达到这个总数。法西斯主义也很容易实现，因为德国会利用你的领土绕过马奇诺防线，这通常会导致你在法国投降后控制法国北部。}
+|
+| data-sort-value="0" | 1.0
+|{{DI|M}}
+|-
+| {{icon|Freedom or Death|作为希腊，在与意大利交战时解放阿尔巴尼亚。}
+| {{icon|yes}} 扮演 {{flag|希腊王国}}。
+| 扮演 {{icon|yes}} 正在与{{旗帜|意大利}}交战<br/><br/>
+扮演 {{icon|yes}} 完全控制了北伊庇鲁斯（805年） <br/>
+{{icon|yes}}完全控制阿尔巴尼亚(44)。完全控制了阿尔巴尼亚(44) <br/>
+|可能会与坏罗曼斯一起完成。一旦翻盘，就去法西斯化，对阿尔巴尼亚进行论证。由于意大利为阿尔巴尼亚提供担保，一旦你在阿尔巴尼亚问题上作出决定，他们就会加入战争。俘虏阿尔巴尼亚，夺取他们所有的土地
+|
+| data-sort-value="10" | 1.10
+|{{DI|M}}。
+|-
+| {{Iconbox|Freegypt|作为埃及，利用自治系统从傀儡变成自由国家。|extension=png}}。
+|
+|{图标|是}} 是 {{flag|Egypt}}。
+* 国旗''accommentation_EGY_colony''已设定
+* 国旗''accommentation_EGY_dominion''被设置了
+* 国旗''accommentation_EGY_free''被设置。
+|
+*以英国的身份开始（不要取消暂停），并以傀儡的身份释放埃及（当复选框出现时，勾选 "作为游戏"）。
+*生产一些部队，在非洲与意大利人作战。在你安全之后，获得自主权积分的最快方式是大量生产步兵武器和车队，然后把它们借给英国（如果你有比他们更好的技术，它会给你更多的积分，所以赶紧生产那些下一级的武器）。
+* 在欧洲作战也会给你带来不错的自主权提升（没有租借那么大），但请记住，如果你赢得太快，你会被卡在每天只有0.5个自主权的焦点上。
+| {{icon|tfv}}。
+| data-sort-value="3" | 1.3
+| {{DI|M}}
+|-
+| {{Iconbox|History Repeated Itself|As the U.S.A., Win against the Confederate States. 再一次。|extension=png}}。
+|{icon|yes}} 扮演 {{flag|United States}}的角色
+| {{icon|yes}} 第二次美国内战已经开始
+{{icon|yes}} 扮演 {{icon|yes}} 美国国家联盟。不存在
+|
+挑选国家焦点 "暂停迫害"，完成国家焦点 "WPA "并完成其所有连续的焦点，然后挑选"''全面解除种族隔离''"或"''联邦代表法''"国家焦点，以触发与联邦的内战。{{flag||Confederacy of American States}}出现在与原联邦国家相同的南部各州。要注意的是，中西部五大湖周围的几个州也会脱离出来，形成{{旗帜|美国不结盟国家}}，但他们不会对你产生敌意。
+| {{icon|mtg}}。
+| data-sort-value="6" | 1.6
+| {{DI|M}}
+|-
+| {{Iconbox|House of Kurds|As Kurdistan,hold all of your cores.|extension=png}}。
+| 
+| {{icon|yes}} 原始国家是{{旗帜|库尔德斯坦}}。
+{{icon|yes}} 作为库尔德斯坦，持有你所有的核心
+|
+{{flag|Kurdistan}}不能被游戏开始时持有其核心的四个国家中的任何一个释放，这意味着这些土地必须首先由非{{flag|France}}、{{flag|Iran}}、{{flag|Iraq}}或{{flag|Turkey}}的国家来获得，以便释放库尔德斯坦（选择 "扮演"）以取得成就。这可以作为任何国家进行，但作为任何一个主要国家（不包括法国）是最直接的，特别是{{旗帜|德国}}、{{旗帜|英国}}和{{旗帜|日本}}。以这三个国家之一的身份做这个成就，还可以分别与真正的闪电战（以及[[成就#Operation_Sea_Lion|Operation Sea Lion]]，如果法国加入盟军的话）、不列颠战和环法战结合起来，因为法国必须被征服。
+| {{icon|bfb}}。
+| data-sort-value="10" | 1.10
+|{{DI|M}}
+|-
+|{{iconbox|Last for a Thousand Years|As the United Kingdom, accomplish the federation of the entire British Empire.|extension=png}}。
+| {{icon|yes}} 扮演 {{flag|United Kingdom}}。
+| {{icon|yes}} 已完成重点''帝国联邦''
+|
+可以作为任何意识形态来做，但走国王党的道路，在你的领地内煽动帝国主义革命，可以让你创建一体化的傀儡，消除减少自治的需要。在开始帝国会议之前，一定要改善关系，积攒几百的政治力量。在开始之前，300-400的政治力量是一个不错的数字，但如果你能抽出时间和精力，拥有大约600-700的政治力量将确保成功。
+| {{icon|mtg}}。
+| data-sort-value="6" | 1.6
+| {{DI|M}}
+|-
+| {{iconbox|Made in China|As Communist China, have over 100 military factories.|extension=png}}{Iconbox|Made in China|As Communist China, have over 100 military factories.
+| {{icon|yes}} 扮演 {{flag|Communist China}}。
+|{icon|yes}至少有101个{icon|mic|军事工厂}}。
+|此成就可与[[#人民站起来了！|人民站起来了！]]成就结合。
+*作为{{flag|Communist China}}，吞并{{flag|China|Nationalist China}}和所有军阀，在你的领土上建立大量的军事工厂。{{flag|Japan}}可能会对你开战，如果是这样，只要把你的港口守好，守住前线，或者征服满洲和朝鲜，因为这样做会触发一个事件，让你结束战争，获得日本大陆的所有财产。"''社会民主''"国家重点和所有重点之后，允许共产党中国与国民党中国展开权力斗争，如果他们能收集足够的政治支持点，他们可以不费一枪一弹地吞并国民党中国。
+*关闭地图的军事工厂不算，因为它们被认为是被占领的工厂，并不具体在你的领土上。
+| 
+| data-sort-value="5" | 1.5
+|{{DI|M}}
+|-
+| {{Iconbox|My Ships Don't Lie|作为哥伦比亚，组建大哥伦比亚，并拥有10艘航母和10艘战舰.|extension=png|link=on}}。
+|{图标|是}} 扮演 {{flag|Colombia}}的角色。
+|{icon|yes}} 已决定组建{{国旗|大哥伦比亚}}。
+扮演 {{icon|yes}} 至少有10艘战舰<br/>。
+{{icon|yes}} 至少10艘航母
+|
+在历史上的人工智能下游戏，以防止美国在1944年中期之前干扰你的征服<br/>。
+需要[[Formable_nations#Gran_Colombia|Restore the Bolívar Union]]决定。
+如果你因为他们没有海军而遇到困难，你可以轻松地从海上入侵{{flag|Venezuela}}。{{flag|Peru}}也可以轻易地从加拉帕戈斯海军入侵，因为即使它有一支较大的海军，但在战争的前几个月他们不会使用它。
+| {{icon|wtt}}
+| data-sort-value="5" | 1.5
+| {{DI|M}}
+|-
+| {{icon|wtt}}没有人想到......|作为轴心国的民族主义西班牙在德军面前设法夺取巴黎。
+| {{icon|yes}} 扮演 {{flag|Nationalist Spain}}。
+| 扮演 {{flag|Nationalist Spain}} {{plainlist|* {{icon|fascism}} 目前的执政党是法西斯主义 
+* {{icon|yes}} 与{{flag|Germany}}为一派。
+*{icon|yes|}}与{{flag|Germany}一派。{{flag|Germany}}是一个派别的领导人 
+*{图标|是}} 控制法兰西岛州(16)}}。
+|从佛朗哥上台的那一刻开始论证是可行的，赢得内战，然后走2条路线之一。第一个方案是对巴黎发动海上入侵。你可以在战争结束后加入轴心国派系。另一个选择是加入轴心国，为德国获得足够的战争分数，将法兰西岛（16）的控制权交给西班牙。在占领法兰西岛(16)后，只需向共产主义或民主主义漂移，就可以在同一次运行中完成[[Achievements#The_bell_tolls_for_us|The Bell Tolls For Us]]成就。
+|
+| data-sort-value="0" | 1.0
+|{{DI|M}}。
+|-
+| {{icon|Northern Light|作为一个斯堪的纳维亚国家，组建自己的派别，并让丹麦、瑞典、挪威和芬兰加入。}
+|{icon|yes}} 扮演''任一''： {{多列|多列|多列|多列|多列|多列|多列}。
+* {{旗帜|丹麦}} *{旗帜|芬兰}}
+*{flag|Finland}{{flag|Finland}}
+
+*{flag|Sweden}} *{flag|Sweden}}
+|2}}
+| {{旗帜|芬兰}* {{icon|yes}}是派别领袖。是一个派别的领导人
+*{icon|yes}}是派别领袖 是一个派别的成员。}} {{多栏}}是派别领袖
+** *{旗帜|丹麦}}
+
+** {{flag|Norway}} ** {flag|Norway}}
+** {{flag|Sweden}} ** {flag|Sweden}}
+|2}}
+
+* 开始时，创建并升级一个间谍机构五次，以获得第二个特工，并删除你的整个军队，开始通过一个煽动者变成法西斯，然后通过决策准备内战，不断使用 "扩大民间支持 "的决策，将稳定性降低到50%以下，一旦稳定性低于50%，就点燃ciI1战争，冲出一个骑兵师，向斯德哥尔摩b线，敌人应该有0个师和很少的领土，所以这将足以投降他们。
+* 在内战结束后，积攒了190个政治力量来为丹麦和挪威辩护，然后取消对丹麦的辩护并重做，这将为你提供同步的战争目标，以避免他们得到英国的保证，在这一过程中，将你的间谍机构首先用于芬兰的 "宣传"，然后一旦内战结束，转到 "促进意识形态"，为法西斯政变做好准备。
+* 现在开始为与丹麦和挪威的战争做准备，派一到两支部队进攻丹麦海峡，并在他们身后派四支部队从北方进行海上入侵，在论证之后，扩大征兵，并遵循集体主义原则，以便能够生产大量的骑兵来坚守挪威的防线。
+* 一旦论证完成，就在同一时间宣战，以避免盟国的担保，并迅速冲刺胜利点数，你将变得更加强大，挪威将留下大部分土地不作防御，在和平协议中暂时吞并他们所有的土地，因为你可以在以后释放他们作为傀儡。
+* 继续努力提高法西斯在芬兰的支持率，使他们的稳定性低于70%，一旦法西斯主义超过20%，就开始准备在奥兰群岛发动政变，这是至关重要的，因为他们将保持在芬兰本土无法战胜的状态，一旦政变完成（重要的是在1939年底/1940年初之前完成，以避免苏联的介入），就开始对法西斯叛军使用 "外交压力 "和 "改善关系"。他们几乎可以无限期地生存下去，一旦世界紧张局势达到55%左右，你就可以与他们建立一个派别，或者你现在可以自由地对芬兰进行辩解，因为现在他们处于战争状态，这使他们无法得到保证，只是要确保你还没有建立起这个派别，因为这可能导致他们加入盟国。
+* 一旦派别建立起来，将挪威和丹麦作为傀儡释放，他们会自动加入你。
+
+如果你通过自治系统吞并和释放丹麦作为自由人，在他们的州里建设并借给他们租赁，那么这个成就可以用 "Med plutonium... "来完成。
+ 
+|
+| data-sort-value="0" | 1.0
+|{{DI|M}}
+|-
+| {{Iconbox|Once More Mate|Occupy Gallipoli as Australia.}}。
+| {{icon|yes}} 扮演 {{flag|Australia}}。
+| {{icon|yes}} 占领埃迪尔内州(341)
+| 最简单的策略是加入共产国际，从苏联进攻土耳其。呼吁苏联在黑海获得海军优势，并从海上入侵该省。该成就可以在战争中获得。
+|
+| data-sort-value="0" | 1.0
+|{{DI|M}}。
+|-
+|{{Iconbox|Our Chief Weapon is Surprise...|As Spain, have at least 5 spies and stage 5 coups against other nations.|extension=png}}。
+|{icon|yes}} 扮演 {{flag|Spain}}或扮演 {{flag|Nationalist Spain}}。
+| 
+扮演 {{icon|yes}} {{flag|Spain}}已经发动了超过5次的政变
+{{icon|yes}}有4个以上的间谍
+| 
+* 你必须发动6次政变（成就文本说是5次，但实际游戏文件说是大于5次）。政变的结果并不重要--如果新政府在内战中失利，政变仍然算数。
+* 加入一个有大量成员的主要派别，以便能够获得足够的间谍名额。不要加入该派别的战争，这样你就可以继续与所有国家进行贸易，并专注于间谍工作。
+| {{icon|lar}}
+| data-sort-value="9" | 1.9
+| {{DI|M}}
+|-
+|{iconbox|Our Other Place in the Sun|As Imperial Germany, conquer a Caribbean island.|extension=png|link=on}}。
+| {{icon|yes}} 扮演 {{flag|Germany}}的角色
+| {{icon|yes}} 已完成重点''我们在阳光下的位置''。
+扮演 {{icon|yes}} 征服了加勒比海上的一个岛屿
+|
+要求{{flag|Germany}}遵循其[[German_national_focus_tree#Return_of_the_Kaiser_Sub-branch|focus tree]]的{{icon|neutrality|Monarchist}}分支。从荷兰人手中夺取库拉索岛并不能获得成就，因为它被算作南美洲的一部分。
+
+一个简单的方法是在拿下反对希特勒之前拿下加勒比海的土地。这可以通过在拿下 "反对希特勒 "之前征服法国来轻松实现；要么直接对这个国家辩解，要么对法国保证的国家辩解（在游戏开始时，法国将保证捷克斯洛伐克、罗马尼亚和南斯拉夫）。让你的步兵确保马奇诺防线，将你控制的所有非步兵单位转换为起始的装甲师，并采取军队创新以获得10个XP（用上述XP为装甲师模板增加两个摩托化单位）。从威廉港到敦刻尔克或加来建立一个海军入侵，并让你的起始海军在英吉利海峡执行打击任务。宣战并发动入侵--虽然起始的法国海军比起始的德国海军更强，但有一个短暂的时期，玩家会在英吉利海峡上拥有优势。急于获得胜利点并投降法国，然后采取反对希特勒的措施；在焦点事件发生之前，解散你的全部军队，并在焦点事件发生的前一天将你拥有的所有装备借给另一个处于战争状态的国家；在焦点事件发生之后，取消借贷，并训练6个单位的装甲师（可能时强制部署）；AI永远不会训练新单位，而且装甲师比陆军团更强。在完成"''我们在阳光下的位置''聚焦后，该成就将被发射出去。如果选择征服英国而不是法国，也可以去争取[[成就#Operation_Sea_Lion|Operation Sea Lion]] 。
+| {{icon|wtt}}}
+| data-sort-value="5" | 1.5
+|{{DI|M}}
+|-
+| {{icon||Poland Can Into Space|Finish all Rocket Technologies as Poland.}}。
+| {{icon|yes}} 扮演 {{flag|Poland}}。
+| [[File:Atomic research.png|22px]] 。已研究出{{iconify|Advanced Rocket Engines}}。
+| 选项1：向德国和苏联的领土要求妥协。 不参与二战。 一直保持5号速度。 研究火箭。
+
+选项2：变成法西斯，加入轴心国。尽量不参与战争。一定要研究火箭。
+
+有了{{icon|mtg}}DLC，即使你的军队被攻破，你也能获得更多资金。DLC，即使你被德国人和/或苏联人占领和征服，你也会作为英国主持的流亡政府继续游戏，并保持获得成就的资格。只要盟军还在，你就可以继续做研究以获得成就。
+|
+| data-sort-value="0" | 1.0
+|{{DI|M}}。
+|-
+| {{图标箱|傲慢与极端偏见|击沉英国傲慢舰队.|extension=png}}。
+| {{icon|no}} 不扮演{{旗帜|英国}}的角色
+| {{icon|yes}} 沉没的英国傲慢舰队
+|
+作为日本可以迅速完成。在1936年开始，如果发挥得当，日本舰队不仅能击沉胡德号，还能击沉整个皇家海军。选择肃清科多哈派系，尽快对英国（或英属马来亚）辩解。向德国要求停靠权，并将你的整个舰队移到他们离英国最近的港口。将你的舰队的大部分作为打击力量，用三组驱逐舰在英国周围的海军区域进行巡逻。如果可能的话，你也可以使用海军轰炸机来增加火力。论证完毕后，向他们宣战。如果德国邀请你加入轴心国，你应该接受，因为有机会将你的飞机转移到他们的机场。在那里，你只需不断击败英国人，建造新的船只和轰炸机（如果需要的话，可以进口石油作为燃料），直到你的舰队击沉胡德号，解锁成就。
+| {{icon|mtg}}。
+| data-sort-value="6" | 1.6
+| {{DI|M}}
+|-
+| {{iconbox|The bell tolls for us|Win Spanish Civil War as Republican Spain.}}。
+| {{icon|yes}} 扮演 {{flag|Spain}}的角色
+|{icon|法西斯主义}}。是''不是''法西斯主义<br/>
+{{icon|yes}}扮演 {{icon|yes}} 在西班牙内战中获胜<br/>
+{{icon|yes}} 下列情况之一必须为真。
+*目前的执政党是{{icon|Communist|1}}。
+*目前的执政党是{{icon|Democratic|1}}。
+**不是{{旗帜|西班牙民族主义}}。
+**不是{{旗帜|西班牙卡洛斯主义}}。
+**不是{{旗帜|阿拉贡地区防御委员会|无政府主义西班牙}}。
+| 从1.9版本开始，在内战中以共和党的身份投降其他派别（无政府主义者/法西斯主义者/卡洛斯主义者），即使内战还没有结束，也会触发该成就。可能是因为每次有一个派别投降，就会自动达成和平协议，算作内战已经结束）。如果你是在没有{{icon|lar}}的情况下进行游戏，你可以进行常规的内战。DLC，你可以通过删除你的军队，触发战争，并部署一些单位来使用常规的内战技巧。
+|
+| data-sort-value="0" | 1.0
+|{{DI|M}}
+|-
+| {{Iconbox|The Good, the Bad and the Weird|As Manchukuo, have max level infrastructure in every owned state and generate at least 15 units of oil.}
+| {{icon|yes}} 扮演 {{flag|Manchukuo}}。
+|{icon|yes}} 扮演 {{icon|yes}} 至少有10个{{icon|infra|Infrastructure}}。
+*黑龙江(714)
+*辽宁 (715)
+*热河 (610)
+*麒麟 (328)
+*松江 (717)
+{{icon|yes}} 至少有16个{{icon|Oil|Oil}}。
+|
+可与[[#Hail_to_the_Qing|Hail to the Qing]]和[[#The_Dragon_Swallowed_the_Sun|The Dragon Swallowed the Sun]]成就同时进行。
+* 呼伦贝尔和辽东的基础设施不需要增加到10
+| 
+| data-sort-value="5" | 1.5
+|{{DI|M}}。
+|-
+| {{icon|yes}}作为捷克斯洛伐克，在与德国交战时占领慕尼黑。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|Czechoslovakia}}的角色。
+|{icon|cb}} 扮演 {{flag|Czechlovakia}}的角色。与{{flag|Germany}}交战。
+*{icon|yes}} 控制着奥伯巴伊恩州（52）}}。
+|
+* 转向共产主义，加入共产国际
+* 按照焦点树，直到[[捷克斯洛伐克_国家_焦点树#The_polish_division|The Polish Division]]，与波兰开战，并尽可能多地获取战功。
+*在和平协议上，给苏联人一个与德国和捷克斯洛伐克相连接的边界。苏联人只有在与德国接壤的情况下才会帮助下一步的工作。
+* 通过重点建设苏台德地区，使其达到7级堡垒，准备对轴心国开战，拒绝德国的要求。
+* 关掉历史上的人工智能会更容易（匈牙利很有可能占领奥地利和/或与意大利结盟，所以德国会更弱）。
+
+也可以通过冲出伞兵，希望与德国沿着小协约的道路早日开战来完成。你只需要占领慕尼黑城，就能获得成就感。你可能需要把研究和部长们集中在飞机上，以获得空中优势。
+|
+| data-sort-value="4" | 1.4
+|{{DI|M}}。
+|-
+| {{Iconbox|The Puppetmaster|至少有51个科目。}
+|
+| {{icon|yes}} 拥有主题>50
+| 此建议需要{{icon|tfv}}。DLC。
+扮演{{flag|United Kingdom}}，因为他们可以通过国家焦点树释放大约40个国家作为傀儡。但先不要这样做!
+* 尽快变成共产主义者，然后向{{flag|France}}宣战。
+* 打败法国，在和平协议中把他们变成傀儡，并把他们殖民地的每一个可释放的国家作为你的傀儡卫星。
+* 当战争正在进行时，按照国家重点树的 "重新审视殖民政策 "分支，拆除你的殖民帝国，在这个过程中释放大量的傀儡。''不过要小心，如果你在走向共产主义的2年内没有完成这个分支，就会爆发内战！''
+*如果你仍然没有足够的傀儡，请跟随国家重点的其余部分（共产主义道路），选择 "跟随莫斯科 "或 "英国共产主义替代方案"，开始傀儡欧洲其他地区，或吞并美国，并对美洲其他地区下手。
+
+或者，扮演{{flag|German Reich}}，你可以打败法国和英国，并在和平会议期间从这两个国家的领土上卫星所有可释放的国家。
+
+第三种方法是扮演{{flag|France}}，走拿破仑道路，尽可能多地释放你的傀儡（为你的经济道路留下一些领土），征服比利时、荷兰和英国（并尽可能多地将每个国家的领土卫星化--比利时从他们的非洲领土给你5个傀儡，荷兰给你3个--印度群岛和两个南美领土，而英国给你40个）。如果这还不够，那就征服德国，并利用焦点 "分裂德国 "来获得更多的傀儡。
+
+|
+| data-sort-value="3" | 1.3
+|{{DI|M}}。
+|-
+| {{iconbox|The Revolution Triumphant|Have Germany as a puppet of Soviet.}}。
+| {{icon|yes}} 扮演 {{flag|Soviet Union}}的角色
+| {{icon|yes}} 扮演 {{flag|Soviet Union}}。扮演 {{flag|Germany}}是{{flag|Soviet Union}}的傀儡。
+| 
+必须是统一的德国。{{flag|West Germany}}或{{flag|East Germany}}将不被计算在内，即使你同时傀儡了这两个国家。
+*证明并向波兰宣战以获得与德国的边界。
+**作为可选的奖励，提高共产党在{{旗帜|法国}}的声望，使他们转为共产党，然后尝试邀请他们加入共产国际。如果法国拒绝加入，你也可以等到德国进攻他们时再邀请他们，因为他们会更倾向于加入你。
+*然后理直气壮地对德国宣战，在和平会议上傀儡他们。
+**在你宣战时，{{flag|Italy}}很可能会加入轴心国，所以建议你等到安盟之后再对德国宣战，因为这将使你能够通过陆路到达意大利而不需要任何额外的战争理由。
+|
+| data-sort-value="0" | 1.0
+|{{DI|M}}
+|-
+| {{Iconbox|True Blitzkrieg|As Germany have both Poland and France surrender before January 1st 1940.}}。
+| {{icon|yes}} 扮演 {{flag|Germany}}.
+| 扮演 {{flag|Germany}}{{plainlist|* {{icon|time}} 日期是< 1940.01.01
+* {{icon|yes}}扮演 {{icon|yes}} {{flag|Poland}}不存在''或''已经投降了
+* {{icon|yes}}日期<1940.01.01 {{flag|France}}不存在 ''要么''。}}
+** 不存在''不''。
+** 已经投降了
+** 全局标志''accommentation_france_surrender''被设置。
+| 这两个国家都需要处于投降状态或被吞并才能触发。两者都不能是傀儡。
+|
+| data-sort-value="0" | 1.0
+|{{DI|M}}
+|-
+| {{Iconbox|We Will Rock You|作为西班牙，拥有直布罗陀.|extension=png}}。
+| {{icon|yes}} 扮演 {{flag|Spain}}。
+| {{icon|yes}}直布罗陀（118）由{{flag|Spain}}拥有。
+|作为卡洛斯主义的西班牙，在西班牙内战后，冲向[[民族主义_西班牙_国家_焦点_树#重新夺取_西班牙_荷兰|重新夺取西班牙荷兰]]焦点，拿下比荷卢。在法国北部和南部边境各拥有约24个师，并在德国与法国开战时向其宣战。屈服法国，对英国发动海上入侵。一旦英国投降，在和平协议中拿下直布罗陀。
+也可以用{{icon|mtg}}非常容易地完成。如果关闭了历史上的AI焦点，那么也可以用{{flag|United Kingdom}}的焦点树的[[British_national_focus_tree#Revisit_Colonial_Policy|Revisit Colonial Policy]]分支，其中包含 "从有争议的领土撤出 "这一焦点，这将把直布罗陀免费送给{{flag|Spain}}，同时成为一个核心国家。如果这发生在内战期间，直布罗陀可能不会被送给玩家的西班牙，但一旦内战胜利，直布罗陀就会被转让。
+| 
+| data-sort-value="9" | 1.9
+|{{DI|M}}。
+|-
+| {{Iconbox|Well, I Didn't Vote for You|Win the Spanish Civil War as the Anarchists.|extension=png}}{icon|yes}}。
+| {{icon|yes}} 扮演 {{flag|Spain}}
+|{icon|yes} 扮演 {{flag|Regional Defense Council of Aragón|Anarchists} 赢得西班牙内战。
+{pos(190,8)}{崩坏
+{{icon|yes}} 是{{旗帜|阿拉贡地区防御委员会|无政府主义西班牙}}<br/>。
+{{icon|yes}} 不包括{{flag|Anarchist Spain}}的任何其他国家的原始标签{{flag|Spain}}都不存在。}
+|
+* 无政府主义西班牙是由 "我们自己命运的主人 "焦点或 "政府镇压 "事件创建的。从1.9.0开始，该事件给出了更大一部分单位和装备。
+*如果国民党被卡洛斯叛乱削弱，则更容易（在非历史上）。
+| {{icon|lar}}
+| data-sort-value="9" | 1.9
+|{{DI|M}}
+|-
+|{{Iconbox||Why Die For Danzig?|作为德国人，把法国变成法西斯，占领但泽而不与法国开战。|extension=png}}。
+|{icon|yes}} 扮演 {{flag|Germany}}
+| {{icon|yes}} 在不与法国开战的情况下，让法国成为法西斯国家。
+{pos(190,268)}{崩溃
+{{icon|yes}}{{flag|France}}：<br/>。
+*是{{icon|Fascist|1}}。
+*不与{{国旗|德国}}交战<br/>。
+但泽（85）被{{旗帜|德国}}控制<br/>。
+{{icon|no}}没有国旗：''invalid_for_danzig_achievement'' <br/>
+{{flag|Germany}}没有与{{flag|France}}交战。
+}} 
+| 
+*''invalid_for_danzig_achievement''标志在德国向法国宣战时起火。
+* 1.9.0版中的错误：作为德国，从未对法国或波兰宣战，而法国翻转了法西斯主义，成就就会启动。
+* 法国必须在不触发内战的情况下翻转法西斯主义。
+* 在非历史模式下游戏，沿着焦点树走，直到 "要求苏台德地区"。如果捷克斯洛伐克拒绝，你将得到一个针对他们的战争目标。法国和罗马尼亚将为捷克斯洛伐克提供担保，因此，当你对它们宣战时，你将与它们开战。把你的部队放在与这三个国家的边境上，对捷克斯洛伐克发动战争。无论什么原因，这都不会影响国旗''invalid_for_danzig_achievement''。罗马尼亚、法国和捷克斯洛伐克不会在同一个派别，所以你每次打败其中一个国家都会有一个和平协议。要征服法国，只需将你所有的船只合并成一支军队，在他们和你之间的两个海区执行 "海军入侵支援 "任务。进行登陆，占领巴黎和其他一些胜利点。他们会很快投降。在法国的和平协议上，让他们成为傀儡。当这三个国家被打败后，你将获得成就。
+
+另外，只要有了政治权力，就可以对南斯拉夫进行论证，以获得类似的效果，因为罗马尼亚、法国和捷克斯洛伐克都是他们的保障。如果走这条路，也可以和[[成就#Our_Other_Place_In_The_Sun|Our Other Place in the Sun]]结合起来，如果在击败法国、捷克斯洛伐克和罗马尼亚后恢复了德皇室。
+| {{icon|lar}}
+| data-sort-value="9" | 1.9
+|{{DI|M}}
+|-
+| {{iconbox|William Wallis|作为联合王国，让爱德华八世掌权，实行美国君主制，并将其和苏格兰都作为臣民。|extension=png}}。
+| {{icon|yes}} 扮演 {{flag|United Kingdom}}的角色
+| {{icon|yes}} 已经完成了对''国王党''的关注<br/>。
+{{icon|yes}} 扮演 {{icon|yes}} {{flag|Scotland}}是{{flag|United Kingdom}}的主体<br/>
+{{icon|yes}} {{icon|yes}} {{flag|United States}}是{{flag|United Kingdom}}的主体<br/> {icon|yes}}是{{flag|United Kingdom}}的主体。
+{{icon|yes}} 建立了美国君主政体
+|
+安装美国君主制的隐藏要求
+# 你需要确保皇家婚姻，所以瓦利斯将成为瓦利斯女王
+# 你需要把重点放在统一英国圈上
+# 你需要吞并美国所有的核心州，或者是傀儡美国，让它拥有所有的核心州。如果你要与其他国家分享战绩，傀儡美国可能是更好的选择。
+# 一旦你吞并/傀儡了美国，就会出现一个决定，即建立美国君主制。
+# 重要的是选择 "坚持皇家婚姻"，这样你就可以组建美国君主制。
+| {{icon|mtg}}。
+| data-sort-value="6" | 1.6
+|{{DI|M}}
+|-
+| {{Iconbox|Awake and Angry|As China, reconquer all of China and Manchuria and force a Japanese surrender.|extension=png}}。
+| {{icon|yes}} 扮演 {{flag|China}}的角色
+| {{icon|yes}} 扮演 {{flag|Japan}}在失去全部的满洲和朝鲜后被迫求和。
+征服{{icon|yes}}。征服了{{flag|China}}和{{flag|Manchukuo}}的所有核心领土，不包括香港（326）、澳门（729）和广州湾（728）。
+|在日本人即将进攻之前，不要接受与中国共产党的合作。然后，组建中国统一战线，接受所有邀请。迅速赶往朝鲜，把他们赶出大陆。在他们提出和平后，接受它，并将共产党中国从你的派系中踢出去。在他们对你发动战争之前，尽快向他们宣布并吞他们。对其他派别的成员也要这样做，最后留下新江。解散这个派别，在德国向东推进后向苏联宣战。加入轴心国。他们在西部的所有部队会很容易投降。拿下尽可能多的领土，然后加入他们对盟国的战争。或者，急于征服军阀，然后进行反共产主义。通过冲刺胜利点数，消灭那些不迅速屈服的军阀；如果是{{flag|Sinkiang}}，则冲刺并尽可能多地夺取他们的土地。要消灭{{flag|Communist China}}，请使用回撤线，将你的部队驻扎在离他们边界一定距离的地方，以吸引他们。如果{{flag|Shanxi}}提交了，就拿下他们的部队，这样他们就不会在中国共产党的边界上驻扎。一旦他们的部队被引出来，你就可以冲进他们的首都，迅速俘虏他们。你应该正好可以为日本人的入侵挖坑。俘虏日本傀儡并把他们赶出朝鲜，你需要接受日本人的投降以获得成就。剩下的就是用政治力量来完成3个步骤，以整合每个提交的军阀。
+|
+| data-sort-value="5" | 1.5
+|{{DI|H}}。
 
 
 
