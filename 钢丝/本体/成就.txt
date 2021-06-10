@@ -819,41 +819,41 @@ __TOC__
 | data-sort-value="3" | 1.3
 | {{DI|M}}
 |-
-| {{Iconbox|History Repeated Itself|As the U.S.A., Win against the Confederate States. Again.|extension=png}}
+| {{Iconbox|History Repeated Itself|扮演美国，击败美利坚联盟国，就像上次一样。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|United States}}
-| {{icon|yes}} The Second American Civil War has started
-{{icon|yes}} Confederacy of American States: Does not exist
+| {{icon|yes}} 第二次美国内战已经开始。
+{{icon|yes}} 美利坚联盟国: 不存在
 |
-Pick the national focus "Suspend the Persecution", complete the national focus "WPA" and complete all of its successive focuses and then pick either the "'''Full desegregation'''" or "'''Union representation Act'''" national focuses to trigger a civil war with the Confederacy. The {{flag|Confederacy of American States}} appears in the same southern states as the original Confederate States. Be mindful that several states in the Midwest around the Great Lakes will also break off to form the {{flag|Unaligned States of America}}, but they will not be hostile towards you.
+选择国策"暂停政治迫害"，完成"公共事业振兴署"及其一系列国策，在"'''彻底废除种族隔离'''"和"'''工会代表法案'''"两个国策中二选一就可以触发与联盟国的内战。{{flag|Confederacy of American States}}出现在旧联邦所在的南方地区。要注意，在中西部五大湖地区的几个地区也会独立出来组成 {{flag|Unaligned States of America}}，但是它们不会直接与玩家敌对。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|M}}
 |-
-| {{Iconbox|House of Kurds|As Kurdistan, hold all of your cores.|extension=png}}
+| {{Iconbox|House of Kurds|扮演库尔德斯坦，拥有所有核心地区。|extension=png}}
 | 
-| {{icon|yes}} Original country is {{flag|Kurdistan}}
-{{icon|yes}} As Kurdistan, hold all of your cores
+| {{icon|yes}} 起始国家是 {{flag|Kurdistan}}
+{{icon|yes}} 扮演库尔德斯坦，控制所有核心地区
 |
-{{flag|Kurdistan}} cannot be released by any of the four countries which hold its cores at the start of the game, meaning that these lands must be first acquired by playing a country that is not {{flag|France}}, {{flag|Iran}}, {{flag|Iraq}} or {{flag|Turkey}} in order to release Kurdistan (selecting "Play as") for the achievement. This can be done as any country but is most straightforward as any of the major nations (excluding France), particularly {{flag|Germany}}, {{flag|United Kingdom}} and {{flag|Japan}}. Doing this achievement as one of these three countries also allows for it to be combined with True Blitzkrieg (and [[Achievements#Operation_Sea_Lion|Operation Sea Lion]] if France joins Allies), Britzkrieg and Tour de France respectively since France must be conquered.
+游戏开局时拥有 {{flag|Kurdistan}} 核心地区的四个国家都不能释放它。也就是说玩家要扮演 {{flag|France}} 、 {{flag|Iran}} 、 {{flag|Iraq}} 和 {{flag|Turkey}} 以外的国家取得它的核心地区来释放库尔德斯坦，然后选择扮演它以获得成就。可以使用任何国家来完成这一系列步骤，推荐使用大国(不包括法国)，尤其是 {{flag|Germany}}、 {{flag|United Kingdom}} 或 {{flag|Japan}}。使用这三个国家之一做这个成就可以同时完成成就 True Blitzkrieg (如果法国加入轴心，还可以做 [[Achievements#Operation_Sea_Lion|Operation Sea Lion]] if France joins Allies), Britzkrieg 和 Tour de France (因为一定要征服法国)。
 | {{icon|bfb}}
 | data-sort-value="10" | 1.10
 | {{DI|M}}
 |-
-| {{Iconbox|Last for a Thousand Years|As the United Kingdom, accomplish the federation of the entire British Empire.|extension=png}}
+| {{Iconbox|Last for a Thousand Years|扮演英国，使整个大英帝国结成联盟。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|United Kingdom}}
-| {{icon|yes}} Has completed focus ''Imperial Federation''
+| {{icon|yes}} 完成国策 ''帝国联邦''
 |
-Can be done as any ideology, but going down the King's Party path and fomenting imperialist revolutions in your dominions will allow you to create integrated puppets, eliminating the need to reduce autonomy. Make sure to improve relations and save up a few hundred political power before starting the imperial conference. 300-400 political power is a good number to have saved before starting but if you can spare the time and effort, having around 600-700 political power will ensure success.
+不限意识形态，但要走国王党路线。在领地内煽动帝国主义革命，创建半吞并傀儡国，这能减少削弱自治所需的政治点。开始帝国会议之前，改善关系，积攒几百政治点。开会前最好有300-400政治点，要是能有600-700就能保证成功了。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|M}}
 |-
-| {{Iconbox|Made in China|As Communist China, have over 100 military factories.|extension=png}}
+| {{Iconbox|Made in China|扮演中共，拥有超过100座军用工厂。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Communist China}}
-| {{icon|yes}} at least 101 {{icon|mic|Military Factories}}
-|This achievement can be combined with [[#The People Have Stood Up!|The People Have Stood Up!]] achievement.
-*As {{flag|Communist China}}, annex {{flag|China|Nationalist China}} and all of the warlords and build a lot of Military factories in your territory. {{flag|Japan}} may justify war on you and if so, just have your ports well guarded and hold the front line or conquer Manchuria and Korea, as doing so will trigger an event that allows you to end the war and acquire all of Japan's mainland possessions. The "'''Social Democracy'''" national focus and all focuses after it allows Communist China to start a power struggle with Nationalist China and if they can gather enough political support points, they can annex Nationalist China with no shots fired.
-*Offmap military factories do not count as they are considered occupied factories and are not specifically on your territory.
+| {{icon|yes}} 最少 101 座 {{icon|mic|军用工厂}}
+|推荐与 [[#The People Have Stood Up!|The People Have Stood Up!]] 成就同时做。
+*扮演 {{flag|Communist China}}, 吞并 {{flag|China|Nationalist China}} 及所有军阀。在领土内修建大量军用工厂。{{flag|Japan}} 大概率会侵华，要守港口抗前线。如果拿下了满洲国和朝鲜，会触发事件结束战争，并获得日本在大陆的所有权益。剩下的大家都知道了。
+*地图外军用工厂不计算在数量之内。它们算作被占领的工厂，不算在领土内。
 | 
 | data-sort-value="5" | 1.5
 | {{DI|M}}
