@@ -858,53 +858,54 @@ __TOC__
 | data-sort-value="5" | 1.5
 | {{DI|M}}
 |-
-| {{Iconbox|My Ships Don't Lie|As Colombia, form Gran Colombia and have 10 Carriers and 10 Battleships.|extension=png|link=on}}
+|{{Iconbox|My Ships Don't Lie|扮演哥伦比亚，建立大哥伦比亚并拥有10艘航母和10艘战列舰。|extension=png|link=on}}
 | {{icon|yes}} 扮演 {{flag|Colombia}}
-|{{icon|yes}} Has taken the decision to form {{flag|Gran Colombia}}
-{{icon|yes}} At least 10 Battleships<br/>
-{{icon|yes}} At least 10 Carriers
+|{{icon|yes}} 完成组建 {{flag|Gran Colombia}} 的决议
+{{icon|yes}} 至少10艘战列舰<br/>
+{{icon|yes}} 至少10艘航母
 |
-Play on Historical AI to prevent the US from interfering with your conquests until mid-1944<br/>.
-Requires the [[Formable_nations#Gran_Colombia|Restore the Bolívar Union]] decision.
-You can easily naval invade {{flag|Venezuela}} if you're having trouble because of their lack of a navy. {{flag|Peru}} can also be easily naval invaded from the Galapagos because even though it has a bigger navy, they won't use it for the first couple of months of the war.
+在AI使用历史国策模式下游玩，以防美国在1944年前干扰你的征途<br/>。
+需要 [[Formable_nations#Gran_Colombia|Restore the Bolívar Union]] 决议。
+如果你担心海军实力不足，那么可以先对 {{flag|Venezuela}} 进行海军入侵。 {{flag|Peru}} 的海军虽强，但在开战的前几个月不会被启用，所以可从加拉帕戈斯进行海军入侵。
 | {{icon|wtt}}
 | data-sort-value="5" | 1.5
 | {{DI|M}}
 |-
-| {{Iconbox|Nobody expects...|As Nationalist Spain in Axis manage to take Paris before the Germans.}}
-| {{icon|yes}} 扮演 {{flag|Nationalist Spain}}
-| {{Plainlist|* {{icon|fascism}} Current ruling party is fascist 
-* {{icon|yes}} In a faction with {{flag|Germany}}
-* {{icon|yes}} {{flag|Germany}} is a faction leader 
-* {{icon|yes}} Control the state Ile de France (16)}}
-| It is viable to begin justifying the moment Franco takes power, win the civil war, and then go one of 2 routes. The first option is to launch naval invasions against Paris. You can join the axis faction after the conclusion of the war. The other option is to join the Axis and gain enough war score for Germany to give control of Ile de France (16) to Spain. It can be completed in the same run with the [[Achievements#The_bell_tolls_for_us|The Bell Tolls For Us]] achievement simply drifting towards communist or democratic after you capture Ile de France (16).
+| {{Iconbox|Nobody expects...|扮演轴心阵营的民族主义西班牙，抢在德国前夺取巴黎。}}
+| {{icon|yes}} 扮演 {{flag|Nationalist Spain}}民族主义
+|{{Plainlist|* {{icon|fascism}} 当前执政党是 法西斯主义者 
+* {{icon|yes}} 与 {{flag|Germany}} 同阵营
+* {{icon|yes}} {{flag|Germany}} 是阵营领袖
+* {{icon|yes}} 控制地区 法兰西岛 (16)}}
+| 从弗朗哥上台时就要开始正当化战争目标，然后赢得内战。此时有两种方式获得成就。第一种是对巴黎发动海军入侵。在战争结束后加入轴心阵营。另一种是先加入轴心国，在随后的战争中获取足够的战争分数来让德国将 法兰西岛 (16)的控制权交给西班牙。
+在占领 法兰西岛 (16)后，转向共产主义或民主主义就可以同时完成成就 [[Achievements#The_bell_tolls_for_us|The Bell Tolls For Us]] 。
 |
 | data-sort-value="0" | 1.0
 | {{DI|M}}
 |-
-| {{Iconbox|Northern Light|As a Scandinavian country form your own faction, and have Denmark, Sweden, Norway and Finland in it.}}
-| {{icon|yes}} Playing as ''either'': {{MultiColumn|
+| {{Iconbox|Northern Light|扮演斯堪的纳维亚国家，组建自己的阵营，使丹麦、瑞典、挪威和芬兰加入。}}
+| {{icon|yes}} 扮演下列国家 ''之一'': {{MultiColumn|
 * {{flag|Denmark}}
 * {{flag|Finland}}
 * {{flag|Norway}}
 * {{flag|Sweden}}
 |2}}
-| {{Plainlist|* {{icon|yes}} Is a faction leader
-* {{icon|yes}} Is in a faction with: }} {{MultiColumn|
+| {{Plainlist|* {{icon|yes}} 是阵营领袖
+* {{icon|yes}} 阵营中有以下成员: }} {{MultiColumn|
 ** {{flag|Denmark}}
 ** {{flag|Finland}}
 ** {{flag|Norway}}
 ** {{flag|Sweden}}
 |2}}
 |
-* Begin by creating and upgrading a spy agency five times to get a second agent and deleting your entire army, start turning fascist through a demagogue and then prepare for a civil war via decisions, continually use the 'Expand civil support' decision to lower stability below 50%, once below 50% stability ignite ciI1 war and rush out one cavalry division to b-line for Stockholm, the enemy should have zero divisions and very little territory so this will be enough to capitulate them.
-* After the civil war ends save up 190 political power to justify on Denmark and Norway then cancel justification on Denmark and redo it, this will give you concurrent war goals to avoid them getting guaranteed by the UK, while this is happening devote your spy agency to first 'Propoganda' in Finland and then once the civil war is over switch to 'Boost Ideology' to get ready for a Fascist coup.
-* Now begin preparing for war with Denmark and Norway by sitting one or two units to attack the Danish strait and sending around four units behind them with a naval invasion from the north, after justifying, expand conscription and follow the collectivist tree to be able to produce a large amount of cavalry to hold the Norwegian line.
-* Once justification is complete declare war at exactly the same time to avoid guarantees from the Allies and quickly rush for victory points, you will be much stronger and Norway will leave most of their land undefended, in the peace deal annex all their land for the time being as you can release them as a puppet later on.
-* Continue working on boosting fascist support in Finland and keeping their stability below 70%, once facism is above 20% begin preparing a coup in the Åland Islands, this is crucial as they will remain undefeatable by mainland Finland, once the coup is complete (and it is important to do this before late 1939 / early 1940 to avoid the Soviet Union getting involved) begin using 'Diplomatic Pressure' and 'Improve Relations' on the fascist rebels, they will survive almost indefinitely and once world tension is around 55% you will be able to create a faction with them, alternatively you can now freely justify on Finland as now they are at war which prevents them from being guaranteed, just make sure you haven't already strated the faction as that could cause them to join the Allies.
-* Once the faction is created release Norway and Denmark as puppets and they will automatically join you. 
+* 游戏开局后建立情报机构并升级5次以获取第二个特工。解散所有军队，使用顾问转向法西斯，准备好通过决议进入内战。不断使用'扩大民意支持'决议降低稳定度，当稳定度低于50%后，挑起内战并快速训练一个骑兵师。让部队冲向斯德哥尔摩，敌人没有军队且领土狭小，很快会向我们投降。
+* 内战结束后，积攒190政治点对丹麦和挪威正当化战争目标。然后停止对丹麦的正当化战争目标，然后再次正当化。这样可以避免英国对它们保独。在进行以上行动同时，将特工派遣到芬兰组建间谍网，内战结束后就变为执行'加强意识形态'任务，为法西斯政变做准备。
+* 现在要为丹麦和挪威的战争做准备。正当化战争完成后，派一两个单位进攻丹麦海峡，派四个单位通过海军入侵绕到它们后方。修改征兵法案，走集体主义相关国策树，组建大批军队并派往前线。
+* 正当化战争目标完成后立即在同一时刻宣战以避免同盟国对其保独。快速冲向胜利点。你的军队更加强大，挪威则无法防御所有的领地。在和平协议中吞并所有地区，日后则可以释放成为傀儡。
+* 继续努力提升芬兰国内法西斯的支持率，使它的稳定度降低到70%以下。一旦法西斯支持率超过20%，开始准备在奥兰群岛发动政变。这一步至关重要，因为芬兰在本土无法击败。政变成功(一定要在1939年底/1940年初之前完成，以免苏联接入)之后，对法西斯革命党使用'外交施压'和'改善关系'，它们也许能坚持到世界末日。一旦世界紧张度超过 55% ，你可以和它们创建一个阵营。或者你可以对芬兰正当化战争目标，此时由于处于战争状态，它们无法获得保独。但是要确保你还没有创建阵营，否则它可能会加入同盟国。
+* 创建阵营后，释放挪威和丹麦作为傀儡，它们会自动加入阵营。
 
-This achievement can be done with 'Med plutonium...' if you annex and release Denmark as free via the autonomy system by building in their states and lend leasing them.
+如果你使用自治系统吞并并释放丹麦作为独立国，可以同时去获得成就'Med plutonium...'。
  
 |
 | data-sort-value="0" | 1.0
