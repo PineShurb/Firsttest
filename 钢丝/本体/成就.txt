@@ -911,46 +911,46 @@ __TOC__
 | data-sort-value="0" | 1.0
 | {{DI|M}}
 |-
-| {{Iconbox|Once More Mate|Occupy Gallipoli as Australia.}}
+| {{Iconbox|Once More Mate|扮演澳大利亚，占领加里波利。}}
 | {{icon|yes}} 扮演 {{flag|Australia}}
-| {{icon|yes}} Occupy the state Edirne (341)
-| The easiest strategy is to join the Comintern and attack Turkey from the USSR. Call in the USSR to get naval supremcy in the Black Sea and naval invade the province. The achievement can be gained while at war.
+| {{icon|yes}} 占领 埃迪尔内 (341)
+| 最简单的方法是加入共产国际后从苏联进攻土耳其。召唤苏联加入战争以获取在黑海的制海权。直接海军入侵该地区，战争没有结束就可以获取到成就。
 |
 | data-sort-value="0" | 1.0
 | {{DI|M}}
 |-
-| {{Iconbox|Our Chief Weapon is Surprise...|As Spain, have at least 5 spies and stage 5 coups against other nations.|extension=png}}
-| {{icon|yes}} 扮演 {{flag|Spain}} or Playing as {{flag|Nationalist Spain}}
+| {{Iconbox|Our Chief Weapon is Surprise...|扮演西班牙，拥有至少5名特工，在其它国家发动至少5次政变。|extension=png}}
+| {{icon|yes}} 扮演 {{flag|Spain}} 或 {{flag|Nationalist Spain}}
 | 
-{{icon|yes}} {{flag|Spain}} has started more than 5 coups
-{{icon|yes}} has more than 4 spies
+{{icon|yes}} {{flag|Spain}} 发动超过5次政变
+{{icon|yes}} 拥有超过4名特工
 | 
-* You have to start six coups (the achievement text says five, but the actual game files say greater than five). The result of the coups do not matter - coups will still count if the new government lost the civil war. 
-* Join a major faction with a large number of members to be able to get enough spy slots. Do not join in the faction's wars so you can continue to trade with all countries and focus on spies.
+* 你必须煽动6次政变。尽管成就说明上写的是5次，但实际上游戏文件上标注的是超过5次。就算政变产生的新政府在内战中失败，此次政变也算数。也就是说政变的结果并不重要。
+* 加入一个拥有大量成员的阵营以获取足够的特工槽。不加加入阵营之间的战争以免贸易受阻。专心于情报工作。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|M}}
 |-
-| {{Iconbox|Our Other Place in the Sun|As Imperial Germany, conquer a Caribbean island.|extension=png|link=on}}
+|{{Iconbox|Our Other Place in the Sun|作为德意志帝国，拥有一座加勒比岛屿。|extension=png|link=on}}
 | {{icon|yes}} 扮演 {{flag|Germany}}
-| {{icon|yes}} Has completed focus '''Our Place in the Sun'''
-{{icon|yes}} Conquered an island in the Caribbean
+| {{icon|yes}} 完成国策 '''我们阳光下的地盘'''
+{{icon|yes}} 控制加勒比海的一个小岛
 |
-Requires {{flag|Germany}} to follow the {{icon|neutrality|Monarchist}} branch of their [[German_national_focus_tree#Return_of_the_Kaiser_Sub-branch|focus tree]]. Taking Curacao from the Dutch will not give the achievement, as it is counted as part of South America.
+需要{{flag|Germany}}进行[[German_national_focus_tree#Return_of_the_Kaiser_Sub-branch|国策树]]中{{icon|neutrality|君主制}}分支。从荷兰人手中夺取库拉索岛无法获得成就，因为该岛被设定为位于南美洲。
 
-An easy way to do this is to take Carribean land before taking Oppose Hitler. This can easily be done by conquering France before taking Oppose Hitler; either justify on the nation directly or on a nation that France is guaranteeing (at the start of the game, France will guarantee Czechoslovakia, Romania, and Yugoslavia). Have your infantry secure the Maginot Line, convert all non-infantry units you control to the starting Panzer Division, and take Army Innovations to gain 10 XP (use said XP to add 2 more motorized units to the Panzer Division template). Set up a naval invasion from Wilhelmshaven to either Dunkerque or Calais, and have your starting navy on Strike Force in the English Channel. Declare war and launch the invasion - while the starting French navy is stronger than the starting German navy, there is a brief period where the player will have superiority over the Channel. Rush the victory points and capitulate France, then take Oppose Hitler; before the focus fires off, disband your entire army and lend-lease all equipment you have to another nation that's at war the day before the focus completes; after it fires off, cancel the lend-lease, and train 6 units of Panzer Divisions (force deploy them when possible); the AI will never train new units, and the Panzer Division is stronger than the Landstrumregiment. Upon completion of the '''Our Place in the Sun''' Focus, the achievement will fire off. If one opts to conquer Britain instead of France, they can also go for [[Achievements#Operation_Sea_Lion|Operation Sea Lion]].
+一个简单的方法是在反对希特勒之前取得加勒比海的土地。要做到这一点，需要在反对希特勒前征服法国(剩下的我就不翻译了，大家应该知道要怎么做); either justify on the nation directly or on a nation that France is guaranteeing (at the start of the game, France will guarantee Czechoslovakia, Romania, and Yugoslavia). Have your infantry secure the Maginot Line, convert all non-infantry units you control to the starting Panzer Division, and take Army Innovations to gain 10 XP (use said XP to add 2 more motorized units to the Panzer Division template). Set up a naval invasion from Wilhelmshaven to either Dunkerque or Calais, and have your starting navy on Strike Force in the English Channel. Declare war and launch the invasion - while the starting French navy is stronger than the starting German navy, there is a brief period where the player will have superiority over the Channel. Rush the victory points and capitulate France, then take Oppose Hitler; before the focus fires off, disband your entire army and lend-lease all equipment you have to another nation that's at war the day before the focus completes; after it fires off, cancel the lend-lease, and train 6 units of Panzer Divisions (force deploy them when possible); the AI will never train new units, and the Panzer Division is stronger than the Landstrumregiment. Upon completion of the '''Our Place in the Sun''' Focus, the achievement will fire off. 如果征服目标不是法国而是英国，那么可以去获取成就[[Achievements#Operation_Sea_Lion|Operation Sea Lion]]。
 | {{icon|wtt}}
 | data-sort-value="5" | 1.5
 | {{DI|M}}
 |-
-| {{Iconbox|Poland Can Into Space|Finish all Rocket Technologies as Poland.}}
+| {{Iconbox|Poland Can Into Space|扮演波兰，研究完所有火箭科技。}}
 | {{icon|yes}} 扮演 {{flag|Poland}}
-| [[File:Atomic research.png|22px]] Has researched {{iconify|Advanced Rocket Engines}}
-| Option 1: Give into German and Soviet demands for territory.  Stay out of WWII.  Stay on speed 5 the whole time.  Research rockets.
+| [[File:Atomic research.png|22px]] 研究完成 {{iconify|Advanced Rocket Engines}}
+| 选项 1: 德国和苏联提出领土要求时妥协。在二战中保持独立。最高速进行游戏。研究火箭科技。
 
-Option 2: Turn fascist and join the Axis. Try to stay out of wars as long as you can. Make sure to research rockets.
+选项 2: 转向法西斯主义，加入轴心国。尽可能避免参战。研究火箭科技。
 
-With {{icon|mtg}} DLC, Even when you get overrun and conquered by the Germans and/or the Soviets, you will continue the game as a government-in-exile hosted by the United Kingdom and remain eligible for the achievement. As long as Allies survive, you can continue doing research to get the achievement.
+拥有 炮手就位 {{icon|mtg}} DLC 时，即使领土沦陷，国家被德国或苏联占领，你也可以作为英国支持的流亡政府继续游戏。当然也可以获得成就。只要盟军还存在，你就能继续进行研究并获得该成就。
 |
 | data-sort-value="0" | 1.0
 | {{DI|M}}
