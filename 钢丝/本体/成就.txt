@@ -955,75 +955,76 @@ __TOC__
 | data-sort-value="0" | 1.0
 | {{DI|M}}
 |-
-| {{Iconbox|Pride and Extreme Prejudice|Sink the British Pride of the Fleet.|extension=png}}
-| {{icon|no}} Not playing as {{flag|United Kingdom}}
-| {{icon|yes}} Sank the British Pride of the Fleet
+|{{Iconbox|Pride and Extreme Prejudice|击沉英国的舰队荣耀|extension=png}}
+| {{icon|no}} 没有扮演 {{flag|United Kingdom}}
+|{{icon|yes}} 击沉英国的舰队荣耀
 |
-It can be done quickly as Japan. In the 1936 start, the Japanese fleet is immediately capable of sinking not just the HMS Hood, but the entire Royal Navy if played properly. Choose to purge the Kodoha faction and justify on the UK (or British Malaya) as soon as possible. Ask Germany for docking rights, and move your entire fleet to their port nearest to the UK. Use the bulk of your fleet as a strike force, with three groups of destroyers patrolling the naval areas around the UK. If possible, you can also use naval bombers as well for added firepower. When the justification has finished, declare war on them. If Germany invites you to the Axis you should accept for the opportunity to move your planes to their airfields. From there just keep beating the Brits and building new ships and bombers (importing Oil for fuel if needed) until your fleet sinks the Hood and unlocks the achievement.
+可以通过扮演日本快速取得该成就。以1936年开局，只要操作得当，不仅可以击沉胡德号，还可以摧毁整个皇家海军。清理皇道派，尽快正当化对英国(或英属马来亚)的战争目标。向德国请求驻港权，将所有舰队转移到离英国最近的港口。将主力设置为打击舰队，派三组驱逐舰在英国周围海域巡逻。如果可以做到，把海轰也派过去增加火力。正当化战争完成后，宣战。如果德国邀请你加入轴心阵营，接受，这样你就可以使用它们的机场了。现在只要不断攻击英国、建造新船和轰炸机(缺燃料了就买石油)直到你的舰队击沉胡德号就可以获得成就。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|M}}
 |-
-| {{Iconbox|The bell tolls for us|Win Spanish Civil War as Republican Spain.}}
+| {{Iconbox|The bell tolls for us|扮演西班牙共和党，赢得西班牙内战}}
 | {{icon|yes}} 扮演 {{flag|Spain}}
-| {{icon|fascism}} Is ''not'' fascist<br/>
-{{icon|yes}} Won the Spanish Civil War<br/>
-{{icon|yes}} One of the following must be true:
-*Current Ruling party is {{icon|Communist|1}}
-*Current Ruling party is {{icon|Democratic|1}}
-**Is not {{Flag|Nationalist Spain}}
-**Is not {{Flag|Carlist Spain}}
-**Is not {{Flag|Regional Defense Council of Aragón‎|Anarchist Spain}}
-| As of 1.9, capitulating one of the other factions(Anarchists/Fascists/Carlists) in the civil war as the Republicans, even if the civil war hasn't ended, will trigger the achievement. (Possibly because of every time one faction capitulates a peace deal is automatically made, counting as the civil war has ended). If you are playing without {{icon|lar}} DLC, you can do the regular civil war trick by deleting your army, triggering the war, and deploying a few units to use.
+| {{icon|fascism}} ''不是'' 法西斯主义<br/>
+{{icon|yes}} 赢得西班牙内战<br/>
+{{icon|yes}} 以下其一为真：
+* 当前执政党是 {{icon|Communist|1}}
+* 当前执政党是 {{icon|Democratic|1}}
+** 不是 {{Flag|Nationalist Spain}}
+** 不是 {{Flag|Carlist Spain}}
+** 不是 {{Flag|Regional Defense Council of Aragón‎|Anarchist Spain}}
+| 在1.9版本中，以共和党的身份向内战中的其它任一派系(无政府主义者/法西斯主义者/卡洛斯派)投降，即使内战尚未结束，也可以获得本成就。
+(可能是因为每当有派系投降，都会自动举行和平会议，这会被认为是内战结束)。如果游戏时没有 抵抗运动 {{icon|lar}} DLC，可以使用一些常规的内战技巧，比如删除军队然后触发内战然后快速部署单位(译者注：随着版本更迭，现在这套方法不一定可用)。
 |
 | data-sort-value="0" | 1.0
 | {{DI|M}}
 |-
-| {{Iconbox|The Good, the Bad and the Weird|As Manchukuo, have max level infrastructure in every owned state and generate at least 15 units of oil.|extension=png}}
+| {{Iconbox|The Good, the Bad and the Weird|扮演满洲国，在所有地区拥有满级基建且生产最少15单位石油。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Manchukuo}}
-|{{icon|yes}} At least 10 {{icon|infra|Infrastructure}}:
-*Heilungkiang (714)
-*Liaoning (715)
-*Jehol (610)
-*Kirin (328)
-*Sungkiang (717)
-{{icon|yes}} At least 16 {{icon|Oil|Oil}}
+|{{icon|yes}} 最少 10 {{icon|infra|Infrastructure}}:
+*黑龙江 (714)
+*辽宁 (715)
+*热河 (610)
+*吉林 (328)
+*松江 (717)
+{{icon|yes}} 最少16单位 {{icon|Oil|Oil}}
 |
-May be done in conjunction with the [[#Hail_to_the_Qing|Hail to the Qing]] and the [[#The_Dragon_Swallowed_the_Sun|The Dragon Swallowed the Sun]] achievements.
-* Hulunbuir and Liaotung's infrastructure does not need to be increased to 10
+可以与 [[#Hail_to_the_Qing|Hail to the Qing]] 和 [[#The_Dragon_Swallowed_the_Sun|The Dragon Swallowed the Sun]] 两个成就同时做。
+* 呼伦贝尔和辽东的基础设施不必升到10级。
 | 
 | data-sort-value="5" | 1.5
 | {{DI|M}}
 |-
-| {{Iconbox|The Munich Disagreement|As Czechoslovakia, occupy Munich while at war with Germany.|extension=png}}
+| {{Iconbox|The Munich Disagreement|扮演捷克斯洛伐克，在与德国交战时占领慕尼黑。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Czechoslovakia}}
-| {{Plainlist|* {{icon|cb}} At war with {{flag|Germany}}
-* {{icon|yes}} Controls the state Oberbayern (52) }}
+| {{Plainlist|* {{icon|cb}} 与 {{flag|Germany}} 交战
+* {{icon|yes}} 控制 上巴伐利亚 (52) }}
 |
-* Turn Communist and join the Comintern
-* Follow the focus tree until [[Czechoslovakian_national_focus_tree#The_polish_division|The Polish Division]] and go to war with Poland and take as much warscore as possible.
-* On peace deal, give the Soviets a contiguous border with Germany and Czechoslovakia. The Soviets will only help with the next if they border Germany.
-* Build up Sudetenland to lvl 7 forts via focus, prepare for war against the Axis and refuse Germany's demand for it.
-* It is easier with historical AI turned off (there is a good chance of Hungary taking Austria and/or allying with Italy so Germany will be weaker)
+* 转向共产主义，加入共产国际。
+* 沿着国策树进行到 [[Czechoslovakian_national_focus_tree#The_polish_division|分裂波兰]]。与波兰开战并获取尽可能多的战争分数。
+* 在和平协议中，使苏联的边境挨着德国和捷克斯洛伐克。苏联只有在与德国接壤的情况下才会帮忙。
+* 利用国策在苏台德地区修建7级堡垒，为与轴心阵营之间的战争做准备，拒绝德国的要求。
+* 如果AI没有沿用历史路线，游戏会更加容易(因为匈牙利有可能占领奥地利或与意大利结盟，而这会导致德国变弱)。
 
-Can also be done by rushing out paratroopers and hoping for an early war with Germany following little Entente path. You only need to occupy the city of Munich for achievement to fire. You may need to concentrate research & ministers on planes for air superiority.
+也可以通过组建小协约国与德国开战，然后投掷伞兵的方式来获取成就。因为只需要占领慕尼黑城就可以取得成就。这需要你将研究放在飞机上以获取空中优势。仔细选择部长可以获得对应加成。
 |
 | data-sort-value="4" | 1.4
 | {{DI|M}}
 |-
-| {{Iconbox|The Puppetmaster|Have at least 51 subjects.|extension=png}}
+|{{Iconbox|The Puppetmaster|拥有至少51个附庸|extension=png}}
 |
-| {{icon|yes}} Has subjects >50
-| This suggestion requires {{icon|tfv}} DLC.
-Play as the {{flag|United Kingdom}}, as they can release about 40 nations as puppets through their national focus tree. But don't do this yet!
-* Turn communist as soon as possible, and then declare war on {{flag|France}}.
-* Defeat France and in the peace deal puppet them and satellite every releasable nation from their colonies as your puppets.
-* While the war is ongoing Follow the "Revisit Colonial Policy" branch of the national focus tree and dismantle your colonial empire, releasing a lot of puppets in the process. '''Be careful, though, as if you fail to complete the branch within 2 years of going communist, a civil war will break out!'''
-* If you still don't have enough puppets, follow the rest of the national focus (the communist path) and pick either "Follow Moscow" or "The British Communist Alternative" and start puppeting the rest of Europe or annex the United States and go after the rest of the Americas.
+|{{icon|yes}} 拥有附庸数>50
+| 这项成就需要 共赴胜利 {{icon|tfv}} DLC.
+扮演{{flag|United Kingdom}},通过国策树可以释放大约40个国家成为傀儡。但是这仍然不够！
+* 尽可能快的转向共产主义，然后向{{flag|France}}宣战。
+* 击败法国，然后在和平协议中使其变为傀儡，将它的每一个殖民地都释放为你的傀儡。
+* 战争尚未结束时，执行国策树中"重新审视殖民政策"分支，拆解殖民地帝国，在这个过程中释放大量傀儡。'''注意，共产主义化的2年内没有完成该分支的话，会爆发内战!'''
+* 如果傀儡还是不够的话，进行国策树中共产主义路线剩余的部分。选择"追随莫斯科" 或 "英式共产主义选择"，开始傀儡欧洲的剩余国家或吞并美国继而统治美洲。
 
-Alternatively, playing as the {{flag|German Reich}}, you can defeat France and Britain and during the peace conference satellite all releasable nations from both of their territories.
+也可以扮演 {{flag|German Reich}}，击败法国和英国，然后在和平协议中将它们领土上的所有可释放国家都变为卫星国。
 
-A third way is to play as {{flag|France}}, go down the Napoleonic Path, release as many of your puppets as possible (leave some territory for your economic paths) conquer Belgium, the Netherlands and Britain (and satellite as much territory as possible from each - Belgium gives you 5 puppets from their African territory, the Netherlands gives you 3 - the Indies and both of their South American territories, and the UK gives you 40). If that still isn't enough, conquer Germany and take the focus Disunite Germany to gain more puppets.
+第三条路线是扮演{{flag|France}}，走拿破仑路线，尽可能多的释放傀儡(留下一些领土以维持贸易航线)。征服比利时、荷兰和英国，从它们的领土上取得尽可能多的傀儡。比利时的非洲领土可以提供5个傀儡，荷兰提供3个，英国提供40个。如果还是不够，就征服德国并使用国策将德国拆分以获取更多傀儡。
 
 |
 | data-sort-value="3" | 1.3
