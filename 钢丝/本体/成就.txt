@@ -427,7 +427,7 @@ __TOC__
 * 转法西斯
 * 建造少量潜艇和额外的运输船
 * 
-* 正当化对利比里亚的战争借口并宣战，并且在和平谈判中傀儡之(也可以释放纳米比亚并对它来这一套。)
+* 正当化对利比里亚的战争借口并宣战，并且在和平会谈中傀儡之(也可以释放纳米比亚并对它来这一套。)
 | 
 | data-sort-value="3" | 1.3
 | {{DI|E}}
@@ -607,7 +607,7 @@ __TOC__
 如果不是 {{icon|democratic|民主主义}}
 *控制 十二群岛(164)
 *控制 塞浦路斯(183)}}
-| 伟大理想中，希腊、法国和英国会共同攻击并肢解土耳其，而且保证希腊会获得和平谈判中取得的地区。记住，即使英法在会谈中同意进攻，仍可能会在你完成攻击土耳其的国策后退出战争。但是你们中的任何一员都可以轻松击败土耳其。
+| 伟大理想中，希腊、法国和英国会共同攻击并肢解土耳其，而且保证希腊会获得和平会谈中取得的地区。记住，即使英法在会谈中同意进攻，仍可能会在你完成攻击土耳其的国策后退出战争。但是你们中的任何一员都可以轻松击败土耳其。
 决议"成立大希腊"会在两种情况下解锁。一是在领导人不是乔治·科斯米迪斯时，完成国策"新时代运动"并选择"扬尼斯·梅塔克萨斯"成为国家领导人，随后完成"胜利欢呼"国策。另一个使完成"准备伟大的反法西斯战争"国策。
  
 | {{icon|bfb}}
@@ -623,7 +623,7 @@ __TOC__
 *拥有核弹后，释放美国(这里假设你在Sunrise Invasion中占领了美国)并向其开战。
 *如果想在重新吞并美国的时候更容易一些
 *必须让美国控制你扔核弹的地区。
-*另一种思路:依照历史路线走国策树。苏联被德国宣战后，快速向其发动攻击。在和平协议中，一定要获取在太平洋有海岸线的地区，以确保能扩大海军势力范围。准备一场从西伯利亚东北部向温哥华的海军入侵，通过国策树取得对菲律宾和马来西亚的战争目标。对盟军宣战，但千万！！不要对美国宣战。然后发动海军入侵。此时加拿大的军队应该在欧洲或非洲，所以它无力阻止你占领不列颠哥伦比亚地区的机场。派一些战略轰炸机和战斗机到达这个机场。让战斗机在美国的某个空域取得制空权，将轰炸机派过去。在没有暂停的情况向菲律宾宣战，美国会自动加入战争。现在只要扔下核弹就够了。
+*另一种思路:依照历史路线走国策树。苏联被德国宣战后，快速向其发动攻击。在和平会谈中，一定要获取在太平洋有海岸线的地区，以确保能扩大海军势力范围。准备一场从西伯利亚东北部向温哥华的海军入侵，通过国策树取得对菲律宾和马来西亚的战争目标。对盟军宣战，但千万！！不要对美国宣战。然后发动海军入侵。此时加拿大的军队应该在欧洲或非洲，所以它无力阻止你占领不列颠哥伦比亚地区的机场。派一些战略轰炸机和战斗机到达这个机场。让战斗机在美国的某个空域取得制空权，将轰炸机派过去。在没有暂停的情况向菲律宾宣战，美国会自动加入战争。现在只要扔下核弹就够了。
 | 
 | data-sort-value="5" | 1.5
 | {{DI|E}}
@@ -780,7 +780,7 @@ __TOC__
 | {{Iconbox|Dracula’s Revenge|扮演南斯拉夫，建立特兰西瓦尼亚自治区，使其拥有所有罗马尼亚核心地区。|extension=png}}
 | {{icon|yes}} 扮演 {{Flag|Yugoslavia}}
 | {{icon|yes}} {{Flag|Transylvania}} 拥有 {{flag|Romania}} 全境。
-|无需使用国策释放特兰西瓦尼亚，你可以在和平协议中傀儡它。注意，特兰西瓦尼亚需要拥有所有罗马尼亚的核心地区，这意味着在沿用历史国策的情况下，你需要在德国进行国策''第二次维也纳仲裁''前结束战争。你会在1939年获得英法的保障独立，所以不用担心盟军。通过加入轴心国或共产国际，你可以迫使罗马尼亚将军队分散开来。但不要呼叫这些盟友加入战争，因为将罗马尼亚的土地交给特兰西瓦尼亚需要大量战争分数。
+|无需使用国策释放特兰西瓦尼亚，你可以在和平会谈中傀儡它。注意，特兰西瓦尼亚需要拥有所有罗马尼亚的核心地区，这意味着在沿用历史国策的情况下，你需要在德国进行国策''第二次维也纳仲裁''前结束战争。你会在1939年获得英法的保障独立，所以不用担心盟军。通过加入轴心国或共产国际，你可以迫使罗马尼亚将军队分散开来。但不要呼叫这些盟友加入战争，因为将罗马尼亚的土地交给特兰西瓦尼亚需要大量战争分数。
 也可以扮演共产主义南斯拉夫。在国策树中走共产主义路线，组建阵营并在阿尔巴尼亚和保加利亚煽动共产主义革命，随后颠覆罗马尼亚。当罗马尼亚共产党取得内战胜利后，制造对它的战争目标并开战。由于共产主义者的身份且刚刚结束内战，不会有国家对其保独。在和平会谈中傀儡特兰西瓦尼亚并令其管理罗马尼亚所有土地。
 | {{icon|dod}}
 | data-sort-value="10" | 1.10
@@ -901,7 +901,7 @@ __TOC__
 * 游戏开局后建立情报机构并升级5次以获取第二个特工。解散所有军队，使用顾问转向法西斯，准备好通过决议进入内战。不断使用'扩大民意支持'决议降低稳定度，当稳定度低于50%后，挑起内战并快速训练一个骑兵师。让部队冲向斯德哥尔摩，敌人没有军队且领土狭小，很快会向我们投降。
 * 内战结束后，积攒190政治点对丹麦和挪威正当化战争目标。然后停止对丹麦的正当化战争目标，然后再次正当化。这样可以避免英国对它们保独。在进行以上行动同时，将特工派遣到芬兰组建间谍网，内战结束后就变为执行'加强意识形态'任务，为法西斯政变做准备。
 * 现在要为丹麦和挪威的战争做准备。正当化战争完成后，派一两个单位进攻丹麦海峡，派四个单位通过海军入侵绕到它们后方。修改征兵法案，走集体主义相关国策树，组建大批军队并派往前线。
-* 正当化战争目标完成后立即在同一时刻宣战以避免同盟国对其保独。快速冲向胜利点。你的军队更加强大，挪威则无法防御所有的领地。在和平协议中吞并所有地区，日后则可以释放成为傀儡。
+* 正当化战争目标完成后立即在同一时刻宣战以避免同盟国对其保独。快速冲向胜利点。你的军队更加强大，挪威则无法防御所有的领地。在和平会谈中吞并所有地区，日后则可以释放成为傀儡。
 * 继续努力提升芬兰国内法西斯的支持率，使它的稳定度降低到70%以下。一旦法西斯支持率超过20%，开始准备在奥兰群岛发动政变。这一步至关重要，因为芬兰在本土无法击败。政变成功(一定要在1939年底/1940年初之前完成，以免苏联接入)之后，对法西斯革命党使用'外交施压'和'改善关系'，它们也许能坚持到世界末日。一旦世界紧张度超过 55% ，你可以和它们创建一个阵营。或者你可以对芬兰正当化战争目标，此时由于处于战争状态，它们无法获得保独。但是要确保你还没有创建阵营，否则它可能会加入同盟国。
 * 创建阵营后，释放挪威和丹麦作为傀儡，它们会自动加入阵营。
 
@@ -975,7 +975,7 @@ __TOC__
 ** 不是 {{Flag|Carlist Spain}}
 ** 不是 {{Flag|Regional Defense Council of Aragón‎|Anarchist Spain}}
 | 在1.9版本中，以共和党的身份向内战中的其它任一派系(无政府主义者/法西斯主义者/卡洛斯派)投降，即使内战尚未结束，也可以获得本成就。
-(可能是因为每当有派系投降，都会自动举行和平会议，这会被认为是内战结束)。如果游戏时没有 抵抗运动 {{icon|lar}} DLC，可以使用一些常规的内战技巧，比如删除军队然后触发内战然后快速部署单位(译者注：随着版本更迭，现在这套方法不一定可用)。
+(可能是因为每当有派系投降，都会自动举行和平会谈，这会被认为是内战结束)。如果游戏时没有 抵抗运动 {{icon|lar}} DLC，可以使用一些常规的内战技巧，比如删除军队然后触发内战然后快速部署单位(译者注：随着版本更迭，现在这套方法不一定可用)。
 |
 | data-sort-value="0" | 1.0
 | {{DI|M}}
@@ -1003,7 +1003,7 @@ __TOC__
 |
 * 转向共产主义，加入共产国际。
 * 沿着国策树进行到 [[Czechoslovakian_national_focus_tree#The_polish_division|分裂波兰]]。与波兰开战并获取尽可能多的战争分数。
-* 在和平协议中，使苏联的边境挨着德国和捷克斯洛伐克。苏联只有在与德国接壤的情况下才会帮忙。
+* 在和平会谈中，使苏联的边境挨着德国和捷克斯洛伐克。苏联只有在与德国接壤的情况下才会帮忙。
 * 利用国策在苏台德地区修建7级堡垒，为与轴心阵营之间的战争做准备，拒绝德国的要求。
 * 如果AI没有沿用历史路线，游戏会更加容易(因为匈牙利有可能占领奥地利或与意大利结盟，而这会导致德国变弱)。
 
@@ -1018,11 +1018,11 @@ __TOC__
 | 这项成就需要 共赴胜利 {{icon|tfv}} DLC.
 扮演{{flag|United Kingdom}},通过国策树可以释放大约40个国家成为傀儡。但是这仍然不够！
 * 尽可能快的转向共产主义，然后向{{flag|France}}宣战。
-* 击败法国，然后在和平协议中使其变为傀儡，将它的每一个殖民地都释放为你的傀儡。
+* 击败法国，然后在和平会谈中使其变为傀儡，将它的每一个殖民地都释放为你的傀儡。
 * 战争尚未结束时，执行国策树中"重新审视殖民政策"分支，拆解殖民地帝国，在这个过程中释放大量傀儡。'''注意，共产主义化的2年内没有完成该分支的话，会爆发内战!'''
 * 如果傀儡还是不够的话，进行国策树中共产主义路线剩余的部分。选择"追随莫斯科" 或 "英式共产主义选择"，开始傀儡欧洲的剩余国家或吞并美国继而统治美洲。
 
-也可以扮演 {{flag|German Reich}}，击败法国和英国，然后在和平协议中将它们领土上的所有可释放国家都变为卫星国。
+也可以扮演 {{flag|German Reich}}，击败法国和英国，然后在和平会谈中将它们领土上的所有可释放国家都变为卫星国。
 
 第三条路线是扮演{{flag|France}}，走拿破仑路线，尽可能多的释放傀儡(留下一些领土以维持贸易航线)。征服比利时、荷兰和英国，从它们的领土上取得尽可能多的傀儡。比利时的非洲领土可以提供5个傀儡，荷兰提供3个，英国提供40个。如果还是不够，就征服德国并使用国策将德国拆分以获取更多傀儡。
 
@@ -1030,50 +1030,50 @@ __TOC__
 | data-sort-value="3" | 1.3
 | {{DI|M}}
 |-
-| {{Iconbox|The Revolution Triumphant|Have Germany as a puppet of Soviet.}}
+| {{Iconbox|The Revolution Triumphant|扮演苏联，傀儡德国}}
 | {{icon|yes}} 扮演 {{flag|Soviet Union}}
-| {{icon|yes}} {{flag|Germany}} is a puppet of {{flag|Soviet Union}}
+| {{icon|yes}} {{flag|Germany}} 被 {{flag|Soviet Union}} 傀儡
 | 
-Must be unified Germany. {{flag|West Germany}} or {{flag|East Germany}} will not count, even if you puppet both.
-*Justify and declare war on Poland to gain a border with Germany.
-**As an optional bonus, boost communist party popularity in {{flag|France}} to make them flip to communist, then try inviting them to the Comintern. If France refuses to join, you can also wait until Germany attacks them, and then invite them, as they will be more inclined to join you.
-*Then justify and declare war on Germany, and Puppet them in the Peace Conference.
-**It is likely that {{flag|Italy}} will join the Axis upon your declaration of war, so it is advised to wait until after the Anschluss to declare war on Germany, as this will enable you to reach Italy via land without any extra war justifications.
+德国要在统一的情况下被傀儡。傀儡{{flag|West Germany}} 或 {{flag|East Germany}} 无法获得成就，即使两个同时傀儡了也不行。
+*正当化对波兰的战争目标并向其宣战，使领土与德国接壤。
+**要取得更大的优势，可以支援 {{flag|France}} 国内的共产主义党派，使其夺权，然后加入共产国际。如果法国拒绝加入，可以等到德国对其发动攻击时再邀请一次，这时它们会更加愿意加入。
+*正当化对德国的战争目标并宣战，在和平会谈中傀儡德国。
+**对德宣战后， {{flag|Italy}} 可能会加入轴心阵营。所以最好等到德奥合并后再宣战。这样就可以在无需借道他国的情况下直接通过陆地到达意大利。
 |
 | data-sort-value="0" | 1.0
 | {{DI|M}}
 |-
-| {{Iconbox|True Blitzkrieg|As Germany have both Poland and France surrender before January 1st 1940.}}
+| {{Iconbox|True Blitzkrieg|扮演德国，使波兰和法国在1940年1月1日前投降。}}
 | {{icon|yes}} 扮演 {{flag|Germany}}
-| {{Plainlist|* {{icon|time}} Date is < 1940.01.01
-* {{icon|yes}} {{flag|Poland}} does not exist ''or'' has capitulated
-* {{icon|yes}} {{flag|France}} ''either'': }}
-** Does ''not'' exist
-** Has capitulated
-** Global flag ''achievement_france_surrender'' is set
-| Both nations need to be either in a capitulated state or annexed to trigger. Neither of them can be a puppet.
+| {{Plainlist|* {{icon|time}} 时间早于 1940.01.01
+* {{icon|yes}} {{flag|Poland}} 不存在 ''或'' 已经停止抵抗
+* {{icon|yes}} {{flag|France}} ''是以下其一'': }}
+** ''不'' 存在
+** 已经停止抵抗
+** 全局标志位 ''achievement_france_surrender'' 已置位
+| 两个国家都处于投降或被吞并状态才可触发，不能是傀儡。
 |
 | data-sort-value="0" | 1.0
 | {{DI|M}}
 |-
-| {{Iconbox|We Will Rock You|As Spain, own Gibraltar.|extension=png}}
+| {{Iconbox|We Will Rock You|扮演西班牙，拥有直布罗陀|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Spain}}
-| {{icon|yes}}Gibraltar (118) Owned by {{flag|Spain}}
-| As Carlist Spain, after the Spanish Civil War, rush towards the [[Nationalist_Spanish_national_focus_tree#Retake_the_Spanish_Netherlands|Retake the Spanish Netherlands]] focus and take the Benelux. Have around 24 divisions each on the French northern and southern borders and declare on France when Germany's at war with them. Capitulate France and launch a naval invasion on the United Kingdom. Once the United Kingdom capitulates, take Gibraltar in the peace deal.
-Can also be done very easily with {{icon|mtg}} Man The Guns, if Historical AI Focuses are turned off, since the {{flag|United Kingdom}} may take the [[British_national_focus_tree#Revisit_Colonial_Policy|Revisit Colonial Policy]] branch of its focus tree containing the focus 'Withdraw from Contested Territories' which will give Gibraltar to {{flag|Spain}} for free along with it becoming a core state. If this occurs during the civil war, Gibraltar may not be given to the player's Spain but will be transferred once the civil war is won.
+| {{icon|yes}} 直布罗陀 (118) 属于 {{flag|Spain}}
+| 扮演卡洛斯派西班牙，在西班牙内战结束后，直奔[[Nationalist_Spanish_national_focus_tree#Retake_the_Spanish_Netherlands|夺回西属尼德兰]]国策，拿下比荷卢。在法国南北边界各部署24个师，在德国进攻法国时对法国宣战。降伏法国，向英国发动海军入侵。英国投降后，在和平会谈中拿走直布罗陀。
+拥有 炮手就位 {{icon|mtg}} DLC时，有另一种获取成就的简单方法。关闭AI沿用历史国策，{{flag|United Kingdom}}可能采用[[British_national_focus_tree#Revisit_Colonial_Policy|重新审视殖民政策]]分支的国策树，这其中包含了国策 '从争议领土撤军' 。该国策会将直布罗陀赠与{{flag|Spain}}，且该地区变为核心地区。如果这件事情发生在内战中，直布罗陀可能没有被送给玩家所扮演的西班牙派系，但是内战结束后玩家一样可以获得该地区。
 | 
 | data-sort-value="9" | 1.9
 | {{DI|M}}
 |-
-| {{Iconbox|Well, I Didn’t Vote for You|Win the Spanish Civil War as the Anarchists.|extension=png}}
+| {{Iconbox|Well, I Didn’t Vote for You|扮演西班牙无政府主义派系，赢得内战。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Spain}}
-|  {{icon|yes}}Win the Spanish Civil War as the {{flag|Regional Defense Council of Aragón‎|Anarchists}}
+|  {{icon|yes}}  {{flag|Regional Defense Council of Aragón‎|Anarchists}}赢得西班牙内战
 {{Collapse|
-{{icon|yes}} Is {{flag|Regional Defense Council of Aragón‎|Anarchist Spain}}<br/>
-{{icon|yes}} Any other country with the original tag of {{flag|Spain}} not including {{flag|Anarchist Spain}} does not exist.}}
+{{icon|yes}} 扮演 {{flag|Regional Defense Council of Aragón‎|Anarchist Spain}}<br/>
+{{icon|yes}} 除{{flag|Anarchist Spain}}外，任何其它{{flag|Spain}}派系都不存在。}}
 |
-* Anarchist Spain is created from either the Masters of Our Own Fate focus or the Government Crackdown event. As of 1.9.0, the event gives a larger portion of units and equipment.
-* Easier if the Nationalist are weakened by the Carlist rebellion (in non-historical)
+* 国策'''自身命运的主宰'''与事件'''即将到来的政府镇压'''都会产生西班牙无政府主义者派系。在1.9.0版本中，事件产生的国家拥有更多的部队和武器。
+* 如果在非历史进程下，西班牙国民军被卡洛斯主义者削弱，那么统一之路会更加顺利。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|M}}
