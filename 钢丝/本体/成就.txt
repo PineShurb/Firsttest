@@ -1078,24 +1078,24 @@ __TOC__
 | data-sort-value="9" | 1.9
 | {{DI|M}}
 |-
-| {{Iconbox|Why Die For Danzig?|As Germany, turn France fascist and occupy Danzig without going to war with France.|extension=png}}
+| {{Iconbox|Why Die For Danzig?|扮演德国，将法国转变为法西斯，在不与法国开战的情况下占领但泽。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Germany}}
-| {{icon|yes}} Have France become Fascist without going to war with France.
+| {{icon|yes}} 不与法国交战的情况下，将法国变为法西斯。
 {{Collapse|
 {{icon|yes}}{{Flag|France}}:<br/>
-* Is {{icon|Fascist|1}}
-*Is not at war with {{flag|Germany}}<br/>
-Danzig (85) is controlled by {{Flag|Germany}}<br/>
-{{icon|no}}does not have country flag: ''invalid_for_danzig_achievement''<br/>
-{{flag|Germany}} is not at war with {{Flag|France}}
+* 成为 {{icon|Fascist|1}}
+* 没有与 {{flag|Germany}} 交战<br/>
+但泽 (85) 被 {{Flag|Germany}} 控制<br/>
+{{icon|no}}没有产生标志: ''invalid_for_danzig_achievement''<br/>
+{{flag|Germany}} 没有与 {{Flag|France}} 开战
 }} 
 | 
-*''invalid_for_danzig_achievement'' flag fires when Germany declares war on France.
-* Bugged in 1.9.0: The achievement fires for being Germany, never declaring on France or Poland, and France flipping Fascist.
-* France has to flip Fascist without triggering a civil war. 
-* Playing on non-historical mode, follow the focus tree until ''Demand Sudetenland''. If Czechoslovakia refuse, you will get a wargoal against them. France and Romania will have guaranteed Czechoslovakia, so you will be at war with both when declare over them. Place your troops on the frontier with those three countries and start a war against Czechoslovakia. For any reason, it won't affect country flag ''invalid_for_danzig_achievement''. Romania, France and Czechoslovakia won't be on the same faction, so you will have a peace deal each time you defeat one of them. To conquest France, just merge all your ships in one single army with the mission ''naval invasion support'' over the two sea regions between them and you. Make a landing, take Paris and some other victory points. They will surrender quick. On the French peace deal, make them a puppet. When the three countries have been defeated, you will get the achievement.
+*''invalid_for_danzig_achievement'' 标志在德国向法国宣战时触发。
+* 1.9.0版本中的BUG:扮演德国，在没有向法国和波兰宣战的情况下法国转变为法西斯就可以取得成就。
+* 法国必须在没有爆发内战的情况下转变为法西斯主义。
+* 在非历史国策模式下，国策进行到''索取苏台德''。如果捷克斯洛伐克拒绝了要求，那么你将获得针对他的战争目标。此时法国和罗马尼亚会保独捷克斯洛伐克，而你在宣战后会同时与他们全部开战。将军队布置到与这三个国家接壤的前线，然后向捷克斯洛伐克宣战。不管怎么样，这不会影响到 ''invalid_for_danzig_achievement''标志位置位。罗马尼亚、法国和捷克斯洛伐克都不在同一个阵营，你每次击败其中一个都有有一次和平会谈。要征服法国，将所有海军整合进一支舰队，为其指派在你与法国之间两片海域的''协助登陆作战''任务。 执行登陆作战，拿下巴黎和其他一些胜利点。法国会很快投降(译者注：今日乳法)。在与法国的和平会谈中，将其变为傀儡。当三个国家都被击败后，就会取得成就。
 
-Alternatively, one can justify on Yugoslavia as soon as one has the political power for similar effects, as Romania, France and Czechoslovakia are all guaranteeing them. If one takes this path, can also be combined with [[Achievements#Our_Other_Place_In_The_Sun|Our Other Place in the Sun]] if one restores the Kaiserreich after defeating France, Czechoslovakia, and Romania.
+此外，因为罗马尼亚、法国和捷克斯洛伐克都保独南斯拉夫，也可以在获得足够政治点后立即对其正当化战争目标。这样也能取得和上述一样的效果。如果使用这种方法，有机会同时获得成就[[Achievements#Our_Other_Place_In_The_Sun|Our Other Place in the Sun]]。这就需要在击败法国、捷克斯洛伐克和罗马尼亚后恢复德皇。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|M}}
