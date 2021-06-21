@@ -1100,44 +1100,44 @@ __TOC__
 | data-sort-value="9" | 1.9
 | {{DI|M}}
 |-
-| {{Iconbox|William Wallis|As the United Kingdom, put Edward VIII in power, enforce an American monarchy, and have both it and Scotland as subjects.|extension=png}}
+| {{Iconbox|William Wallis|扮演英国,使爱德华8世成为领导人,迫使美国变为君主制,让它和苏格兰都成为附庸.|extension=png}}
 | {{icon|yes}} 扮演 {{flag|United Kingdom}}
-| {{icon|yes}} Has completed focus ''The King's Party''<br/>
-{{icon|yes}} {{flag|Scotland}} is a subject of The {{flag|United Kingdom}}<br/>
-{{icon|yes}} The {{flag|United States}} is a subject of The {{flag|United Kingdom}}<br/>
-{{icon|yes}} Installed an American monarchy
+| {{icon|yes}} 完成国策 ''王党''<br/>
+{{icon|yes}} {{flag|Scotland}}是 {{flag|United Kingdom}} 的附庸<br />
+{{icon|yes}} {{flag|United States}} 是 {{flag|United Kingdom}} 的附庸<br />
+{{icon|yes}} 使美国成为君主制政体
 |
-Hidden requirement for Installed an American monarchy
-# You need to ensure Royal Marriage, so Wallis would be Queen Wallis
-# You need take focus Unite the Anglosphere
-# You need to either annex all USA core states, or puppet the USA and let it have all core states. Puppet USA is probably better choice if you are sharing war scores with other countries.
-# Once you have annexed/puppeted the USA, a decision will appear to install an American Monarchy.
-# important to choose "Insist on a Royal Marriage" so you can form the American Monarchy
+在美国建立君主制的隐藏条件:
+# 确保王室婚礼,使华里丝成为华里丝王后.
+# 完成国策'''统一英语圈'''
+# 要么吞并美国所有核心地区,要么傀儡拥有所有核心地区的美国.如果战争分数不足,那还是傀儡美国更容易一些.
+# 吞并/傀儡美国之后,会出现在美国建立君主制的决议.
+# 一定要选择"坚持王室大婚",这样才能在美国建立君主制.
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|M}}
 |-
-| {{Iconbox|Awake and Angry|As China, reconquer all of China and Manchuria and force a Japanese surrender.|extension=png}}
+| {{Iconbox|Awake and Angry|扮演中国,收复中华,驱逐鞑虏,外御强敌|extension=png}}
 | {{icon|yes}} 扮演 {{flag|China}}
-| {{icon|yes}} {{flag|Japan}} was forced to sue for peace after losing all of Manchuria and Korea
-{{icon|yes}} Conquered all core territory of {{flag|China}} and {{flag|Manchukuo}} not including the states of Hong Kong(326) , Macau (729) and Guangzhouwan (728)
-| Do not accept cooperation with Communist China until the Japanese are about to attack. Then, form the Chinese United Front and accept all invites. Quickly rush to Korea and push them off the continent. After they have offered peace, accept it, and kick Communist China from your faction. Declare on them and annex them as soon as possible, before they start war against you. Do the same with the other faction members, leaving Sinkiang for last. Dismantle the faction, declare war on the Soviet Union after Germany is pushing east. Join axis. They will be easy to capitulate with all their forces in the west. Take as much territory and then join their war against the allies. Alternatively, rush Subjugate the Warlords and followed by Anti-Communism. Eliminate Warlords who don't submit quickly by rushing their victory points or in the case of {{flag|Sinkiang}} rush and take as many land from them as possible. To take out {{flag|Communist China}}, use Fallback Line to station your troop some distance away from their border to draw them out. If {{flag|Shanxi}} submitted, take their troops so they don't station them on Communist China's borders. Once their troop has been drawn out, you can rush into their capital and capitulate them quickly. You should be just in time to dig in for the Japanese invasion. Capitulate the Japanese puppets and kick them out of Korea, you need to accept the Japanese surrender to get the achievement. All that is left will be using Political Power to do the 3 steps process in order to integrate each of the warlords that submitted. 
+| {{icon|yes}} {{flag|Japan}} 会在失去满洲和朝鲜后求和
+{{icon|yes}} 收复 {{flag|China}} 和 {{flag|Manchukuo}} 的核心领土.不包括 香港(326) , 澳门 (729) 和 广州湾 (728)
+| 钢丝玩家毕业考,不多说了,也省的被和谐或者封站.Do not accept cooperation with Communist China until the Japanese are about to attack. Then, form the Chinese United Front and accept all invites. Quickly rush to Korea and push them off the continent. After they have offered peace, accept it, and kick Communist China from your faction. Declare on them and annex them as soon as possible, before they start war against you. Do the same with the other faction members, leaving Sinkiang for last. Dismantle the faction, declare war on the Soviet Union after Germany is pushing east. Join axis. They will be easy to capitulate with all their forces in the west. Take as much territory and then join their war against the allies. Alternatively, rush Subjugate the Warlords and followed by Anti-Communism. Eliminate Warlords who don't submit quickly by rushing their victory points or in the case of {{flag|Sinkiang}} rush and take as many land from them as possible. To take out {{flag|Communist China}}, use Fallback Line to station your troop some distance away from their border to draw them out. If {{flag|Shanxi}} submitted, take their troops so they don't station them on Communist China's borders. Once their troop has been drawn out, you can rush into their capital and capitulate them quickly. You should be just in time to dig in for the Japanese invasion. Capitulate the Japanese puppets and kick them out of Korea, you need to accept the Japanese surrender to get the achievement. All that is left will be using Political Power to do the 3 steps process in order to integrate each of the warlords that submitted. 
 |
 | data-sort-value="5" | 1.5
 | {{DI|H}}
 |-
-| {{Iconbox|Bearer of Artillery|Gain Vojtek as commander.}}
+| {{Iconbox|Bearer of Artillery|使沃伊泰克成为指挥官。}}
 | {{icon|yes}} 扮演 {{flag|Poland}}
-| {{icon|yes}} Country flag ''POL_vojtek_commander'' is set
-| Vojtek is a special commander that appears with the Polish event [[Polish events#poland.12|''"Wojtek Never Drops A Crate"'']].
-Forming the Polish-Lithuanian Commonwealth will not prevent the achievement.
+| {{icon|yes}} 标志位 ''POL_vojtek_commander'' 置位
+| 沃伊泰克是一个出现在波兰事件[[Polish events#poland.12|''"我们可爱的战熊沃伊泰克从不会落下任何一筐东西"'']]中的特殊指挥官。
+组建波兰立陶宛联邦不影响获取该成就。
 |
 | data-sort-value="0" | 1.0
 | {{DI|H}}
 |-
-| {{Iconbox|Big Entente|As France, complete the "Little Entente" National Focus, and have all German cores owned by you or someone in your faction.}}
+| {{Iconbox|Big Entente|扮演法国，完成国策"小协约国"，自己或者和盟友一起控制德国所有核心地区。}}
 | {{icon|yes}} 扮演 {{flag|France}}
-| {{Plainlist|* {{icon|yes}} Focus [[File:Goal_generic_alliance.png|28px]] [[French national focus tree#Little Entente|''"Little Entente"'']] is completed
+| {{Plainlist|* {{icon|yes}} Focus [[File:Goal_generic_alliance.png|28px]] [[French national focus tree#Little Entente|''"小协约国"'']] is completed
 * {{icon|yes}} Is a faction leader
 * {{icon|yes}} Every state in the world is ''either'': }}
 ** ''Not'' a core of {{flag|Germany}}
