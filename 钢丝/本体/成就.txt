@@ -1135,48 +1135,50 @@ __TOC__
 | data-sort-value="0" | 1.0
 | {{DI|H}}
 |-
-| {{Iconbox|Big Entente|扮演法国，完成国策"小协约国"，自己或者和盟友一起控制德国所有核心地区。}}
+| {{Iconbox|Big Entente|扮演法国，完成国策"小协约国"，独自或者和盟友一起控制德国所有核心地区。}}
 | {{icon|yes}} 扮演 {{flag|France}}
-| {{Plainlist|* {{icon|yes}} Focus [[File:Goal_generic_alliance.png|28px]] [[French national focus tree#Little Entente|''"小协约国"'']] is completed
-* {{icon|yes}} Is a faction leader
-* {{icon|yes}} Every state in the world is ''either'': }}
-** ''Not'' a core of {{flag|Germany}}
-** A core of {{flag|Germany}} and owned by ''either'':
+| {{Plainlist|* {{icon|yes}} 完成国策 [[File:Goal_generic_alliance.png|28px]] [[French national focus tree#Little Entente|''"小协约国"'']]
+* {{icon|yes}} 成为派系领袖
+* {{icon|yes}} 地球上的每个地区都是下列情形''之一'': }}
+** ''不是'' {{flag|Germany}}核心地区
+** 是 {{flag|Germany}} 核心地区且被以下国家''之一''拥有:
 *** {{flag|France}}
-*** A nation in a faction with {{flag|France}}
-| One possible way to achieve this is refuse {{flag|Germany}}'s Remilitarization of the Rhineland while {{flag|United Kingdom}} refuses it. This will cause a minor Civil War in France. Place Divisions on the Maginot and around Northern and Central France where the civil war spawns. As soon as war starts with {{flag|Germany}}, Capitulate the civil war first and push into {{flag|Germany}}. Once {{flag|Germany}} capitulates, annex everything or puppet Germany. Then follow the focus tree until [[French_national_focus_tree#Little_Entente|Little Entente]].
+*** {{flag|France}} 所在阵营内的国家
+| 取得该成就的一种方法是在 {{flag|United Kingdom}} 拒绝 {{flag|Germany}} 的莱茵兰再武装时也拒绝。这会导致法国国内发生小型内战。将军队派驻在马奇诺以及内战爆发的法国北部和中部。一旦与 {{flag|Germany}} 开战, 立刻在内战中投降并向 {{flag|Germany}} 推进。 {{flag|Germany}} 投降后，将其完全吞并或傀儡。然后进行国策直到
+ Then follow the focus tree until [[French_national_focus_tree#Little_Entente|小协约国]].
 
-Another window to strike at Germany early is during Sudetenland crisis. Following the Little Entente path will get you Czechoslovakia as your faction member. Try to get as many of the potential members in as possible, if you can get UK to join you, you are all set and you can take it slow from there. You can get Republican Spain to join you if you choose to get involved in the Spanish Civil War but be mindful of your stability to not start a civil war of your own. It will be easier to push into Germany when they are distracted by Poland and Czechoslovakia, but you do not need them to survive so don't fret if they capitulated. If you are lucky, a civil war in Germany might trigger in which case you can invite the rebel Germany to your faction. 
+另一个早战德国的机会出现在苏台德危机中。进行'''小协约国'''国策系列的过程中，会吸收捷克斯洛伐克为阵营成员。尽可能吸收更多潜在盟友，如果能得到英国，那么大局已定，你可以慢慢来了。如果参与了西班牙内战，可以使西班牙共和国加入你的阵营。但是处于控制稳定度的考虑，不要在自己国内开启内战。当德国因波兰和捷克斯洛伐克分神时，可以更容易地击败德国。无需关注那两个国家的死活，因为这并不影响获得成就。如果你幸运的遇到德国爆发内战，你可以邀请德国的反抗军加入你的阵营。
 
-A third way is to turn off La Resistance. Flip to Fascism (unlike Utilize the Leagues, Right Wing Rhetoric is not mutually exclusive with Review Foreign Policy), form the Little Entente, and take the focus to Invite Italy to your faction. As long as Italy has not completed Pact of Steel, they will accept. After inviting Italy, during the Sudetenland Crisis, deny Germany the land, and then when they declare war on Czechoslovakia, join the war and call Italy in.
+第三条路是关闭 抵抗运动DLC。转向法西斯主义(与''利用联盟''不同，''右翼言论''不会与''审视外交政策''冲突)，组建小协约国，利用国策邀请意大利加入。只要意大利还没有完成国策'''钢铁条约'''，它就会接受邀请。随后拒绝德国的苏台德危机，当它们向捷克斯洛伐克宣战时加入战争并召唤意大利。
 |
 | data-sort-value="0" | 1.0
 | {{DI|H}}
 |-
-| {{Iconbox|Die, Perfidious Albion!|As Fascist France or Vichy France, occupy all of Great Britain.|extension=png}}
+| {{Iconbox|Die, Perfidious Albion!|扮演法西斯法国或维希法国，占领大英。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|France}}
-| {{icon|yes}} Conquer all of Great Britain and Northern Ireland.
-{{Collapse|{{icon|yes}} Is fascist<br/>
-{{icon|yes}}Control all states belonging to the {{flag|United Kingdom}} in Europe that is not a core of {{flag|Ireland}} and {{flag|Northern Ireland}}
+| {{icon|yes}} 征服大不列颠及北爱尔兰全境。
+{{Collapse|{{icon|yes}} 成为法西斯<br/>
+{{icon|yes}}控制 {{flag|United Kingdom}} 在欧洲(不包括 {{flag|Ireland}} 和 {{flag|Northern Ireland}} )的所有地区。
 }}
-| Rush the fascist focuses. Upon taking "Utilize the Leagues", you will have access to decisions of boosting fascist and non-aligned popularity. Never take "Unleash La Cagoule" decision. Just take fascist demagogue and spam "Rally the Leagues" decision. Because if your stability drops below 30%, the civil war will start. In the mean time you can pick any focuses you want and plan the naval invasion of Britain. Once you have 50% of fascist and non-aligned combined popularity, you can continue working on the fascist focuses. Take the "Political unity" focus as soon as possible, it will remove the chance of spawning the civil war. After that pick "Towards the new Europe" branch. Rush the focus tree until you will do "Expand to the Suez" focus. Immediately declare war on Britain and annex them. Your starting army is strong enough to easily destroy Britain.   
+| 进行法西斯路线的国策。完成国策"利用联盟"后，会解锁提升法西斯和中立派系支持度的决议。不要执行"解禁“革命行动委员会”"决议。只需雇佣法西斯煽动者、执行"重整联盟"决议。这是因为如果稳定度掉到30%以下，就会爆发内战。与此同时，可以执行其它自己认为合适的国策，记得准备针对英国的海军入侵。一旦法西斯和中立派系支持度之和达到50%，就可以执行法西斯相关国策。尽快完成国策"政治统一"，这会消除内战爆发的可能。之后进行"面向新欧洲"分支。一直进行到"扩张到苏伊士"国策。立刻向英国宣战，吞并它。开局拥有的军队就已经强大到足以摧毁英国。
 
-You don't need the DLC, join Axis, paradrop and naval invade UK, eventually your paratroops will get a port randomly (just move your air units between regions), or you and Germany and Italy and Nationalist Spain will overwhelm. If you are really struggling and tension is low enough (below 25%) invade Ireland first. 
+在没有DLC的情况下，加入轴心国，对英国发动伞兵入侵和海军入侵。即使只能得到一个港口，以上行动也是值得的。否则的话就和德国、意大利还有西班牙国一起用人海淹没英国吧。如果你觉得这样太难了，可以在全球紧张度小于25%时先进攻爱尔兰。
 |
 | data-sort-value="9" | 1.9
 | {{DI|H}}
 |-
 | {{Iconbox|Don’t Die for Your Country|As Germany in a 1939 start, occupy all of Poland and France without taking more than 475 casualties.|extension=png}}
 |{{icon|yes}} 扮演 {{flag|Germany}}
-{{icon|time}} Start date is 1939.8.3
-| {{icon|yes}}Occupy all of Poland and France without taking more than 475 casualties.
-{{Collapse|{{icon|yes}} controls all cores of {{flag|Poland}} and {{flag|France}}, excluding cores that are islands or outside of Europe<br/>
-{{icon|yes}} casualties < 475<br/>
-{{icon|yes}} Does not have has_paradropped_flag set
+{{icon|time}} 游戏开局时间是 1939.8.3
+| {{icon|yes}} 在伤亡不超过475人的情况下占领波兰及法国全境。
+{{Collapse|{{icon|yes}} 占领 {{flag|Poland}} 和 {{flag|France}} 全部核心地区，不包括岛屿和欧洲外的核心地区。<br/>
+{{icon|yes}} 伤亡 < 475<br/>
+{{icon|yes}} 标志位 has_paradropped_flag 没有置位。
 }}
 | 
-* Make sure you don't bring your allies (Especially Italy, which will take your land unless you use all your war score on Poland and France)
-* Paradropping troops prevents this achievement.
+* 首先注意不要让盟友加入战争(尤其小心意大利，只要它取得战争分数就会分走法国和波兰的土地)。
+* 不能使用伞兵部队。
+* 在法国和波兰边境上布置军队，将轻坦Organize your troops on the frontiers with France and Poland, but divide one with all your light tanks. This army should be next to Danzig. Merge all your ships in one single army and place it in one of your ports at the west of Denmark with the order ''naval invasion support'' over the two regions between France and Germany. Prepare all your planes to attack on Poland.
 * Organize your troops on the frontiers with France and Poland, but divide one with all your light tanks. This army should be next to Danzig. Merge all your ships in one single army and place it in one of your ports at the west of Denmark with the order ''naval invasion support'' over the two regions between France and Germany. Prepare all your planes to attack on Poland.
 * Start the war. Don't invite your allies and <u>don't activate your battle plans</u>, except your light tanks army over Danzig.
 * After getting Danzig, move your light tanks to a port at the west of Denmark and make a naval invasion against France with ten of the eleven divisions. Send each one to a different coastal province of France, the ten nearest to Belgium. The naval invasion will be ready in seven days, and your navy with ''naval invasion support'' mission will be enough to get the naval superiority you need (anyway, support it from the air with fighters, CAS, bombers and so on with the order ''air superiority'', ''interception'' and ''naval strike'').
