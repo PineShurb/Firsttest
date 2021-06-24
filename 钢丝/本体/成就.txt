@@ -1167,7 +1167,7 @@ __TOC__
 | data-sort-value="9" | 1.9
 | {{DI|H}}
 |-
-| {{Iconbox|Don’t Die for Your Country|As Germany in a 1939 start, occupy all of Poland and France without taking more than 475 casualties.|extension=png}}
+| {{Iconbox|Don’t Die for Your Country|扮演德国，1939年开局，在伤亡不超过475人的情况下占领波兰和法国全境。|extension=png}}
 |{{icon|yes}} 扮演 {{flag|Germany}}
 {{icon|time}} 游戏开局时间是 1939.8.3
 | {{icon|yes}} 在伤亡不超过475人的情况下占领波兰及法国全境。
@@ -1178,24 +1178,23 @@ __TOC__
 | 
 * 首先注意不要让盟友加入战争(尤其小心意大利，只要它取得战争分数就会分走法国和波兰的土地)。
 * 不能使用伞兵部队。
-* 在法国和波兰边境上布置军队，将轻坦Organize your troops on the frontiers with France and Poland, but divide one with all your light tanks. This army should be next to Danzig. Merge all your ships in one single army and place it in one of your ports at the west of Denmark with the order ''naval invasion support'' over the two regions between France and Germany. Prepare all your planes to attack on Poland.
-* Organize your troops on the frontiers with France and Poland, but divide one with all your light tanks. This army should be next to Danzig. Merge all your ships in one single army and place it in one of your ports at the west of Denmark with the order ''naval invasion support'' over the two regions between France and Germany. Prepare all your planes to attack on Poland.
-* Start the war. Don't invite your allies and <u>don't activate your battle plans</u>, except your light tanks army over Danzig.
-* After getting Danzig, move your light tanks to a port at the west of Denmark and make a naval invasion against France with ten of the eleven divisions. Send each one to a different coastal province of France, the ten nearest to Belgium. The naval invasion will be ready in seven days, and your navy with ''naval invasion support'' mission will be enough to get the naval superiority you need (anyway, support it from the air with fighters, CAS, bombers and so on with the order ''air superiority'', ''interception'' and ''naval strike'').
-* When your tanks arrive France, change the planes order to support troops over their territory and move the tanks quick to the victory points (focusing Paris). Try to avoid direct confrontations with their troops if possible. France will surrend quick.
-* Repeat the naval invasion, in this case against UK. Don't forget to change the regions of the planes to help your troops. Once in UK, focus London and other victory points. Again, avoid direct fights with enemies if you can.
-* When UK and France have surrended and you have Danzig, the war will end. Take all the territory.
-* This strategy works most of times, but not all. Sometimes Poland attack you from other provinces and cause some thousands casualties, so you will have to repeat the game.
+* 在法国和波兰边境上布置军队，将轻坦单独编制成军。军队布置在靠近但泽的地区。将所有舰船编制成一支海军，停靠在丹麦西部的港口，设置在德法之间两片海域的''协助登陆作战''任务。准备对波兰的作战计划。
+* 开战。不要邀请盟友。<u>不要启动作战计划</u>，只派轻坦部队越过但泽。
+* 占领但泽后，将轻坦部队移动到丹麦西部的港口。使用11个师中的10个队法国发动海军入侵。每个师都对应一个不同的法国临海省份，这10个省份应该从紧邻比利时的地区依次相邻。海军入侵需要7天的准备时间，执行''协助登陆作战''任务的海军足以获取所需的制海权(但是仍要使用空军对其进行支援，分别对战斗机、支援机和轰炸机指派''空中支援''、''拦截''和''袭击舰艇''任务)。
+* 坦克登陆后，将飞机的任务修改为支援位于敌国的陆军。迅速将坦克开往胜利点，特别注意巴黎。如果可以做到，尽量避免与敌军发生正面冲突。法国会很快投降。
+* 用同样的方法对英国发动海军入侵。注意让空军支援陆地部队。登陆英国后，重点关注伦敦及其他胜利点。同样要避免与敌军正面作战。
+* 拥有但泽且英法都投降后，战争就会结束。拿走他们所有领土。
+* 这个策略一般都可以成功，但不能保证每次都会成功。有时波兰会从其他省份发动攻击，由此造成上千伤亡。因此可能要多试几次才行。
 |
 | data-sort-value="9" | 1.9
 | {{DI|H}}
 |-
-| {{Iconbox|Duce Nuked'em|Nuke Los Angeles as fascist Italy.}}
+| {{Iconbox|Duce Nuked'em|扮演法西斯意大利，对加利福尼亚州投放核弹。}}
 | {{icon|yes}} 扮演 {{flag|Italy}}
-| {{Plainlist|* {{icon|yes}} Country flag ''achievement_has_nuked_california'' is set
-* {{icon|fascism}} Is fascist }}
+| {{Plainlist|* {{icon|yes}} 标志位 ''achievement_has_nuked_california'' 置位
+* {{icon|fascism}} 是法西斯主义 }}
 |
-After securing the Mediterranean, it can easily be done with a small 1944 strategic bomber fleet (without any escort) by taking control of the following provinces : ''Gibraltar (118)'', ''Azores (698)'', ''Bermuda (696)''
+确保地中海的安全之后，先控制以下省份: ''直布罗陀 (118)'', ''亚速尔群岛 (698)'', ''百慕大 (696)''，然后派遣小型的1944年战略轰炸机编队(不需要护航)，就可以轻松完成。
 |
 | data-sort-value="0" | 1.0
 | {{DI|H}}
