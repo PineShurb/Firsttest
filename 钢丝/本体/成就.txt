@@ -589,9 +589,9 @@ __TOC__
 * {{flag|South Africa}}
 |2}}
 | 
-* 有 炮手就位{{icon|mtg}} DLC时:
+* 有 炮手就位 {{icon|mtg}} DLC时:
  '调整航线' 国策下的任何分支都会都会导致多米尼克与英国断交并脱离同盟国。
-* 没有 炮手就位{{icon|tfv}} DLC时:
+* 没有 共赴胜利 {{icon|tfv}} DLC时:
 **转向法西斯 - 这会使你的盟友离开阵营。
 **对下列国家之一制造宣称并开战: 加拿大/澳大利亚/新西兰/南非
 | 
@@ -1199,24 +1199,24 @@ __TOC__
 | data-sort-value="0" | 1.0
 | {{DI|H}}
 |-
-| {{Iconbox|Finnish Him!|As Finland, defeat the Soviet Union without joining a faction.|extension=png}}
+| {{Iconbox|Finnish Him!|扮演芬兰，在不加入任何阵营的情况下击败苏联。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Finland}}
-| {{icon|yes}} has capitulated the {{Flag|Soviet Union}} without joining a faction.
+| {{icon|yes}} 不加入阵营的情况下击败 {{Flag|Soviet Union}} 。
 {{Collapse|
-*Is at war with the {{flag|Soviet Union}}
-*Is not in a faction
-*Is not the AI
-*Controls Moscow (219)
-*Has more than 15% war score
+*与 {{flag|Soviet Union}} 交战
+*不在阵营之中
+*不是AI
+*控制 莫斯科 (219)
+*战争分数超过15%
 }}
-| In order to get the achievement, you need to have the highest war participation percentage when the USSR capitulates.
-With {{icon|tfv}} : 
-* Switch to fascist as fast as possible, declare war on the Netherlands and puppet the east indies to use their manpower. Prepare a defensive setup using the gaps between Finland's lakes to concentrate your forces and build lvl 5 forts. Around 2 armies of 10 infantry divisions with engineers support should be enough. Keep around 6-12 good divisions on your ports in case of naval invasion. 
-*When the Soviets declare, hold the defense until Germany attacks the USSR, then launch a counterattack. Once the Soviet Union falls and the peace conference triggers, just take Onega and Olonets (or any other region neigboring Finland), you can then satellite the constituents nations but DO NOT puppet the USSR itself. After the peace conference, pass a few hours, then release the USSR in Onega and Olonets as an independent nation (not a puppet), justify a war goal and attack them. They wont join the Allies since they're communist, so you'll get the achievement right after the peace deal.
+| 要取得该成就，需要在苏联投降时拥有最多的战争分数。
+拥有 共赴胜利 {{icon|tfv}} : 
+* 尽快变身法西斯，对荷兰宣战，傀儡东印度来使用它的人力。利用芬兰湖之间的缺口进行防御准备，将部队集中起来，修建5级堡垒。大约10个带工兵连的师就足够了。在港口布置6-12个精锐师团以防海军入侵。
+*苏联宣战后，坚守阵地。当德国发起进攻时，再进行反击。苏联投降后，在和平会谈中拿走奥涅加和奥洛涅茨(或其它与芬兰相邻的地区)。可以将苏联成员国变成卫星国，但是'''不要傀儡苏联'''。和平会谈结束后，过几个小时，然后在奥涅加和奥洛涅茨释放苏联为独立国家(不是傀儡)，然后正当化对其战争目标并宣战。因为它是共产主义，所以不会加入同盟国。在和平会谈后就可以取得成就。
 
-Without {{icon|tfv}} :  
-* Go Fascist as fast as you can and then declare war on Sweden and annex them in order to gain their manpower.  Prepare your defensive setup using the gaps between Finland's lakes to concentrate your forces and build lvl 5 forts. Around 2 armies of 10 infantry divisions with engineers support should be enough. Keep around 6-12 good divisions on your ports in case of naval invasion. 
-*When the soviets declare, hold the defense until Germany attacks the USSR, then launch a counterattack. Once the Soviet Union falls and the peace conference triggers, just take Onega and Olonets (or any other region neigboring Finland), you can then satellite the constituents nations but DO NOT puppet the USSR itself. After the peace conference, pass a few hours, then release the USSR in Onega and Olonets as an independent nation (not a puppet), justify a war goal and attack them. They wont join the Allies since they're communist, so you'll get the achievement right after the peace deal.
+没有 共赴胜利 {{icon|tfv}} :  
+* 尽快变身法西斯，对瑞士宣战并吞并它，以获取其人力。利用芬兰湖之间的缺口进行防御准备，将部队集中起来，修建5级堡垒。大约10个带工兵连的师就足够了。在港口布置6-12个精锐师团以防海军入侵。
+*苏联宣战后，坚守阵地。当德国发起进攻时，再进行反击。苏联投降后，在和平会谈中拿走奥涅加和奥洛涅茨(或其它与芬兰相邻的地区)。可以将苏联成员国变成卫星国，但是'''不要傀儡苏联'''。和平会谈结束后，过几个小时，然后在奥涅加和奥洛涅茨释放苏联为独立国家(不是傀儡)，然后正当化对其战争目标并宣战。因为它是共产主义，所以不会加入同盟国。在和平会谈后就可以取得成就。
 | 
 | data-sort-value="10" | 1.10
 | {{DI|H}}
