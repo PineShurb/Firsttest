@@ -1221,38 +1221,38 @@ __TOC__
 | data-sort-value="10" | 1.10
 | {{DI|H}}
 |-
-| {{Iconbox|Georgia On My Mind|As the U.S.A., own and fully control all three Georgias.|extension=png}}
+| {{Iconbox|Georgia On My Mind|扮演美国，同时控制三个Georgia(格鲁吉亚、南乔治亚岛、乔治亚)。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|United States}}
-| {{icon|yes}} Owns and fully controls the states of:
-*Georgia (365)
-*Georgia (231)
-*South Georgia (720)
+| {{icon|yes}} 完全控制以下三个地区:
+*乔治亚 (365)
+*格鲁吉亚 (231)
+*南乔治亚岛 (720)
 |
-The USA starts with the first Georgia, while the other two; Georgia and South Georgia, are owned by the Soviet Union and United Kingdom. 
-* Because of this, collaborating with the Axis is the simplest route to achieving this. Help the axis capitulate the allies and Comintern, and grab South Georgia (an island off the coast of Argentina) from the British, and Georgia (a Soviet state in the Caucasus region) from the USSR. ''Reaffirm Monroe Doctrine'' focus unlocks a decision to ask the UK for, notably, South Georgia.
-* An alternative strategy is to turn communist, complete the national focus "Unholy Alliance", join the Comintern. This will cause a decision named "Join the Unions" to appear, which can only be taken once the Soviet Union is at 80% surrender progress and will make the US annex the Soviet Union. When the "USS Panay sunk" event fires, take the option to start a war with Japan and defeat them to get them out of the way. When Germany attacks the Soviet Union, do not join the war and wait until Germany forces the Soviet Union to 80% surrender progress, then take the decision, thus earning you the second Georgia. After that, use your industrial capacity to build up a military, conquer Germany and the Axis and finally, start a war with the Allies ({{flag|United Kingdom}} and {{flag|France}}), defeat them and annex everything, including South Georgia.
+游戏开局时，美国已经控制了乔治亚地区。格鲁吉亚和南乔治亚岛分别被苏联和英国控制。
+* 因此，获取该成就最简单的方法就是加入轴心阵营。帮助轴心击败同盟国和共产国际，从英国那里获取南乔治亚岛(阿根廷海岸的一座小岛)，从苏联手中夺取格鲁吉亚(位于高加索的苏联地区)。国策''重申门罗主义''解锁向英国索取的决议，其中包括索要南乔治亚岛。
+* 另一种思路是转向共产主义，完成国策 "邪恶同盟"，加入共产国际。此时会出现决议"加入联盟"。这个决议只有在苏联投降倾向大于80%时才可以使用，效果是让美国吞并苏联。当"帕奈号"事件发生时，向日本开战，击败它们，将他们驱逐出去。苏德开战时，不要加入战争，坐等苏联投降倾向大于80%。然后进行决议，获得格鲁吉亚。此时就可以利用强大的工业能力建设一支大军，征服德国和轴心国，之后是同盟国。击败 ({{flag|United Kingdom}} 和 {{flag|France}}) 之后将其吞并，此时可以获得南乔治亚岛。
 | 
 | data-sort-value="6" | 1.6
 | {{DI|H}}
 |-
-| {{Iconbox|Hail to the Qing|As Manchukuo, restore the Qing dynasty.|extension=png|link=on}}
+| {{Iconbox|Hail to the Qing|扮演满洲国，重建大清。|extension=png|link=on}}
 | {{icon|yes}} 扮演 {{flag|Manchukuo}}
-| {{icon|yes}} Has completed focus '''[[Manchu_national_focus_tree#Claim_the_Mandate_of_Heaven|Claim the Mandate of Heaven]]'''
+| {{icon|yes}} 完成国策 '''[[Manchu_national_focus_tree#Claim_the_Mandate_of_Heaven|天命攸归]]'''
 |
-In order to complete the national focus "Claim the Mandate of Heaven", you must be independent and own all of the starting territory of {{flag|China}}, {{flag|Shanxi}}, {{flag|Xibei San Ma}}, {{flag|Yunnan}}, {{flag|Guangxi Clique}}, {{flag|Communist China}} and {{flag|Sinkiang}}.
-May be done in conjunction with the [[#The_Dragon_Swallowed_the_Sun|The Dragon Swallowed the Sun]] and the [[#The_Good,_the_Bad_and_the_Weird|The Good, the Bad and the Weird]] achievements.<br/> 
-requires the [[Manchu_national_focus_tree#Assertiveness|Assertiveness]] Sub-branch of the focus tree
+只有在独立且拥有以下势力的起始地区时才能进行国策"天命攸归"：{{flag|China}}, {{flag|Shanxi}}, {{flag|Xibei San Ma}}, {{flag|Yunnan}}, {{flag|Guangxi Clique}}, {{flag|Communist China}} 和 {{flag|Sinkiang}}.
+推荐与 [[#The_Dragon_Swallowed_the_Sun|The Dragon Swallowed the Sun]] 、 [[#The_Good,_the_Bad_and_the_Weird|The Good, the Bad and the Weird]] 两个成就一起完成<br/> 
+需要 [[Manchu_national_focus_tree#Assertiveness|自立]] 分支的子国策树。
 | {{icon|wtt}}
 | data-sort-value="5" | 1.5
 | {{DI|H}}
 |-
-| {{Iconbox|I Swear I'm Not a Byzantophile|As Greece, Form Byzantine Empire.|extension=png|link=on}}
+| {{Iconbox|I Swear I'm Not a Byzantophile|扮演希腊，组建拜占庭帝国|extension=png|link=on}}
 | {{icon|yes}} 扮演 {{flag|希腊王国}}
-|{{icon|yes}} Formed the {{flag|Byzantine Empire}}
+|{{icon|yes}} 组建 {{flag|Byzantine Empire}}
 |
-Only requires the [[Formable_nations#Restore_Byzantium|Restore Byzantium]] decision, which can be taken by conquering all of {{flag|Turkey}} and the entire Balkans ({{flag|Albania}}, {{flag|Bulgaria}}, {{flag|Yugoslavia}}, {{flag|Romania}} and {{flag|Hungary}}). With {{icon|bftb}}, This can be done by simply conquering {{flag|Turkey}} and following the far left side of the tree and becoming fascist. A decision should be available after the war is complete.
+征服 {{flag|Turkey}} 和巴尔干地区的 ({{flag|Albania}}, {{flag|Bulgaria}}, {{flag|Yugoslavia}}, {{flag|Romania}} 及 {{flag|Hungary}}) 之后，完成决议：[[Formable_nations#Restore_Byzantium|重建拜占庭帝国]]，即可。拥有 博斯普鲁斯之战 {{icon|bftb}} DLC时，只需征服 {{flag|Turkey}} 并进行最左端的国策树，转变为法西斯即可。在战争结束后应该会出现一个决议。
 
-The easiest way to defeat Turkey is a battle of endurance. Station your 13 divisions on the single province connecting Greece and Turkey on the Greek side of the Bosphorus, and let your forces defend (consider giving them Maintenance companies to make up for the equipment deficit) while having your starting navy on strike force to stop Turkish or Romanian naval invasions. If the Turks refuse to attack, pull away the majority of your forces, and then send them back when they start to attack what was left behind. After doing this 3 times or so, send 9 of your soldiers to Istanbul, cutting off the Turkish forces from supplies. Use your forces to mop up the Turkish forces trapped in the Bosphorus, then have them retreat back to the starting border. Repeat until the Turks have little manpower left in the field, then push forward and capitulate them.
+与土耳其进行消耗战是击败它们最简单的方法。在连接希腊和土耳其的博斯普鲁斯海峡中希腊一侧省份中布置13个师，让它们进行防御(可以编制维修连以弥补装备不足)。为开局海军设置袭击命令，防止土耳其和罗马尼亚的海军入侵。如果土耳其军队没有发动攻击，将陆军主力移走，当敌军攻击剩余部队时再将部队送回。如此进行3次左右之后，将9个师派往伊斯坦布尔，切断土耳其人的补给。解决掉被困在陷阱之中的土耳其军队，然后将部队放回起始边界，重复上述过程直到土耳其人力耗尽。然后就可以直冲向前征服它们。
 | {{icon|wtt}}
 | data-sort-value="5" | 1.5
 | {{DI|H}}
