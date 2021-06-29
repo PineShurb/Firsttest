@@ -1257,57 +1257,57 @@ __TOC__
 | data-sort-value="5" | 1.5
 | {{DI|H}}
 |-
-| {{Iconbox|It's 1812 All Over Again|As Canada, take and hold Washington D.C.|extension=png}}
+| {{Iconbox|It's 1812 All Over Again|扮演加拿大，夺取并控制华盛顿特区|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Canada}}
-| {{icon|yes}} Control the state of Maryland (361)
-| This suggestion requires {{icon|tfv}} DLC.
-Pick Patriation and Swastika Clubs as your first focuses. Go for Synarchist Baja when you switch, get Mexico in your faction and attack the United States on the East Coast. The United Kingdom will be too busy in Europe to do much against you, so it is possible to declare war on the UK first to unlock War Bonds and get some of your powerful industrial focuses before invading the US.
+| {{icon|yes}} 控制地区： 马里兰 (361)
+| 以下建议需要 共赴胜利 {{icon|tfv}} DLC.
+首先进行''归国''和''卐字社''两个国策。支持共治联盟党，邀请墨西哥加入阵营，让它们攻击美国东海岸。英国忙于欧洲战事，无暇顾及加拿大这点可以利用。对英国宣战，解锁战争债卷，完成一些重要的工业国策，随后再入侵美国。
 |
 | data-sort-value="3" | 1.3
 | {{DI|H}}
 |-
-| {{Iconbox|Med plutonium...|Nuke Denmark as Sweden.}}
+| {{Iconbox|Med plutonium...|扮演瑞典，核平丹麦。}}
 | {{icon|yes}} 扮演 {{flag|Sweden}}
-| {{icon|yes}} Is {{flag|Sweden}}
-* Country flag ''achievement_med_plutonium'' is set
-| {{Plainlist|* The nuked state must be both owned by and a core of Denmark.
-* The Faroe Islands (and Iceland, and Greenland) are Danish cores, and within the air range of Sweden, so there is no need to prevent Germany from invading mainland Denmark. }}
+| {{icon|yes}} 是 {{flag|Sweden}}
+* 国家标志位 ''achievement_med_plutonium'' 置位
+| {{Plainlist|* 被核弹攻击的地区必须是丹麦的核心地区且被丹麦拥有。
+* 法罗群岛（以及冰岛和格陵兰岛）是丹麦的核心领土，它们都在瑞典空域范围之内。因此无需担心德国入侵丹麦本土。 }}
 |
 | data-sort-value="0" | 1.0
 | {{DI|H}}
 |-
-| {{Iconbox|Neither Death nor Dishonor|As Romania, make it to 1942 with all the states you started it with and control either Moscow or Berlin.|extension=png|link=on}}
+| {{Iconbox|Neither Death nor Dishonor|扮演罗马尼亚，在1942年拥有所有开局领土并控制莫斯科或柏林。|extension=png|link=on}}
 | {{icon|yes}} 扮演 {{flag|Romania}}
-| {{Plainlist|* {{icon|time}} Date is > 1941.12.31
-* {{icon|yes}} Has ''not'' lost any of the starting states at any point
-* {{icon|yes}} Control ''either'' state: }}
-** Brandenburg (64)
-** Moscow (219)
-| The main goal is defending your original states until 1941.12.31. The achievement can be done controlling Moscow or Berlin after that date. If you lose a starting state you won´t qualify for the achievement even if you recover it back later.
+| {{Plainlist|* {{icon|time}} 日期晚于 1941.12.31
+* {{icon|yes}} 任何时候都''没有''失去任何地区。
+* {{icon|yes}} 控制以下地区 ''之一'' : }}
+** 勃兰登堡 (64)
+** 莫斯科 (219)
+| 最重要的任务是在1941年12月31日前防御开局领土。超过日期之后再获得莫斯科或柏林也可以取得成就。但丢失过一个地区之后，不论是否将其收复，都无法再获得该成就。
 |
 | data-sort-value="4" | 1.4
 | {{DI|H}}
 |-
-| {{Iconbox|New World Order|Make all nations fascist.}}
+| {{Iconbox|New World Order|将所有国家都变为法西斯}}
 |
-| {{icon|fascism}} All existing nations are fascist
-| {{Plainlist|* Puppets may only change ideology via 'Paramilitary Training' Decisions or war.
-* Neutral nations forced into your faction might create neutral puppets.
-* Avoid accepting anyone into your faction who is not fascist, as you can't go to war with them later to change their ideology.
-* You can also alternatively start as a nation that has no puppets, turn fascist and just conquer and annex every other nation present. {{icon|wtt}}{{flag|Manchukuo}} is the best candidate in this case due to them being fascist and having the ability to gain cores on all of China, giving an extreme amount of manpower}}. 
+| {{icon|fascism}} 所有尚存国家都是法西斯主义
+| {{Plainlist|* 傀儡只能通过战争和决议''准军事训练''来改变意识形态。
+* 阵营中的中立意识形态的国家可能创造中立意识形态的傀儡。
+* 避免接受非法西斯意识形态的国家加入阵营。因为这会导致日后无法通过战争改变它们的意识形态。
+* 可以选择一个没有傀儡的国家开始游戏，随后转向法西斯并征服所有其它国家。 {{icon|wtt}}{{flag|Manchukuo}} 是最适合进行这项计划的国家。它本身就是法西斯，可以取得中国所有地区的核心，并由此获得海量的人力}}。
 |
 | data-sort-value="0" | 1.0
 | {{DI|H}}
 |-
-| {{Iconbox|One Empire|Unite the entire world under the British Empire.}}
+| {{Iconbox|One Empire|将整个世界统一在大英帝国之下。}}
 | {{icon|yes}} 扮演 {{flag|United Kingdom}}
-| {{Plainlist|* {{icon|yes}} Is a faction leader
-* {{icon|yes}} Every state in the world is controlled by ''either'': }}
+| {{Plainlist|* {{icon|yes}} 是阵营领袖
+* {{icon|yes}} 世界上的每个地区都被以下国家 ''之一'' 控制: }}
 ** {{flag|United Kingdom}}
-** A puppet of {{flag|United Kingdom}}
-** A nation in a faction with {{flag|United Kingdom}}
-| The straightforward, but boring and slow, approach is to defeat the Axis, then go to war with the Comintern and defeat them (note that the PRC will declare war on China one year after the end of the war with Japan, so you can use the focus to get China democratic and add them to the Allies before that war starts) - this should add lots of countries to the Allies, and then trigger coups everywhere you can. Once there's been a civil war, the winner has created world tension and you can justify against them.  It takes a very long time, and, once you've won WWII, it's obviously going to work eventually, so it's very boring.
-Successfully forming the Imperial Federation with the United States as part of it, can make this a lot easier, as you gain a lot more manpower, resources and industry.
+** {{flag|United Kingdom}} 的傀儡
+** {{flag|United Kingdom}} 所在阵营内的国家
+| 最直接也最无聊的方法是先后与轴心国和共产国际开战并将他们击败。要注意，PRC会在中日战争结束一年后向中国宣战。你可以利用国策使中国民主化，并使其在战争开始前加入同盟国。经过以上步骤之后，同盟国应该增加了不少成员。现在开始在所有可及的地方煽动内战。一旦内战打响，世界紧张度就会上升，此时对这些国家正当化战争目标。这一过程非常耗时且无聊，尤其是你已经赢得了二战。
+成功组建包含美国在内的帝国联邦后，获取成就会简单得多。因为此时有更多的人力、资源和更强大的工业能力。
 |
 | data-sort-value="0" | 1.0
 | {{DI|H}}
