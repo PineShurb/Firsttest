@@ -1312,54 +1312,54 @@ __TOC__
 | data-sort-value="0" | 1.0
 | {{DI|H}}
 |-
-| {{Iconbox|Operation Sea Lion|Control British mainland as Germany.}}
+|{{Iconbox|Operation Sea Lion|作为德国，控制英国本土}}
 | {{icon|yes}} 扮演 {{flag|Germany}}
-| {{icon|yes}} Control the states: {{Collapse| {{MultiColumn|
-* Scottish Highlands (120)
-* Lothian (121)
-* Wales (122)
-* Cornwall (123)
-* East Anglia (125)
-* Greater London Area (126)
-* Sussex (127)
-* West Midlands (128)
-* East Midlands (129)
-* Yorkshire (130)
-* Northern England (131)
-* Lancashire (132)
-* Lanark (133)
-* Aberdeenshire (136)
-* Gloucestershire (338)
+| {{icon|yes}} 控制以下地区： {{Collapse| {{MultiColumn|
+* 苏格兰高地 (120)
+* 洛锡安 (121)
+* 威尔士 (122)
+* 康沃尔 (123)
+* 东安格利亚 (125)
+* 大伦敦 (126)
+* 苏塞克斯 (127)
+* 西米德兰兹 (128)
+* 东米德兰兹 (129)
+* 约克郡 (130)
+* 北英格兰 (131)
+* 兰开夏郡 (132)
+* 拉纳克 (133)
+* 阿伯丁郡 (136)
+* 格洛斯特郡 (338)
 |2}} }}
 |
-*Immediately justify on The United Kingdom.
-*Prepare two Naval Invasions to Hull and Edinburgh.
-*Put two death stacks in the North Sea and the Eastern North Sea.
-*Micromanage your army into London and annex the UK in the Peace Conference
-This achievement can also be done along with True Blitzkrieg achievement.
+*立刻对英国正当化战争目标。
+*准备对赫尔和爱丁堡的海军入侵计划。
+*将潜艇分为两队，分别控制北海和北海东部。
+*将军队派往伦敦，在和平会谈中吞并英国。
+本成就可以与另一成就：True Blitzkrieg 一起完成。
 |
 | data-sort-value="0" | 1.0
 | {{DI|H}}
 |-
-| {{Iconbox|Party like it's 1520|Occupy Stockholm as communist Denmark.}}
+|{{Iconbox|Party like it's 1520|扮演共产主义丹麦，占领斯德哥尔摩}}
 | {{icon|yes}} 扮演 {{flag|Denmark}}
-| {{Plainlist|* {{icon|communism}} Is communist
-* {{icon|yes}} Control the state Svealand (141) }}
-| At the start of the game, get both a fascist and communist demagogue and switch to fascism via civil war. This will allow you to quickly get manpower bonuses from the fascist political tree as well as joining the Axis to avoid a German attack, while communist support builds up for later (remove fascist demagogue after civil war but ensure communist support stays below 60% to avoid another civil war). 
-Build up your army to about 15 infantry to naval invade southern Sweden (produce cheap submarines to ensure naval supremacy) and create some cavalry divisions for defending naval invasions and the Swedish border, which can also be built up with forts. 
-Declare war on Sweden after your communist support reaches 50%, then call in your allies and switch to communism. With German support, capitulating Sweden should be straightforward and they will likely attack through your border rather than navally invading allowing for you to occupy all the land including Stockholm.
+| {{Plainlist|* {{icon|communism}} 是共产主义
+* {{icon|yes}} 控制地区： 斯韦阿兰 (141) }}
+| 游戏开始后，同时雇佣法西斯煽动家和共产主义革命家，通过内战变为法西斯主义。这使得你可以很快从法西斯主义政治线得到人力加成，这时加入轴心阵营还可以避免被德国攻击。这期间积攒一些共产主义支持度以待后用。内战后解雇法西斯煽动家，保证共产主义支持度不超过60%，以免爆发新一场内战。
+准备15个步兵师以海军入侵瑞典南部(生产高性价比的潜艇夺取制海权)。组建一些骑兵师防御敌人的海军入侵，守护与瑞典的边界。边界上可以建设堡垒。
+共产主义支持度达到50%后向瑞典宣战，然后呼叫盟友并转为共产主义。在德国的帮助下，瑞典应该不会抵抗太久。相对于海军入侵，瑞典更有可以进攻你们的边境，这使得你可以占领包括斯德哥尔摩在内的所有领土。
 
-Alternatively, you can also do this without joining any faction. Just turn either fascist or communist. Doesn't really matter which one. After that frabricate your wargoal against Sweden and put a few divisions on a naval order for the Svealand provence. You (only) need Stockholm for the achievement. Sweden should have put most of their divisions on your border, but only rarely do they put any in stockholm. Once the war starts you should have naval supremacy for a few hours. Enough for your invasions to be able to be launched. Even if Sweden intercepts one divisions, they never will be able to get them all. So once you land either directly in Stockholm or land near it and then take it, the achievement pops up.
+在另一种方法中，你可以不加入任何阵营。转变为法西斯或共产主义的任意一种。变身之后，制造对瑞典的战争目标，准备几个师对斯韦阿兰的省份进行海军入侵准备。只需要斯德哥尔摩就可以完成成就。瑞典应该会将主力放在边境上，很少在斯德哥尔摩布置军队。开战之时，你应该能有几个小时制海权。这足够你发动海军入侵了。即使瑞典拦截了一个师，也不可能拦截所有师。你的部队要么登陆斯德哥尔摩，要么登陆在附近，然后迅速冲向该地。占领斯德哥尔摩后，就会取得本成就。
 |
 | data-sort-value="0" | 1.0
 | {{DI|H}}
 |-
-| {{Iconbox|Putting the Raid on the Medway to Shame|As the Netherlands, ensure the United Kingdom has no capital ships (carriers, battleships, battlecruisers, or heavy cruisers).|extension=png}}
+| {{Iconbox|Putting the Raid on the Medway to Shame|扮演荷兰，确保英国没有主力舰艇(航空母舰, 战列舰, 战列巡洋舰, 和 重巡洋舰).|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Netherlands}}
-| {{icon|yes}} The {{flag|United Kingdom}} has at most 0 capital ships
-| With {{icon|mtg}} DLC:
-Cave to the German, join the Axis and take your naval focuses. Build warships and planes, use naval bombers to sink the British fleet once you have gained air superiority. Some capital ships might escape to Malta, East Africa or the Caribbean, use carriers with naval bombers on Port Strike to find and sink them.
-The achievement will also trigger if the United Kingdom has been fully annexed and no longer exists so it is possible to also just stage a naval invasion and finish off the UK that way.
+| {{icon|yes}}  {{flag|United Kingdom}} 拥有0艘主力舰艇
+| 拥有 炮手就位 {{icon|mtg}} DLC:
+一面倒的倾向德国，加入轴心阵营，进行海军国策。建设空军与海军。一旦获得空优，使用海轰击沉英国舰队。有些主力舰艇可能会逃到马耳他、东非或加勒比海。使用航母和海轰进行港口袭击以寻找并击沉这些舰队。
+当英国被吞并且不再存在之后，也可以触发获得该成就。所以也可以直接对英国发动海军入侵以达成上述状态。
 | 
 | data-sort-value="6" | 1.6
 | {{DI|H}}
