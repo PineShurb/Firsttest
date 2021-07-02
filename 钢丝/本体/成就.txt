@@ -1364,43 +1364,45 @@ __TOC__
 | data-sort-value="6" | 1.6
 | {{DI|H}}
 |-
-| {{Iconbox|Sunrise Invasion|As Japan, conquer Mexico then Europe before 1945.|extension=png|link=on}}
+| {{Iconbox|Sunrise Invasion|扮演日本,在1945年前先后征服墨西哥与欧洲。|extension=png|link=on}}
 | {{icon|yes}} 扮演 {{flag|Japan}}
-|{{icon|yes}} Before 1:00 1 Jan, 1945
-{{icon|yes}} Annexed {{flag|Mexico}} before taking any territory in Europe<br/>
-{{icon|yes}} Conquered a coastal state in Europe
+|{{icon|yes}} 在1945年1月1日1:00前
+{{icon|yes}} 吞并 {{flag|Mexico}} 前不占领任何欧洲领土<br/>
+{{icon|yes}} 征服一个位于欧洲的沿海国家
 |
-*Ignore China and earn enough Political Power to justify war goal on Mexico for generating lesser World Tension, then declare war as early as possible. Being at war with the USA is unnecessary but unavoidable as they have guaranteed Mexico, but they are relatively easy to take down early game and the conquest will supercharge your industry.
-*Prepare your navy and your marines to the closest islands owned (Marshall Islands) to naval invade Hawaii then to West Coast America, the final ocean province outside of California can be reached by seperating your three 4000km range light carriers (Hosho, Akagi and Kaga). Primarily in California for the Lv10 Naval Base. USA, Mexico and the Philippines can be annexed in 1938.
-*Once the USA and Mexico have been annexed, dismantle your faction and join the Axis to fight off the Allies.
-It can be done before WW2 1939.
-Tojo Shot First achievement can be done after this achievement.
+*忽视中国。获取足够的政治点后对墨西哥正当化战争目标。尽快对墨西哥宣战。美国保独墨西哥，所以与美国之间的这场战争不可避免，虽然本不需要这场战争。当然，在游戏早期更容易击败美国，击败它也可以极大的加强工业能力。
+*将舰队与海军陆战队派往马绍尔群岛，准备对夏威夷的海军入侵计划。然后攻向美国西海岸。位于加利福尼亚旁边的海域距离最远，要夺取这里的制海权，要将日本的三艘4000km航程轻型航母分离并派往这里。夺取加利福尼亚后的首要任务是建立10级海军基地。可以在1938年前吞并美国、墨西哥和菲律宾。
+*吞并美国和墨西哥后，解散阵营，加入轴心国，对抗同盟国。
+以上步骤都可在1939年二战爆发前完成。
+本成就完成后，可以去获取成就： Tojo Shot First 。
 
-Alternatively,
-*Ignore China, justify on Netherlands, ask Germany for Military Access and Naval invade from german Coast into western coast of Netherlands. Use Cavalry/Tanks to quickly capitulate. Do not call in Germany. Use long range carrier to reach German coast, then merge rest of fleet to ignore range modifier. 
-*Annex Curacao, satellite Dutch East Indies and the puppet remainder of Netherlands. This prevents you from "taking territory." Justify on Mexico and build up naval base in Curacao. 
-*Invade USA through the South, ignore Mexico for the time being. Capitulate the USA, and depending on other achievement tasks, either puppet or annex, then finish off Mexico. Lend-lease to Netherlands until you can annex them. 
+另一种策略，
+*忽视中国。对荷兰正当化战争目标，向德国请求军事通行权，从德国海岸向荷兰发动海军入侵。使用骑兵与坦克快速征服荷兰。不要邀请德国加入战争。使用远程航母到达德国海岸，然后合并剩余舰队以避免距离修正。
+*吞并库拉索、荷属东印度和荷兰的其他傀儡。你的这一行为不算做吞并领土。正当化对墨西哥战争，在库拉索建设海军基地。
+*从南面入侵美国，先忽视墨西哥。击败美国，根据其他成就的需求，傀儡或吞并美国。然后击败墨西哥。将武器租界给荷兰，直到能吞并他们。
 
 | 
 | data-sort-value="5" | 1.5
 | {{DI|H}}
 |-
-| {{Iconbox|Sunset Invasion|Occupy a coastal province in Europe as Mexico, and if in a faction have it contain only South American members or puppets.}}
+| {{Iconbox|Sunset Invasion|扮演墨西哥，占领一个欧洲沿海省份。如果位于阵营之中，该阵营只能包含南美洲国家或傀儡。}}
 | {{icon|yes}} 扮演 {{flag|Mexico}}
-| {{Plainlist|* {{icon|yes}} Country flag ''achievement_failed_sunset_invasion'' is not set
-* {{icon|yes}} Control any coastal state on the European continent }}
+| {{Plainlist|* {{icon|yes}} 国家标志位''achievement_failed_sunset_invasion'' 没有置位
+* {{icon|yes}} 控制欧洲大陆上任何沿海地区 }}
 |
-* You only need to occupy a province, and don't need to take it in a peace treaty or capitulation like some other achievements. However, it must have a naval port. One route is to turn fascist. Rush into Submarines III. Start justifying on Denmark as soon as Mexico become fascist. Build ~10 submarines and when justification will end, declare war. Capture a port in Greenland and then invade Iceland. Achievement will pop after landing in Iceland. Another good option is to join Allies then paradrop from Sardegna into Sicily and occupy Palermo.
+* 只需要占领一个省就可以了，甚至不需要其他成就所要求的击败敌国或进入和平会谈。但是占领的地区必须要有一个港口。
+推荐的方式是转向法西斯。研究"潜艇 III型"科技。墨西哥转变为法西斯后就立刻对丹麦正当化战争目标。造十几个甚至更多潜艇，正当化完成后立刻宣战。在格陵兰岛上抢占一座港口，然后入侵冰岛。登陆冰岛之后就可以获得成就。
+另一个选择是加入同盟国，然后从撒丁岛空降到西西里岛，占领巴勒莫。
 |
 | data-sort-value="0" | 1.0
 | {{DI|H}}
 |-
-| {{Iconbox|The New Home of the Revolution|As Mexico, put Trotsky in power and puppet the Soviet Union|extension=png}}
+| {{Iconbox|The New Home of the Revolution|扮演墨西哥，让托洛茨基上台，傀儡苏联|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Mexico}}
-| {{icon|yes}} Leon Trotsky is the current country leader
-{{icon|yes}} The {{flag|Soviet Union}} is a subject of {{flag|Mexico}}
+| {{icon|yes}} 当前领导人是列夫·托洛茨基
+{{icon|yes}} {{flag|Soviet Union}} 是 {{flag|Mexico}} 的傀儡。
 |
-When the Trotsky seeks refuge event pops up, choose to invite him into the government. Follow the right most side of focus tree to become communist and put Trotsky in charge. Wait for Germany to start the war against the Soviet Union and finish the ''Smash the Bureaucrats'' focus which gives a puppet war goal against the Soviets. Declare war on the Soviets. To gain warscore against them, ask Germany for military access and put your troops on their front line. Alternatively, try to naval invade Soviet's far east front and capture a few victory point provinces. In patch 1.6.0, German is very likely crush the Soviets without trouble in one or two years. During the peace conference, the Fascists will focusing on grabbing land, so it is possible to puppet the Soviet Union.
+当出现列夫·托洛茨基寻求庇护的事件时，选择邀请他加入政府。执行最右侧的国策树，转变为共产主义，让托洛茨基上台。一直等到苏德开战，完成国策：''碾碎官僚''来获取对苏联的战争目标。向苏联开战。为了取得对抗苏联的战争贡献度，向德国请求军事通行权，然后将部队派往他们战争的前线。此外，尝试对苏联的远东地区进行海军入侵，占领一些胜利点。在1.6.0版本中，德国很容易在一两年内击溃苏联。在和平会谈期间，法西斯专注于获取土地，你有很大的机会傀儡苏联。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|H}}
