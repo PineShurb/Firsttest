@@ -1407,17 +1407,17 @@ __TOC__
 | data-sort-value="6" | 1.6
 | {{DI|H}}
 |-
-| {{Iconbox|The Revenge of Montezuma|Restore the old borders with the USA as Mexico.}}
+| {{Iconbox|The Revenge of Montezuma|扮演墨西哥，恢复与美国之间的旧边境线。}}
 | {{icon|yes}} 扮演 {{flag|Mexico}}
-| {{icon|yes}} Control the states: {{MultiColumn|
-* Texas (375)
-* New Mexico (376)
-* Arizona (377)
-* California (378)
-* Nevada (379)
-* Utah (380)
+| {{icon|yes}} 控制以下地区: {{MultiColumn|
+* 德克萨斯 (375)
+* 新墨西哥 (376)
+* 亚利桑那 (377)
+* 加利福尼亚 (378)
+* 内华达 (379)
+* 犹他 (380)
 |2}}
-|Rush Fascist and justify a war goal on the Philippines, if you try to justify on a major country like the United States world tension will skyrocket but because the Philippines is a puppet the US will automatically join when you declare war upon them, with far less world tension generated. With this, you should have no problem overrunning the country with either infantry or cavalry. Try to poke holes in the US line as they will have a tough time manning a long border and encircle their troops. They will have no way to grow their military until they remove isolation so it should be trivial to win this way.
+|转变为法西斯，对菲律宾正当化战争目标。对美国这样的大国正当化战争目标会使全球紧张度大幅上升。但是可以利用被美国傀儡的菲律宾来与美国开战，以增加过多全球紧张度。在美国摆脱孤立主义之前，很难组建起大规模的军队，而这使得它无法守卫自己漫长的边界。所以你要组建骑兵与步兵师，穿插进敌人的防线，将它们分割包围，最终战胜美国。
 |
 | data-sort-value="0" | 1.0
 | {{DI|H}}
