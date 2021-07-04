@@ -1422,25 +1422,25 @@ __TOC__
 | data-sort-value="0" | 1.0
 | {{DI|H}}
 |-
-| {{Iconbox|The Dragon Swallowed the Sun|As Manchukuo, Break free from Japan and annex your former Overlord without being in a faction.|extension=png|link=on}}
+| {{Iconbox|The Dragon Swallowed the Sun|扮演满洲国，在不加入任何阵营前提下，独立并吞并日本|extension=png|link=on}}
 | {{icon|yes}} 扮演 {{flag|Manchukuo}}
-| {{icon|yes}} Annexed {{flag|Japan}}
+| {{icon|yes}} 吞并 {{flag|Japan}}
 |
-May be done in conjunction with the [[#Hail_to_the_Qing|Hail to the Qing]] and the [[#The_Good,_the_Bad_and_the_Weird|The Good, the Bad and the Weird]] achievements.<br/> 
-requires the [[Manchu_national_focus_tree#Assertiveness|Assertiveness]] Sub-branch of the focus tree
+可以与成就：[[#Hail_to_the_Qing|Hail to the Qing]] 和 [[#The_Good,_the_Bad_and_the_Weird|The Good, the Bad and the Weird]] 一起完成<br/> 
+需要完成国策树分支：[[Manchu_national_focus_tree#Assertiveness|自立]]。
 | {{icon|wtt}}
 | data-sort-value="5" | 1.5
 | {{DI|H}}
 |-
-| {{Iconbox|Treading the Narrow Path|As the Netherlands, do not cave to the Germans, continue the Zuiderzee works, and do not lose control of any of your continental European states until 1945.|extension=png}}
+| {{Iconbox|Treading the Narrow Path|扮演荷兰，不向德国屈服，继续须德海工程，1945年前不失去任何在欧洲大陆上的地区。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Netherlands}}
-| {{icon|no}} Has not completed focus ''Cave to the Germans''<br/>
-{{icon|yes}} Has completed focus ''Continue the Zuiderzee Works''<br/>
-{{icon|no}} The {{flag|Netherlands}} has not lost one of its starting states<br/>
-{{icon|time}} Date is > 1945.1.1
-| Can be done quite easily. Start the game with historical AI and follow the focus tree down the communist route. As soon as you are faced with the choice between "Affirm Loyalty to Moscow" and "Bastion of the True Communism" focus choose the 2nd one. After that take the focuses "Enemies on All Fronts" and "Pre-Empt Western Intervention." This focus gives wargoals for the UK, France and the USA. The perfect timing for this (the Pre-Empt Western Intervention focus) is when Germany goes for the Danzig or War focus. Improve your relations with Germany. Once Germany has declared war on Poland and Poland has joined the Allies declare your wars on France and the UK and soon after Germany will invite you in to the Axis. Now you are safe from Germany. Complete the "Continue the Zuiderzee Works" focus, defend your coastline and your provinces/states. The Allies usually naval invades the part of the Germany that borders the North Sea and that is your backyard. And for this achievement you are never allowed to lose control of any of your states. While waiting out the time till 1945 you can play pure defense or just help Germany conquer Western-Europe (play it correctly and you can get all of Belgium and Luxembourg and Repudiate the Treaty of London) and perhaps the Soviet Union. 
-Another option is to use the national focuses and join either Allies or Comintern ''before'' Germany justifies on you (Normally 1940). This will make faction members move divisions to your border with Germany, thus making your defense somewhat easier. If possible, ask your faction members for as many expeditionary forces as possible. Also, don't forget to do the "Prepare the Inundation Lines" focus because it will give you land forts which makes it even harder for Germany to attack you. 
-For a greater challenge; take the non-aligned path, but the House of Orange back in power, and try to hold off the Wehrmacht on your own. Do to this rush down the Army tree in order to begin your war on pacifism as early as possible. Doing this will also give you buffs to fortification Building - build some on either side of the Waddenzee, making sure to include the three border territories in Freisland - two East of Amsterdam, one at the neck of the Waddenzee. Make simple infantry and artillery divisions to hold this line, then spam the equipment. Then 'simply' hold the line. You can complete the Zuiderzee works at your leisure.
+| {{icon|no}} 没有完成国策 ''向德国人屈服''<br/>
+{{icon|yes}} 完成国策 ''继续须德海工程''<br/>
+{{icon|no}} {{flag|Netherlands}} 没有失去任何开局拥有的地区<br/>
+{{icon|time}} 日期不早于 1945年1月1日
+| 这个成就不难获取。设置游戏为AI使用历史国策，在游戏中沿着共产主义路线完成国策树。一旦面对国策："向莫斯科示忠" 和 "真正共产主义的堡垒" 的选择问题，立刻选择后者。然后完成国策："四面受敌" 和 "预防西方干涉"。通过这些国策可以获取对英国、法国和美国的战争目标。完成"预防西方干涉"的最佳时机是德国进行国策："但泽或战争"时。一旦德国对波兰宣战、波兰加入同盟国，你就对英法宣战。很快德国就会邀请你加入轴心国。现在你不用担心德国的威胁了。完成国策："继续须德海工程"，防御海岸线和其他省份地区。同盟国经常海军入侵德国在北海的海岸线，要小心，那里是你的后院。要取得成就就不能失去你的任何一个地区。在等待时间到达1945年期间，可以只是进行单纯的防御，也可以帮助德国征服西欧（如果操作得当，可以取得比利时和卢森堡的土地，还能拒绝承认伦敦条约）以及苏联。
+还可以利用国策，在德国对你正当化战争目标''之前''加入同盟国或共产国际。德国的正当化通常在1940年进行。阵营内的盟友会派兵到你的边境上防御德军，减轻你的防御压力。只要可行，向盟友请求尽可能多的远征军。此外，别忘了完成国策："准备洪水线"，这会在领土上增加堡垒，使德军进攻更加困难。
+更有挑战性的做法是走不结盟路线，但是这要让奥兰治·拿骚家族重回掌权，并且只依靠自己的力量抵挡国防军。进行国策树的军事线，尽可能快的完成国策："对和平主义的战争"。这能使你更好的建设防御设置 - 瓦登兹河两岸都要建一些，确保覆盖了弗里斯兰的三个边境地区--两个在阿姆斯特丹东部，一个在瓦登兹河的颈部。让步兵与炮兵师防御这条战线，然后收集装备。接下来''简单''的守住战线。可以在有空的时候完成须德海工程。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|H}}
