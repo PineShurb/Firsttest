@@ -1445,10 +1445,10 @@ __TOC__
 | data-sort-value="6" | 1.6
 | {{DI|H}}
 |-
-| {{Iconbox|Bad Romeance|Restore Byzantium and have Italy, Romania, and Russia as subjects.|extension=png}}
+| {{Iconbox|Bad Romeance|重建拜占庭,傀儡意大利、罗马和俄罗斯。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|希腊王国}}
-| {{icon|yes}} {{flag|Byzantine Empire}} has {{flag|Italy}}, {{flag|Romania}}, and {{flag|Soviet Union|Russia}} as subjects.
-| If {{icon|bfb}} Battle for the Bosporus is active, the achievement can only be done patch 1.10.2 or later.
+| {{icon|yes}} {{flag|Byzantine Empire}} 傀儡 {{flag|Italy}} 、 {{flag|Romania}} 和 {{flag|Soviet Union|Russia}} 。
+| {{icon|bfb}} 博斯普鲁斯之战DLC已经激活的情况下，只能在1.10.2(含)之后的版本获取该成就。
 Change government to fascism as quickly as possible (using the Megali Idea if {{icon|bfb}} is active). Justify on Yugoslavia and Albania, timing it so the justifications complete right after the Anschluss (February 1938 with Historical Focus). Join the Axis, which will consist of Germany alone. Declare both wars simultaneously, drawing Romania and Italy into a war with Germany. Get as much war participation as possible and puppet both in the peace conference. You can then proceed to defeat Turkey and the Soviet Union alongside the Axis.
 Pupetting your targets is not difficult, as Germany prefers to take land for itself. The only one to watch for is Romania: if the Turkish Straits are closed, Germany will have no land or sea route to Romania and might puppet instead.
 

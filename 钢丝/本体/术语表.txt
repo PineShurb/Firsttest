@@ -25,3 +25,13 @@ Defense		防御
 Attack		进攻
 Maneuvering	机动
 Coordination	协同
+
+{{icon|bfb}}    博斯普鲁斯之战
+抵抗运动
+炮手就位
+唤醒猛虎
+玉碎瓦全
+共赴胜利
+
+
+
