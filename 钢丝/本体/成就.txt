@@ -1458,16 +1458,16 @@ __TOC__
 | data-sort-value="10" | 1.10
 | {{DI|VH}}
 |-
-| {{Iconbox|Battlecry|As a warlord, conquer all of China and Japan.|extension=png|link=on}}
-| {{icon|yes}} Playing as ''either'': {{MultiColumn|
+| {{Iconbox|Battlecry|扮演军阀，统一中华，征服日本。|extension=png|link=on}}
+| {{icon|yes}} 扮演以下阵营''之一'': {{MultiColumn|
 * {{flag|Guangxi Clique}}
 * {{flag|Shanxi}}
 * {{flag|Sinkiang}}
 * {{flag|Xibei San Ma}}
 * {{flag|Yunnan}}
 |2}}
-|{{icon|yes}} Conquered all of {{flag|China}}, {{flag|Manchukuo}} and {{flag|Japan}} not including the states of Hong Kong(326) , Macau (729) and Guangzhouwan (728) . This includes all of the warlords.
-| The strongest warlord is the {{flag|Guangxi Clique}} due to their starting resources. Due to your early equipment deficits and lack of research capability but very high manpower, focus on getting as much of your manpower onto the field as quickly as possible. DON'T force the Xi'an incident or China could refuse and the Chinese United Front won't form at all - wait to join later. With your troops you can then join and help China against the Japanese by placing defensive divisions on their coastline - you will need a high number to be able to repel better-equipped Japanese invasions. Go for Root Out Corruption, Power Struggle and Executive Yuan. This will give you enough political power to do Power Struggle propaganda in three states to Chiang's two and will quickly put you on top. Push the Japanese out of China and Korea, while building a fleet and/or air force to cross the Sea of Japan.
+|{{icon|yes}} 征服 {{flag|China}} 、 {{flag|Manchukuo}} 和 {{flag|Japan}} ，不包括：香港(326) , 澳门 (729) 和 广州湾 (728) 。可以扮演任一军阀。
+| 推荐使用 {{flag|Guangxi Clique}} ，因为它开局时资源最多。(译者注：剩下的就不翻译了。)Due to your early equipment deficits and lack of research capability but very high manpower, focus on getting as much of your manpower onto the field as quickly as possible. DON'T force the Xi'an incident or China could refuse and the Chinese United Front won't form at all - wait to join later. With your troops you can then join and help China against the Japanese by placing defensive divisions on their coastline - you will need a high number to be able to repel better-equipped Japanese invasions. Go for Root Out Corruption, Power Struggle and Executive Yuan. This will give you enough political power to do Power Struggle propaganda in three states to Chiang's two and will quickly put you on top. Push the Japanese out of China and Korea, while building a fleet and/or air force to cross the Sea of Japan.
 The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of the warlords (even if they are in a different faction). You can then annex those who accept via decisions, and declare war against the ones who don't. Communist China may pursue a civil war with you while you are still fighting the Japanese, and you may not be able to use the anti-communism focus against them once you are in a faction together. It is important to deal with them early, however, as if left to the late game they can join the Allies and this will force you to fight on multiple fronts with the British Raj.
 
 {{flag|Sinkiang}} is an other option, as it can immediately join the Comintern and the USSR will never take land in China.
@@ -1476,44 +1476,44 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 | data-sort-value="5" | 1.5
 | {{DI|VH}}
 |-
-| {{Iconbox|Bevrijding|As the Netherlands, liberate the continental Netherlands after relocating the government to the East Indies.|extension=png}}
+| {{Iconbox|Bevrijding|扮演荷兰，将政府迁往荷属东印度后解放荷兰领土。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Netherlands}}
-| {{icon|yes}} Current ruling party is {{icon|Democracy|Democratic}}
-{{icon|yes}} Has completed focus ''Liberation''
-|Begin to develop the east indies, focus on planes (specifically bombers) and submarines to destroy factories and shipping to damage the German economy so the USSR doesn't lose. You will need some civilian factories and lots of cargo ships. Beware of Japan as they will likely attempt to attack and invade Indonesia so make sure to guard all ports and have some planes and ships to hold them off. Once you have safely fortified the East Indies from Japanese attacks, either focus on Germany to reconquer your home territory or focus on Japan and finish them off to gain some resources and factories.
+| {{icon|yes}} 当前执政党为 {{icon|Democracy|Democratic}}
+{{icon|yes}} 完成国策 ''解放''
+|开始开发东印度，专注于用飞机(尤其是轰炸机)和潜艇去破坏工厂和舰船以破坏德国经济，以此帮助苏联不致落败。你需要一些民用工厂和货轮。小心日本，它可能会尝试入侵印度尼西亚。所以要确保守卫好所有港口，还要布置一些飞机和舰船来驱逐它们。在巩固了东印度的防卫，确保其在日本攻击下的安全后，可以选择是专注于德国、解放自己的国家，还是专注于日本、通过击败它们来获取资源和工厂。
 | {{icon|mtg}}
 | data-sort-value="6" | 1.6
 | {{DI|VH}}
 |-
-| {{Iconbox|Czechmate|As Czechoslovakia, occupy Canberra while at war with the Allies.|extension=png}}
+| {{Iconbox|Czechmate|扮演捷克斯洛伐克，在与同盟国交战时占领堪培拉。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Czechoslovakia}}
-| {{Plainlist|* {{icon|cb}} At war with {{flag|United Kingdom}}
-* {{icon|democracy}} {{flag|United Kingdom}} is democratic
-* {{icon|yes}} Controls the state New South Wales (285) }}
+| {{Plainlist|* {{icon|cb}} 与 {{flag|United Kingdom}} 交战
+* {{icon|democracy}} {{flag|United Kingdom}} 为民主制
+* {{icon|yes}} 控制 新南威尔士 (285) }}
 |
-With {{icon|dod}} DLC(method one)
-* Turn Communist, join Comintern and take Romania to have a border with Soviet Union
-* Build up Sudetenland to lvl 7 forts and don't give up Sudetenland
-* When Germany attacks hold on till Soviets arrive and beat them (if you are quick Italy will not join Axis)
-* Take the best Germany provinces (by resources and IC), build up your forces and take Italy, Balkans and France (avoid fighting with Allies if possible)
-* Build up your navy, attack the Allies and island hop to Australia
-* It is easier with historical AI turned off (Hungary can take Austria and/or ally with Italy, France may not join the Allies)
+使用 {{icon|dod}} 玉碎瓦全DLC(策略一):
+* 转向共产主义，加入共产国际，占领罗马尼亚来获取与苏联的接壤。
+* 在苏台德地区修建7级堡垒，不放弃苏台德地区。
+* 当德国攻来时，坚守到苏联支援到达，随后击败德国(行动够快的话，意大利来不及加入轴心国)。
+* 拿走德国最好的领土(根据资源和工业产能)，铸造军队并夺取意大利、巴尔干和法国，但是尽量避免与同盟国的冲突。
+* 组建海军，进攻同盟国，使用跳岛战术攻向澳大利亚。
+* 关闭AI使用历史国策后，游戏会更容易一些。因为匈牙利可能占领奥地利，也可能与意大利结盟，法国可能不会加入同盟国。
 
-With {{icon|dod}} DLC(method two):
-* Turn fascist, justify on Austria and Yugoslavia ASAP(don't choose any focus to get extra PP) - make sure both justifications finish at around the same time to avoid guarantees (playing on nonhistorical will reduce guarantee chances)
-* During your justifications, take the focus 'Trust with the West' to get rid of the Romanian guarantee on you, pulling Romania in the war also
-* In peace deal, annex the states you need to form Austria-Hungary
-* You can then justify and annex hungary to form AH, giving you cores(manpower + extra factories)
-* You can then join Japan's faction and invade from their territory
+使用 {{icon|dod}} 玉碎瓦全DLC(策略二):
+* 转向法西斯，尽快正当化对奥地利和南斯拉夫战争(不要进行国策，这样可以更快获取政治点) - 确保两个正当化同时完成，以此避免它们被保独(非历史国策下，被保独的几率更小)。
+* 正当化过程中，执行国策:'信任西方'，以此摆脱罗马尼亚对你的保独，将罗马尼亚也拉入战争。
+* 在和平会谈中，吞并用于组建奥匈帝国所需的地区。
+* 现在可以对匈牙利进行正当化，然后将其吞并来组建奥匈帝国。这会给予你地区核心、人力和额外的工厂。
+* 然后加入日本的阵营，从它们的领土发起入侵。
 
-* Alternatively just join Axis, get military access from Japan (when they war on Allies) and naval invade from Japan (VERY easy)
+* 或者直接加入轴心国，从日本获取军事通行权(当它们与同盟国开战时)，从日本发动海军入侵(非常简单)。
 
-Paratroopers method:
-* Switch to fascist through civil war
-* Justify on Dutch East Indies
-* Join Axis, declare war, wait a few days for Netherlands to send more troops to the frontline, paradrop on victory points (don't call Germany)
-* Build an air base in Aru Islands
-* Join the war when Germany attacks Poland, paradrop into Northen Territory, take Canberra (don't call East Indies)
+伞击策略:
+* 通过内战转为法西斯。
+* 正当化对荷属东印度战争。
+* 加入法西斯，宣战，多等几天让荷兰把部队派到前线，伞击胜利点(不要召唤德国)。
+* 在阿鲁群岛建机场。
+* 在德国进攻波兰时加入战争，伞击澳大利亚北方领土，拿下堪培拉(不要召唤东印度)。
 
 |
 | data-sort-value="4" | 1.4
