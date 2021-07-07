@@ -1519,14 +1519,14 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 | data-sort-value="4" | 1.4
 | {{DI|VH}}
 |-
-| {{Iconbox|Death or Dishonor or Cake|As Romania, own a slice of all your starting neighbors.|extension=png|link=on}}
+| {{Iconbox|Death or Dishonor or Cake|扮演罗马尼亚，拥有开局时所有邻国的一块土地|extension=png|link=on}}
 | {{icon|yes}} 扮演 {{flag|Romania}}
-| {{icon|yes}} Has ''Carol II'' as country leader
-{{icon|yes}} Has ''not'' completed any of the below focuses:
-* [[File:Focus_rom_parties_end.png|28px]] [[Romanian national focus tree#All Parties Must End|''"All Parties Must End"'']]
-* [[File:Focus_rom_abdicate.png|28px]] [[Romanian national focus tree#Force Abdication|''"Force Abdication"'']]
-* [[File:Focus_rom_handle_king.png|28px]] [[Romanian national focus tree#Handle the King|''"Handle the King"'']]
-{{icon|yes}} Own at least one core province from all of your starting neighbors: {{MultiColumn|
+| {{icon|yes}} 国家领导人为''卡罗尔二世''
+{{icon|yes}} ''没有'' 完成以下任何国策:
+* [[File:Focus_rom_parties_end.png|28px]] [[Romanian national focus tree#All Parties Must End|''"天下无不散之宴席"'']]
+* [[File:Focus_rom_abdicate.png|28px]] [[Romanian national focus tree#Force Abdication|''"强迫退位"'']]
+* [[File:Focus_rom_handle_king.png|28px]] [[Romanian national focus tree#Handle the King|''"处置国王"'']]
+{{icon|yes}} 拥有开局时所有邻国的至少一个核心省份: {{MultiColumn|
 * {{flag|Bulgaria}}
 * {{flag|Czechoslovakia}}
 * {{flag|Hungary}}
@@ -1535,23 +1535,23 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 * {{flag|Yugoslavia}}
 |2}}
 |
-* Turn on historical focus to have USSR and Germany sign Molotov-Ribbentrop pact.
-* Bring Carol II into power and make a huge army from the start. 
-* Go by Balkans Dominance path, which will help you get cores from 4 of 6 required nations. 
-* Expand your army, wait for German attack to Poland and prepare to fight against Soviet Union.
-* After Molotov-Ribbentrop pact signed and Poland capitulated, Soviets will take Eastern part of it. You can justify on them directly or guarantee Finland to enter the war then as defending country. 
-* Defeat Soviets alone or with German help. If fighting with Germans (in alliance or not), make bigger war score than they, because at peace conference Germany could first take all Eastern Poland and it'd be unavailable to get Polish land without struggle with Axis. 
-* At peace conference take at least one Soviet and Polish core territory.  
-* This achievement could also be done with "Neither Death nor Dishonor" one, just take Moscow at the peace conference.
+* 打开历史国策，使苏联和德国签订莫洛托夫 - 里宾特洛甫条约。
+* 让卡罗尔二世掌权，开局就组建大军。
+* 走巴尔干霸权之路，这能给你全部6个国家中4个的核心。
+* 扩张军队，等待德国攻击波兰，准备与苏联间的战争。
+* 莫洛托夫 - 里宾特洛甫条约签订且波兰投降后，苏联会拿走波兰东部。你可以直接对其正当化战争目标或通过保独芬兰来加入防御战争。
+* 独自或在德国帮助下击败苏联。如果德国人也加入了战争，一定要取得更多的战争贡献度。因为德国会在和平会谈首先拿走整个波兰东部地区，这会导致无法在不与轴心国开战的情况下取得波兰土地。
+* 在和平会谈中取得苏联和波兰各最少一个核心领土。
+* 如果在和平会谈中获取莫斯科，可以同时完成成就："Neither Death nor Dishonor"。
 | {{icon|dod}}
 | data-sort-value="4" | 1.4
 | {{DI|VH}}
 |-
-| {{Iconbox|Go Ahead, Macau My Day|As Portugal, create a collaboration government in Macau and have it own all Chinese states.|extension=png}}
+| {{Iconbox|Go Ahead, Macau My Day|扮演葡萄牙，在澳门建立合作政府并让它拥有中国和满洲国的所有核心。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Portugal}}
-| {{icon|yes}} Create a collaboration Government in Macau and have it own all core territory of China and Manchukuo:
+| {{icon|yes}} 在澳门建立合作政府并让它拥有中国和满洲国的所有核心：
 {{Collapse|
-{{icon|yes}}One of the following countries:<br/>
+{{icon|yes}}下列国家其一：<br/>
 *{{flag|China}}
 *{{flag|Communist China}} 
 *{{flag|Guangxi Clique}} 
@@ -1559,10 +1559,10 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 *{{flag|Shanxi}}
 *{{flag|Xibei San Ma}}
 *{{flag|Sinkiang}}<br/>
-{{icon|yes}}Is a subject of {{flag|Portugal}}<br/>
-[[File:Collaboration Government.png|24px]] Is a [[Occupation#Collaboration_Government|Collaboration Government]]<br/>
-{{icon|yes}}Capital is Macau (729)<br/>
-{{icon|yes}}All states are either owned by one of the above countries or is not a core of {{flag|China}} and {{flag|Manchukuo}}
+{{icon|yes}} 是 {{flag|Portugal}}的附庸<br/>
+[[File:Collaboration Government.png|24px]] Is a [[Occupation#Collaboration_Government|合作政府]]<br/>
+{{icon|yes}} 首都是 澳门 (729)<br/>
+{{icon|yes}} 所有的地区，要么属于上述国家之一，要么不是 {{flag|China}} 和 {{flag|Manchukuo}} 的核心地区。
 }}
 |
 * Best done by joining the Comintern, as the USSR will never take or puppet any land in China.
@@ -1573,10 +1573,10 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 | data-sort-value="9" | 1.9
 | {{DI|VH}}
 |-
-| {{Iconbox|Hardly Anything Sèvres|As the Ottoman Empire, hold the capitals of France, the United Kingdom, Italy, and Japan.|extension=png}}
+| {{Iconbox|Hardly Anything Sèvres|扮演奥斯曼帝国，控制法国、英国、意大利和日本的首都。|extension=png}}
 | {{icon|yes}} 扮演 {{Flag|Turkey}}
-| {{icon|yes}} The {{Flag|Ottoman Empire}} controls the capitals of {{flag|United Kingdom|Britain}}, {{flag|France}}, {{Flag|Italy}}, and {{Flag|Japan}}.
-| To be Ottoman Empire you need to go far left of focus tree and choose Adnan Menderes after "Hold Our First Multi-Party Election". This one requires one to be in the winning side against both Axis and Allies. Easiest way is to disable La Resistance and start boosting non-aligned to Russia and USA from the beginning of game and right after concluding civil war against Kemalists. You will need to stage well timed coups against Russia and USA in order to have rebellion in your faction instead of Axis(they shouldn't be in a war against another faction), a good time to start against Russia is around when Italia joins Axis and a few months later to the USA(they both should have <80 stability at the time if you boosted non-aligned enough but it can differ sometimes). In the meantime you can annex or puppet Greece and Romania with naval invasions with "Reclaim the Makedonyalı Sanjak" claim. Continue with "Press the Austro-Hungarian Claim" focus to be able to create factions. Justify against russia and declare before coup is complete, when Russian coup is completed invite rebellion to your faction. You just need to hold your line and not let non-aligned Russia get capitulated(you don't need war participation, rebellion will have all russia after Germany capitulates Russia). You will also need to send a lot of divisions to help USA rebellion so it's better to choose a city from pasific side to start coup(Axis should have Suez Canal by now and you can ask for access while being at war against Russia). Like with Russia, you need to justify against USA and declare before coup is finished. After Democratic USA and Communist Russia is capitulated you will have 2 most powerful nations in your faction. Your faction can win any war against anyone. Keep an eye on non-aligned Russia's division count and declare war to Axis when you are ready, after that either get control of capitals via naval invasion/paradrop or ask control from your allies.
+| {{icon|yes}} {{Flag|Ottoman Empire}} 控制 {{flag|United Kingdom|Britain}}、 {{flag|France}}、 {{Flag|Italy}}、 and {{Flag|Japan}} 的首都。
+| 要建立奥斯曼帝国，需要完成左侧国策树，完成国策:"举行首次多党选举"后选择阿德南·曼德斯。这项成就要求你取得对抗轴心国和同盟国的胜利。最简单的方法是禁用 抵抗运动DLC ，游戏开始和反对凯末尔的内战结束后支持俄罗斯和美国国内的中立主义派系。你需要把握适当的时机在俄罗斯和美国掀起政变，以此让叛军加入自己阵营而非轴心国(它们应该不会与其它阵营交战)。在俄罗斯行动的最佳时机是意大利加入轴心国时，几个月后对美国动手(如果你对中立主义派系有足够的支持，这两个国家此时稳定度应该小于80%，但有时可能不同)。在此期间，你可以利用国策:''收复马其顿地区''给与的宣称对希腊和罗马尼亚发动海军入侵，最终将其吞并或傀儡。完成国策："加强对奥匈帝国的宣称"后可以创建阵营。在发动政变任务完成前，正当化对俄罗斯战争并宣战。发动政变成功后，邀请叛军加入阵营。你只需守住阵线，不让俄罗斯中立主义派系投降即可(你无需参战，德国击败俄罗斯后，叛军会接管整个俄国)。你同样需要派遣大量部队去帮助美国叛军，所以最好选择太平洋一侧的城市发动政变(此时轴心国应该已经控制了苏伊士运河，你可以在与俄罗斯交战时请求通行权)。就像对俄罗斯一样，你要在政变任务完成前对美国宣战。当民主美国和社会主义俄罗斯都投降之后，你的阵营中已经有了两个最强大的国家。你的阵营可以赢下任何一场战争。时刻注意中立俄罗斯的部队数量，当你准备好后向轴心国宣战。然后通过海军入侵/空降占领首都或向盟友要求移交控制权。
 | {{icon|bfb}}
 {{icon|wtt}}
 | data-sort-value="10" | 1.10
