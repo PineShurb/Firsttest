@@ -1582,104 +1582,110 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 | data-sort-value="10" | 1.10
 | {{DI|VH}}
 |-
-| {{Iconbox|Huge-oslavia|As Yugoslavia, occupy all your neighbouring countries (Austria, Hungary, Romania, Bulgaria, Albania, Italy and Greece).|extension=png|link=on}}
+| {{Iconbox|Huge-oslavia|扮演南斯拉夫，占领所有邻国(奥地利、匈牙利、罗马尼亚、保加利亚、阿尔巴尼亚、意大利和希腊)。|extension=png|link=on}}
 | {{icon|yes}} 扮演 {{flag|Yugoslavia}}
-| {{icon|yes}} Every state in the world is ''either'': 
-* Controlled by ''Our Nation''
-* Is ''not'' a core of the below nations: {{MultiColumn|
+| {{icon|yes}} 世界上每个地区都为下列状态''之一'': 
+* 被''我们的国家''控制
+* ''不是''下列国家的核心地区: {{MultiColumn|
 ** {{flag|Albania}}
 ** {{flag|Austria}}
 ** {{flag|Bulgaria}}
 ** {{flag|Hungary}}
 ** {{flag|Italy}}
 ** {{flag|Romania}}
-** {{flag|希腊王国}} ({{red|except}} Istanbul (341) )
+** {{flag|希腊王国}} ({{red|except}} 伊斯坦布尔 (341) )
 |2}}
-|It is only necessary to occupy the land required so it is possible to have this achievement fire whilst at war. Can be combined with [[The Balkan Powder Keg]] achievement.
+|只要占领所需地区即可，所以即使在战争中也可取得成就。可以与成就： [[The Balkan Powder Keg]] 一同获取。
+(ps:后面是来自nga的攻略，侵删)
+走红线，入共产，国策入共产苏联。拒绝了不要紧，变红之后拉拉关系就能进了。
+先打罗马尼亚，波兰大概率会和罗马尼亚互相保独。法国人和捷克斯洛伐克虽然保独罗马尼亚了一般不会来，打罗马尼亚的时候叫上苏联人一起。战后波兰归苏联人，罗马尼亚务必要全拿下不然比较麻烦。
 * 
 |
 | data-sort-value="4" | 1.4
 | {{DI|VH}}
 |-
-| {{Iconbox|Miklos Horthy and the Habsburg Prince|As Hungary, Restore Austria-Hungary.|extension=png}}
+| {{Iconbox|Miklos Horthy and the Habsburg Prince|扮演匈牙利，重建奥匈帝国。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Hungary}}
-| {{Plainlist|* {{icon|yes}} Is ''cosmetic'' tag {{flag|Hungary|0}} Austria-Hungary
-* {{icon|yes}} Own and control the states: }} {{Collapse| {{MultiColumn|
-* Upper Austria (152)
-* Tyrol (153)
-* Lower Austria (4)
-* Sudetenland (69)
-* Bohemia (9)
-* Moravia (75)
-* Eastern Sudetenland (74)
-* Zaolzie (72)
-* Western Slovakia (70)
-* Southern Slovakia (664)
-* Eastern Slovakia (71)
-* Carpathian Ruthenia (73)
-* Jordan (455)
-* Palestine (454)
-* Neiderschlesien (66)
-* Oberschleisien (67)
-* Tuscany (162)
-* Franche-Comte (17)
-* Lombardy (159)
-* Emilia Romagna (161)
+| {{Plainlist|* {{icon|yes}} Is 得到''修饰''标签 {{flag|Hungary|0}} 奥匈帝国
+* {{icon|yes}} 拥有并控制以下地区: }} {{Collapse| {{MultiColumn|
+* 上奥地利 (152)
+* 蒂罗尔 (153)
+* 下奥地利 (4)
+* 苏台德 (69)
+* 波希米亚 (9)
+* 摩拉维亚 (75)
+* 东苏台德 (74)
+* 扎奥尔杰 (72)
+* 西斯洛伐克 (70)
+* 南斯洛伐克 (664)
+* 东斯洛伐克 (71)
+* 喀尔巴阡鲁塞尼亚 (73)
+* 约旦 (455)
+* 巴勒斯坦 (454)
+* 下西里西亚 (66)
+* 上西里西亚 (67)
+* 托斯卡纳 (162)
+* 弗朗什-孔泰 (17)
+* 伦巴第 (159)
+* 艾米利亚-罗马涅 (161)
 |2}} 
 }}
 
 | 
-* You have to go for "Restoration of Austria-Hungary" Focus Tree and have to have a navy so it is a perfect match to do with "Better than the Szent István" achievement
-* Take Austria and Czechoslovakia ASAP to weaken Germany. The focus "Reintegrate the Railroads" has a hidden effect that increases the chance of a peaceful annexation.
-* Hungary starts with more aluminum than it will ever need: build a large airforce to support your ground troops
-* You can let the German have the Sudetenland, they will leave you alone after that
-* Conquer Yugoslavia, then Romania and Greece: the oil fields will supply your army, while chromium can be used to build battleships and heavy tanks
-* Construct ships and naval bombers as soon as you have a coastal province, destroy buildings to make room for more dockyards if necessary
-* Find a good time to backstab Germany once they are at war with the USSR and join the Comintern. Attack the Allies immediately after the defeat of the Axis
-* You have to own the provinces, not just occupy them - watch out for them in a peace treaty, do not let AI take them or you will have to go to war again
-* As of patch 1.6, the United States might stay out of the war entirely if not attacked by Japan.
+* 必须进行"奥匈帝国复辟"相关国策树。因为必须要有一支海军，所以非常适合与成就："Better than the Szent István" 一起进行。
+* 尽快夺取奥地利和斯洛伐克以削弱德国。国策："重新整合铁路"有一个隐藏效果，就是可以增加和平吞并的几率。
+* 匈牙利盛产的铝超出了自身所需：组建强大的空军去支援陆上和海上部队。
+* 你可以将苏台德让给德国，换取他们的和平。
+* 征服南斯拉夫，然后是罗马尼亚和希腊；油田可供应军队，铬可用于建造战舰和重型坦克。
+* 获得沿海省份后立刻开始造船和海军轰炸机，如果建造位不够了，可以摧毁建筑物。
+* 苏德开战后，找好时机背刺德国，可以同时加入共产国际。击败轴心国后立刻进攻同盟国。
+* 成就所需地区必须要完全拥有，而不只是占领。在和平会谈中注意好这些地区，不要让AI拿走，否则你要再次开打。
+* 在1.6版本之后，如果美国没有被日本攻击，有可能完全不加入战争。
 
 | {{icon|dod}}
 | data-sort-value="4" | 1.4
 | {{DI|VH}}
 |-
-| {{Iconbox|One King, Two Crowns|As Bourbon Spain, hold all Spanish and French core states.|extension=png|link=on}}
+| {{Iconbox|One King, Two Crowns|扮演波旁西班牙，控制所有西班牙和法国核心地区。|extension=png|link=on}}
 | {{icon|yes}} 扮演 {{flag|Spain}}
-| {{icon|yes}} is {{flag|Carlist Spain}}<br/>
-{{icon|yes}} Conquer all of France.
-| You must ''own'' the cores, which means completely defeating France's faction and get all cores in a peace deal. Remember that France may get cores on the Algerian coast. Best done in non-historical, as France might not ally with the UK or the US.
-As of 1.9.0, Bourbon Spain only needs to own the French cores.
+| {{icon|yes}} 是 {{flag|Carlist Spain}}<br/>
+{{icon|yes}} 征服法国全境。
+| 必须''拥有''核心地区，这意味着完全击败法国所在阵营，并在和平会谈中拿走所有核心地区。记住，法国可能在阿尔及利亚沿海有核心地区。最好让游戏处于非历史国策，这样法国可能不会与英美结盟。
+在 1.9.0 版本中，波旁西班牙只需要拥有法国核心地区。
 | {{icon|lar}}
 | data-sort-value="9" | 1.9
 | {{DI|VH}}
 |-
-| {{Iconbox|Rule Britannia|As any British Subject state, conquer all of Britain.|extension=png|link=on}}
-| {{icon|yes}} Playing as ''either'': {{MultiColumn|
+| {{Iconbox|Rule Britannia|扮演英国附属国，征服英国全境。|extension=png|link=on}}
+| {{icon|yes}} 扮演下列国家''之一'': {{MultiColumn|
 * {{flag|Australia}}
 * {{flag|British Raj}}
 * {{flag|Canada}}
 * {{flag|New Zealand}}
 * {{flag|South Africa}}
 |2}}
-| {{Plainlist|* [[File:Autonomy freedom icon.png|24px]] Is ''not'' a subject
-* {{icon|yes}} Control the states: }} {{Collapse| {{MultiColumn|
-* Scottish Highlands (120)
-* Lothian (121)
-* Wales (122)
-* Cornwall (123)
-* East Anglia (125)
-* Greater London Area (126)
-* Sussex (127)
-* West Midlands (128)
-* East Midlands (129)
-* Yorkshire (130)
-* Northern England (131)
-* Lancashire (132)
-* Lanark (133)
-* Aberdeenshire (136)
-* Gloucestershire (338)
+| {{Plainlist|* [[File:Autonomy freedom icon.png|24px]] ''不是''附属国
+* {{icon|yes}} 控制以下地区: }} {{Collapse| {{MultiColumn|
+* 苏格兰高地 (120)
+* 洛锡安 (121)
+* 威尔士 (122)
+* 西南英格兰 (123)
+* 东盎格利亚 (125)
+* 大伦敦 (126)
+* 萨塞克斯 (127)
+* 西米德兰兹 (128)
+* 东米德兰兹 (129)
+* 约克郡 (130)
+* 北英格兰 (131)
+* 兰开夏郡 (132)
+* 拉纳克 (133)
+* 阿伯丁郡 (136)
+* 格洛斯特郡 (338)
 |2}} }}
-| Can be done in conjunction with the "It's 1812 All Over Again" achievement as Canada. After capitulating and annexing the United States, prepare a naval invasion force and fleet to attack the UK. Annexing the US may help industrially and the Send in the Zombies focus may help with the recruitable population. If Iceland gets released, it may be necessary to justify against them. Try to take the UK before Germany or Italy tries a naval invasion. If the peace conference triggers before the achievement does, try to annex all of Great Britain as the other Axis members may take the required territory. It may be advisable to create a faction with Mexico instead of joining the Axis to make it harder for Germany to take British states in the peace conference.
+| 推荐使用加拿大。可以与成就： "It's 1812 All Over Again" 一起进行。击败并吞并美国后，
+After capitulating and annexing the United States, prepare a naval invasion force and fleet to attack the UK. Annexing the US may help industrially and the Send in the Zombies focus may help with the recruitable population. If Iceland gets released, it may be necessary to justify against them. Try to take the UK before Germany or Italy tries a naval invasion. If the peace conference triggers before the achievement does, try to annex all of Great Britain as the other Axis members may take the required territory. It may be advisable to create a faction with Mexico instead of joining the Axis to make it harder for Germany to take British states in the peace conference.
+With Historical Focus Off, the UK has a chance of becoming fascist or non-aligned. In that case, a democratic Canada may form a faction with the {{flag|United States}}.
+Can be done in conjunction with the "It's 1812 All Over Again" achievement as Canada. After capitulating and annexing the United States, prepare a naval invasion force and fleet to attack the UK. Annexing the US may help industrially and the Send in the Zombies focus may help with the recruitable population. If Iceland gets released, it may be necessary to justify against them. Try to take the UK before Germany or Italy tries a naval invasion. If the peace conference triggers before the achievement does, try to annex all of Great Britain as the other Axis members may take the required territory. It may be advisable to create a faction with Mexico instead of joining the Axis to make it harder for Germany to take British states in the peace conference.
 With Historical Focus Off, the UK has a chance of becoming fascist or non-aligned. In that case, a democratic Canada may form a faction with the {{flag|United States}}.
 | 
 | data-sort-value="3" | 1.3
