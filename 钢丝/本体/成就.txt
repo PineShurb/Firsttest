@@ -1682,17 +1682,14 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 * 阿伯丁郡 (136)
 * 格洛斯特郡 (338)
 |2}} }}
-| 推荐使用加拿大。可以与成就： "It's 1812 All Over Again" 一起进行。击败并吞并美国后，
-After capitulating and annexing the United States, prepare a naval invasion force and fleet to attack the UK. Annexing the US may help industrially and the Send in the Zombies focus may help with the recruitable population. If Iceland gets released, it may be necessary to justify against them. Try to take the UK before Germany or Italy tries a naval invasion. If the peace conference triggers before the achievement does, try to annex all of Great Britain as the other Axis members may take the required territory. It may be advisable to create a faction with Mexico instead of joining the Axis to make it harder for Germany to take British states in the peace conference.
-With Historical Focus Off, the UK has a chance of becoming fascist or non-aligned. In that case, a democratic Canada may form a faction with the {{flag|United States}}.
-Can be done in conjunction with the "It's 1812 All Over Again" achievement as Canada. After capitulating and annexing the United States, prepare a naval invasion force and fleet to attack the UK. Annexing the US may help industrially and the Send in the Zombies focus may help with the recruitable population. If Iceland gets released, it may be necessary to justify against them. Try to take the UK before Germany or Italy tries a naval invasion. If the peace conference triggers before the achievement does, try to annex all of Great Britain as the other Axis members may take the required territory. It may be advisable to create a faction with Mexico instead of joining the Axis to make it harder for Germany to take British states in the peace conference.
-With Historical Focus Off, the UK has a chance of becoming fascist or non-aligned. In that case, a democratic Canada may form a faction with the {{flag|United States}}.
+| 推荐使用加拿大。可以与成就： "It's 1812 All Over Again" 一起进行。击败并吞并美国后，组建一支舰队对英国发动海军入侵。吞并美国应该可以获得大量工业能力，完成国策：'''派遣僵尸'''可以获得更多人力。如果冰岛被释放了，可能需要对其正当化战争。尽力在德意对英国发动海军入侵前将其拿下。如果还没取得成就就触发了和平会谈，尽量吞并整个大不列颠，否则其他轴心国可能拿走你所需的土地。建议与墨西哥共同建立一个阵营而不是加入轴心国，这样德国更难在和平会谈中拿走英国的地区。
+不使用历史国策的情况下，英国有可能变成法西斯或中立主义国家。这时，民主加拿大也许可以和 {{flag|United States}} 共同组建阵营。
 | 
 | data-sort-value="3" | 1.3
 | {{DI|VH}}
 |-
-| {{Iconbox|Sun Tzu Reborn|As Any Chinese Nation, Have a level 9 field marshal.|extension=png}}
-| {{icon|yes}} Playing as ''either'': {{MultiColumn|
+| {{Iconbox|Sun Tzu Reborn|扮演中国境内任何势力，拥有一名9级将领。|extension=png}}
+| {{icon|yes}} 扮演以下势力''之一'': {{MultiColumn|
 * {{flag|China}}
 * {{flag|Communist China}}
 * {{flag|Guangxi Clique}}
@@ -1701,99 +1698,105 @@ With Historical Focus Off, the UK has a chance of becoming fascist or non-aligne
 * {{flag|Xibei San Ma}}
 * {{flag|Yunnan}}
 |2}}
-| {{icon|yes}} any army leader:
-* Is a field Marshall
-* Skill Level more than 8
+| {{icon|yes}} 任何军事将领:
+* 是陆军元帅
+* 技能等级高于8
 |
-*This achievement is best done with a world conquest game or with the achievements "Awake and Angry" or "Battlecry"
-*If a General becomes level 9 before your main field marshal, you may promote the General to field marshal and you will get the achievement.
+* 这项成就最好做球长或者与 "Awake and Angry" 、 "Battlecry"这两项成就一起做
+* 如果一个陆军将领在你的元帅之前达到了9级，只需把这名将军升级为陆军元帅即可达成这项成就
 |
 | data-sort-value="5" | 1.5
 | {{DI|VH}}
 |-
-| {{Iconbox|The People Have Stood Up!|With Mao as your leader, win the Chinese Civil War.|extension=png|link=on}}
+|{{Iconbox|The People Have Stood Up!|以毛泽东作为领导人，赢得解放战争。|extension=png|
 | {{icon|yes}} 扮演 {{flag|Communist China}}
-| {{icon|yes}} Conquered all of {{flag|China|Nationalist China}}'s Starting territory
-| This achievement does not require all the Chinese cores.
+|{{icon|yes}} 占领 {{flag|China|Nationalist China}} 的所有初始地区
+| 这项成就不需要占领中国的所有核心
 | 
 | data-sort-value="5" | 1.5
 | {{DI|VH}}
 |-
-| {{Iconbox|The weapons of the Third Emu War|As Australia, use a nuclear bomb on core Australian territory.|extension=png}}
+| {{Iconbox|The weapons of the Third Emu War|扮演澳大利亚,在澳大利亚核心领土上使用一颗核弹。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Australia}}
-| {{icon|yes}} Country flag ''achievement_AST_nuke_self'' is set
+| {{icon|yes}} 国家标志位 ''achievement_AST_nuke_self'' 置位
 | 
-* Turn off Together for Victory and Man the Guns - this will allow you to leave Allies instantly. Do not engage any factions or wars then.
-* Don't develop any political branch in national focus tree.
-* Invent and build fighters, bombers and nukes.
-* Prepare and launch civil war.
-* Achieve air superiority over and nuke the rebels.
-* Alternatively, Japan will likely attack naval-invade one of your states (if you are in the Allies), you can nuke the state they invade. (very easy)
+* 不要使用 共赴胜利和炮手就位两个DLC，这样你就可以立刻退出同盟国。不要参与任何战争也不要加入任何阵营。
+* 不要进行国策树内任何政治类的分支。
+* 研究并建造飞机、轰炸机和核弹。
+* 准备并发动内战。
+* 夺取制空权，准备核弹攻击。
+* 另一方面，如果你在同盟国阵营中，日本可能会对你的领土发动海军入侵。你可以轻易地对它们攻占的地区进行核攻击。
 |
 | data-sort-value="3" | 1.3
 | {{DI|VH}}
 |-
-| {{Iconbox|30 Minutes of Hel|As Poland in the 1939 “Blitzkrieg” scenario start, inflict over 1,800,000 casualties to Germany to beat the 2018 PDXCON HOI4 challenge. Extra bragging rights if you do it in 30 minutes or less!|extension=png}}
+| {{Iconbox|30 Minutes of Hel|扮演波兰，以1939年"闪电战"剧本开局，使德国伤亡超过1,800,000，以击败2018 PDXCON上的《钢铁雄心4》挑战。三十分钟内达成此成就便可以吹爆自己了！|extension=png}}extension=png}}
 |{{icon|yes}} 扮演 {{flag|Poland}}<br/>
-{{icon|time}} Start date is 1939.8.3
-| {{icon|yes}} The {{flag|Germany|German Reich}} has more than 1.80M Casualties inflicted by {{flag|Poland}}
+{{icon|time}} 开始时间是 1939.8.3
+|{{icon|yes}} {{flag|Germany|German Reich}} 由 {{flag|Poland}} 造成至少 1.80M 伤亡。
 |
-* Start game, hire fascist demagogue
-* Delete your army (helps in the civil war)
-* Open political discussion 
-* Get ready for a civil war 
-* Play on speed 1 (the lowest speed)
-* Ignite the civil war in the same hour the germans attack you (if you ignite it before Germany declares war they'll just 'acquire' you anyway, if you ignited after (an hour of the declaration) the allies would join the war)
-* Join the axis 
-* Strenghten yourself by fighting weak neighbors (examples: Hungary and Romania) (watch out for those guaruntees)
-* Defeat the Soviet Union with german help
-* Get the most out of at the peace conference
-* Leave the axis
-* You should have an economy strong enough to defeat the Germans but remember to inflict 1.8 million casualties
+* 启动游戏，雇佣法西斯煽动者
+* 删除所有部队，为内战做准备
+* 开启政治对话
+* 准备内战
+* 调到最低速度，让时间前进一小时
+* 在德国入侵的同一小时内引爆内战(如果内战发动过早，德国仍会对你开战；如果内战爆发过晚，同盟国会加入战争)
+* 入轴
+* 通过吞并弱小的邻国来增强自身实力。注意下保独，吞并匈牙利、罗马尼亚等。
+* 在德国的帮助下击败苏联。
+* 在和平会谈中获取最大利益。
+或者：
+* 造48个一营师，快速部署（正好有5点陆军经验）
+* 将所有部队移动到苏联边境
+* 把部队换成正常编制
+* 打赢苏联
+* 不要让盟友加入作战（或通过盟友伞降）
+* 总之最后离开轴心国
+* 好了，现在你有足以乱杀德国人的部队了。记得要杀够 1.8m 。
 | 
 | data-sort-value="9" | 1.9
 | {{DI|I}}
 |-
-| {{Iconbox|Crusader Kings 2|As South Africa, finish the Anti-Colonialist Crusade focus, release all European colonies via the focus, and take London.|extension=png|link=on}}
+| {{Iconbox|Crusader Kings 2|扮演南非，完成国策：'''反殖民主义斗争'''，通过国策释放所有欧洲殖民地，拿下伦敦。|extension=png|link=on}}
 | {{icon|yes}} 扮演 {{flag|South Africa}}
-| {{icon|yes}} Focus [[File:Focus SAF colonialist crusade.png|28px]] [[South African national focus tree#Anti-Colonialist Crusade|''"Anti-Colonialist Crusade"'']] is completed
-{{icon|yes}} Is a faction leader<br/>
-{{icon|yes}} A faction member controls the state Greater London Area (126)
-{{icon|yes}} The following country flags  are set: {{Collapse| {{MultiColumn|
+| {{icon|yes}} 完成国策 [[File:Focus SAF colonialist crusade.png|28px]] [[South African national focus tree#Anti-Colonialist Crusade|''"反殖民主义斗争"'']] 。
+{{icon|yes}} 成为阵营领袖<br/>
+{{icon|yes}} 任一阵营成员控制 大伦敦 (126)
+{{icon|yes}} 以下国家标志位置位: {{Collapse| {{MultiColumn|
 * ''SAF_released_ANG''
 * ''SAF_released_COG''
 * ''SAF_released_KEN''
 * ''SAF_released_MZB''
 * ''SAF_released_ZIM''
 |2}} }}
-|Achievement requires the event to release the nations rather than the release nation button on the occupied territory screen.
+|本成就要求通过事件解放国家，而不是吞并后在占领地区界面释放国家。
 | {{icon|tfv}}
 | data-sort-value="3" | 1.3
 | {{DI|I}}
 |- 
-| {{Iconbox|We’re Putting the Band Back Together|As Turkey, be in a faction with Germany and Austria-Hungary.|extension=png}}
+| {{Iconbox|We’re Putting the Band Back Together|扮演土耳其，与德国和奥匈帝国同阵营。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Turkey}}
-| {{icon|yes}} Be in a faction with {{Flag|Germany}} and {{Flag|Austria-Hungary}}
+| {{icon|yes}} 与 {{Flag|Germany}} 和 {{Flag|Austria-Hungary}} 处于同一阵营中
 |
-Hungary only needs to have completed "Restoration of Austria-Hungary" or been united with its neighbors via the Turkish focus "Press the Austro-Hungarian Claim". When AI Hungary is asking Austria to unite via a referendum, Austria seems never to accept, and in the following war Hungary loses on its own. As Turkey, chase to "Intervene in the Spanish Civil War", which will allow you to send 8 volunteer divisions. You have to have 30 divisions - 22 'anything works' and 8 as good as possible. Win the war for Hungary. Then later join Axis, declare war on Austria-Hungary and make them a puppet. 
+匈牙利只需要完成国策:"奥匈帝国复辟"或通过土耳其国策:"加强对奥匈帝国的宣称"来与其邻国组合起来即可。当AI匈牙利通过全民公投要求奥地利统一时，奥地利几乎不会同意，而在随后的战争中，匈牙利会输的毛都不剩。作为土耳其，完成国策:"干涉西班牙内战"可以让你派遣8个师的志愿军。你必须要有30个师，其中22个用来充数，另外8个要尽可能精锐。帮匈牙利赢得战争。然后加入轴心国，向奥匈帝国宣战，将其傀儡。
 | {{icon|dod}}{{icon|wtt}}
 | data-sort-value="10" | 1.10
 | {{DI|UC}}
 |-
-| {{Iconbox|Prussia of the Balkans|As Bulgaria capitulate Turkey while also controlling the rest of the Balkans, including Greece.|extension=png}}
+| {{Iconbox|Prussia of the Balkans|扮演保加利亚，击败土耳其，控制巴尔干其他地区，包括希腊。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Bulgaria}}
-| {{icon|yes}} Is at war with {{Flag|Turkey}}<br/>
-{{icon|yes}} {{Flag|Turkey}} has capitulated<br/>
-{{icon|yes}} Controls the core states of {{Flag|Romania}}, {{flag|希腊王国}} (Not including Dodecanese (164)), {{Flag|Yugoslavia}} and {{flag|Albania}}<br/>
-| You only need to occupy the states, not own them. Switch to communist and get as many Balkan country as possible in your faction. If going the Balkan Federation route, a country will flip above 60% communist support, Romania and Greece are particularly important to get on your side. Any Balkan country in your faction can be annexed though the 'Unification of the Balkans' focus, with a higher chance for high opinion, relative army strength and being faction leader. Once you have established the Federation, attack whoever still controls land in the Balkans and capitulate Turkey (if it made its own faction, annex it and releaese it).
+| {{icon|yes}} 与 {{Flag|Turkey}} 交战中<br/>
+{{icon|yes}} {{Flag|Turkey}} 被击败<br/>
+{{icon|yes}} 控制以下国家的核心地区: {{Flag|Romania}} 、 {{flag|希腊王国}} (Not including 十二群岛 (164)) 、 {{Flag|Yugoslavia}} 和 {{flag|Albania}}<br/>
+| 你只需要占领而非拥有这些地区。转向共产主义，让尽可能多的巴尔干国家加入你的阵营。如果走巴尔干联邦路线，一个国家的共产主义支持度将超过60%，尤其注意要将罗马尼亚和希腊拉到你这边。可以通过国策:'''巴尔干的统一'''吞并任何在你阵营内的巴尔干国家，更高的好感度、更强的军队和成为阵营领袖都可以让成功几率变大。建立好联盟之后，进攻仍然控制巴尔干地区土地的国家，击败土耳其(如果土耳其组建了自己的阵营，吞并土耳其然后再释放)。
 | 
 | data-sort-value="10" | 1.10
 | {{DI|H}}
 |-
-| {{Iconbox|Master Puppeteer|As Bulgaria, complete the focus The Fate of the Balkans while having 5 or more Balkan puppets.|extension=png}}
+| {{Iconbox|Master Puppeteer|扮演保加利亚，完成国策:'''巴尔干的命运'''，拥有最少5个巴尔干傀儡。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Bulgaria}}
-| {{icon|yes}} Has completed focus '''The Fate of the Balkans'''<br/>
-{{icon|yes}} at least '''6''' of the following is a subject of {{flag|Bulgaria}}:
+| {{icon|yes}} 完成国策:'''巴尔干的命运'''<br/>
+{{icon|yes}} 至少使以下中的'''6'''个成为 {{flag|Bulgaria}} 的附属国:
 {{Collapse|
 *{{flag|Romania}}
 *{{Flag|Yugoslavia}}
@@ -1810,16 +1813,16 @@ Hungary only needs to have completed "Restoration of Austria-Hungary" or been un
 *{{flag|Kosovo}}
 *{{flag|Republic of Montenegro}}}}
 |
-After completing "The Fate of the Balkans" you get the ability to peacefully puppet any nation with a Balkan capital who is in your faction, as well as the capacity to force them into your faction if they are not already in one. A puppeted Yugoslavia can be integrated with its constituent states released as puppets for this achievement, or you can seize Macedonia and Southern Serbia from them via descision. These states can make the puppets Macedonia and Serbia. In order to get states to join your faction via decision it is important to have more manpower deployed to the field, and puppet expeditionary forces contribute to this number.
+完成国策:"巴尔干的命运"后，你可以和平傀儡你阵营内任何首都在巴尔干的国家，如果它们没有在任何阵营内你也可以强迫它们加入你的阵营。一个被傀儡的南斯拉夫可以与它的组成国合并，作为这个成就的傀儡，或者你可以通过决议从他们手中夺取马其顿和南塞尔维亚。这些地区可以组成傀儡马其顿和傀儡塞尔维亚。为了通过决议让各国加入你的阵营，要使用更多的人力组建军队，傀儡远征军的人力也算在这个数量中。
 | {{icon|bfb}}
 | data-sort-value="10" | 1.10
 | {{DI|M}}
 |-
-| {{Iconbox|One Nation Under Atatürk, Indivisible|As non-aligned Turkey, have zero negative state modifiers.|extension=png}}
+| {{Iconbox|One Nation Under Atatürk, Indivisible|扮演中立土耳其，所有地区都没有负面状态修正效果。|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Turkey}}<br/>
-{{icon|yes}} The DLC {{icon|bftb}} is enabled
-| {{icon|yes}} As {{icon|unaligned|1}} {{flag|Turkey}}, have no negative state modifiers in any of your owned states.
-| Go the Kemalist route through the Etatism and Peace at Home focuses. Take the Silent Workhorse advisor and use the Secularism decision whenever available to block the expansion of your Islamist rivals. The Türk Ulusu focus will pacify the Kurdish states, while the Islamist opposition can be dealt with through the Counter-Fundamentalist Operation or compromise decisions (as long as the Kemalist remain loyal). You do not have to go to war and simply need enough political power to repeat the decisions. The achievement will trigger when all Islamic states are Placated, and the Kurdish states are either at Separatist Fatigue or cored.
+{{icon|yes}} 启用 {{icon|bftb}} 博斯普鲁斯之战DLC
+| {{icon|yes}} 扮演 {{icon|unaligned|1}} {{flag|Turkey}}，拥有的任何地区都没有负面状态修正。 
+| 通过进行国策:'''延续国家主义政策''' 和 '''国内和平''' 走凯末尔路线。雇佣沉默的实干家，只要可以就用决议：'''世俗主义'''打压伊斯兰派对手。国策:'''土耳其人的国度'''会平息库尔德叛乱，使用对反原教旨主义者的行动或妥协决议来解决伊斯兰反对派(只需保证凯末尔主义支持度)。战争并非必然，只要有足够的政治力量去重复推动这些决议。当所有伊斯兰地区都已被安抚，库尔德地区要么是核心，要么有分离主义者的衰竭修正，该成就将被触发。
 | {{icon|bftb}},
 | data-sort-value="10" | 1.10
 | {{DI|VE}}
