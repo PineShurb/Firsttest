@@ -1575,7 +1575,7 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 |-
 | {{Iconbox|Hardly Anything Sèvres|扮演奥斯曼帝国，控制法国、英国、意大利和日本的首都。|extension=png}}
 | {{icon|yes}} 扮演 {{Flag|Turkey}}
-| {{icon|yes}} {{Flag|Ottoman Empire}} 控制 {{flag|United Kingdom|Britain}}、 {{flag|France}}、 {{Flag|Italy}}、 and {{Flag|Japan}} 的首都。
+| {{icon|yes}} {{Flag|Ottoman Empire}} 控制 {{flag|United Kingdom|Britain}}、 {{flag|France}}、 {{Flag|Italy}} 和 {{Flag|Japan}} 的首都。
 | 要建立奥斯曼帝国，需要完成左侧国策树，完成国策:"举行首次多党选举"后选择阿德南·曼德斯。这项成就要求你取得对抗轴心国和同盟国的胜利。最简单的方法是禁用 抵抗运动DLC ，游戏开始和反对凯末尔的内战结束后支持俄罗斯和美国国内的中立主义派系。你需要把握适当的时机在俄罗斯和美国掀起政变，以此让叛军加入自己阵营而非轴心国(它们应该不会与其它阵营交战)。在俄罗斯行动的最佳时机是意大利加入轴心国时，几个月后对美国动手(如果你对中立主义派系有足够的支持，这两个国家此时稳定度应该小于80%，但有时可能不同)。在此期间，你可以利用国策:''收复马其顿地区''给与的宣称对希腊和罗马尼亚发动海军入侵，最终将其吞并或傀儡。完成国策："加强对奥匈帝国的宣称"后可以创建阵营。在发动政变任务完成前，正当化对俄罗斯战争并宣战。发动政变成功后，邀请叛军加入阵营。你只需守住阵线，不让俄罗斯中立主义派系投降即可(你无需参战，德国击败俄罗斯后，叛军会接管整个俄国)。你同样需要派遣大量部队去帮助美国叛军，所以最好选择太平洋一侧的城市发动政变(此时轴心国应该已经控制了苏伊士运河，你可以在与俄罗斯交战时请求通行权)。就像对俄罗斯一样，你要在政变任务完成前对美国宣战。当民主美国和社会主义俄罗斯都投降之后，你的阵营中已经有了两个最强大的国家。你的阵营可以赢下任何一场战争。时刻注意中立俄罗斯的部队数量，当你准备好后向轴心国宣战。然后通过海军入侵/空降占领首都或向盟友要求移交控制权。
 | {{icon|bfb}}
 {{icon|wtt}}
@@ -1593,7 +1593,7 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 ** {{flag|Hungary}}
 ** {{flag|Italy}}
 ** {{flag|Romania}}
-** {{flag|希腊王国}} ({{red|except}} 伊斯坦布尔 (341) )
+** {{flag|希腊王国}} ({{red|除了}} 伊斯坦布尔 (341) )
 |2}}
 |只要占领所需地区即可，所以即使在战争中也可取得成就。可以与成就： [[The Balkan Powder Keg]] 一同获取。
 (ps:后面是来自nga的攻略，侵删)
