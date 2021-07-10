@@ -1,0 +1,80 @@
+法国
+<section begin=branches desc/>
+The French national focus tree can be divided into 5 branches and 7 sub-branches:
+
+;Devalue the Franc Branch
+:This branch offers the possibility to develop [https://en.wikipedia.org/wiki/Metropolitan_France Metropolitan France] and the [https://en.wikipedia.org/wiki/French_colonial_empire overseas colonies], as well as add two more [[research slot]]s. 
+
+;Begin Rearmament Branch
+:This branch focuses either on defensive or offensive expansion of the military. The defensive focuses give army and fortification bonuses while the offensive focuses give army and air bonuses. They end with the shared focus [[File:goal_generic_army_doctrines.png|x22px|link=#Army Reform|alt=Army Reform icon]] Army Reform which removes the starting [[national spirit]] {{iconify|Victors of the Great War}}. 
+
+;Form the Popular Front/Revive the National Bloc Branch
+:This branch develops French industry. The left side of the branch adds factories to various states, completely removes [[File:Generic local self management.png|20px|link=France#Inefficient_Economy|Inefficient Economy]] [[France#Inefficient_Economy|Inefficient Economy]] and leads to the {{icon|communist|1}} sub-branch. The right side of the branch develops construction speed, manipulates party popularity, and leads to the {{icon|fascist|1}} and {{icon|non-aligned|monarchist}} sub-branch. Both sides lead to the historical {{icon|democratic|1}} sub-branch of the focus tree and Intervention in {{flag|Spain}} decisions.
+
+*;Invite Communist Ministers Sub-branch
+:This sub-branch allows France to become {{icon|Communist|1}}, gain manpower and political power. The Reconciliation section gives stability and political power. It leads to the Anti-Fascist coalition section which allies with neighboring or Balkan {{icon|Communist|1}} and {{icon|Democratic|1}} nations and manpower. The Revolution to the Utmost gives war support and a civil war. It leads to the Loyalty to the Cause section which gives war goals against the {{flag|United Kingdom}}, {{flag|Spain}}, {{flag|Germany}} and {{flag|Italy}}. Both the Reconciliation and the Revolution to the Utmost leads to the Loyalty to Moscow section which allows France to join the Comintern. This section and the Anti-Fascist coalition section leads to a focus that gives war goals against all neighboring {{icon|Fascist|1}} nation.
+
+*;Leftist Rhetoric Sub-branch
+:This sub-branch is only available if the {{icon|lar|1}} DLC is not enabled. This allows France to become {{icon|Communist|1}}.
+
+*;The Blum-Viollette Proposal Sub-branch
+:This sub-branch allows France to core Algeria, gain non-core manpower and compliance or lose the national spirit [[File:Generic production bonus.png|20px|link=France#Full_Employment|Full Employment]] [[France#Full_Employment|Full Employment]]. Depending on the choice of the colonies, the French Union focus allows France to annex and core its colonies or increase resistance.
+
+*;Review Foreign Policy Sub-branch
+:This sub-branch allows France to either create the Little Entente with {{flag|Czechoslovakia}}, {{Flag|Yugoslavia}}, {{flag|Romania}} or {{Flag|Poland}}, support {{flag|Finland}} in their war, join the Allies or create the Stresa Front with the {{flag|United Kingdom}} and {{Flag|Italy}}.
+
+*;Utilize the Leagues Sub-branch
+:This sub-branch allows France to become {{icon|Fascist|1}}, gain claims on various nations and make alliances with other European nations. The Latin Entente section allows France to ally with {{Flag|Spain}}, {{Flag|Portugal}} and Italy for French Somaliland, gain claims on {{flag|Greece}} and war goals on {{Flag|Germany}}, {{Flag|Belgium}} and the {{Flag|Netherlands}}. The Towards a New Europe section allows France to join the Axis, gain claims and war goals on {{flag|Belgium}} and {{flag|Canada}}. Both sections lead to war goals claims and subjugation on the Middle East.
+
+*;The Council of Rambouillet Sub-branch
+:This sub-branch restores the French monarchy from either the House of Orléans (Orléaniste), Bourbon (Légitimistes) or Bonaparte (Bonapartiste). The Orléanist section gives war goals against {{flag|Germany}} and {{flag|Italy}}. The Légitimist section gives an alliance, an annexation or wargoal on {{flag|Spain}}. The Bonapartist section gives war goals against {{flag|United Kingdom}}, {{flag|Belgium}}, {{flag|Netherlands}}, {{Flag|Germany}} and the {{flag|Soviet Union}}. It also has a focus to split {{flag|Germany}} into 7-9 different countries.
+
+*;Right Wing Rhetoric Sub-branch
+:This sub-branch is only available if the {{icon|lar|1}} DLC is not enabled. This allows France to become {{icon|Fascist|1}}.
+
+;Naval Rearmament Branch
+:This branch includes focuses which grant [[experience]] and [[research]] bonuses that improve the navy.
+
+;Air Focus Branch
+:This branch includes focuses which grant [[experience]] and [[research]] bonuses that improve the air force.
+<section end=branches desc/>
+中文
+<section begin=branches desc/>
+法国国家重点树可分为5个分支和7个子分支。
+
+;贬值法郎分支
+:这个分支提供了发展[https://en.wikipedia.org/wiki/Metropolitan_France 大都市法国]和[https://en.wikipedia.org/wiki/French_colonial_empire 海外殖民地]的可能性，同时也增加了两个[[研究槽]]。
+
+;开始后备军分支
+这个分支的重点是军队的防御性或进攻性扩张。防御性分支给予军队和防御工事的奖励，而进攻性分支给予军队和空军的奖励。它们以共同的焦点[[File:goal_generic_army_doctrines.png|x22px|link=#Army Reform|alt=Army Reform icon]]结束。军队改革，取消了开始的[[民族精神]] 。{{iconify|Victors of the Great War}}。
+
+;组建人民阵线/复兴民族集团分部
+:该分支发展法国工业。支部的左边增加了各州的工厂，完全取消了[[File:Generic local self management.png|20px|link=France#Inefficient_Economy|Inefficient Economy]] [[France#Inefficient_Economy|Inefficient Economy]]并导致{{icon|communist|1}}分支。右边的支部发展建设速度，操纵党内人气，并导致{{icon|法西斯|1}}和{{icon|不结盟|君主主义}}支部。双方都导致历史上{{icon|democratic|1}}子分支的焦点树和干预{{flag|Spain}}决定。
+
+*;邀请共产党部长子支行
+:该支行允许法国成为{{icon|Communist|1}}，获得人力和政治权力。和解部分给予稳定和政治权力。它导致了反法西斯联盟部分，与邻国或巴尔干地区的{{icon|Communist|1}}和{{icon|Democratic|1}}国家和人力结盟。革命到极致》给予战争支持和内战。它引出了忠于事业的部分，给出了针对{{旗帜|英国}}、{{旗帜|西班牙}}、{{旗帜|德国}和{{旗帜|意大利}}的战争目标。} 和解》和《革命至高无上》都引出了《忠于莫斯科》部分，该部分允许法国加入共产国际。这一部分和反法西斯联盟部分导致了一个重点，即对所有邻近的{{icon|Fascist|1}}国家提出战争目标。
+
+*;左派言论支部
+:这个分支只有在{{icon|lar|1}}DLC未启用的情况下才可用。该分支只有在{{icon|lar|1}}DLC没有启用的情况下才能使用。这使得法国可以成为{{icon|Communist|1}}国家。
+
+*;布卢姆-维莱特提案子支部
+:这个分支允许法国以阿尔及利亚为核心，获得非核心的人力和遵守或失去民族精神[[File:Generic production bonus.png|20px|link=France#Full_Employment|Full Employment]] [[France#Full_Employment|Full Employment]]。根据殖民地的选择，法国联盟的重点允许法国吞并和核心殖民地或增加阻力。
+
+*;审查外交政策分支
+:该分支允许法国与{{旗帜|捷克斯洛伐克}}、{{旗帜|南斯拉夫}、{{旗帜|罗马尼亚}或{{旗帜|波兰}建立小协约，支持{{旗帜|芬兰}的战争，加入盟国或与{{旗帜|英国}和{{旗帜|意大利}建立斯特雷萨阵线。}
+
+*;利用联盟的子分支
+:该支行允许法国成为{{国旗|法西斯|1}}，获得对各国的权利要求，并与其他欧洲国家结盟。拉丁协约部分允许法国与{{旗帜|西班牙}}、{{旗帜|葡萄牙}}和意大利结盟，争夺法属索马里兰，获得对{{旗帜|希腊}}的主权要求，以及对{{旗帜|德国}}、{{旗帜|比利时}}和{{旗帜|荷兰}的战争目标。} 走向新欧洲部分允许法国加入轴心国，获得对{{旗帜|比利时}}和{{旗帜|加拿大}}的索赔和战争目标。这两个部分都导致了对中东地区的战争目标要求和征服。
+
+*;朗布依埃议会支部
+:该支部从奥尔良（Orléaniste）、波旁（Légitimistes）或波拿巴（Bonapartiste）家族恢复法国君主制。奥尔良主义部分提出了针对{{国旗|德国}}和{{国旗|意大利}}的战争目标。莱吉特主义者部分提出了对{{国旗|西班牙}}的联盟、吞并或战争目标。波拿巴主义部分提出了针对{{旗帜}}英国、{{旗帜}}比利时、{{旗帜}}荷兰、{{旗帜}}德国和{{旗帜}}苏联的战争目标。它还有一个重点，就是把{{旗帜|德国}}分成7-9个不同的国家。
+
+*;右翼修辞学支部
+:这个支部只有在{{icon|lar|1}}的情况下才能使用。不启用DLC。这使得法国可以成为{{icon|Fascist|1}}。
+
+海军后备军分支
+这个分支包括给予[[经验]]和[[研究]]奖励的重点，以提高海军的实力。
+
+;空中重点部门
+这个分支包括授予[[经验]]和[[研究]]奖金以改善空军的重点。
+<section end=branches desc/>

@@ -1,0 +1,41 @@
+法国
+<section begin="branches desc" />
+The French national focus tree can be divided into 5 branches and 7 sub-branches:
+
+;贬值法郎线
+:发展[https://en.wikipedia.org/wiki/Metropolitan_France Metropolitan France]和[https://en.wikipedia.org/wiki/French_colonial_empire overseas colonies]，亦能新增两个[[科研槽]]。
+
+;开始重整军备线
+:在军事上的重视防御或进攻中选择。重视防御给予陆军和堡垒的加成，而重视进攻给予陆军和空军加成。二者皆以[[File:goal_generic_army_doctrines.png|x22px|link=#Army Reform|alt=Army Reform icon]] Army Reform which removes the starting [[民族精神]] {{iconify|Victors of the Great War}}.
+
+;成立人民阵线/复兴国民联盟线
+:除了共通的发展法国工业外，左线人民阵线给予一些工厂，完全移除[[File:Generic local self management.png|20px|link=France#Inefficient_Economy|Inefficient Economy]] [[France#Inefficient_Economy|Inefficient Economy]] 并走向 {{icon|communist|共产主义}}。右线国民联盟提高建设速度，手动改变政党支持率并走向 {{icon|fascist|法西斯主义}} 或 {{icon|non-aligned|君主制}}。但两者都能能走向 {{icon|democratic|民主主义}}的历史路线并解锁国策：介入 {{flag|Spain}}内战决议以及处理殖民地区和本土的人力问题，或者说一个建立在殖民帝国基础上的法兰西。
+
+;邀请共产主义部长分支
+:This sub-branch allows France to become {{icon|Communist|1}}, gain manpower and political power. The Reconciliation section gives stability and political power. It leads to the Anti-Fascist coalition section which allies with neighboring or Balkan {{icon|Communist|1}} and {{icon|Democratic|1}} nations and manpower. The Revolution to the Utmost gives war support and a civil war. It leads to the Loyalty to the Cause section which gives war goals against the {{flag|United Kingdom}}, {{flag|Spain}}, {{flag|Germany}} and {{flag|Italy}}. Both the Reconciliation and the Revolution to the Utmost leads to the Loyalty to Moscow section which allows France to join the Comintern. This section and the Anti-Fascist coalition section leads to a focus that gives war goals against all neighboring {{icon|Fascist|1}} nation.
+
+;Leftist Rhetoric Sub-branch
+:This sub-branch is only available if the {{icon|lar|1}} DLC is not enabled. This allows France to become {{icon|Communist|1}}.
+
+;The Blum-Viollette Proposal Sub-branch
+:This sub-branch allows France to core Algeria, gain non-core manpower and compliance or lose the national spirit [[File:Generic production bonus.png|20px|link=France#Full_Employment|Full Employment]] [[France#Full_Employment|Full Employment]]. Depending on the choice of the colonies, the French Union focus allows France to annex and core its colonies or increase resistance.
+
+;Review Foreign Policy Sub-branch
+:This sub-branch allows France to either create the Little Entente with {{flag|Czechoslovakia}}, {{Flag|Yugoslavia}}, {{flag|Romania}} or {{Flag|Poland}}, support {{flag|Finland}} in their war, join the Allies or create the Stressa Front with the {{flag|United Kingdom}} and {{Flag|Italy}}.
+
+;Utilize the Leagues Sub-branch
+:This sub-branch allows France to become {{icon|Fascist|1}}, gain claims on various nations and make alliances with other European nations. The Latin Entente section allows France to ally with {{Flag|Spain}}, {{Flag|Portugal}} and Italy for French Somaliland, gain claims on {{flag|Greece}} and war goals on {{Flag|Germany}}, {{Flag|Belgium}} and the {{Flag|Netherlands}}. The Towards a New Europe section allows France to join the Axis, gain claims and war goals on {{flag|Belgium}} and {{flag|Canada}}. Both sections lead to war goals claims and subjugation on the Middle East.
+
+;The Council of Rambouillet Sub-branch
+:This sub-branch restores the French monarchy from either the House of Orléans (Orléaniste), Bourbon (Légitimistes) or Bonaparte (Bonapartiste). The Orléanist section gives war goals against {{flag|Germany}} and {{flag|Italy}}. The Légitimist section gives an alliance, an annexation or wargoal on {{flag|Spain}}. The Bonapartist section gives war goals against {{flag|United Kingdom}}, {{flag|Belgium}}, {{flag|Netherlands}}, {{Flag|Germany}} and the {{flag|Soviet Union}}. It also has a focus to split {{flag|Germany}} into 7-9 different countries.
+
+;Right Wing Rhetoric Sub-branch
+:This sub-branch is only available if the {{icon|lar|1}} DLC is not enabled. This allows France to become {{icon|Fascist|1}}.
+
+;Naval Rearmament Branch
+:This branch includes focuses which grant [[experience]] and [[research]] bonuses that improve the navy.
+
+;Air Focus Branch
+:This branch includes focuses which grant [[experience]] and [[research]] bonuses that improve the air force.
+
+<section end="branches desc" />

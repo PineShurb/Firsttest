@@ -1,0 +1,515 @@
+14:39, 11 June 2021‎ 
+
+{{Version|1.9}}
+[[File:HOI4 Focus Trees.png|thumb|400px|The game map, showing only countries with non-generic focus trees.]]
+''National focus trees'' serve as a replacement for the mixture of decisions and triggered [[events]] which directed countries in previous iterations of ''Hearts of Iron''.
+
+The focus trees allow the players (and the AI) to direct the development of their nation. Each country has a ''focus tree'', representing a number of progression paths (branches) available to that nation. These paths may be based on actual historical situations or on alternative historical possibilities. The individual options can range from political, diplomatic and warfare-related focuses to more economic and research-related focuses.
+
+Due to the semi-random nature of the AI it ensures that no two games will play out in precisely the same way. Players wishing to have a more historical-based campaign can choose to do so by ticking the ''Historical AI Focuses'' option on the country selection screen (map) just before the start of a new game. It is important to note, however, that player nations are not bound by this and as such their in-game actions can still force the AI to pick somewhat less than historical choices.
+
+The seven [[Countries#Major countries|great powers]] (and {{flag|Poland}}) have a unique national focus tree in the base game. Additional countries - as detailed below - received a unique focus tree as part of different DLCs. All other nations use the [[generic national focus tree]].
+
+<div class="toclimit-3">__TOC__</div>
+
+
+{| class="toccolours" width=100%
+! National focus trees (click on a country name to get to its section)
+|-valign=top
+| 
+<div style="float:left; margin-right: 80px;">
+; {{icon|hoi4}} [[#Base game trees|Base game]]
+: [[#Generic tree|Generic tree]]
+: {{flag|France|0}} [[#France|France]]
+: {{flag|Germany|0}} [[#Germany|Germany]]
+: {{flag|Italy|0}} [[#Italy|Italy]]
+: {{flag|Japan|0}} [[#Japan|Japan]]
+: {{flag|Soviet Union|0}} [[#Soviet Union|Soviet Union]]
+: {{flag|United Kingdom|0}} [[#United Kingdom|United Kingdom]]
+: {{flag|United States|0}} [[#United States|United States]]
+: {{flag|Poland|0}} [[#Poland|Poland]] (United and Ready)
+</div><div style="float:left; margin-right: 80px;">
+; {{icon|tfv}} [[#Together for Victory trees|Together for Victory]]
+: {{flag|Australia|0}} [[#Australia|Australia]]
+: {{flag|British Raj|0}} [[#British Raj|British Raj]]
+: {{flag|Canada|0}} [[#Canada|Canada]]
+: {{flag|New Zealand|0}} [[#New Zealand|New Zealand]]
+: {{flag|South Africa|0}} [[#South Africa|South Africa]]
+</div><div style="float:left; margin-right: 80px;">
+; {{icon|dod}} [[#Death or Dishonor trees|Death or Dishonor]]
+: {{flag|Czechoslovakia|0}} [[#Czechoslovakia|Czechoslovakia]]
+: {{flag|Hungary|0}} [[#Hungary|Hungary]]
+: {{flag|Romania|0}} [[#Romania|Romania]]
+: {{flag|Yugoslavia|0}} [[#Yugoslavia|Yugoslavia]]
+</div><div style="float:left; margin-right: 80px;">
+; {{icon|wtt}} [[#Waking the Tiger trees|Waking the Tiger]]
+: [[#Chinese warlords|Chinese warlords]]
+: {{flag|China|0}} [[#China|China]]
+: {{flag|Communist China|0}} [[#Communist China|Communist China]]
+: {{flag|Manchukuo|0}} [[#Manchukuo|Manchukuo]]
+: {{flag|Germany|0}} [[#Germany|Germany]] (expanded)
+: {{flag|Japan|0}} [[#Japan|Japan]] (expanded)
+</div><div style="float:left; margin-right: 80px;">
+; {{icon|mtg}} [[#Man the Guns trees|Man the Guns]]
+: {{flag|Mexico|0}} [[#Mexico|Mexico]]
+: {{flag|Netherlands|0}} [[#Netherlands|Netherlands]]
+: {{flag|United Kingdom|0}} [[#United Kingdom|United Kingdom]] (expanded)
+: {{flag|United States|0}} [[#United States|United States]] (expanded)
+</div><div style="float:left; margin-right: 80px;">
+; {{icon|lar}} [[#La Résistance trees|La Résistance]]
+: {{flag|Portugal|0}} [[#Portugal|Portugal]]
+: {{flag|Spain|0}} [[#Spain|Spain]]
+: {{flag|France|0}} [[#France|France]] (expanded)
+</div><div style="float:left; margin-right: 80px;">
+; {{icon|bftb}} [[#Battle for the Bosporus trees|Battle for the Bosporus]]
+: {{flag|Bulgaria|0}} [[#Bulgaria|Bulgaria]]
+: {{flag|Greece|0}} [[#Greece|Greece]]
+: {{flag|Turkey|0}} [[#Turkey|Turkey]]
+</div>
+
+|}<!-- end of focus trees ToC -->
+
+== Mechanic overview ==
+{{SVersion|1.9}}
+[[File:NF tree Generic.jpg|600px|thumbnail|The Generic national focus tree has 5 different branches.]]
+
+Branches in a focus tree revolve around a common theme or goal with the individual focuses within intended to help in achieving that goal. Although branches are mostly isolated from each other, they will be connected (locally) if they happen to coincide over a common point.
+
+Only a single focus can be taken at a time. A focus requires {{icon|Political power}} {{red|70}} Political power to complete at a progress rate of {{icon|Political power}} {{red|–1}} Political power per day - this means a focus would ''usually'' be completed within {{icon|time}} 70 days. When completed, the player may go up to 10 days without picking a new focus and still have those days (and their accumulated {{icon|Political power}} Political power) count towards the new focus.
+
+Aside from the branches' top level focuses, most other focuses have additional requirements in need of fulfillment before they can be picked. If a requirement of an on-going focus has become invalidated, the focus will either be paused until the requirement is restored (if possible) or outright be cancelled when such a thing is not easily possible. For cases such as the latter, focuses will have bypass conditions to allow the player to proceed past them - the player will be notified of the bypass within a few days (they will display a golden bracket as if completed regularly). For example, [[File:goal_generic_army_motorized.png|28px]] [[Generic national focus tree#Motorization Effort|Motorization Effort]] can be bypassed if the [[File:Motorized cropped.png|28px]] Motorized Infantry technology has already been researched beforehand.
+
+Once a focus has started, the player can't manually stop or replace it, unless the player has the {{icon|mtg}} Man the Guns expansion. If, due to circumstances, the focus has been invalidated, the resources already spent are lost. As such, it is immensely recommended to check all requirements and conditions regarding a focus to assess if/how they may be affected within its completion time-frame.
+
+Accessing a focus' expanded details can be achieved by clicking or hovering over the focus. Among the information presented there are: the flavor description, its requirements, bypass conditions (if applicable) and the expected completion effects.
+
+=== Visual indicators ===
+* ''Bracket color'' - Players can check at a glance a focus' completion status by the background color of its name bracket. Grey bracket means available for picking, brown bracket indicates as of yet unavailability and golden bracket denotes completed focuses. On-going focuses will feature a shining overlay effect over them.
+
+* ''Connection lines'' - Focuses are connected by colored lines. The color indicates whether its preceding focus is completed (green) or not (light-blue). The connection may also appear as a solid or dotted line, with the former indicating a logical ''AND'' and the latter a logical ''OR''. For example, to pick [[File:Goal_generic_special_forces.png|28px]] [[Generic national focus tree#Special Forces|Special Forces]] would require all 3 of the focuses preceding it while picking [[File:Goal_generic_scientific_exchange.png|28px]] [[Generic national focus tree#Technology Sharing|Technology Sharing]] requires only one of the 2 preceding it.
+
+* ''Mutually exclusive'' - Some focuses may have the {{icon|exclusivem}} ''mutually exclusive'' icon appearing in-between them. The icon denotes that only one of two may be selected. Further more, depending on the focuses outgoing connections it may also exclude from picking any of the focuses connected to them further down the line. For example, choosing between [[File:Goal_generic_national_unity.png|28px]] [[Generic national focus tree#Collectivist Ethos|Collectivist Ethos]] or [[File:Goal_generic_support_democracy.png|28px]] [[Generic national focus tree#Liberty Ethos|Liberty Ethos]] will make any of the other side's subsequent connected focuses unavailable for picking up until [[File:Goal_generic_scientific_exchange.png|28px]] [[Generic national focus tree#Technology Sharing|Technology Sharing]] (linked to both sides by an ''OR'' connection).
+
+=== Continuous focus ===
+[[File:Continuous focus panel.png|300px|thumb|The continuous focus panel.]]
+{{main|Continuous focus}}
+{{#lst:Continuous focus|branches desc}}
+{{clear}}
+
+== National focus trees ==
+=== Base game trees ===
+----
+==== <big>Generic tree</big> ====
+[[File:NF tree Generic.jpg|thumbnail|600px|Generic national focus tree.]]
+{{main|Generic national focus tree}}
+All nations lacking a unique national focus tree use the generic national focus tree instead.
+{{#lst:Generic national focus tree|branches desc}}
+
+'''Note:''' The generic focus tree also acts as the default tree for nations which received a unique focus tree in a DLC if said DLC is ''not'' enabled.
+{{clear}}
+====<big>France</big>====
+{{#lsth:France|National focus}}
+{{expansion|lar}}
+If {{flag|France}} capitulates to the {{flag|German Reich}}, it will be divided into {{flag|Free France}} and {{flag|Vichy France}}, with both regimes receiving a unique national focus tree as part of the {{icon|lar}} La Résistance expansion. Without the expansion, {{flag|Free France}} retains the [[French national focus tree]], whereas {{flag|Vichy France}} utilizes the [[Generic national focus tree]] instead.
+=====Free France=====
+{{main|Free French national focus tree}}
+{{#lst:Free French national focus tree|branches desc}}
+=====Vichy France=====
+{{main|Vichy French national focus tree}}
+{{#lst:Vichy French national focus tree|branches desc}}
+{{clear}}
+====<big>Germany</big>====
+{{#lsth:German Reich|National focus}}
+{{clear}}
+====<big>Italy</big>====
+{{#lsth:Italy|National focus}}
+{{clear}}
+====<big>Japan</big>====
+{{#lsth:Japan|National focus}}
+{{clear}}
+==== <big>Poland</big> ====
+{{#lsth:Poland|National focus}}
+{{clear}}
+====<big>Soviet Union</big>====
+{{#lsth:Soviet Union|National focus}}
+{{clear}}
+====<big>United Kingdom</big>====
+{{#lsth:United Kingdom|National focus}}
+{{clear}}
+====<big>United States</big>====
+{{#lsth:United States|National focus}}
+{{clear}}
+
+=== Together for Victory trees ===
+----
+{{expansion|tfv}}
+==== <big>Australia</big> ====
+{{#lsth:Australia|National focus}}
+{{clear}}
+==== <big>British Raj</big> ====
+{{#lsth:British Raj|National focus}}
+{{clear}}
+==== <big>Canada</big> ====
+{{#lsth:Canada|National focus}}
+{{clear}}
+==== <big>New Zealand</big> ====
+{{#lsth:New Zealand|National focus}}
+{{clear}}
+==== <big>South Africa</big> ====
+{{#lsth:South Africa|National focus}}
+{{clear}}
+
+=== Death or Dishonor trees ===
+----
+{{expansion|dod}}
+==== <big>Czechoslovakia</big> ====
+{{#lsth:Czechoslovakia|National focus}}
+{{clear}}
+==== <big>Hungary</big> ====
+{{#lsth:Hungary|National focus}}
+{{clear}}
+==== <big>Romania</big> ====
+{{#lsth:Romania|National focus}}
+{{clear}}
+==== <big>Yugoslavia</big> ====
+{{#lsth:Yugoslavia|National focus}}
+{{clear}}
+
+=== Waking the Tiger trees ===
+----
+{{expansion|wtt}}
+==== <big>China</big> ====
+{{#lsth:China|National focus}}
+{{clear}}
+==== <big>Communist China</big> ====
+{{#lsth:Communist China|National focus}}
+{{clear}}
+==== <big>Manchukuo</big> ====
+{{#lsth:Manchukuo|National focus}}
+{{clear}}
+==== <big>Chinese warlords</big> ====
+[[File:NF_tree_Warlords.png|thumbnail|600px|Chinese warlord national focus tree.]]
+{{main|Warlords national focus tree}}
+The Chinese warlords ({{flag|Yunnan}}, {{flag|Sinkiang}}, {{flag|Guangxi Clique|Guangxi}}, {{flag|Shanxi}}, and {{flag|Xibei San Ma}}) share a unique national focus tree in the {{icon|wtt}}Waking the Tiger DLC. Without the expansion the warlords use the [[Generic national focus tree]] instead.
+{{#lst:Warlords national focus tree|branches desc}}
+{{clear}}
+
+=== Man the Guns trees ===
+----
+{{expansion|mtg}}
+==== <big>Mexico</big> ====
+{{#lsth:Mexico|National focus}}
+{{clear}}
+==== <big>Netherlands</big> ====
+{{#lsth:Netherlands|National focus}}
+{{clear}}
+
+=== La Résistance trees ===
+----
+{{expansion|lar}}
+==== <big>Portugal</big> ====
+{{#lsth:Portugal|National focus}}
+{{clear}}
+
+==== <big>Spain</big> ====
+[[File:NF tree Spain.jpg|thumbnail|600px|Spanish national focus tree.]]
+{{flag|Spain}} gets a unique national focus tree with the {{icon|lar}} La Résistance expansion, which will split into two separate trees once the Spanish Civil War breaks out. Without the expansion, it utilizes the [[Generic national focus tree]] instead.
+=====Nationalist Spain=====
+{{main|Nationalist Spanish national focus tree}}
+{{#lst:Nationalist Spanish national focus tree|branches desc}}
+=====Republican Spain=====
+{{main|Republican Spanish national focus tree}}
+{{#lst:Republican Spanish national focus tree|branches desc}}
+{{clear}}
+
+=== Battle for the Bosporus trees ===
+----
+{{expansion|bftb}}
+==== <big>Bulgaria</big> ====
+{{#lsth:Bulgaria|National focus}}
+{{clear}}
+
+==== <big>Greece</big> ====
+{{#lsth:Greece|National focus}}
+{{clear}}
+
+==== <big>Turkey</big> ====
+{{#lsth:Turkey|National focus}}
+{{clear}}
+
+{{National focus navbox}}
+
+{{Mechanics_Navbox}}
+
+[[Category:National focus trees|*]]
+[[Category:Game concepts]]
+
+[[hoi4de:National focus]]
+[[hoi4es:National focus]]
+[[hoi4fr:National focus]]
+[[hoi4pl:National focus]]
+[[hoi4pt:National focus]]
+[[hoi4ru:National focus]]
+
+
+{{版本|1.9}}。
+[[File:HOI4 Focus Trees.png|thumb|400px|游戏地图，仅显示有非通用焦点树的国家。]
+国家焦点树''取代了'钢铁之心'前几代中指导国家的决定和触发的[[事件]]的混合物。
+
+焦点树允许玩家（和AI）指导他们国家的发展。每个国家都有一棵''焦点树''，代表了该国家可用的一些进展路径（分支）。这些路径可能是基于实际的历史情况或替代的历史可能性。个人选择的范围可以从政治、外交和战争相关的焦点到更多的经济和研究相关的焦点。
+
+由于人工智能的半随机性质，它确保没有两场游戏会以精确的方式进行。希望拥有更多基于历史的战役的玩家，可以在新游戏开始前，在国家选择屏幕（地图）上勾选 "历史人工智能焦点 "选项来实现。然而，需要注意的是，玩家国家不受此约束，因此他们在游戏中的行动仍然可以迫使人工智能选择一些不符合历史的选择。
+
+七个[[国家#主要国家|大国]](和{{国旗|波兰})。和{{国旗|波兰}}）在基本游戏中都有一个独特的国家重点树。其他国家--详见下文--作为不同DLC的一部分获得了独特的焦点树。所有其他国家都使用[[通用国家焦点树]]。
+
+<div class="toclimit-3">__TOC__</div>。
+
+
+{| class="toccolours" width=100
+! 国家重点树（点击国家名称进入其部分）。
+|-valign=top
+| 
+<div style="float:left; margin-right: 80px;">
+;{{icon|hoi4}}。[[#基地游戏树|基地游戏]] 。
+: [[#通用树|通用树]] :[[#通用树|通用树]] 。
+: {{flag|France|0}}。[[#法国|France]]
+: {pos(190,8)}{旗帜|德国|0}{旗帜|德国|0}}。[[#Germany|Germany]]。
+: {{国旗|意大利|0}}：{国旗|意大利|0}}。[[#意大利|意大利]] [[#意大利|意大利]]
+: {fnTahomafs10bord0shad01cH00FFFF}{{flag|Japan|0}}}. [[#Japan|Japan]] [[#Japan|Japan]]
+: {{国旗|苏联|0}}：{国旗|苏联|0}}。[[#苏联|苏联]] [[#苏联|苏联]] 。
+: {{旗帜|英国|0}}： {旗帜|英国|0}}。[[#United Kingdom|United Kingdom]]。
+: {pos(190,268)}{{国旗|美国|0}}}： [[#美国|United States]] [[#美国|United States]] 。
+: {pos(190,8)}{国旗|波兰|0}}。[[#Poland|Poland]] [[#Poland|Poland]] 。(联合和准备)
+</div><div style="float:left; margin-right: 80px;">。
+;{{icon|tfv}}} [[#共同的胜利之树|共同的胜利]] 。
+: {{flag|Australia|0}}。[[#澳大利亚|澳大利亚]] :{flag|Australia|0}}.
+: {{旗帜|英国皇家|0}}：{旗帜|英国皇家|0}}。[[#英属拉吉|英属拉吉]] [[#英属拉吉|英属拉吉]] 。
+: {{旗帜|加拿大|0}}：{旗帜|加拿大|0}}。[[#加拿大|加拿大]] :{flag|Canada|0}} [[#加拿大|加拿大]]
+: {fnTahomafs10bord0shad01cH00FFFF}{{flag|New Zealand|0}}}. [[#新西兰|新西兰]] [[#新西兰|新西兰]] 。
+: {pos(190,268)}{国旗|南非|0}}： {pos(190,268)}： [[#南非|South Africa]]。
+</div><div style="float:left; margin-right: 80px;">。
+;{{icon|dod}} [[#Death or Dishonor trees|Death or Dishonor]]。
+: {{flag|Czechoslovakia|0}}}。[[#捷克斯洛伐克|捷克斯洛伐克]] [[#捷克斯洛伐克|捷克斯洛伐克]] 。
+: {{旗帜|匈牙利|0}}：{旗帜|匈牙利|0}}。[[#匈牙利|匈牙利]] :{flag|Hungary|0}} [[#匈牙利|Hungary]]
+: {{国旗|罗马尼亚|0}}：{国旗|罗马尼亚|0}}。[[#罗马尼亚|罗马尼亚]] [[#罗马尼亚|罗马尼亚]]
+: {{国旗|南斯拉夫|0}}：{国旗|南斯拉夫|0}}。[[#南斯拉夫|Yugoslavia]]。
+</div><div style="float:left; margin-right: 80px;">。
+;{{icon|wtt}}} [[#醒目的老虎树|醒目的老虎]] 。
+: [[#中国军阀|中国军阀]] 。
+: {{旗帜|中国|0}}。[[#中国|中国]]
+: {{旗帜|共产主义中国|0}}。[[#共产主义中国|共产主义中国]] :[#共产主义中国|共产主义中国]] 。
+: {{旗帜|满洲国|0}}：{旗帜|满洲国|0}}。[[#满洲国|满洲国]] 。
+: {{国旗|德国|0}}：{国旗|德国|0}}。[[#Germany|Germany]]。(扩大)
+: {pos(190,8)}[[#日本 [[#日本|日本]]。(扩大)
+</div><div style="float:left; margin-right: 80px;">。
+;{{icon|mtg}}} [[#男人的枪树|男人的枪]] 。
+: {{flag|Mexico|0}}。[[#墨西哥|Mexico]] :{flag|Mexico|0}.
+: {{旗帜|荷兰|0}}：{旗帜|荷兰|0}}。[[#Netherlands|Netherlands]] [[#Netherlands|Netherlands]] 。
+: {pos(190,8)}{国旗|英国|0}}。[[#United Kingdom|United Kingdom]]。(扩大)
+: {{旗帜|美国|0}}} [[#美国|美国]](扩大的)。[[#美国|United States]] [[#美国|United States]] (扩大) (扩大)
+</div><div style="float:left; margin-right: 80px;">。
+;{{icon|lar}}} [[#La Résistance trees|La Résistance]]。
+: {{flag|Portugal|0}}。[[#葡萄牙|葡萄牙]] :{flag|Portugal|0}}.
+: {{旗帜|西班牙|0}}。[[#西班牙|西班牙]]。
+: {{国旗|法国|0}}：{国旗|法国|0}}。[[#法国|法国]] :{{flag|France|0}}。(扩大)
+</div><div style="float:left; margin-right: 80px;">。
+;{{图标|bftb}} [[#博斯普鲁斯岛之战|博斯普鲁斯岛之战]] 。
+: {{flag|Bulgaria|0}}。[[#Bulgaria|Bulgaria]]。
+: {{旗帜|希腊|0}}：{旗帜|希腊|0}}。[[#希腊|希腊]] :[[#希腊|希腊]]。
+: {{国旗|土耳其|0}}：{国旗|土耳其|0}}。[[#Turkey|Turkey]]。
+</div>
+
+
+|}<！--焦点树ToC结束-->。
+
+== 机械师概述 ==
+{{SVersion|1.9}}******
+[[File:NF tree Generic.jpg|600px|thumbnail| Generic national focus tree has 5 different branches.]]。
+
+重点树中的分支围绕着一个共同的主题或目标，其中的各个重点旨在帮助实现这一目标。虽然分支大多是相互隔离的，但如果它们碰巧在一个共同点上重合，它们就会被连接起来（局部）。
+
+每次只能选择一个焦点。一个焦点需要{{icon|Political power}}。{{红}}70 政治力量，以{{icon|Political power}}的进度完成。进展速度为每天{{红}}-1 每天的政治力量--这意味着一个焦点通常会在{{icon|time}}内完成。70天内完成。完成后，玩家最多可以在10天内不选择新的重点，而且这些天（以及他们累积的{{icon|Political power}}政治力量）仍然可以计入新的重点。
+
+除了各分支的顶级焦点外，其他大多数焦点在挑选前都有需要满足的额外要求。如果一个正在进行的焦点的要求已经失效，该焦点将被暂停，直到该要求被恢复（如果可能的话），或者当这种事情不容易实现时，直接被取消。对于像后者这样的情况，焦点会有绕过的条件，以允许玩家继续前进--玩家会在几天内收到绕过的通知（他们会显示一个金色的括号，就像定期完成一样）。例如，[[File:goal_generic_army_motorized.png|28px]] 。如果[[File:Motorized cropped.png|28px]]的[[Generic national focus tree#Motorization Effort|Motorization Effort]]可以被绕过。摩托化步兵技术已经事先研究过了。
+
+一旦聚焦开始，玩家就不能手动停止或更换，除非玩家有{{icon|mtg}}}。Man the Guns扩展。如果由于环境原因，焦点被废止，已经花费的资源就会丢失。因此，我们强烈建议你检查所有关于焦点的要求和条件，以评估它们是否会在完成的时间框架内受到影响。
+
+通过点击或将鼠标悬停在一个焦点上，就可以访问该焦点的扩展细节。在这些信息中，有：味道描述、它的要求、旁路条件（如果适用）和预期的完成效果。
+
+
+=== 视觉指标 ===
+* ''托架颜色'' - 玩家可以通过其名称托架的背景颜色一目了然地检查焦点的完成状态。灰色的托架意味着可供挑选，棕色的托架表示尚未获得，金色的托架表示已完成的焦点。正在进行的焦点会有一个闪亮的叠加效果。
+
+* ''连接线'' - 重点是由彩色的线连接的。颜色表示其前面的焦点是否已经完成（绿色）或没有（浅蓝色）。连接也可以显示为实线或虚线，前者表示逻辑上的''AND''，后者表示逻辑上的''OR''。例如，要挑选[[File:Goal_generic_special_forces.png|28px]] [[通用国家焦点树#Special Forces|Special Forces]]需要前面的所有3个焦点，而挑选[[File:Goal_generic_scientific_exchange.png|28px]] [[通用国家重点树#技术共享|技术共享]]只需要前面两个中的一个。
+
+*''相互排斥''--有些重点可能会有{{icon|exclusivem}}'相互排斥'''图标。''互斥''图标出现在它们之间。该图标表示只能选择两个中的一个。此外，根据焦点的外向连接，它也可能排除了与之相连的任何焦点的进一步选择。例如，在[[File:Goal_generic_national_unity.png|28px]]之间选择。[[通用国家焦点树#集体主义伦理|集体主义伦理]]或[[File:Goal_generic_support_democracy.png|28px]]之间选择。[[通用国家焦点树#自由主义道德观|自由主义道德观]]将使对方随后的任何相关焦点都无法拾取，直到[[文件:目标_通用_科学_交流.png|28px]]。[[通用国家焦点树#技术共享|技术共享]] 。(通过''OR''连接到双方)。
+
+===连续聚焦 ===
+[[File:Continuous focus panel.png|300px|thumb|The continuous focus panel.]]。
+{{main|Continuous focus}}连续聚焦
+{{#lst:连续聚焦|分支描述}}连续聚焦面板。
+{{清除}}
+
+==国家焦点树===
+===基础游戏树 ===
+----
+==== <big>Generic tree</big> ====
+[[File:NF tree Generic.jpg|thumbnail|600px|Generic national focus tree.]] 。
+{{main|Generic national focus tree}}所有缺乏独特的国家焦点树的国家。
+所有缺乏独特国家焦点树的国家都使用通用国家焦点树来代替。
+{{#lst:通用国家重点树|branches desc}}}
+
+''注意：''对于在DLC中获得独特焦点树的国家，如果该DLC''没有''启用，通用焦点树也会作为默认树。
+{{清除}}
+====<big>France</big>====
+{{#lsth:France|National focus}}。
+{{扩张|lar}}
+如果{{flag|France}}向{{flag|German Reich}}投降，它将被分为{{flag|Free France}}和{{flag|Vichy France}}，作为{{icon|lar}}的一部分，这两个政权都会得到一个独特的国家焦点树。La Résistance的扩展。在没有扩张的情况下，{{flag|Free France}}保留了[[法国国家焦点树]]，而{{flag|Vichy France}}则使用了[[通用国家焦点树]]。
+===== 自由法国=====
+{{main|Free French national focus tree}}自由法国国家焦点树
+{{#lst:Free French national focus tree|branches desc}}。
+=====Vichy France=====
+{{main|Vichy French national focus tree}}{{#lst:Vichy national focus tree|branches desc}}
+{{#lst:维希法国国家重点树|branches desc}}维希法国国家重点树|branches desc}}。
+{{清除}}
+====<big>Germany</big>====
+{{#lsth:德意志帝国|国家焦点}}{{clear}}德意志帝国的国家焦点
+{{清楚}}
+====<big>Italy</big>====
+{{#lsth:Italy|National focus}}{{clear}}意大利。
+{{清}}
+====<big>Japan</big>====
+{{#lsth:Japan|National focus}}{{clear}}日本。
+{{清}}
+==== <big>Poland</big> ====
+{{#lsth:Poland|National focus}}{{clear}}波兰。
+{{清}}
+====<big>Soviet Union</big>====
+{{#lsth:Soviet Union|National focus}}{{clear}}苏维埃联盟。
+{{清}}
+====<big>United Kingdom</big>====
+{{#lsth:United Kingdom|National focus}}{{清除}}英国。
+{{清}}
+====<big>United States</big>====
+{{#lsth:United States|National focus}}{{clear}}美国。
+{{清}}
+
+
+----
+{{expansion}|tfv}}
+==== <big>Australia</big> ====
+{{#lsth:Australia|National focus}}{{clear}}
+{{清}}
+==== <big>British Raj</big> ====
+{{#lsth:British Raj|National focus}}{{clear}}英联邦国家。
+{{清除}}
+==== <big>Canada</big> ====
+{{#lsth:Canada|National focus}}{清除}}。
+{{清}}
+==== <big>New Zealand</big> ====
+{{#lsth:New Zealand|National focus}}{{clear}}新西兰。
+{{清}}
+==== <big>South Africa</big> ====
+{{#lsth:South Africa|National focus}}{{clear}}.
+{{清晰}}
+
+
+
+
+----
+{{扩展|dod}}}
+==== <big>捷克斯洛伐克</big> ====
+{{#lsth:捷克斯洛伐克|国家重点}}
+{{清}}
+==== <big>Hungary</big> ====
+{{#lsth:Hungary|National focus}}{{clear}}匈牙利
+{{清除}}
+==== <big>Romania</big> ====
+{{#lsth:Romania|National focus}} {{clear}}
+{{明确}}
+==== <big>Yugoslavia</big> ====
+{{#lsth:南斯拉夫|国家重点}}{clear}}.
+{{清除}}
+
+=== 唤醒老虎树 ===
+----
+{{expansion|wtt}}
+==== <big>中国</big> ====
+{{#lsth:中国|国家焦点}}
+{{清除}}
+==== <big>Communist China</big> ====
+{{#lsth:Communist China|National focus}}{清除}}共产主义中国。
+{{清除}}
+==== <big>Manchukuo</big> ====
+{{#lsth:Manchukuo|National focus}} {{clear}}.
+{{清除}}
+==== <big>中国军阀</big> ====
+[[File:NF_tree_Warlords.png|thumbnail|600px|中国军阀国家重点树。]]
+{{main|Warlords国家重点树}}。
+中国军阀（{{flag|Yunnan}}、{{flag|Sinkiang}}、{{flag|Guangxi Clique|Guangxi}}、{{flag|Shanxi}}和{{flag|Xibei San Ma}}）在{{icon|wtt}}Waking the Tiger DLC中共享一个独特的国家焦点树。如果没有这个扩展，军阀们将使用[[通用国家重点树]]来代替。
+{{#lst:军阀的国家重点树|支部描述}}。
+{{清除}}
+
+===人枪合一树 ===
+----
+{{pos(190,8)}}扩展|mtg
+==== <big>Mexico</big> ====
+{{#lsth:Mexico|National focus}}{{清空}}。
+{{清除}}
+==== <big>Netherlands</big> ====
+{{#lsth:Netherlands|National focus}}{{clear}}
+{{清晰}}
+
+===La Résistance trees ===
+----
+{{expansion|lar}}
+==== <big>Portugal</big> ====
+{{#lsth:Portugal|National focus}}}
+{{清除}}
+
+==== <big>西班牙</big> ====
+[[File:NF tree Spain.jpg|thumbnail|600px|Spanish national focus tree.]] 。
+{{flag|Spain}}通过{{icon|lar}}获得了一个独特的国家焦点树。La Résistance扩展，一旦西班牙内战爆发，它将分裂成两个独立的树。如果没有这个扩展，它就会使用[[通用国家焦点树]]来代替。
+===== 民族主义西班牙=====
+{{main|Nationalist Spanish国家重点树}}。
+{{#lst:西班牙民族主义国家焦点树|分支描述}}。
+=====Republican Spain=====
+{{main|Republican Spanish national focus tree}}{{#lst:Republican Spanish national focus tree|branches desc}}共和派西班牙国家重点树。
+{{#lst:Republican Spanish national focus tree|branches desc}}共和党西班牙国家重点树。
+{{清除}}
+
+===博斯普鲁斯树之战 ===
+----
+{{expansion|bftb}}{{expansion|bftb}}。
+==== <big>Bulgaria</big> ====
+{{#lsth:Bulgaria|National focus}}{{清除}}保加利亚
+{{清除}}
+
+==== <big>Greece</big> ====
+{{#lsth:Greece|National focus}}{{clear}}希腊。
+{{清}}
+
+==== <big>Turkey</big> ====
+{{#lsth:Turkey|National focus}}{{clear}}土耳其。
+{{清除}}
+
+{{国家重点导航框}}{{清除}}国家重点导航框
+
+{{机械_导航盒}}。
+
+[[类别:国家焦点树|*]]
+[[类别:游戏概念]]
+
+[[hoi4de:国家焦点]] [[hoi4es:国家焦点]]。
+[[hoi4es:National focus]]。
+[[hoi4fr:National focus]] [[hoi4pl:National focus]]。
+[[Hoi4pl:国家焦点]] [[Hoi4pt:国家焦点
+[[[hoi4pt:国家焦点]] [[[hoi4ru:国家焦点]]]。
+[[[Hoi4ru:国家焦点]] [[[Hoi4ru:国家焦点]]]。
+
+
+
+
+
+
+
