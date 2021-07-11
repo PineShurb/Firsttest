@@ -1,0 +1,232 @@
+{{Version|1.9}}
+[[File:HOI4 Focus Trees.png|thumb|400px|The game map, showing only countries with non-generic focus trees.]]
+
+《钢铁雄心4》中的'''国策树'''（'''National Focus Tree'''）,类似于前作中各种[[决议]]和[[事件]]的集合体，在每个国家未来的走向中扮演了极其重要的角色。
+
+国策树允许玩家和AI来决定自己国家的未来的发展，每个国家都会有这样一个象征着未来走向，且有不同分支的国策树。这些分支有些是模拟真实的历史走向，有些则提供了历史的其他可能性。每项国策侧重点不同，包括政治、外交、战争、经济以及科研。
+
+由于AI的半随机性，保证了将不会出现同样的两局游戏，确保了足够的趣味性。想要体验真实历史的玩家可以在游戏开始前的地图界面选择“'''AI 使用历史国策'''”，但是这并不会限制玩家的国策选取，因此AI的行动仍然可能受到玩家的众大影响，从而无法完全还原真实历史。
+
+在无DLC启用的情况下，只有七个[[国家|主要国家]]以及 {{flag|波兰}}拥有独特的国策树，而通过DLC获得独特国策的国家将会在下表列出。没有独特国策的国家将会使用[[通用国策树]]。
+
+<div class="toclimit-3">__TOC__</div>
+
+
+{| class="toccolours" width=100%
+! 国策树
+|-valign=top
+| 
+<div style="float:left; margin-right: 135px;">
+; {{icon|hoi4}} 基础游戏（无DLC启用时）
+: '''[[通用国策树]]'''
+: {{flag|法国}} 
+: {{flag|德意志国}} 
+: {{flag|意大利}} 
+: {{flag|日本}}
+: {{flag|苏联}} 
+: {{flag|联合王国}} 
+: {{flag|美国}} 
+: {{flag|波兰}} 
+</div><div style="float:left; margin-right: 135px;">
+; {{icon|tfv}} [[共赴胜利]]
+: {{flag|澳大利亚}} 
+: {{flag|英属印度}} 
+: {{flag|加拿大自治领}} 
+: {{flag|新西兰}}
+: {{flag|南非}}
+</div><div style="float:left; margin-right: 135px;">
+; {{icon|dod}} [[玉碎瓦全]]
+: {{flag|捷克斯洛伐克}} 
+: {{flag|匈牙利}} 
+: {{flag|罗马尼亚}} 
+: {{flag|南斯拉夫}} 
+</div><div style="float:left; margin-right: 135px;">
+; {{icon|wtt}} [[唤醒猛虎]]
+: [[#Chinese warlords|军阀]]
+: {{flag|中华民国}}
+: {{flag|中共}} 
+: {{flag|满洲国}} 
+: {{flag|德意志国}} （扩展）
+: {{flag|日本}} （扩展）
+</div><div style="float:left; margin-right: 135px;">
+; {{icon|mtg}} [[炮手就位]]
+: {{flag|墨西哥}} 
+: {{flag|荷兰}} 
+: {{flag|联合王国}} （扩展）
+: {{flag|美国}} （扩展）
+</div><div style="float:left; ">
+; {{icon|lar}} [[抵抗运动]]
+: {{flag|葡萄牙}}
+: {{flag|西班牙}} 
+: {{flag|法国}} （扩展）
+</div>
+
+|}<!-- end of focus trees ToC -->
+
+== 机制总览 ==
+{{SVersion|1.9}}
+[[File:NF tree Generic.jpg|600px|thumbnail|通用国策树有5个不同的分支]]
+
+不同的国策树分支拥有不同的侧重点，帮助玩家达成不同的目标。通常情况下，不同分支的国策树彼此独立，但也会出现不同分支汇集于一点的情况。
+
+每个国家每次只能选取一个国策，并且需要一段时间来完成该国策，通常为 {{icon|time}}70 天（但也有需要 35 天、 210 天的国策）。在完成国策的过程中，每天会消耗 {{icon|Political power}}{{red|1}} 政治点数，也就是说通常情况下，每个国策都会消耗 {{icon|Political power}}{{red|70}} 政治点数。在完成一个国策后，玩家可以不选取下一个国策，此后的时间将会被储存起来（最多 '''10''' 天），在 10 天内选取下一个国策将不会耽误任何时间，会在和原先相同的时刻完成两个国策。
+
+除了每个国策分支的第一项，其他各项国策都需要满足特定的前提条件才能够选取。如果在国策读取过程中不满足前提条件，则该国策可能被暂停或取消。此外，在满足特点前提下，部分国策可以被直接跳过，玩家可以直接选取其后置国策并收到跳过国策提醒，被跳过的国策将会和正常完成的国策一样在国策树中被金框标记出来。例如：在通用国策树中给予摩托化步兵科研加成的国策在摩托化步兵已经研制完成的情况下将会被直接跳过。
+
+在没有 {{icon|mtg}} [[炮手就位]] 情况下，玩家无法取消完成某一国策。同时，如果国策由于前提条件不再满足而被取消，过程中消耗的政治点数'''不会'''返还，因此玩家需要看清楚国策的前提条件，并判断在完成国策的过程中是否会出现影响国策完成的因素。此外，某些国策一旦被选取就无法被手动取消，如苏联国策 ''大清洗'' 等。 
+
+单击每个国策便可以看到其详细信息，包括描述、前提条件、跳过国策条件以及完成效果。
+
+=== 国策树上的标志 ===
+
+*'''边框颜色'''：玩家可以通过国策树上不同国策边框颜色来判断该国策是否被完成。边框为灰色的国策为'''“未完成国策”'''，边框为金色的国策为'''“已完成国策”'''，而边框正在发光的国策为'''“正在进行中的国策”'''。
+
+*'''连接线'''：各项国策由不同颜色的线条连接，其颜色代表了特定项国策的前置国策是否完成，如果完成则为绿色，未完成则为淡蓝色。国策树中也存在虚线和实线，代表了不同的逻辑。实线表示'''“需要完成所有前置国策”'''，即 '''“AND”''' ，而虚线表示'''“完成前置国策其一”''',即 '''“OR”''' 。
+
+*'''互斥国策'''：无法同时选取的国策会被标记为'''“互斥国策”'''，互斥国策之间会出现 {{icon|exclusivem}} 互斥标记。选取某一互斥国策的其中一个也会影响其后续国策的选取，互斥国策通常与[[意识形态]]相关。如在[[通用国策树]]中只能从自由主义思想与集体主义思想中选取一个，并导向不同的意识形态。
+
+=== 持续性国策 ===
+[[File:Continuous focus panel.png|300px|thumb|The continuous focus panel.]]
+{{main|Continuous focus}}
+{{#lst:Continuous focus|branches desc}}
+{{clear}}
+
+== 国策树 ==
+=== 基础游戏国策树 ===
+----
+==== <big>通用国策树</big> ====
+[[File:NF tree Generic.jpg|thumbnail|600px|通用国策树]]
+{{main|Generic national focus tree}}
+没有独特国策树的国家都会使用通用国策树
+{{#lst:Generic national focus tree|branches desc}}
+
+''注：在拥有DLC但未启用的情况下，由DLC提供特殊国策树的国家也将使用通用国策树。''
+
+{{clear}}
+
+====<big>法国</big>====
+{{#lsth:France|国策树}}
+{{expansion|lar}}
+如果{{icon|lar}}[[抵抗运动]]DLC启用时， {{flag|法国}}向 {{flag|德意志国}}投降，其将会分裂为 {{flag|Free France|自由法国}}和 {{flag|维希法国}}，并各自获得独特的国策树。否则， {{flag|Free France|自由法国}}将继续使用[[法国国策树]]，而 {{flag|维希法国}}将使用[[通用国策树]]。
+=====自由法国=====
+{{main|Free French national focus tree}}
+{{#lst:Free French national focus tree|branches desc}}
+=====维希法国=====
+{{main|Vichy French national focus tree}}
+{{#lst:Vichy French national focus tree|branches desc}}
+{{clear}}
+
+====<big>德意志国</big>====
+{{#lsth:German Reich|国策树}}
+{{clear}}
+====<big>意大利</big>====
+{{#lsth:Italy|国策树}}
+{{clear}}
+====<big>日本</big>====
+{{#lsth:Japan|国策树}}
+{{clear}}
+==== <big>波兰</big> ====
+{{#lsth:Poland|国策树}}
+{{clear}}
+====<big>苏联</big>====
+{{#lsth:Soviet Union|国策树}}
+{{clear}}
+====<big>联合王国</big>====
+{{#lsth:United Kingdom|国策树}}
+{{clear}}
+====<big>美国</big>====
+{{#lsth:United States|国策树}}
+{{clear}}
+
+=== 共赴胜利国策树 ===
+----
+{{expansion|tfv}}
+==== <big>澳大利亚</big> ====
+{{#lsth:Australia|国策树}}
+{{clear}}
+==== <big>不列颠属印度</big> ====
+{{#lsth:British Raj|国策树}}
+{{clear}}
+==== <big>加拿大</big> ====
+{{#lsth:Canada|国策树}}
+{{clear}}
+==== <big>新西兰</big> ====
+{{#lsth:New Zealand|国策树}}
+{{clear}}
+==== <big>南非</big> ====
+{{#lsth:South Africa|国策树}}
+{{clear}}
+
+=== 玉碎瓦全国策树 ===
+----
+{{expansion|dod}}
+==== <big>捷克斯洛伐克</big> ====
+{{#lsth:Czechoslovakia|国策树}}
+{{clear}}
+==== <big>匈牙利</big> ====
+{{#lsth:Hungary|国策树}}
+{{clear}}
+==== <big>罗马尼亚</big> ====
+{{#lsth:Romania|国策树}}
+{{clear}}
+==== <big>南斯拉夫</big> ====
+{{#lsth:Yugoslavia|国策树}}
+{{clear}}
+
+=== 唤醒猛虎国策树 ===
+----
+{{expansion|wtt}}
+==== <big>中华民国</big> ====
+{{#lsth:China|国策树}}
+{{clear}}
+==== <big>中共</big> ====
+{{#lsth:Communist China|国策树}}
+{{clear}}
+==== <big>满洲国</big> ====
+{{#lsth:Manchukuo|国策树}}
+{{clear}}
+==== <big>军阀</big> ====
+[[File:NF_tree_Warlords.png|thumbnail|600px|Chinese warlord national focus tree.]]
+{{main|Warlords national focus tree}}
+中国的军阀：{{flag|Yunnan}}， {{flag|Sinkiang}}，{{flag|Guangxi Clique|Guangxi}}， {{flag|Shanxi}}以及 {{flag|Xibei San Ma}}将会在 {{icon|wtt}}[[唤醒猛虎]] DLC中共用一组独特国策树，否则将使用[[通用国策树]]。
+{{#lst:Warlords national focus tree|国策树}}
+{{clear}}
+
+=== 炮手就位国策树 ===
+----
+{{expansion|mtg}}
+==== <big>墨西哥</big> ====
+{{#lsth:Mexico|国策树}}
+{{clear}}
+==== <big>荷兰</big> ====
+{{#lsth:Netherlands|国策树}}
+{{clear}}
+
+=== 抵抗运动国策树 ===
+----
+{{expansion|lar}}
+==== <big>葡萄牙</big> ====
+{{#lsth:Portugal|国策树}}
+{{clear}}
+
+==== <big>西班牙</big> ====
+[[File:NF tree Spain.jpg|thumbnail|600px|Spanish national focus tree.]]
+{{icon|lar}}[[抵抗运动]]DLC启用时，{{flag|Spain}}将会获得独特的国策树，并在内战开始后分为两支，内战的双方将使用该国策的不同分支。如果没有DLC，则使用[[通用国策树]]。
+
+=====西班牙国=====
+{{main|Nationalist Spanish national focus tree}}
+{{#lst:Nationalist Spanish national focus tree|branches desc}}
+=====西班牙共和国=====
+{{main|Republican Spanish national focus tree}}
+{{#lst:Republican Spanish national focus tree|branches desc}}
+{{clear}}
+
+{{National focus navbox}}
+
+{{Mechanics_Navbox}}
+
+[[Category:国策树]]
+[[Category:游戏概念]]
+
+[[en:National focus]]
+[[fr:National focus]]

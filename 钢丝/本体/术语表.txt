@@ -28,7 +28,7 @@ Coordination	协同
 
 {{icon|bfb}}	博斯普鲁斯之战
 抵抗运动
-炮手就位
+{{icon|mtg}}    炮手就位
 唤醒猛虎
 {{icon|dod}		玉碎瓦全
 共赴胜利

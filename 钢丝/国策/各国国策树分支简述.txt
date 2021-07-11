@@ -1,0 +1,49 @@
+法国
+<section begin=branches desc/>
+The French national focus tree can be divided into 5 branches and 7 sub-branches:
+
+;Devalue the Franc Branch
+:This branch offers the possibility to develop [https://en.wikipedia.org/wiki/Metropolitan_France Metropolitan France] and the [https://en.wikipedia.org/wiki/French_colonial_empire overseas colonies], as well as add two more [[research slot]]s. 
+
+;Begin Rearmament Branch
+:This branch focuses either on defensive or offensive expansion of the military. The defensive focuses give army and fortification bonuses while the offensive focuses give army and air bonuses. They end with the shared focus [[File:goal_generic_army_doctrines.png|x22px|link=#Army Reform|alt=Army Reform icon]] Army Reform which removes the starting [[national spirit]] {{iconify|Victors of the Great War}}. 
+
+;Form the Popular Front/Revive the National Bloc Branch
+:This branch develops French industry. The left side of the branch adds factories to various states, completely removes [[File:Generic local self management.png|20px|link=France#Inefficient_Economy|Inefficient Economy]] [[France#Inefficient_Economy|Inefficient Economy]] and leads to the {{icon|communist|1}} sub-branch. The right side of the branch develops construction speed, manipulates party popularity, and leads to the {{icon|fascist|1}} and {{icon|non-aligned|monarchist}} sub-branch. Both sides lead to the historical {{icon|democratic|1}} sub-branch of the focus tree and Intervention in {{flag|Spain}} decisions.
+
+*;Invite Communist Ministers Sub-branch
+:This sub-branch allows France to become {{icon|Communist|1}}, gain manpower and political power. The Reconciliation section gives stability and political power. It leads to the Anti-Fascist coalition section which allies with neighboring or Balkan {{icon|Communist|1}} and {{icon|Democratic|1}} nations and manpower. The Revolution to the Utmost gives war support and a civil war. It leads to the Loyalty to the Cause section which gives war goals against the {{flag|United Kingdom}}, {{flag|Spain}}, {{flag|Germany}} and {{flag|Italy}}. Both the Reconciliation and the Revolution to the Utmost leads to the Loyalty to Moscow section which allows France to join the Comintern. This section and the Anti-Fascist coalition section leads to a focus that gives war goals against all neighboring {{icon|Fascist|1}} nation.
+
+*;Leftist Rhetoric Sub-branch
+:This sub-branch is only available if the {{icon|lar|1}} DLC is not enabled. This allows France to become {{icon|Communist|1}}.
+
+*;The Blum-Viollette Proposal Sub-branch
+:This sub-branch allows France to core Algeria, gain non-core manpower and compliance or lose the national spirit [[File:Generic production bonus.png|20px|link=France#Full_Employment|Full Employment]] [[France#Full_Employment|Full Employment]]. Depending on the choice of the colonies, the French Union focus allows France to annex and core its colonies or increase resistance.
+
+*;Review Foreign Policy Sub-branch
+:This sub-branch allows France to either create the Little Entente with {{flag|Czechoslovakia}}, {{Flag|Yugoslavia}}, {{flag|Romania}} or {{Flag|Poland}}, support {{flag|Finland}} in their war, join the Allies or create the Stresa Front with the {{flag|United Kingdom}} and {{Flag|Italy}}.
+
+*;Utilize the Leagues Sub-branch
+:This sub-branch allows France to become {{icon|Fascist|1}}, gain claims on various nations and make alliances with other European nations. The Latin Entente section allows France to ally with {{Flag|Spain}}, {{Flag|Portugal}} and Italy for French Somaliland, gain claims on {{flag|Greece}} and war goals on {{Flag|Germany}}, {{Flag|Belgium}} and the {{Flag|Netherlands}}. The Towards a New Europe section allows France to join the Axis, gain claims and war goals on {{flag|Belgium}} and {{flag|Canada}}. Both sections lead to war goals claims and subjugation on the Middle East.
+
+*;The Council of Rambouillet Sub-branch
+:This sub-branch restores the French monarchy from either the House of Orléans (Orléaniste), Bourbon (Légitimistes) or Bonaparte (Bonapartiste). The Orléanist section gives war goals against {{flag|Germany}} and {{flag|Italy}}. The Légitimist section gives an alliance, an annexation or wargoal on {{flag|Spain}}. The Bonapartist section gives war goals against {{flag|United Kingdom}}, {{flag|Belgium}}, {{flag|Netherlands}}, {{Flag|Germany}} and the {{flag|Soviet Union}}. It also has a focus to split {{flag|Germany}} into 7-9 different countries.
+
+*;Right Wing Rhetoric Sub-branch
+:This sub-branch is only available if the {{icon|lar|1}} DLC is not enabled. This allows France to become {{icon|Fascist|1}}.
+
+;Naval Rearmament Branch
+:This branch includes focuses which grant [[experience]] and [[research]] bonuses that improve the navy.
+
+;Air Focus Branch
+:This branch includes focuses which grant [[experience]] and [[research]] bonuses that improve the air force.
+<section end=branches desc/>
+
+
+
+
+
+
+
+
+
