@@ -1730,7 +1730,7 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 | data-sort-value="3" | 1.3
 | {{DI|VH}}
 |-
-| {{Iconbox|30 Minutes of Hel|扮演波兰，以1939年"闪电战"剧本开局，使德国伤亡超过1,800,000，以击败2018 PDXCON上的《钢铁雄心4》挑战。三十分钟内达成此成就便可以吹爆自己了！|extension=png}}extension=png}}
+| {{Iconbox|30 Minutes of Hel|扮演波兰，以1939年"闪电战"剧本开局，使德国伤亡超过1,800,000，以击败2018 PDXCON上的《钢铁雄心4》挑战。三十分钟内达成此成就便可以吹爆自己了！|extension=png}}
 |{{icon|yes}} 扮演 {{flag|Poland}}<br/>
 {{icon|time}} 开始时间是 1939.8.3
 |{{icon|yes}} {{flag|Germany|German Reich}} 由 {{flag|Poland}} 造成至少 1.80M 伤亡。
