@@ -220,7 +220,6 @@ __TOC__
 | {{icon|bftb}},
 | data-sort-value="10" | 1.10
 | {{DI|VE}}
-|}
 |-
 | {{Iconbox|Peter’s Pride|令南斯拉夫的彼得二世推翻其叔叔成为国王|extension=png}}
 | {{icon|yes}} 扮演 {{flag|Yugoslavia}} 
@@ -1831,6 +1830,7 @@ The focus "Subjugate the Warlords" gives a fixed 50% chance to puppet each of th
 | {{icon|bfb}}
 | data-sort-value="10" | 1.10
 | {{DI|M}}
+|}
 
 == References ==
 <references />
